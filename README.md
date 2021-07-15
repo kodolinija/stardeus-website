@@ -1,0 +1,2 @@
+# stardeus-website
+stardeusgame.com
