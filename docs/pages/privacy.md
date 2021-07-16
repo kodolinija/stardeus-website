@@ -41,8 +41,7 @@ Reports may include the following information:
 IP address may be collected by JetBrains YouTrack, because it is impossible to make a web request 
 without exposing your IP address, but we do not collect any IP addresses directly.
 
-You can find more about how JetBrains YouTrack handles personal data protection here: 
-https://www.jetbrains.com/help/youtrack/incloud/youtrack-personal-data-protection-gdpr.html
+You can find more about how JetBrains YouTrack handles personal data protection <a href="https://www.jetbrains.com/help/youtrack/incloud/youtrack-personal-data-protection-gdpr.html">here</a>.
 
 ### Why Is Data Collected
 
@@ -57,6 +56,11 @@ More specifically:
 Steam and OS usernames are collected in order to correlate different errors that happened to the same player.
 
 We try to collect as little personally identifiable information as possible. 
+
+### Unity 
+
+Stardeus is made with <a href="https://unity.com/">Unity</a>, which means Unity may be collecting additional data as you play the game.
+Learn more about Unity's privacy policy <a href="https://unity3d.com/legal/privacy-policy">here</a>.
 
 ### Contact
 
