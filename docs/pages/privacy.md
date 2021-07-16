@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy
+permalink: /privacy/
+---
+
 ## Stardeus Privacy Policy
 
 We take your privacy seriously. We will never sell or give away any of your data 
