@@ -1,0 +1,28 @@
+<header>
+  <div class="flexbox">
+    <div class="center-on-mobiles">
+      <h1>
+        <a href="{{ '/' | relative_url }}" class="logo">
+          <span class="sr-only">Jekyll</span>
+          <img src="{{ 'img/stardeus-logo.png' | relative_url }}" width="260" height="65" alt="Stardeus Logo">
+        </a>
+      </h1>
+    </div>
+    <nav class="main-nav hide-on-mobiles">
+      {% include primary-nav-items.html -%}
+    </nav>
+    <!--
+    <div class="search hide-on-mobiles">
+      {% include search/input.html -%}
+    </div>
+    -->
+    <div class="meta hide-on-mobiles">
+      <ul>
+        <li><a href="https://kodolinija.com">Kodo Linija</a></li>
+      </ul>
+    </div>
+  </div>
+  <nav class="mobile-nav show-on-mobiles">
+    {% include mobile-nav-items.html -%}
+  </nav>
+</header>

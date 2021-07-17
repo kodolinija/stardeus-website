@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Privacy
+title: Stardeus Privacy Policy
 permalink: /privacy/
 ---
-
-## Stardeus Privacy Policy
-
 We take your privacy seriously. We will never sell or give away any of your data 
 to third parties, or use your data in any way except for improving Stardeus.
 

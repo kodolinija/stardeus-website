@@ -1,0 +1,15 @@
+#- title: Home
+#  link: /
+#  show_on_mobile: true
+#- title: Wiki
+#  link: /docs/
+#  show_on_mobile: true
+#- title: Resources
+#  link: /resources/
+#  show_on_mobile: true
+#- title: Screenshots
+#  link: /showcase/
+#  show_on_mobile: false
+#- title: News
+#  link: /news/
+#  show_on_mobile: true
