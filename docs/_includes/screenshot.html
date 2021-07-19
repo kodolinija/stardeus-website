@@ -1,0 +1,4 @@
+{% assign u = 'img/screenshots/' | append: include.id %}
+<a href="{{ u | relative_url }}">
+    <img src="{{ u | relative_url }}" alt="{{ include.name }}">
+</a>

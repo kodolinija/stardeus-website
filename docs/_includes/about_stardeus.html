@@ -11,14 +11,27 @@
       </p>
     </div>
 
+    <div class="unit one-third">
+        {% include screenshot.html id='Stardeus0000.jpg' name='Stardeus Cover' %}
+    </div>
+    <div class="unit one-third">
+        {% include screenshot.html id='Stardeus0004.jpg' name='Stardeus Screenshot' %}
+    </div>
+    <div class="unit one-third">
+        {% include screenshot.html id='Stardeus0007.jpg' name='Stardeus Screenshot' %}
+    </div>
+
     <div class="unit whole">
       <h2>Game Systems</h2>
       <p>
           In Stardeus, many different systems are working independently to achieve a deep and complex simulation that produces emergent situations and surprising results. The game architecture allows creating and injecting new systems through mods. 
       </p>
       <p>
-        You can explore <a href="https://kodolinija.github.io/stardeus-graphs/gameplay-3d/">this interactive graph</a> to see what systems are already working in the simulation
+        You can explore <a href="https://kodolinija.github.io/stardeus-graphs/gameplay-3d/">this interactive graph</a> to see what systems are already working in the simulation.
       </p>
+      <a href="https://kodolinija.github.io/stardeus-graphs/gameplay-3d/">
+          <img src="{{ 'img/graph.jpg' | relative_url }}" alt="Stardeus Gameplay Graph">
+      </a>
     </div>
 
     <div class="unit half">
@@ -32,6 +45,8 @@
       <p>
         You can influence your robotic workers by adjusting their job type priorities, but you cannot change the priorities of human colonists, unless they have a brain implant that puts them under your control.
       </p>
+       {% include screenshot.html id='Stardeus0018.jpg' name='Stardeus Screenshot' %}
+
     </div>
 
     <div class="unit half">
@@ -82,6 +97,7 @@ Instead of conveyor belts, the automation pipeline depends on workers hauling ma
         <p>
 While electricity is very important, there are multiple creative ways to produce it. A device called Matter Reactor can burn almost any resource as fuel. In addition to that, you can have renewable energy from solar panels, dig planets for uranium and build nuclear reactors, or turn your human colonists into living batteries by converting the Stasis Array into The Matrix.
       </p>
+        {% include screenshot.html id='Stardeus0012.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -89,6 +105,8 @@ While electricity is very important, there are multiple creative ways to produce
       <p>
           There is an Equilibrium system that simulates oxygen and heat exchange in every single tile of the game map. Each tile has properties like insulation and airtightness that can change in real time (i.e. depending on the size of the gap of an open door while it is opening or closing, or the amount of damage a wall has received). In a default 320x320 map this exchange happens in over 100000 tiles at the same time. It is also quick and efficient, as the simulation runs on the GPU.
     </p>
+
+       {% include screenshot.html id='Stardeus0020.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -103,6 +121,7 @@ While electricity is very important, there are multiple creative ways to produce
         survival meal down through the top grill, and two hours later the device short circuits and bursts into flames. This
         is an example of the AI storyteller at work.
     </p>
+       {% include screenshot.html id='Stardeus0023.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -119,6 +138,7 @@ While electricity is very important, there are multiple creative ways to produce
         <p>
             More threats and ways to mitigate them will be added as the game evolves.
         </p>
+        {% include screenshot.html id='Stardeus0003.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -128,6 +148,7 @@ While electricity is very important, there are multiple creative ways to produce
             attach engines in all directions. The simulation will move your ship in space based on physical properties like
             ship’s weight, engine power and layout.
         </p>
+       {% include screenshot.html id='Stardeus0005.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -139,6 +160,7 @@ You will then find out that there is a black hole in the center of your galaxy, 
 </p><p>
 Don’t want to risk it with wormholes? Invent an FTL drive that will let you hyperjump astronomical distances in a relatively safe but more energy intensive way.
     </p>
+    {% include screenshot.html id='Stardeus0006.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -148,6 +170,7 @@ Don’t want to risk it with wormholes? Invent an FTL drive that will let you hy
           </p><p>
 Currently you control the expeditions by issuing remote commands to the shuttle, but it is possible that in future each expedition could get its own generated map so you could explore the planets you land on, and set up a resource processing outpost or a permanent base.
     </p>
+    {% include screenshot.html id='Stardeus0025.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -168,10 +191,11 @@ Currently you control the expeditions by issuing remote commands to the shuttle,
             The research architecture is highly moddable and easy to expand. The goal is to be able to have hundreds of
             research nodes.
         </p>
+        {% include screenshot.html id='Stardeus0010.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
-        <h2>Suggestion System</h2>
+        <h2>Suggestions System</h2>
         <p>
             Learning to play a complex game like Stardeus could be a little overwhelming, and while the tutorial will give
             you a basic understanding about the most important concepts, you would still need to figure out what to do next.
@@ -190,6 +214,7 @@ Currently you control the expeditions by issuing remote commands to the shuttle,
             click and drag.
     
         </p>
+        {% include screenshot.html id='Stardeus0009.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -197,6 +222,7 @@ Currently you control the expeditions by issuing remote commands to the shuttle,
       <p>
           Perfecting a spaceship design will require planning ahead. You will have all the necessary tools to draw the plans for a perfect ship using rulers, lines, circles, grid helpers, etc.
     </p>
+        {% include screenshot.html id='Stardeus0026.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -206,6 +232,7 @@ Currently you control the expeditions by issuing remote commands to the shuttle,
           </p><p>
 Cleaning Bot has a sole purpose - to make everything clean. There are plans to make add-ons that would allow you to weaponize your cleaning bots. They would still be cleaning, just with a knife or claymore attached on top. That will show those dirty enemies of yours!
     </p>
+       {% include screenshot.html id='Stardeus0019.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit whole">
@@ -264,6 +291,7 @@ Cleaning Bot has a sole purpose - to make everything clean. There are plans to m
         ship, make it operational, establish life support, create a livable ecosystem for human colonists, and eventually
         continue the journey across space to find a new habitable planet. This scenario also contains a tutorial.
         </p>
+        {% include screenshot.html id='Stardeus0014.jpg' name='Stardeus Screenshot' %}
     </div>
     <div class="unit half">
         <h3>Leaving Earth</h3>
@@ -274,6 +302,7 @@ Cleaning Bot has a sole purpose - to make everything clean. There are plans to m
         can design a perfect ship from scratch, but you only have enough materials for a small one. You will explore the
         universe, mine resources from planets and grow your ship to be able to travel increasingly bigger distances.
         </p>
+        {% include screenshot.html id='Stardeus0015.jpg' name='Stardeus Screenshot' %}
     </div>
     <div class="unit half">
         <h3>Random Ship</h3>
@@ -282,6 +311,7 @@ Cleaning Bot has a sole purpose - to make everything clean. There are plans to m
         You will begin with a procedurally generated spaceship that will not be perfect, but should be fully functional. A
         jump start for those who want to focus on exploring the universe as quickly as possible.
         </p>
+        {% include screenshot.html id='Stardeus0016.jpg' name='Stardeus Screenshot' %}
     </div>
     <div class="unit half">
         <h3>Sandbox Mode</h3>
@@ -290,14 +320,28 @@ Cleaning Bot has a sole purpose - to make everything clean. There are plans to m
         a ship of your dreams and populate it with 500 cats to see what happens, this is a mode for you. Here are some
         examples of what playtesters have built.
         </p>
+        {% include screenshot.html id='Stardeus0011.jpg' name='Stardeus Screenshot' %}
+        {% include screenshot.html id='Stardeus0012.jpg' name='Stardeus Screenshot' %}
+
     </div>
 
-    <div class="unit whole">
+    <div class="unit half">
       <h2>Built in Feedback Form</h2>
       <p>
-          We believe that a great game cannot be made without listening to what the players want to tell us. That’s why there is a built-in feedback form that includes your save file, a screenshot, along with your message to the developer. You can press F1 any time to give your feedback and report any issues.
+          A great game cannot be made without listening to what the players have to say. That’s why there is a built-in feedback form that includes your save file, a screenshot, along with your message to the developer. You can press F1 any time to give your feedback and report any issues.
           </p><p>
 This feedback form proved to be extremely useful to reproduce bugs in closed playtesting.
+    </p>
+        {% include screenshot.html id='Stardeus0017.jpg' name='Stardeus Screenshot' %}
+    </div>
+
+    <div class="unit half">
+      <h2>Developed Live on Twitch</h2>
+      <p>
+          Most of the time Stardeus development is happening live at <a href="https://twitch.tv/dev_spajus">twitch.tv/dev_spajus</a>. You are welcome to join! I usually stream on weekdays, EU daytime.
+      </p>
+      <p class="steam-widget">
+          <iframe src="https://player.twitch.tv/?video=1068438771&parent=stardeusgame.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
     </p>
     </div>
 

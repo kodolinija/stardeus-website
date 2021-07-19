@@ -3,16 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property="og:image" content="{{ 'img/stardeus-cover-og.jpg' | relative_url }}"/>
+  <meta name="twitter:image" content="{{ 'img/stardeus-cover-og.jpg' | relative_url }}" />
   {% comment %}
   <!--  feed_meta  -->
   <link type="application/atom+xml" rel="alternate" href="{{ 'feed/news.xml' | relative_url }}" title="Stardeus news posts" />
-  {% endcomment %}
   <link rel="alternate" type="application/atom+xml" title="Recent commits to Jekyll’s master branch" href="{{ site.repository }}/commits/master.atom">
+  {% endcomment %}
   <link rel="preload" href="{{ 'fonts/lato-v14-latin-300.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="{{ 'fonts/lato-v14-latin-700.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="{{ 'css/screen.css' | relative_url }}" as="style">
   <link rel="stylesheet" href="{{ 'css/screen.css' | relative_url }}">
   <link rel="icon" type="image/x-icon" href="{{ 'favicon.ico' | relative_url }}">
+
   {% seo %}
   <!--[if lt IE 9]>
   <script src="/js/html5shiv.min.js"></script>
