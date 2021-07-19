@@ -1,4 +1,4 @@
-#- title: Home
+# - title: Home
 #  link: /
 #  show_on_mobile: true
 #- title: Wiki
@@ -13,3 +13,18 @@
 #- title: News
 #  link: /news/
 #  show_on_mobile: true
+- title: Steam
+  link: https://store.steampowered.com/app/1380910/Stardeus/
+  show_on_mobile: true
+- title: Discord
+  link: https://discordapp.com/invite/89amEwP
+  show_on_mobile: true
+- title: Press Kit
+  link: https://presskit.kodolinija.com/stardeus/
+  show_on_mobile: false
+- title: Reddit
+  link: https://reddit.com/r/stardeus
+  show_on_mobile: true
+- title: Twitter
+  link: https://twitter.com/StardeusGame
+  show_on_mobile: true
