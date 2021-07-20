@@ -268,7 +268,13 @@ footer {
 
 .intro {
 
-  .unit { padding: 10px 0 40px; }
+  .unit { padding: 10px 0 20px; }
+  .first {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    text-transform: uppercase;
+  }
 
   p {
     font-size: 1.75em;
@@ -286,7 +292,7 @@ footer {
 }
 
 @media (min-width: 569px) {
-  .intro p { font-size: 3.2em; }
+  .intro p { font-size: 1.85em; }
 }
 
 /* Quickstart */
