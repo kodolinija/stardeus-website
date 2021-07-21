@@ -89,6 +89,12 @@ The resource processing system was designed to be very simple yet extremely powe
 Instead of conveyor belts, the automation pipeline depends on workers hauling materials from one device to another.
       </p>
     </div>
+    <div class="unit half">
+        {% include screenshot.html id='Stardeus0036.jpg' name='Stardeus Screenshot' %}
+    </div>
+    <div class="unit half">
+        {% include screenshot.html id='Stardeus0037.jpg' name='Stardeus Screenshot' %}
+    </div>
 
     <div class="unit half">
       <h2>Electricity Grid</h2>
@@ -107,10 +113,15 @@ While electricity is very important, there are multiple creative ways to produce
           There is an Equilibrium system that simulates oxygen and heat exchange in every single tile of the game map. Each tile has properties like insulation and airtightness that can change in real time (i.e. depending on the size of the gap of an open door while it is opening or closing, or the amount of damage a wall has received). In a default 320x320 map this exchange happens in over 100000 tiles at the same time. It is also quick and efficient, as the simulation runs on the GPU.
     </p>
 
+    <p>
+       {% include screenshot.html id='Stardeus0038.jpg' name='Stardeus Screenshot' %}
+    </p>
+    <p>
        {% include screenshot.html id='Stardeus0020.jpg' name='Stardeus Screenshot' %}
+    </p>
     </div>
 
-    <div class="unit half">
+    <div class="unit whole">
       <h2>AI Storyteller</h2>
       <p>
           Simply building your base in an idyllic environment could get boring pretty quickly, that’s why the AI storyteller will analyze the state of the simulation and find potential hook points where emergent storytelling can happen. 
@@ -122,7 +133,12 @@ While electricity is very important, there are multiple creative ways to produce
         survival meal down through the top grill, and two hours later the device short circuits and bursts into flames. This
         is an example of the AI storyteller at work.
     </p>
+    </div>
+    <div class="unit half">
        {% include screenshot.html id='Stardeus0023.jpg' name='Stardeus Screenshot' %}
+    </div>
+    <div class="unit half">
+       {% include screenshot.html id='Stardeus0034.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -153,7 +169,7 @@ While electricity is very important, there are multiple creative ways to produce
        {% include screenshot.html id='Stardeus0027.jpg' name='Stardeus Screenshot' %}
     </div>
 
-    <div class="unit half">
+    <div class="unit whole">
       <h2>Massive Universe</h2>
       <p>
 Stardeus has a large procedurally generated universe that has multiple layers. In the beginning of the game you are stuck in a system with a star and several planets, you will have to use Thrusters to propel your ship from one planet to another. As you will gather more resources and unlock better propulsion technology, you will be ready for a longer trip to a nearby system. 
@@ -162,7 +178,12 @@ You will then find out that there is a black hole in the center of your galaxy, 
 </p><p>
 Don’t want to risk it with wormholes? Invent an FTL drive that will let you hyperjump astronomical distances in a relatively safe but more energy intensive way.
     </p>
+    </div>
+    <div class="unit half">
     {% include screenshot.html id='Stardeus0006.jpg' name='Stardeus Screenshot' %}
+    </div>
+    <div class="unit half">
+    {% include screenshot.html id='Stardeus0035.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -238,46 +259,6 @@ Cleaning Bot has a sole purpose - to make everything clean. There are plans to m
     </div>
 
     <div class="unit whole">
-        <h2>Built for Modding</h2>
-        <p>
-            To keep a game like Stardeus alive for years to come, it is essential to have great modding support. This is why
-            highly moddable architecture was a technical design goal from day one. Core content is built as a mod, it uses
-            friendly JSON format to define things, and you can literally add a new in-game object in 10 minutes (if you have
-            the artwork ready).
-        </p>
-        <p>
-    
-            There is an <a href="https://github.com/kodolinija/stardeus-mod-template">official GitHub repository</a> that
-            will include examples of how various aspects of the game can be modded. It includes a Blender file with lighting
-            and camera setup, materials and automation scripts that the developer uses to export the game art from 3D
-            models, so you can build mods that will look indistinguishable from core content.
-        </p>
-        <p>
-    
-            If you are a more advanced modder, you will find Stardeus to be very open for C# code extensions, as it uses
-            self-registering components and systems that can be injected through mod DLL files at runtime without requiring
-            using hacks like Harmony.
-        </p>
-    </div>
-
-    <div class="unit whole">
-        <h2>Procedural Generation Framework</h2>
-        <p>
-            Good procedural generation is difficult to achieve, that’s why I spent a few months of development focused
-            solely on making a modular procedural generation framework that can produce very different, diverse spaceships
-            of all shapes and sizes.
-        </p>
-        <p>
-            The generation framework can be extended through mods and is used to create interesting and well balanced
-            starting environments.
-        </p>
-        <p>
-            This framework will produce derelict ships, fully functional enemy ships, space bases, asteroid surfaces, planet
-            maps.
-        </p>
-    </div>
-
-    <div class="unit whole">
         <h2>Multiple Scenarios</h2>
         <p>
             Stardeus supports multiple scenarios, that with help of scripting and procedural generation techniques can
@@ -346,6 +327,47 @@ Cleaning Bot has a sole purpose - to make everything clean. There are plans to m
     <div class="unit half">
         {% include screenshot.html id='Stardeus0028.jpg' name='Stardeus Screenshot' %}
     </div>
+    <div class="unit whole">
+        <h2>Built for Modding</h2>
+        <p>
+            To keep a game like Stardeus alive for years to come, it is essential to have great modding support. This is why
+            highly moddable architecture was a technical design goal from day one. Core content is built as a mod, it uses
+            friendly JSON format to define things, and you can literally add a new in-game object in 10 minutes (if you have
+            the artwork ready).
+        </p>
+        <p>
+            There is an <a href="https://github.com/kodolinija/stardeus-mod-template">official GitHub repository</a> that
+            will include examples of how various aspects of the game can be modded. It includes a Blender file with lighting
+            and camera setup, materials and automation scripts that the developer uses to export the game art from 3D
+            models, so you can build mods that will look indistinguishable from core content.
+        </p>
+        <p>
+            If you are a more advanced modder, you will find Stardeus to be very open for C# code extensions, as it uses
+            self-registering components and systems that can be injected through mod DLL files at runtime without requiring
+            using hacks like Harmony.
+        </p>
+        <p>
+            Join <a href="https://discord.com/invite/89amEwP">Stardeus Discord</a> and visit #stardeus-modding channel for more information.
+        </p>
+    </div>
+
+    <div class="unit whole">
+        <h2>Procedural Generation Framework</h2>
+        <p>
+            Good procedural generation is difficult to achieve, that’s why I spent a few months of development focused
+            solely on making a modular procedural generation framework that can produce very different, diverse spaceships
+            of all shapes and sizes.
+        </p>
+        <p>
+            The generation framework can be extended through mods and is used to create interesting and well balanced
+            starting environments.
+        </p>
+        <p>
+            This framework will produce derelict ships, fully functional enemy ships, space bases, asteroid surfaces, planet
+            maps.
+        </p>
+    </div>
+
 
     <div class="unit half">
       <h2>Built in Feedback Form</h2>
