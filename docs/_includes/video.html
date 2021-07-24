@@ -1,0 +1,4 @@
+{% assign u = 'img/videos/' | append: include.id %}
+<video draggable="false" playsinline autoplay loop>
+    <source type="video/mp4" src="{{ u | relative_url }}">
+</video>
