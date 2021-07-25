@@ -1,2 +1,3 @@
-# stardeus-website
-stardeusgame.com
+# Stardeus Homepage
+
+[stardeusgame.com](https://stardeusgame.com)
