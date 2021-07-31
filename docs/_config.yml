@@ -8,8 +8,8 @@ timezone: Europe/Vilnius
 twitter:
   username: StardeusGame
 logo: "/img/stardeus-logo.png"
-google_analytics_id: 
-google_site_verification: 
+google_analytics_id: UA-203669382-2
+google_site_verification: google-site-verification=j6oAVRZpFG8wLabJ_KaDDyowkVXhgZ9WtlLLNL2NI-w
 collections:
   docs:
     permalink: "/:collection/:path/"
