@@ -18,9 +18,9 @@ body {
   font-weight: 300;  
   color: #ddd;
   background-image: url(/img/bg-crunched.jpg);
-  background-size: 100%;
+  background-size: cover;
   background-color: rgba(32, 1, 28, 0.747);
-  background-repeat: repeat-y;
+  background-repeat: repeat;
   background-attachment: fixed;
   @include box-shadow(inset 0 3px 30px rgba(0,0,0,.3));
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
