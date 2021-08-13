@@ -22,24 +22,14 @@ collections:
     output: true
 defaults:
 - scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-- scope:
     path: _posts
     type: posts
   values:
     layout: news_item
 - scope:
-    path: _tutorials
-    type: tutorials
-  values:
-    layout: tutorials
-- scope:
     path: ''
   values:
-    image: "/img/something.png"
+    image: "/img/stardeus-cover-og.jpg"
 future: true
 plugins:
 - jekyll-avatar
