@@ -19,6 +19,9 @@
 - title: Kickstarter
   link: https://www.kickstarter.com/projects/neonbedlam/stardeus
   show_on_mobile: true
+- title: GOG
+  link: https://gog.com/game/stardeus
+  show_on_mobile: true
 - title: Discord
   link: https://discord.com/invite/89amEwP
   show_on_mobile: true
