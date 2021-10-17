@@ -31,3 +31,6 @@
 - title: Twitter
   link: https://twitter.com/StardeusGame
   show_on_mobile: true
+- title: Changelog
+  link: /changelog/
+  show_on_mobile: false
