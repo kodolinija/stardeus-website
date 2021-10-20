@@ -4,4 +4,4 @@ title: Stardeus Changelog
 permalink: /changelog/
 ---
 
-{% include Changelog.txt %}
+{% include changelog.txt %}

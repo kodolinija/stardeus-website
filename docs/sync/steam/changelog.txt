@@ -1,8 +1,17 @@
-<b>v0.5.139</b> (2021.10.18)
+<b>v0.5.139</b> (2021.10.20)
 - [Feature] Add Ship Log that tracks your space flight history and shows it in context menus on all space objects
+- [UI/UX] Only log important events to the Event Log
+- [Misc] Change how version check, changelog and news are loaded
+- [Tech] Refactor game engine internals to increase reliability
 - [Bug] Fix F12 no longer saving screenshots
 - [Bug] Fix graphics glitch that showed garbled graphic instead of some icons in thought bubbles
 - [Bug] Fix carried objects still being moved after carrying is over when framerate is slower than simulation speed
+- [Bug] Fix some long menus would not get a scrollbar
+- [Bug] Fix saving a game for the first time and trying to load it right away would say that no saves are available
+- [Bug] Fix pathfinding messing up being navigation with a duplicate path result if target was not navigable
+- [Bug] Fix beings failing to sleep inside sleeping pods
+- [Bug] Fix all upgrades lost upon relocating 
+- [Bug] Add diagnostics for debugging story generation issues
 
 
 <b>v0.5.138</b> (2021.10.15)
