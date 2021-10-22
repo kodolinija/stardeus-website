@@ -1,3 +1,14 @@
+<b>v0.5.140</b> (2021.10.22)
+- [Feature] Add Fun need
+- [Feature] Cats can now ride cleaning bots for fun
+- [Feature] Colonists and robots will be able to pet cats and dogs
+- [Performance] Improve graphics performance especially with large amounts of beings
+- [Bug] Fix several edge case error
+- [Bug] Fix save/load of mining orders filter configuration not working correctly
+- [Bug] Fix some relocation issues
+- [Bug] Fix icons not disappearing when beings were hauled to processing
+
+
 <b>v0.5.139</b> (2021.10.20)
 - [Feature] Add Ship Log that tracks your space flight history and shows it in context menus on all space objects
 - [UI/UX] Only log important events to the Event Log
