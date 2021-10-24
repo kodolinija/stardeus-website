@@ -1,3 +1,12 @@
+<b>v0.5.141</b> (2021.10.24)
+- [Feature] Add Coffee Maker
+- [Feature] Add Coffee 
+- [Feature] Add Coffee Beans
+- [Feature] Add Coffee research tree node
+- [UI/UX] Show processing pipeline information in all object descriptions
+- [UI/UX] Make open research tree shortcut find the best option when there is more than one ship computer
+
+
 <b>v0.5.140</b> (2021.10.22)
 - [Feature] Add Fun need
 - [Feature] Cats can now ride cleaning bots for fun
@@ -22,7 +31,7 @@
 - [Bug] Fix pathfinding messing up being navigation with a duplicate path result if target was not navigable
 - [Bug] Fix beings failing to sleep inside sleeping pods
 - [Bug] Fix all upgrades lost upon relocating 
-- [Bug] Add diagnostics for debugging story generation issues
+- [Bug] Add diagnostics for debugging story generation issue
 
 
 <b>v0.5.138</b> (2021.10.15)
