@@ -1,3 +1,12 @@
+<b>v0.5.142</b> (2021.10.25)
+- [Feature] Add Coffee Tree
+- [Graphics] Set default ambient lighting to medium
+- [Graphics] Make plants look brighter
+- [Graphics] Make most materials look brighter
+- [Graphics] Make planters emit much brighter light 
+- [Performance] Optimize performance with maps that contain hundreds of beings
+
+
 <b>v0.5.141</b> (2021.10.24)
 - [Feature] Add Coffee Maker
 - [Feature] Add Coffee 
