@@ -1,3 +1,12 @@
+<b>v0.5.143</b> (2021.10.27)
+- [Tech] Update Unity to 2021.2.0f1
+- [Tech] Remove material storage components from workers, they will now carry materials in their hands rather than in their pockets
+- [Tech] Update MessagePack libraries to 2.3.85 (save / load serialization system)
+- [Graphics] Drag materials visually when moving them
+- [Balance] Worker can now only move one type of material at a time
+- [Balance] Workers will be able to collect and stacked moved material without stack size limits
+
+
 <b>v0.5.142</b> (2021.10.25)
 - [Feature] Add Coffee Tree
 - [Graphics] Set default ambient lighting to medium
