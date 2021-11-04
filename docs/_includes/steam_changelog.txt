@@ -1,3 +1,13 @@
+<b>v0.5.144</b> (2021.11.04)
+- [Feature] Merge material piles when new material of same type is spawned nearby (experimental)
+- [Feature] Colonists will collect both space suits and casual clothing 
+- [Feature] Colonists will wear casual clothing in livable surroundings and auto-equip suits when going outside
+- [Feature] Create clothing items of different colors (but not random colors as it was before)
+- [Feature] Colonists will have a favorite color, and will try to get clothing of that color
+- [Feature] Pet bowl will not have a choice of what it can be filled with
+- [Tech] Change how food, clothing and upgrades are implemented
+
+
 <b>v0.5.143</b> (2021.10.27)
 - [Tech] Update Unity to 2021.2.0f1
 - [Tech] Remove material storage components from workers, they will now carry materials in their hands rather than in their pockets
