@@ -1,3 +1,19 @@
+<b>v0.5.146</b> (2021.11.07)
+- [UI/UX] Make clicking any material icon show the codex entry for the material
+- [UI/UX] Make some views taller to have less pagination
+- [Bug] A few hotfixes for recently introduced bugs due to refactoring
+- [Bug] Fix crafters not counting inventory correctly
+- [Bug] Fix crafters spawning stacks with random amount of materials instead of 1
+- [Bug] Fix crafters do not merge spawned materials
+- [Bug] Fix being's favorite color not saving / loading
+- [Bug] Fix graphics glitch when relocating multi tile objects on top of themselves with different rotation
+- [Bug] Restore missing mood effects for nudity
+- [Bug] Fix Cabinets not acting as storage for upgrades
+- [Bug] Fix auto haul on storages would trigger hauling of materials that had no compatible storage
+- [Balance] Reduce chance of bullet hitting a friendly being blocking it's path from 66% to 5% 
+- [Balance] Change Communicator construction level requirement to 6 (was 7)
+
+
 <b>v0.5.145</b> (2021.11.06)
 - [Balance] Make merchants generate their cash and inventory according to your wealth
 - [Tech] Downgrade Unity back to 2021.1.x
