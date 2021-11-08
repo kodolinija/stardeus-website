@@ -1,3 +1,9 @@
+<b>v0.5.147</b> (2021.11.08)
+- [Bug] Fix crawler graphics not showing up correctly when attaching to a human
+- [Bug] Fix a copy of the crawler headgear item being dropped when crawler was attaching to a human
+- [Graphics] Add a splash screen and update main menu logo
+
+
 <b>v0.5.146</b> (2021.11.07)
 - [UI/UX] Make clicking any material icon show the codex entry for the material
 - [UI/UX] Make some views taller to have less pagination
