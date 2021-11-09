@@ -1,3 +1,14 @@
+<b>v0.5.148</b> (2021.11.09)
+- [Performance] Rewrite audio system to significantly improve performance with hundreds of devices 
+- [Performance] Hard limit max active player tasks to 4000
+- [Feature] Colonists will now use a bed as a flat surface to put food on if table is not available
+- [Bug] Fix saving arbitrary space travel destination would save incorrect coordinates
+- [Bug] Fix cats and dogs getting mental breakdowns like running around deconstructing random objects
+- [Bug] Fix mental breakdown deconstruct only targeting walls
+- [Bug] Fix Food on device story event not working
+- [Bug] Fix colonists eating off an oxygen pump when a table is available
+
+
 <b>v0.5.147</b> (2021.11.08)
 - [Bug] Fix crawler graphics not showing up correctly when attaching to a human
 - [Bug] Fix a copy of the crawler headgear item being dropped when crawler was attaching to a human
