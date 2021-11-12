@@ -1,3 +1,11 @@
+<b>v0.5.149</b> (2021.11.12)
+- [UI/UX] Redo controller navigation from scratch
+- [UI/UX] Split "Manage Tasks" tool into "Cancel Tasks", "Retry Tasks" and "Change Priority" tools
+- [UI/UX] Split "Haul" tool into "Haul" (to storage) and "Process"
+- [UI/UX] Remove "Free Select" from bottom menu
+- [Bug] Fix more than one cleaning bot docking in the same dock
+
+
 <b>v0.5.148</b> (2021.11.09)
 - [Performance] Rewrite audio system to significantly improve performance with hundreds of devices 
 - [Performance] Hard limit max active player tasks to 4000
