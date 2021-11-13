@@ -1,3 +1,10 @@
+<b>v0.5.151</b> (2021.11.13)
+- [UI/UX] Improve controller support
+- [UI/UX] Automatically resize some menus that would not fit the screen 
+- [UI/UX] Use screen DPI when determining the automatic UI scale
+- [UI/UX] When opening a popup or a menu that does not fit the screen, automatically reposition it
+
+
 <b>v0.5.150</b> (2021.11.12)
 - [UI/UX] Support dynamic controller plug / unplug
 - [Bug] Fix virtual mouse cursor not disappearing on start
