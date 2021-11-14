@@ -1,3 +1,17 @@
+<b>v0.5.152</b> (2021.11.14)
+- [Bug] Fix people prefering to eat off makeshift surfaces rather than a proper table
+- [Bug] Fix people not using a spot near the table if there is a meal left on it
+- [Bug] Fix error when generating merchant's sellable items when they involved colors (i.e. clothing) 
+- [Bug] Fix graphics glitch where colonists would remain leaned forward after eating a meal
+- [Bug] Fix tool menu not getting rebuilt immediately when skipping a tutorial or unlocking the first research
+- [UI/UX] Fix gamepad map zoom inverted on Linux
+- [UI/UX] Fix UI scrolling too slow on Linux by default
+- [UI/UX] Fix UI scrolling inverted on Linux 
+- [Balance] Reduce the chance of leaving unfinished food on a table
+- [Balance] People will not use beds as makeshift eating surfaces anymore
+- [Balance] Have two separate chances for leaving unfinished food on proper tables and makeshift surfaces
+
+
 <b>v0.5.151</b> (2021.11.13)
 - [UI/UX] Improve controller support
 - [UI/UX] Automatically resize some menus that would not fit the screen 
