@@ -1,3 +1,11 @@
+<b>v0.5.153</b> (2021.11.15)
+- [Feature] Colonists will now sometimes drink coffee for recreation or after sleep
+- [Feature] Add double beds (steel and wooden)
+- [Feature] Add pet bed
+- [Balance] Add "Advanced Furniture" research tree branch
+- [UI/UX] Fix controller scroll with triggers not working in UI scroll views
+
+
 <b>v0.5.152</b> (2021.11.14)
 - [Bug] Fix people prefering to eat off makeshift surfaces rather than a proper table
 - [Bug] Fix people not using a spot near the table if there is a meal left on it
