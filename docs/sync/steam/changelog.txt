@@ -1,3 +1,10 @@
+<b>v0.5.154</b> (2021.11.16)
+- [UI/UX] Add radial tool menu (WIP)
+- [UI/UX] Pan camera when controller's cursor is pushing on the screen edge
+- [UI/UX] Bind Gamepad Select button to Research Tree shortcut
+- [Balance] Add Soil, Titanium and Survival Meal to starting conditions of Leaving Earth scenario
+
+
 <b>v0.5.153</b> (2021.11.15)
 - [Feature] Colonists will now sometimes drink coffee for recreation or after sleep
 - [Feature] Add double beds (steel and wooden)
