@@ -1,3 +1,8 @@
+<b>v0.5.155</b> (2021.11.17)
+- [UI/UX] Polish the radial menu
+- [UI/UX] Remove the bottom tree menu
+
+
 <b>v0.5.154</b> (2021.11.16)
 - [UI/UX] Add radial tool menu (WIP)
 - [UI/UX] Pan camera when controller's cursor is pushing on the screen edge
