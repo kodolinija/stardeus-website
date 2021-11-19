@@ -1,3 +1,11 @@
+<b>v0.5.158</b> (2021.11.19)
+- [UI/UX] Add new input rebinding settings
+- [UI/UX] Bind Page Up / Page Down to camera zoom
+- [UI/UX] Bind 4 to ultra fast time speed, 5 to slow time
+- [UI/UX] Change "Start a research" goal to be non-recurring
+- [Graphics] Fix glitch where icons would get messed up when they changed into a sprite with different atlas than previous one (i.e. in particle collectors)
+
+
 <b>v0.5.156</b> (2021.11.18)
 - [UI/UX] Polish the radial menu further
 - [UI/UX] Display input glyphs for all shortcuts and bindings
