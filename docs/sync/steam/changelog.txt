@@ -1,3 +1,13 @@
+<b>v0.5.159</b> (2021.11.20)
+- [Balance] Generate extra devices and objects in Wrecked (Main) scenario
+- [Balance] Generate more Copper Plates in Wrecked scenario
+- [Balance] Add 3 initial difficulty levels (modable)
+- [UI/UX] Close stock market view / expedition view with RMB
+- [UI/UX] Don't show "unconfigured" event notification for the pet bowl
+- [Bug] Fix relocation tool not exiting build mode after relocation order (dupe exploit)
+- [Bug] Fix several small bugs
+
+
 <b>v0.5.158</b> (2021.11.19)
 - [UI/UX] Add new input rebinding settings
 - [UI/UX] Bind Page Up / Page Down to camera zoom
