@@ -1,3 +1,19 @@
+<b>v0.5.161</b> (2021.11.22)
+- [Balance] Reduce passive research storage electricity cost for Challenging difficulty level
+- [AI] Firefighting tasks will ignore being self preservation
+- [AI] Drones will now be self preserving and will avoid engine flames
+- [AI] Pathfinding will fail if safe path was not found (under normal conditions for self preserving beings)
+- [AI] Humans will no longer haul processable items near the door if processor is in unsafe area
+- [UI/UX] Fix gamepad controls not reacting to some buttons when mouse cursor is outside game view
+- [UI/UX] Double right click will exit the radial menu at any level of depth
+- [UI/UX] Brackets and gamepad shoulders will let quickly switch tools
+- [UI/UX] Make radial menu navigable with keyboard alone ([, ], backspace, enter)
+- [Graphics] Increase pulsating light frequencies
+- [Bug] Fix loom not seeing clothing items when they are in the wardrobe (overproducing)
+- [Bug] Fix a couple of rare exceptions
+- [Bug] Fix deactivating a tool when mode was changed would not clear the mode
+
+
 <b>v0.5.160</b> (2021.11.20)
 - [Bug] Fix passive research cost being 10x too high after last change
 - [Bug] Fix tutorial build energy connector getting confused due to existing connectors
