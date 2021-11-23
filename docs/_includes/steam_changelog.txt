@@ -1,3 +1,9 @@
+<b>v0.5.164</b> (2021.11.23)
+- [Graphics] Add visual effects to drones
+- [Bug] Fix beings cutting corners when going through doors, sometimes resulting in humans going into a wall dropping tasks due to lack of oxygen
+- [Tech] Limit simulation updates per second to never exceed frame rate
+
+
 <b>v0.5.163</b> (2021.11.23)
 - [UI/UX] Rebuild radial menu to react to "Instant build" setting changes immediately
 - [Bug] Fix robots refusing to deconstruct walls and floors (self preservation bug)
