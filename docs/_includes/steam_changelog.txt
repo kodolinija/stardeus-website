@@ -1,3 +1,16 @@
+<b>v0.5.162</b> (2021.11.23)
+- [UI/UX] Add "retry task" option to context menu
+- [UI/UX] Show context menu instead of radial when hovering a selectable object with outline
+- [UI/UX] Improve radial menu controller navigation
+- [UI/UX] Add mass "Relocate" option when multi selecting several bodies or objects
+- [Bug] Fix humans failing to navigate through doors
+- [Bug] Fix navigation safety zones not cleared in between A* executions
+- [Bug] Fix shortcuts and radial menu working while in research tree or starmap
+- [Bug] Fix backspace acting as cancel button when inside text input field
+- [Lore] Show days counter instead of specific date 
+- [Balance] Reduce movement speed for all beings
+
+
 <b>v0.5.161</b> (2021.11.22)
 - [Balance] Reduce passive research storage electricity cost for Challenging difficulty level
 - [AI] Firefighting tasks will ignore being self preservation
