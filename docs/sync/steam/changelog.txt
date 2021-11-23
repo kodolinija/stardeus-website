@@ -1,3 +1,10 @@
+<b>v0.5.163</b> (2021.11.23)
+- [UI/UX] Rebuild radial menu to react to "Instant build" setting changes immediately
+- [Bug] Fix robots refusing to deconstruct walls and floors (self preservation bug)
+- [Bug] Fix ESC / RMB not working in any menu panel anymore
+- [Feature] Showers will get dirty and require maintenance
+
+
 <b>v0.5.162</b> (2021.11.23)
 - [UI/UX] Add "retry task" option to context menu
 - [UI/UX] Show context menu instead of radial when hovering a selectable object with outline
