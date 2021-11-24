@@ -1,3 +1,11 @@
+<b>v0.5.166</b> (2021.11.24)
+- [AI] Beings will be able to walk diagonally around devices (but not walls)
+- [Bug] Fix failing to reach food would not cancel food reservation, eventually exhausting all food sources
+- [Graphics] Add particles to Matter Reactor (Mini & regular)
+- [Graphics] Add particles to Heater and Oxygen Pump
+- [Graphics] Add particles to Stasis Array
+
+
 <b>v0.5.165</b> (2021.11.24)
 - [Graphics] Add Robot trails
 - [Graphics] Add Particle Collector visual effects
