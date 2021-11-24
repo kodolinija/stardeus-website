@@ -1,3 +1,11 @@
+<b>v0.5.165</b> (2021.11.24)
+- [Graphics] Add Robot trails
+- [Graphics] Add Particle Collector visual effects
+- [Graphics] Add Charge Station visual effects
+- [Graphics] Add Ship Computer visual effects
+- [Bug] Fix expedition controls not working when save contained being without skills (pets)
+
+
 <b>v0.5.164</b> (2021.11.23)
 - [Graphics] Add visual effects to drones
 - [Bug] Fix beings cutting corners when going through doors, sometimes resulting in humans going into a wall dropping tasks due to lack of oxygen
