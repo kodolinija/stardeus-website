@@ -1,3 +1,11 @@
+<b>v0.5.167</b> (2021.11.25)
+- [Graphics] Add shooting stars / distant moving space objects in the background
+- [Graphics] Add damage particles
+- [Graphics] Add hull oxygen leak particles
+- [Performance] Add options to disable particles and advanced ligthing in Video settings
+- [Bug] Fix "keep open" icon not showing up on doors after load
+
+
 <b>v0.5.166</b> (2021.11.24)
 - [AI] Beings will be able to walk diagonally around devices (but not walls)
 - [Bug] Fix failing to reach food would not cancel food reservation, eventually exhausting all food sources
