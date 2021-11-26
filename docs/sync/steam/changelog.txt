@@ -1,3 +1,24 @@
+<b>v0.5.168</b> (2021.11.26)
+- [UI/UX] ESC will no longer trigger the pause panel or open radial / context menu
+- [UI/UX] Add main menu button near the game time in top right
+- [UI/UX] Don't show unconfigured warnings on unbuilt matter reactors
+- [UI/UX] Electricity connect tool will now be able to connect floor lights even when they are below another object (multi tile or non energy enabled)
+- [UI/UX] RMB will no longer close Starmap, instead it will open a context menu with close option
+- [UI/UX] RMB will no longer close Planning overlay (ESC / clicking overlay icon will)
+- [UI/UX] When zooming, focus on center of the screen if mouse cursor is above UI
+- [Balance] Cleaning bots will take more time to clean dirt
+- [Bug] Fix connect tool hint showing sprite tag instead of tool icon in the text 
+- [Bug] Fix context menu not draggable if you tried to drag by holding a progress slider 
+- [Bug] Fix context menu could still be opened with top part of it above the screen height
+- [Bug] Fix controller triggers not scrolling / zooming 
+- [Bug] Fix ship computer cooldown running too slow
+- [Bug] Fix ship computer cooldown percentage going up to 100% too quickly
+- [Bug] Fix ship engine showing particles when it's not supposed to
+- [Bug] Fix ship engine flames being too wide on one side
+- [Bug] Fix simulation constantly resetting engine heat in open space to 0 
+- [Bug] Humans will no longer start relocating objects if source or target location is unsafe
+
+
 <b>v0.5.167</b> (2021.11.25)
 - [Graphics] Add shooting stars / distant moving space objects in the background
 - [Graphics] Add damage particles
