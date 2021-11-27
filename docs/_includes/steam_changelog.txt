@@ -1,3 +1,13 @@
+<b>v0.5.169</b> (2021.11.27)
+- [Feature] Add Wall Socket (32-8) to organize electricity connections
+- [Feature] Add Floor Socket (32-8) to organize electricity connections
+- [Feature] Remember last expedition shuttle and crew when launching new expeditions
+- [Graphics] Show leaks fvx between wall tiles when oxygen levels are different on both sides
+- [Balance] Allow collecting unknown material types with Particle Collector
+- [UI/UX] Add "copy configuration" button to context menu where applicable
+- [Bug] Fix expedition count not saving / loading properly, limiting some story events
+
+
 <b>v0.5.168</b> (2021.11.26)
 - [UI/UX] ESC will no longer trigger the pause panel or open radial / context menu
 - [UI/UX] Add main menu button near the game time in top right
