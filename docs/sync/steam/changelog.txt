@@ -1,3 +1,15 @@
+<b>v0.5.170</b> (2021.11.28)
+- [Balance] Make reinforced wall resist higher temperature
+- [Balance] Pets will no longer have mental breakdowns
+- [Balance] Increase battery power output to 50 KW, and capacity to 10K
+- [Graphics] Improve door and vent auto rotation algorithm
+- [Graphics] Auto rotate any type of wall object (sockets, etc)
+- [Graphics] Add Dust Storm VFX
+- [UI/UX] Expedition UI will always try to auto fill shuttle and crew 
+- [UI/UX] Open input popups in the center of the screen rather than below the mouse
+- [UI/UX] When expedition crew member fails to reach the shuttle, ask what to do instead of failing the expedition
+
+
 <b>v0.5.169</b> (2021.11.27)
 - [Feature] Add Wall Socket (32-8) to organize electricity connections
 - [Feature] Add Floor Socket (32-8) to organize electricity connections
