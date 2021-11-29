@@ -1,3 +1,9 @@
+<b>v0.5.171</b> (2021.11.29)
+- [Balance] Change how meteors interact with outer shell walls
+- [Performance] Drastically improve particle performance with very large number of particle sources
+- [Performance] Multiple small performance optimizations
+
+
 <b>v0.5.170</b> (2021.11.28)
 - [Balance] Make reinforced wall resist higher temperature
 - [Balance] Pets will no longer have mental breakdowns
