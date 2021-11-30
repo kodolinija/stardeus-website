@@ -1,3 +1,16 @@
+<b>v0.5.172</b> (2021.11.30)
+- [Balance] Improve outer shell wall protection against meteors
+- [Graphics] Display oxygen leak direction in walls, doors and vents
+- [Graphics] Show animated sleeping Z particles
+- [AI] Being will address their urgent needs much more eagerly
+- [Bug] Fix oxygen leak particles not going away after sealing the leak
+- [Bug] Fix stasis wakeup upon request with advanced life support failing to execute
+- [Bug] Fix merchant's stasis pod disappearing until game was resumed if trade was finished while time was paused
+- [Bug] Fix merchant taking double the amount of materials you were selling
+- [Bug] Fix loading another game would mess up particle systems
+- [Bug] Fix tutorial selecting wrong connector
+
+
 <b>v0.5.171</b> (2021.11.29)
 - [Balance] Change how meteors interact with outer shell walls
 - [Performance] Drastically improve particle performance with very large number of particle sources
