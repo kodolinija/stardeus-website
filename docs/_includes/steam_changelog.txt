@@ -1,3 +1,11 @@
+<b>v0.5.173</b> (2021.12.01)
+- [Balance] Make shower hold more dirt
+- [Balance] Add worker max haul size limit to prevent workers from trying to haul excessively large piles in one trip
+- [Graphics] Add more particle systems to a few more devices (Furnace, Cloning Pod, Bridge Controls, Communicator, Auto Kitchen, Emergency Siren, etc)
+- [Bug] Workers would cancel self maintenance task over and over
+- [Bug] Fix shuttle disappearing when expedition was launched while flying away from the target
+
+
 <b>v0.5.172</b> (2021.11.30)
 - [Balance] Improve outer shell wall protection against meteors
 - [Graphics] Display oxygen leak direction in walls, doors and vents
