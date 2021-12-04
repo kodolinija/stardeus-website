@@ -1,3 +1,9 @@
+<b>v0.5.174</b> (2021.12.04)
+- [Graphics] Redo most line based graphic visualization to use particle systems
+- [Feature] Allow changing mirror point in Plan tool
+- [Feature] Circle mode will allow drawing both odd or even circles (depending on drag start point)
+
+
 <b>v0.5.173</b> (2021.12.01)
 - [Balance] Make shower hold more dirt
 - [Balance] Add worker max haul size limit to prevent workers from trying to haul excessively large piles in one trip
