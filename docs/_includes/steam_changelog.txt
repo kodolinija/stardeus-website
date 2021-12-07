@@ -1,3 +1,8 @@
+<b>v0.5.176</b> (2021.12.07)
+- [Graphics] Redo several particle systems to use Visual Effect Graph (GPU particles)
+- [Misc] Remove English translation copy warning
+
+
 <b>v0.5.175</b> (2021.12.06)
 - [Bug] Fix icon hover outline would sometimes get stuck
 - [Bug] Fix object shadows looking too dark
