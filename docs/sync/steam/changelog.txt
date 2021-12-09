@@ -1,3 +1,9 @@
+<b>v0.5.177</b> (2021.12.09)
+- [Graphics] Rework space background to use VFX graph
+- [Graphics] Rework more particle systems to VFX graph
+- [Bug] Fix unbuilt floors not rendering 
+
+
 <b>v0.5.176</b> (2021.12.07)
 - [Graphics] Redo several particle systems to use Visual Effect Graph (GPU particles)
 - [Misc] Remove English translation copy warning
