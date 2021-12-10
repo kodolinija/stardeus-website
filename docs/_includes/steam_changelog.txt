@@ -1,3 +1,7 @@
+<b>v0.5.178</b> (2021.12.10)
+- [Performance] Remove self-illumination from most devices that do not need to emit light (i.e. solar panels, planters)
+
+
 <b>v0.5.177</b> (2021.12.09)
 - [Graphics] Rework space background to use VFX graph
 - [Graphics] Rework more particle systems to VFX graph
