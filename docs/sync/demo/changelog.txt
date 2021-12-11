@@ -1,3 +1,248 @@
+<b>v0.5.179</b> (2021.12.11)
+- [Bug] Fix some saves not loading after saving with corrupted expedition state
+- [Bug] Fix input bindings reset to defaults triggering an error on start
+- [Bug] Fix copy configuration for crafter devices would end up crafting with wrong set of ingredients
+
+
+<b>v0.5.178</b> (2021.12.10)
+- [Performance] Remove self-illumination from most devices that do not need to emit light (i.e. solar panels, planters)
+
+
+<b>v0.5.177</b> (2021.12.09)
+- [Graphics] Rework space background to use VFX graph
+- [Graphics] Rework more particle systems to VFX graph
+- [Bug] Fix unbuilt floors not rendering 
+
+
+<b>v0.5.176</b> (2021.12.07)
+- [Graphics] Redo several particle systems to use Visual Effect Graph (GPU particles)
+- [Misc] Remove English translation copy warning
+
+
+<b>v0.5.175</b> (2021.12.06)
+- [Bug] Fix icon hover outline would sometimes get stuck
+- [Bug] Fix object shadows looking too dark
+
+
+<b>v0.5.174</b> (2021.12.04)
+- [Graphics] Redo most line based graphic visualization to use particle systems
+- [Feature] Allow changing mirror point in Plan tool
+- [Feature] Circle mode will allow drawing both odd or even circles (depending on drag start point)
+
+
+<b>v0.5.173</b> (2021.12.01)
+- [Balance] Make shower hold more dirt
+- [Balance] Add worker max haul size limit to prevent workers from trying to haul excessively large piles in one trip
+- [Graphics] Add more particle systems to a few more devices (Furnace, Cloning Pod, Bridge Controls, Communicator, Auto Kitchen, Emergency Siren, etc)
+- [Bug] Workers would cancel self maintenance task over and over
+- [Bug] Fix shuttle disappearing when expedition was launched while flying away from the target
+
+
+<b>v0.5.172</b> (2021.11.30)
+- [Balance] Improve outer shell wall protection against meteors
+- [Graphics] Display oxygen leak direction in walls, doors and vents
+- [Graphics] Show animated sleeping Z particles
+- [AI] Being will address their urgent needs much more eagerly
+- [Bug] Fix oxygen leak particles not going away after sealing the leak
+- [Bug] Fix stasis wakeup upon request with advanced life support failing to execute
+- [Bug] Fix merchant's stasis pod disappearing until game was resumed if trade was finished while time was paused
+- [Bug] Fix merchant taking double the amount of materials you were selling
+- [Bug] Fix loading another game would mess up particle systems
+- [Bug] Fix tutorial selecting wrong connector
+
+
+<b>v0.5.171</b> (2021.11.29)
+- [Balance] Change how meteors interact with outer shell walls
+- [Performance] Drastically improve particle performance with very large number of particle sources
+- [Performance] Multiple small performance optimizations
+
+
+<b>v0.5.170</b> (2021.11.28)
+- [Balance] Make reinforced wall resist higher temperature
+- [Balance] Pets will no longer have mental breakdowns
+- [Balance] Increase battery power output to 50 KW, and capacity to 10K
+- [Graphics] Improve door and vent auto rotation algorithm
+- [Graphics] Auto rotate any type of wall object (sockets, etc)
+- [Graphics] Add Dust Storm VFX
+- [UI/UX] Expedition UI will always try to auto fill shuttle and crew 
+- [UI/UX] Open input popups in the center of the screen rather than below the mouse
+- [UI/UX] When expedition crew member fails to reach the shuttle, ask what to do instead of failing the expedition
+
+
+<b>v0.5.169</b> (2021.11.27)
+- [Feature] Add Wall Socket (32-8) to organize electricity connections
+- [Feature] Add Floor Socket (32-8) to organize electricity connections
+- [Feature] Remember last expedition shuttle and crew when launching new expeditions
+- [Graphics] Show leaks fvx between wall tiles when oxygen levels are different on both sides
+- [Balance] Allow collecting unknown material types with Particle Collector
+- [UI/UX] Add "copy configuration" button to context menu where applicable
+- [Bug] Fix expedition count not saving / loading properly, limiting some story events
+
+
+<b>v0.5.168</b> (2021.11.26)
+- [UI/UX] ESC will no longer trigger the pause panel or open radial / context menu
+- [UI/UX] Add main menu button near the game time in top right
+- [UI/UX] Don't show unconfigured warnings on unbuilt matter reactors
+- [UI/UX] Electricity connect tool will now be able to connect floor lights even when they are below another object (multi tile or non energy enabled)
+- [UI/UX] RMB will no longer close Starmap, instead it will open a context menu with close option
+- [UI/UX] RMB will no longer close Planning overlay (ESC / clicking overlay icon will)
+- [UI/UX] When zooming, focus on center of the screen if mouse cursor is above UI
+- [Balance] Cleaning bots will take more time to clean dirt
+- [Bug] Fix connect tool hint showing sprite tag instead of tool icon in the text 
+- [Bug] Fix context menu not draggable if you tried to drag by holding a progress slider 
+- [Bug] Fix context menu could still be opened with top part of it above the screen height
+- [Bug] Fix controller triggers not scrolling / zooming 
+- [Bug] Fix ship computer cooldown running too slow
+- [Bug] Fix ship computer cooldown percentage going up to 100% too quickly
+- [Bug] Fix ship engine showing particles when it's not supposed to
+- [Bug] Fix ship engine flames being too wide on one side
+- [Bug] Fix simulation constantly resetting engine heat in open space to 0 
+- [Bug] Humans will no longer start relocating objects if source or target location is unsafe
+
+
+<b>v0.5.167</b> (2021.11.25)
+- [Graphics] Add shooting stars / distant moving space objects in the background
+- [Graphics] Add damage particles
+- [Graphics] Add hull oxygen leak particles
+- [Performance] Add options to disable particles and advanced ligthing in Video settings
+- [Bug] Fix "keep open" icon not showing up on doors after load
+
+
+<b>v0.5.166</b> (2021.11.24)
+- [AI] Beings will be able to walk diagonally around devices (but not walls)
+- [Bug] Fix failing to reach food would not cancel food reservation, eventually exhausting all food sources
+- [Graphics] Add particles to Matter Reactor (Mini & regular)
+- [Graphics] Add particles to Heater and Oxygen Pump
+- [Graphics] Add particles to Stasis Array
+
+
+<b>v0.5.165</b> (2021.11.24)
+- [Graphics] Add Robot trails
+- [Graphics] Add Particle Collector visual effects
+- [Graphics] Add Charge Station visual effects
+- [Graphics] Add Ship Computer visual effects
+- [Bug] Fix expedition controls not working when save contained being without skills (pets)
+
+
+<b>v0.5.164</b> (2021.11.23)
+- [Graphics] Add visual effects to drones
+- [Bug] Fix beings cutting corners when going through doors, sometimes resulting in humans going into a wall dropping tasks due to lack of oxygen
+- [Tech] Limit simulation updates per second to never exceed frame rate
+
+
+<b>v0.5.163</b> (2021.11.23)
+- [UI/UX] Rebuild radial menu to react to "Instant build" setting changes immediately
+- [Bug] Fix robots refusing to deconstruct walls and floors (self preservation bug)
+- [Bug] Fix ESC / RMB not working in any menu panel anymore
+- [Feature] Showers will get dirty and require maintenance
+
+
+<b>v0.5.162</b> (2021.11.23)
+- [UI/UX] Add "retry task" option to context menu
+- [UI/UX] Show context menu instead of radial when hovering a selectable object with outline
+- [UI/UX] Improve radial menu controller navigation
+- [UI/UX] Add mass "Relocate" option when multi selecting several bodies or objects
+- [Bug] Fix humans failing to navigate through doors
+- [Bug] Fix navigation safety zones not cleared in between A* executions
+- [Bug] Fix shortcuts and radial menu working while in research tree or starmap
+- [Bug] Fix backspace acting as cancel button when inside text input field
+- [Lore] Show days counter instead of specific date 
+- [Balance] Reduce movement speed for all beings
+
+
+<b>v0.5.161</b> (2021.11.22)
+- [Balance] Reduce passive research storage electricity cost for Challenging difficulty level
+- [AI] Firefighting tasks will ignore being self preservation
+- [AI] Drones will now be self preserving and will avoid engine flames
+- [AI] Pathfinding will fail if safe path was not found (under normal conditions for self preserving beings)
+- [AI] Humans will no longer haul processable items near the door if processor is in unsafe area
+- [UI/UX] Fix gamepad controls not reacting to some buttons when mouse cursor is outside game view
+- [UI/UX] Double right click will exit the radial menu at any level of depth
+- [UI/UX] Brackets and gamepad shoulders will let quickly switch tools
+- [UI/UX] Make radial menu navigable with keyboard alone ([, ], backspace, enter)
+- [Graphics] Increase pulsating light frequencies
+- [Bug] Fix loom not seeing clothing items when they are in the wardrobe (overproducing)
+- [Bug] Fix a couple of rare exceptions
+- [Bug] Fix deactivating a tool when mode was changed would not clear the mode
+
+
+<b>v0.5.160</b> (2021.11.20)
+- [Bug] Fix passive research cost being 10x too high after last change
+- [Bug] Fix tutorial build energy connector getting confused due to existing connectors
+- [Bug] Fix place tiles tool failing the preview when there is no floor
+
+
+<b>v0.5.159</b> (2021.11.20)
+- [Balance] Generate extra devices and objects in Wrecked (Main) scenario
+- [Balance] Generate more Copper Plates in Wrecked scenario
+- [Balance] Add 3 initial difficulty levels (modable)
+- [UI/UX] Close stock market view / expedition view with RMB
+- [UI/UX] Don't show "unconfigured" event notification for the pet bowl
+- [Bug] Fix relocation tool not exiting build mode after relocation order (dupe exploit)
+- [Bug] Fix several small bugs
+
+
+<b>v0.5.158</b> (2021.11.19)
+- [UI/UX] Add new input rebinding settings
+- [UI/UX] Bind Page Up / Page Down to camera zoom
+- [UI/UX] Bind 4 to ultra fast time speed, 5 to slow time
+- [UI/UX] Change "Start a research" goal to be non-recurring
+- [Graphics] Fix glitch where icons would get messed up when they changed into a sprite with different atlas than previous one (i.e. in particle collectors)
+
+
+<b>v0.5.156</b> (2021.11.18)
+- [UI/UX] Polish the radial menu further
+- [UI/UX] Display input glyphs for all shortcuts and bindings
+- [UI/UX] Remove rebinding UI (currently under reconstruction)
+- [Bug] Fix issues after bottom menu removal
+
+
+<b>v0.5.155</b> (2021.11.17)
+- [UI/UX] Polish the radial menu
+- [UI/UX] Remove the bottom tree menu
+
+
+<b>v0.5.154</b> (2021.11.16)
+- [UI/UX] Add radial tool menu (WIP)
+- [UI/UX] Pan camera when controller's cursor is pushing on the screen edge
+- [UI/UX] Bind Gamepad Select button to Research Tree shortcut
+- [Balance] Add Soil, Titanium and Survival Meal to starting conditions of Leaving Earth scenario
+
+
+<b>v0.5.153</b> (2021.11.15)
+- [Feature] Colonists will now sometimes drink coffee for recreation or after sleep
+- [Feature] Add double beds (steel and wooden)
+- [Feature] Add pet bed
+- [Balance] Add "Advanced Furniture" research tree branch
+- [UI/UX] Fix controller scroll with triggers not working in UI scroll views
+
+
+<b>v0.5.152</b> (2021.11.14)
+- [Bug] Fix people prefering to eat off makeshift surfaces rather than a proper table
+- [Bug] Fix people not using a spot near the table if there is a meal left on it
+- [Bug] Fix error when generating merchant's sellable items when they involved colors (i.e. clothing) 
+- [Bug] Fix graphics glitch where colonists would remain leaned forward after eating a meal
+- [Bug] Fix tool menu not getting rebuilt immediately when skipping a tutorial or unlocking the first research
+- [UI/UX] Fix gamepad map zoom inverted on Linux
+- [UI/UX] Fix UI scrolling too slow on Linux by default
+- [UI/UX] Fix UI scrolling inverted on Linux 
+- [Balance] Reduce the chance of leaving unfinished food on a table
+- [Balance] People will not use beds as makeshift eating surfaces anymore
+- [Balance] Have two separate chances for leaving unfinished food on proper tables and makeshift surfaces
+
+
+<b>v0.5.151</b> (2021.11.13)
+- [UI/UX] Improve controller support
+- [UI/UX] Automatically resize some menus that would not fit the screen 
+- [UI/UX] Use screen DPI when determining the automatic UI scale
+- [UI/UX] When opening a popup or a menu that does not fit the screen, automatically reposition it
+
+
+<b>v0.5.150</b> (2021.11.12)
+- [UI/UX] Support dynamic controller plug / unplug
+- [Bug] Fix virtual mouse cursor not disappearing on start
+
+
 <b>v0.5.149</b> (2021.11.12)
 - [UI/UX] Redo controller navigation from scratch
 - [UI/UX] Split "Manage Tasks" tool into "Cancel Tasks", "Retry Tasks" and "Change Priority" tools
