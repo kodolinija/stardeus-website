@@ -1,3 +1,11 @@
+<b>v0.5.180</b> (2021.12.11)
+- [Graphics] Restore missing visual effect from the beginning of the new scenario
+- [Bug] Fix workspot circle not disappearing after exiting build mode
+- [Bug] Fix behavior of cycle tool next / prev buttons ( [ / ] )
+- [Bug] Fix power grid changes not refreshing the connection view immediately
+- [Bug] Fix dust storm particles not clearing up when loading another game
+
+
 <b>v0.5.179</b> (2021.12.11)
 - [Bug] Fix some saves not loading after saving with corrupted expedition state
 - [Bug] Fix input bindings reset to defaults triggering an error on start
