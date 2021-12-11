@@ -1,3 +1,9 @@
+<b>v0.5.179</b> (2021.12.11)
+- [Bug] Fix some saves not loading after saving with corrupted expedition state
+- [Bug] Fix input bindings reset to defaults triggering an error on start
+- [Bug] Fix copy configuration for crafter devices would end up crafting with wrong set of ingredients
+
+
 <b>v0.5.178</b> (2021.12.10)
 - [Performance] Remove self-illumination from most devices that do not need to emit light (i.e. solar panels, planters)
 
