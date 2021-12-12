@@ -1,3 +1,9 @@
+<b>v0.5.181</b> (2021.12.12)
+- [Graphics] Improve floor rendering at various distances
+- [Performance] Add video setting for choosing space nebula quality
+- [Bug] Fix disabling non essential particles would not show electricity grid
+
+
 <b>v0.5.180</b> (2021.12.11)
 - [Graphics] Restore missing visual effect from the beginning of the new scenario
 - [Bug] Fix workspot circle not disappearing after exiting build mode
