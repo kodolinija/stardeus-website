@@ -1,3 +1,11 @@
+<b>v0.5.183</b> (2021.12.14)
+- [Steam] Enable Steam Cloud synchronization for saves
+- [Bug] Fix workers getting stuck inside objects they build
+- [Bug] Fix beings ignoring a long but safe path when short unsafe one exists
+- [Bug] Fix translations validation showing invalid translations instead of duplicates
+- [UI/UX] Improve language selection with added details about translation quality
+
+
 <b>v0.5.182</b> (2021.12.14)
 - [Modding] Add support for loading mods from "Mods" folder located near save files
 - [Modding] Add initial Steam Workshop integration
