@@ -1,3 +1,11 @@
+<b>v0.5.182</b> (2021.12.14)
+- [Modding] Add support for loading mods from "Mods" folder located near save files
+- [Modding] Add initial Steam Workshop integration
+- [Balance] Introduce Permadeath as default option for new games
+- [Bug] Restore auto save that was missing for a while
+- [Bug] Fix saving right after starting a new game would not show the newly created save until next full game restart
+
+
 <b>v0.5.181</b> (2021.12.12)
 - [Graphics] Improve floor rendering at various distances
 - [Performance] Add video setting for choosing space nebula quality
