@@ -31,6 +31,7 @@ Kodo Linija is not responsible for User Generated Content available through mods
 ### Jurisdication
 
 This agreement is governed exclusively by Lithuania law. The courts of Vilnius, Lithuania, have exclusive jurisdiction over disputes regarding this agreement or the Game.
+<a name="modding-agreement">
 
 ## STARDEUS MOD CREATOR AGREEMENT
 
