@@ -6,15 +6,15 @@ permalink: /eula/
 
 ## END USER LICENCE AGREEMENT 
 
-This is a legal contract between you and MB Kodo Linija ("Kodo Linija") regarding the game titled Stardeus (the "Game"). You will be bound by this contract if you install or use the Game. If you don't agree, then you are not allowed to install or use the Game.
+This is a legal contract between you and MB Kodo Linija ("Kodo Linija") regarding Stardeus (the "Game"). You will be bound by this contract if you install or play the Game. If you don't agree with this contract, then you cannot install or play the Game.
 
 ### License
 
-Kodo Linija grants you a limited, non-exclusive, non-transferable, non-sublicensable licence to install and use the Game on your own computer, only for your own personal purposes. Kodo Linija retains all other rights in connection with the Game and all intellectual property in it.
+Kodo Linija grants you a limited, non-exclusive, non-transferable, non-sublicensable licence to install and play the Game on your own computer, only for your own personal purposes. Kodo Linija retains all other rights the Game and all intellectual property in it.
 
 ### Privacy
 
-We respect your privacy and only collect, use and disclose your personal information as described in our Privacy Policy https://stardeusgame.com/privacy/
+We respect your privacy. Please read the Privacy Policy for more details: https://stardeusgame.com/privacy/
 
 ### Disclaimer
 
@@ -22,7 +22,7 @@ The Game is "as is". Kodo Linija makes no representations, warranties or guarant
 
 ### Limitation of Liability
 
-Kodo Linija will not be liable to you for any indirect, consequential or special damages whatsoever in connection with the Game. 
+Kodo Linija will not be liable to you for any damages whatsoever in connection with the Game. 
 
 ### Mods
 
