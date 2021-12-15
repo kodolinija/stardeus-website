@@ -1,3 +1,9 @@
+<b>v0.5.184</b> (2021.12.15)
+- [Demo] Improve demo end dialog
+- [Bug] Fix changing a language back to English not working
+- [Bug] Fix colonist names getting hidden when they sleep, and not showing afterwards
+
+
 <b>v0.5.183</b> (2021.12.14)
 - [Steam] Enable Steam Cloud synchronization for saves
 - [Bug] Fix workers getting stuck inside objects they build
