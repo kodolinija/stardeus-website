@@ -1,7 +1,10 @@
-<b>v0.5.184</b> (2021.12.15)
+<b>v0.5.184</b> (2021.12.16)
 - [Demo] Improve demo end dialog
+- [Performance] Optimize performance for large maps
 - [Bug] Fix changing a language back to English not working
 - [Bug] Fix colonist names getting hidden when they sleep, and not showing afterwards
+- [Bug] Fix camera jumping after game loses focus and middle mouse click is used to refocus
+- [Bug] Fix missing relocation target link display when objects with pending relocation are selected
 
 
 <b>v0.5.183</b> (2021.12.14)
@@ -47,7 +50,7 @@
 <b>v0.5.177</b> (2021.12.09)
 - [Graphics] Rework space background to use VFX graph
 - [Graphics] Rework more particle systems to VFX graph
-- [Bug] Fix unbuilt floors not rendering 
+- [Bug] Fix unbuilt floors not rendering
 
 
 <b>v0.5.176</b> (2021.12.07)
@@ -100,7 +103,7 @@
 - [Graphics] Improve door and vent auto rotation algorithm
 - [Graphics] Auto rotate any type of wall object (sockets, etc)
 - [Graphics] Add Dust Storm VFX
-- [UI/UX] Expedition UI will always try to auto fill shuttle and crew 
+- [UI/UX] Expedition UI will always try to auto fill shuttle and crew
 - [UI/UX] Open input popups in the center of the screen rather than below the mouse
 - [UI/UX] When expedition crew member fails to reach the shuttle, ask what to do instead of failing the expedition
 
@@ -124,15 +127,15 @@
 - [UI/UX] RMB will no longer close Planning overlay (ESC / clicking overlay icon will)
 - [UI/UX] When zooming, focus on center of the screen if mouse cursor is above UI
 - [Balance] Cleaning bots will take more time to clean dirt
-- [Bug] Fix connect tool hint showing sprite tag instead of tool icon in the text 
-- [Bug] Fix context menu not draggable if you tried to drag by holding a progress slider 
+- [Bug] Fix connect tool hint showing sprite tag instead of tool icon in the text
+- [Bug] Fix context menu not draggable if you tried to drag by holding a progress slider
 - [Bug] Fix context menu could still be opened with top part of it above the screen height
-- [Bug] Fix controller triggers not scrolling / zooming 
+- [Bug] Fix controller triggers not scrolling / zooming
 - [Bug] Fix ship computer cooldown running too slow
 - [Bug] Fix ship computer cooldown percentage going up to 100% too quickly
 - [Bug] Fix ship engine showing particles when it's not supposed to
 - [Bug] Fix ship engine flames being too wide on one side
-- [Bug] Fix simulation constantly resetting engine heat in open space to 0 
+- [Bug] Fix simulation constantly resetting engine heat in open space to 0
 - [Bug] Humans will no longer start relocating objects if source or target location is unsafe
 
 
@@ -182,7 +185,7 @@
 - [Bug] Fix navigation safety zones not cleared in between A* executions
 - [Bug] Fix shortcuts and radial menu working while in research tree or starmap
 - [Bug] Fix backspace acting as cancel button when inside text input field
-- [Lore] Show days counter instead of specific date 
+- [Lore] Show days counter instead of specific date
 - [Balance] Reduce movement speed for all beings
 
 
@@ -256,12 +259,12 @@
 <b>v0.5.152</b> (2021.11.14)
 - [Bug] Fix people prefering to eat off makeshift surfaces rather than a proper table
 - [Bug] Fix people not using a spot near the table if there is a meal left on it
-- [Bug] Fix error when generating merchant's sellable items when they involved colors (i.e. clothing) 
+- [Bug] Fix error when generating merchant's sellable items when they involved colors (i.e. clothing)
 - [Bug] Fix graphics glitch where colonists would remain leaned forward after eating a meal
 - [Bug] Fix tool menu not getting rebuilt immediately when skipping a tutorial or unlocking the first research
 - [UI/UX] Fix gamepad map zoom inverted on Linux
 - [UI/UX] Fix UI scrolling too slow on Linux by default
-- [UI/UX] Fix UI scrolling inverted on Linux 
+- [UI/UX] Fix UI scrolling inverted on Linux
 - [Balance] Reduce the chance of leaving unfinished food on a table
 - [Balance] People will not use beds as makeshift eating surfaces anymore
 - [Balance] Have two separate chances for leaving unfinished food on proper tables and makeshift surfaces
@@ -269,7 +272,7 @@
 
 <b>v0.5.151</b> (2021.11.13)
 - [UI/UX] Improve controller support
-- [UI/UX] Automatically resize some menus that would not fit the screen 
+- [UI/UX] Automatically resize some menus that would not fit the screen
 - [UI/UX] Use screen DPI when determining the automatic UI scale
 - [UI/UX] When opening a popup or a menu that does not fit the screen, automatically reposition it
 
@@ -288,7 +291,7 @@
 
 
 <b>v0.5.148</b> (2021.11.09)
-- [Performance] Rewrite audio system to significantly improve performance with hundreds of devices 
+- [Performance] Rewrite audio system to significantly improve performance with hundreds of devices
 - [Performance] Hard limit max active player tasks to 4000
 - [Feature] Colonists will now use a bed as a flat surface to put food on if table is not available
 - [Bug] Fix saving arbitrary space travel destination would save incorrect coordinates
@@ -316,7 +319,7 @@
 - [Bug] Restore missing mood effects for nudity
 - [Bug] Fix Cabinets not acting as storage for upgrades
 - [Bug] Fix auto haul on storages would trigger hauling of materials that had no compatible storage
-- [Balance] Reduce chance of bullet hitting a friendly being blocking it's path from 66% to 5% 
+- [Balance] Reduce chance of bullet hitting a friendly being blocking it's path from 66% to 5%
 - [Balance] Change Communicator construction level requirement to 6 (was 7)
 
 
@@ -328,7 +331,7 @@
 
 <b>v0.5.144</b> (2021.11.04)
 - [Feature] Merge material piles when new material of same type is spawned nearby (experimental)
-- [Feature] Colonists will collect both space suits and casual clothing 
+- [Feature] Colonists will collect both space suits and casual clothing
 - [Feature] Colonists will wear casual clothing in livable surroundings and auto-equip suits when going outside
 - [Feature] Create clothing items of different colors (but not random colors as it was before)
 - [Feature] Colonists will have a favorite color, and will try to get clothing of that color
@@ -350,13 +353,13 @@
 - [Graphics] Set default ambient lighting to medium
 - [Graphics] Make plants look brighter
 - [Graphics] Make most materials look brighter
-- [Graphics] Make planters emit much brighter light 
+- [Graphics] Make planters emit much brighter light
 - [Performance] Optimize performance with maps that contain hundreds of beings
 
 
 <b>v0.5.141</b> (2021.10.24)
 - [Feature] Add Coffee Maker
-- [Feature] Add Coffee 
+- [Feature] Add Coffee
 - [Feature] Add Coffee Beans
 - [Feature] Add Coffee research tree node
 - [UI/UX] Show processing pipeline information in all object descriptions
@@ -386,7 +389,7 @@
 - [Bug] Fix saving a game for the first time and trying to load it right away would say that no saves are available
 - [Bug] Fix pathfinding messing up being navigation with a duplicate path result if target was not navigable
 - [Bug] Fix beings failing to sleep inside sleeping pods
-- [Bug] Fix all upgrades lost upon relocating 
+- [Bug] Fix all upgrades lost upon relocating
 - [Bug] Add diagnostics for debugging story generation issue
 
 
@@ -486,8 +489,8 @@
 - [Performance] Reduce GPU memory consumption
 - [Performance] Cache sprite atlasses on first load for quicker subsequent loads
 - [Balance] Reduce level up rate for construction skill by 4x
-- [Feature] Add space traffic system 
-- [Feature] Add random merchant shuttles flying towards your ship and offering trades 
+- [Feature] Add space traffic system
+- [Feature] Add random merchant shuttles flying towards your ship and offering trades
 - [Feature] Add teleporter for short range teleportation (used for trade with merchant ships)
 - [Misc] Make space travel acceleration and deceleration tunable
 - [UI/UX] Allow entering custom amount with keyboard when selecting tradable items
@@ -499,7 +502,7 @@
 <b>v0.5.127</b> (2021.09.20)
 - [Feature] Add new story event: Expedition encountered a merchant
 - [Bug] Fix find object story event misleadingly telling success rate as failure rate
-- [Bug] Fix loading a save would get stuck with corrupted item relocation 
+- [Bug] Fix loading a save would get stuck with corrupted item relocation
 - [Misc] Reduce save file size
 - [Performance] Improve game load performance on bigger saves
 
@@ -510,7 +513,7 @@
 - [Balance] Make meteors skip invincible tiles
 - [Balance] Thrusters will require titanium plate
 - [Balance] Make memory modules more expensive and require more of them
-- [Balance] Reduce the amount of oxygen and heat vents can transmit 
+- [Balance] Reduce the amount of oxygen and heat vents can transmit
 - [Balance] Stasis Array will produce much less oxygen and heat
 - [Graphics] Make space background move 20x slower when space traveling
 - [Graphics] Show ship travel direction in starmap
@@ -537,7 +540,7 @@
 - [UI/UX] Polish expeditions UI (toggle it on and off when clicking the event icon, add way to see all expeditions, etc)
 - [Balance] Improve stasis pod targeting to do less damage to the ship
 - [Balance] Shift research tree around - split Robotics into Manufacturing and Robotics
-- [Balance] Robot is now going to be produced in a Fabricator 
+- [Balance] Robot is now going to be produced in a Fabricator
 - [Bug] Fix a bunch of bugs related to expeditions UI rework
 - [Bug] Fix crash while packaging textures on systems with low GPU memory
 - [Bug] Fix "copy configuration" button disappearing from info panel UI after certain actions
@@ -605,7 +608,7 @@
 - [UI/UX] Show different cursor when holding Ctrl or Shift while having one worker selected
 - [Bug] Fix navigation skill not leveling up when beings move
 - [Bug] Fix fluid cannon not extinguishing fires in walls when it was not placed outside
-- [Bug] Fix beings walking through locked doors 
+- [Bug] Fix beings walking through locked doors
 - [Balance] Change how likely some objects catch fire
 - [Feature] Float loose objects while doing space travel
 - [Performance] Add a few performance improvements
@@ -619,7 +622,7 @@
 - [Bug] Fix bullets able to pass through the target without hitting it due to high game speed or low framerate
 - [Bug] Fix dialog button remaining disabled if tutorial is skipped
 - [Bug] Fix relocating Ship Computer would reset accumulated heat
-- [Bug] Fix Fluid Cannon failing to extinguish fire on multitile objects 
+- [Bug] Fix Fluid Cannon failing to extinguish fire on multitile objects
 - [Bug] Fix Fluid Cannon not trying to extinguish fire on walls
 - [Bug] Fix camera panning to bottom left after alt-tab if edge pan is enabled
 - [Bug] Fix Circle and Line tools in Planning overlay misbehaving on click if not dragged
@@ -647,12 +650,12 @@
 - [Balance] Reduce worker discharge rate while relocating objects by 10x
 - [UI/UX] Make popup and dialog buttons inactive while user input is disabled
 - [Graphics] Make storage capsules land closer to the center of the tile, preventing graphics cutting into adjacent objects
-- [Audio] Replace the claxon alert sound 
+- [Audio] Replace the claxon alert sound
 
 
 <b>v0.5.113</b> (2021.09.04)
 - [Bug] Fix loading of saves failing if Starbits miner upgrade was installed (due to currency rename)
-- [Bug] Fix "build a copy" sometimes not working through B shortcut 
+- [Bug] Fix "build a copy" sometimes not working through B shortcut
 - [Bug] Fix several autoreported exceptions happening in rare situations
 - [Bug] Fix ship autopilot overshooting the destination and having trouble to readjust the trajectory when engines were overpowered
 - [UI/UX] Add tooltips to electricity grid details list to explain inclusion and exclusion of batteries where applicable
@@ -736,7 +739,7 @@
 - [Bug] Fix plants not restoring health after being harvested
 - [Bug] Fix empty stasis array would not get deconstructed
 - [Bug] Fix Asimov's laws still being checked after Asimov Override is installed
-- [Bug] Fix destroyed meteors remained registered as a threat 
+- [Bug] Fix destroyed meteors remained registered as a threat
 - [Bug] Fix space suit effects ignored for freshly spawned humans until game is saved / loaded
 - [Bug] Fix a flying copy of a landed shuttle could appear when game was saved / loaded right after the landing
 - [Balance] Show the suggestion to reach the stasis array right after the tutorial ends
@@ -784,20 +787,20 @@
 
 <b>v0.5.102</b> (2021.08.24)
 - [Feature] Add Cabinet for storing various items (i.e. upgrade modules)
-- [Feature] Add Upgrade system 
+- [Feature] Add Upgrade system
 - [Feature] Make Wood burnable in Furnace to produce Coal
 - [Feature] Add Reactor Efficiency Upgrade module
 - [Feature] Add Asimov Override Upgrade (discoverable in expeditions)
 - [Feature] Hide The Matrix research branch until Asimov Override is installed
 - [Misc] Add initial version of French translation (thanks to Shadow Office)
-- [UI/UX] Reduce the amount of dialogs and confirmations needed to handle an ongoing expedition 
+- [UI/UX] Reduce the amount of dialogs and confirmations needed to handle an ongoing expedition
 - [Balance] Increase chance of finding coal on habitable planets
-- [Balance] Increase power output for most materials 
+- [Balance] Increase power output for most materials
 - [Balance] Reducing mining skill level up rate
 - [Balance] Reduce chance to pick up a crawler during an expedition
-- [Bug] Fix equipped damaged items leave stray health bars 
+- [Bug] Fix equipped damaged items leave stray health bars
 - [Bug] Fix expedition pick up crawler event failing to load in case sensitive file systems
-- [Bug] Fix items with light sources emitting light when item is hidden 
+- [Bug] Fix items with light sources emitting light when item is hidden
 
 
 <b>v0.5.101</b> (2021.08.22)
@@ -823,7 +826,7 @@
 <b>v0.5.99</b> (2021.08.20)
 - [Bug] Fix pets not sleeping inside sleeping pods
 - [Bug] Fix pets not able to eat twice from the same pet bowl
-- [Bug] Fix pets not able to sleep 
+- [Bug] Fix pets not able to sleep
 - [Bug] Fix big objects not possible to repair if their bottom-left tile was not reachable
 - [Bug] Fix camera jumping to bottom-left after alt-tabbing out of the game if Edge Pan is enabled and Run In Background is disabled
 - [Bug] Fix Copy Configuration not working properly with door keep open / auto close
@@ -838,7 +841,7 @@
 
 <b>v0.5.98</b> (2021.08.19)
 - [UI/UX] Rebind overlay keys from digits to F1-F10
-- [UI/UX] Bind time speed controls to digit 1 2 3 keys 
+- [UI/UX] Bind time speed controls to digit 1 2 3 keys
 - [UI/UX] Remove "Faster" and "Slower" time controls
 - [UI/UX] Remove "Slow" time speed button
 - [UI/UX] Change default key binding for Energy Connect tool to E
@@ -929,7 +932,7 @@
 - [Bug] Fix loading spawn crawlers on shuttle land story event failing due to missing default constructor
 - [Bug] Fix deleting a save in main menu would lock out all other saves until restart
 - [Bug] Fix camera panning to bottom left when application loses focus with edge pan enabled
-- [Bug] Fix VSync setting not being saved 
+- [Bug] Fix VSync setting not being saved
 
 
 <b>v0.5.91</b> (2021.08.10)
@@ -985,7 +988,7 @@
 - [Tech] Add situational awareness tracking to examine current game state
 - [Tech] Refactor storyteller events to use situational awareness
 - [Tech] Refactor mental breakdowns to be pure story events
-- [Bug] Ensure that story events will not repeat 
+- [Bug] Ensure that story events will not repeat
 - [Bug] Fix bullets flying through walls at high game speed or lower frame rate
 - [Bug] Fix Expedition crew members taking heat damage when shuttle landing pad area is burning
 - [Bug] Fix beings and objects sometimes getting stuck inside big structures
@@ -1017,7 +1020,7 @@
 - [Bug] Fix space suit not applying effective temperature correctly
 - [Bug] Fix removing an equipped item would not restore it properly
 - [Bug] Fix possibility of crawler attaching to a dead colonist
-- [UI/UX] Add "Periodic Auto Save" setting 
+- [UI/UX] Add "Periodic Auto Save" setting
 - [UI/UX] Add "Auto Save on Exit" setting
 - [UI/UX] Add a hint about managing event notifications when time is not stopped
 - [Tech] Add compression to save files
@@ -1026,7 +1029,7 @@
 
 <b>v0.5.86</b> (2021.07.31)
 - [Balance] Remove all Rock material requirements for device construction
-- [Balance] Tune some construction requirements 
+- [Balance] Tune some construction requirements
 - [Balance] Generate more iron and copper on planets
 - [Balance] Make Space Shuttle storage bigger (150)
 - [Balance] Double the amount of planets in every star system
@@ -1042,13 +1045,13 @@
 - [Bug] Fix Crawlers bringing meals to the table and eating like gentlemen
 - [Bug] Fix Humans searching for clothing while having a mental breakdown
 - [Bug] Fix hull integrity not recalculating properly for damaged tiles after load
-- [Bug] Fix some story events not popping up a dialogue 
+- [Bug] Fix some story events not popping up a dialogue
 - [Bug] Fix Fast Metabolism and Always Hungry traits generating on the same being
 - [Bug] Fix attached crawler location not synchronizing with host location correctly
 - [Bug] Fix humans using planters when a proper toilet is available
 - [UI/UX] Add "Auto Clean" toggler for cleanable devices
 - [Feature] Allow travel to arbitrary locations on starmap
-- [Feature] Add Story Event: Humans who had crawler attached die and hatch new crawlers 
+- [Feature] Add Story Event: Humans who had crawler attached die and hatch new crawlers
 - [Feature] Kill the crawler parasite when it's host human dies
 
 
@@ -1074,7 +1077,7 @@
 
 <b>v0.5.83</b> (2021.07.25)
 - [UI/UX] Remove load game options from in-game menu
-- [UI/UX] Allow loading same game when in-game 
+- [UI/UX] Allow loading same game when in-game
 - [Bug] Fix connectors not auto-creating properly on drag in Sandbox mode
 - [Graphics] Improve lighting
 - [Feature] Add Space Suit
@@ -1090,7 +1093,7 @@
 - [UI/UX] Fix mouse tooltips showing behind dropdown options
 - [Graphics] Fix gaps between floor tiles appearing when you zoom out
 - [Bug] Fix build tool Ctrl+Alt deletion mode not working without dragging a rectangle
-- [Bug] Fix various build tool modes (circle, line) not ordering debris cleanup 
+- [Bug] Fix various build tool modes (circle, line) not ordering debris cleanup
 - [Bug] Fix ambient lighting not reacting to lights correctly after multiple games were loaded / started
 - [Bug] Fix hints not being reset when starting a new game after playing another one
 - [Misc] Move Twitch integration away from core game into a mod (broken at this point)
@@ -1105,7 +1108,7 @@
 - [Graphics] Change the default ambient light setting to Immersive Dim
 - [UI/UX] Show the names of compatible devices when warning about missing processors
 - [UI/UX] Show scenario and playtime in main menu load list below the save name
-- [Balance] Change the Particle Collector energy cost formula to prevent infinite Uranium 
+- [Balance] Change the Particle Collector energy cost formula to prevent infinite Uranium
 - [Bug] Fix destroyed stasis pod still spawning a crew through a delayed event
 - [Bug] Fix copy configuration tool not forgetting the first copied device after exiting the tool
 - [Bug] Fix chaining multiple energy connectors would sometimes result in an invisible connection link
@@ -1131,17 +1134,17 @@
 - [UI/UX] Change Rotate key binding from Z to R (rotate)
 - [UI/UX] Change Copy/Paste tool key binding from P to G (grab)
 - [UI/UX] Change Tasks tool key binding from T to J (jobs)
-- [UI/UX] Change Repair key binding from G to Z 
+- [UI/UX] Change Repair key binding from G to Z
 - [UI/UX] Make notification popups wider, flash when showing them
 - [Bug] Make "Ensure CPU Ventilation" suggestion properly detect temperature changes
 - [Misc] Add auto reporting option and consent popup on startup
 
 
 <b>v0.5.78</b> (2021.07.12)
-- [Bug] Fix trying to enqueue mass deconstruction validates rectangle size rather than actual deconstruction task count 
+- [Bug] Fix trying to enqueue mass deconstruction validates rectangle size rather than actual deconstruction task count
 - [Bug] Fix copy configuration allowing copying incorrect materials from matter reactor to nuclear reactor
 - [Bug] Fix disconnecting two connectors would not rebuild the grid properly (after recent optimization)
-- [Bug] Fix workers sometimes collecting too many raw materials during construction 
+- [Bug] Fix workers sometimes collecting too many raw materials during construction
 - [Bug] Fix workers not hiding thought bubble after maintenance
 - [Bug] Fix Charge / Repair stations not stopping Charge / Repair if task was dropped due to taken damage
 - [UI/UX] Add hints about line, circle, pencil, fill and delete modes in build tool
@@ -1152,9 +1155,9 @@
 <b>v0.5.77</b> (2021.07.11)
 - [UI/UX] Hide the bottom menu when entering starmap or research tree
 - [Graphics] Add explosion flash effect when stasis pod destroys an object upon landing
-- [Performance] Optimize rendering 
+- [Performance] Optimize rendering
 - [Performance] Optimize save load time
-- [Bug] Fix workers not filling up their storage fully when gathering materials 
+- [Bug] Fix workers not filling up their storage fully when gathering materials
 - [Bug] Fix F5 not working
 
 
@@ -1251,7 +1254,7 @@
 - Fix removed objects (like Storage Capsule) would prevent construction on their past locations
 - Fix edge pan not working when mouse pointer is touching the edge
 - Reduce edge pan delay
-- Make edge pan delay and acceleration tunable 
+- Make edge pan delay and acceleration tunable
 - Fix storage capsule often missing the ship
 - Add Screen Shake and Space Background Animation options to Video Settings
 - Fix deconstructing a processor would not re-register materials ejected from the queue to the inventory system
@@ -1331,7 +1334,7 @@
 <b>v0.5.61</b> (2021.06.20)
 - Make repair station part of Technology research
 - Improve in-game console up/down arrow navigation
-- Improve timelapse 
+- Improve timelapse
 - Add console command to override tunables on the fly
 - Reduce bottom menu icon sizes
 - Fix electricity grid not rebuilding when manipulating connections with stopped time
@@ -1401,7 +1404,7 @@
 - Fix Template mod being enabled while it says it's disabled in mods list
 - Fix construction failing if work site was obstructed before there was a storage unit
 - Fix Stasis Array can be switched off
-- Make workers move materials aside even if there is no storage 
+- Make workers move materials aside even if there is no storage
 
 
 <b>v0.5.55</b> (2021.06.12)
@@ -1423,7 +1426,7 @@
 
 <b>v0.5.53</b> (2021.06.10)
 - Make Grinder and other auto processors take processable materials from storages
-- Fix humans stepping outside the door into unsafe conditions 
+- Fix humans stepping outside the door into unsafe conditions
 - Fix Pathfinding overlay not appearing
 - Fix airlocks not updating hull integrity after being loaded with object stuck inside
 - Fix humans occasionally dropping tasks because of unsafe conditions inside a doorway
@@ -1455,7 +1458,7 @@
 
 
 <b>v0.5.50</b> (2021.06.08)
-- Make configurable processors (i.e Furnace) process materials directly from storages 
+- Make configurable processors (i.e Furnace) process materials directly from storages
 - Remake the bottom tree menu to sit in the middle of the screen
 
 
@@ -1473,7 +1476,7 @@
 - Fix resources failing to load in mac builds
 - Fix Quick Search navigation not going backwards properly
 - Clicking an unconstructed object in build mode will cancel the construction
-- Selecting an object and pressing B (build tool shortcut) will enter build mode with selected object blueprint (if researched) 
+- Selecting an object and pressing B (build tool shortcut) will enter build mode with selected object blueprint (if researched)
 - Allow ordering construction of objects on top of material debris without waiting for it to get cleaned
 
 
@@ -1501,10 +1504,10 @@
 
 <b>v0.5.45</b> (2021.06.03)
 - Fix autosave not working properly
-- Reduce passive research storage electricity cost to 10% 
+- Reduce passive research storage electricity cost to 10%
 - Fix sprite scale not working in being looks
 - Make robots bigger
-- Start working on pets 
+- Start working on pets
 - Add cat (WIP)
 - Make cat spawn with 10% chance from stasis arrays
 - Add option to make pets invincible
@@ -1534,7 +1537,7 @@
 
 <b>v0.5.42</b> (2021.05.31)
 - Do not notify about fire if it dies down too quickly
-- Automatically construct and connect a connector when releasing an energy connection link on a floor 
+- Automatically construct and connect a connector when releasing an energy connection link on a floor
 - Fix shuttle overshooting a planet from time to time
 - Add Microchip
 - Require Microchips to build certain things
@@ -1574,7 +1577,7 @@
 - Fix all cleaning bots going for the same spot at once
 - Fix "crawler attached to colonist" mental breakdown being dealt for non-crawler prey
 - Fix fire not damaging the wall and not spreading if only a wall tile is on fire
-- Put Loom in Weaving research node, and require Weaving for Clothing 
+- Put Loom in Weaving research node, and require Weaving for Clothing
 - Keep tool menu permanently expanded
 - Rearrange bottom left menu options
 
@@ -1592,12 +1595,12 @@
 
 <b>v0.5.37</b> (2021.05.27)
 - Add multiple performance optimizations
-- Fix cancelling wall replacement leaving progress bar and sparks 
+- Fix cancelling wall replacement leaving progress bar and sparks
 - Refactor how game plumbing is handling saves and loads
 - Fix ambience not stopping after device gets disconnected
 - Fix shower not showing if it's occupied
 - Fix shower, toilet, beds, etc not updating UI correctly
-- Make materials ejectable from all storages 
+- Make materials ejectable from all storages
 - Fix unbuilt shuttle could be selected for an expedition
 - Fix planters configurable while not connected
 - Fix planters not showing unconfigured warning right after being constructed
@@ -1635,12 +1638,12 @@
 - Fix haul to storage tool failing to work with beings and other non reservable entities
 - Check for Asimov's First Law violation when trying to process human beings
 - Fix plants being harvestable even at seed stage
-- Fix non harvested plants being processable 
+- Fix non harvested plants being processable
 
 
 <b>v0.5.33</b> (2021.05.21)
 - Do not show dead and immobilized beings as potential expedition members
-- Do not allow selecting crawlers and cleaning bots as expedition crew 
+- Do not allow selecting crawlers and cleaning bots as expedition crew
 - Update checkered lit floor graphic to look more pleasant
 - Fix planning view not updating if clock is stopped
 - Show food and clothing items next to raw materials in inventory overlay
@@ -1700,7 +1703,7 @@
 - Fix glass floor shader
 - Add Windows (regular and reinforced versions)
 - Add ML Booth for training worker skills
-- Fix research tree showing blurry fonts after being closed while zoomed out 
+- Fix research tree showing blurry fonts after being closed while zoomed out
 - Create Mods section in Main Menu
 - Allow toggling mods on and off
 - Fix crash on pasting component config
@@ -1722,7 +1725,7 @@
 - Make Ship Computer and Stasis Array rotatable
 - Handle event notification icon hover for entities that are no longer available
 - Fix AI actions failing without a parent task hiding worker thought bubbles
-- Fix AI tasks attached to moving entities (beings, hauled objects) not synchronizing task location 
+- Fix AI tasks attached to moving entities (beings, hauled objects) not synchronizing task location
 - Add "Build A Copy" to Ship Computer context menu
 - Fix Emergency Siren failing to trigger sound on right after load
 - Fix error when trying to cancel storable item (clothing) haul to storage task
@@ -1802,7 +1805,7 @@
 - Fix colonist equipment not restored properly after loading a save
 - Fix cleaning bots still attempting to clean a dirty spot that was already cleaned by someone else
 - Sanitize save file names to remove illegal path characters
-- Trim hex color code string before parsing it when it's pasted into a light source component UI 
+- Trim hex color code string before parsing it when it's pasted into a light source component UI
 - Fix exception in Demo Mode where it was unable to find a next target
 - Fix ship computer exploding when construction is cancelled or when it is removed in sandbox mode
 - Fix game over getting triggered when removing last Ship Computer instance in sandbox mode
@@ -1820,7 +1823,7 @@
 - Fix intergalactic space flight happening 100 times faster than it should
 
 
-<b>v0.5.19</b> (2021.05.07) 
+<b>v0.5.19</b> (2021.05.07)
 - Fix vents spreading oxygen / heat too quickly
 - Fix dirt leaking from one save to another
 - Limit fire spread too quickly through vents
@@ -1851,7 +1854,7 @@
 - Prevent scrolling and zooming at the same time in research tree and starmap
 - Fix obsolete Printer device trying to be created in random ship
 - Fix refilling reactors with more than worker can carry ending up destroying materials
- 
+
 
 <b>v0.5.17</b> (2021.05.06)
 - Start building graphs at https://kodolinija.github.io/stardeus-graphs/
@@ -1888,7 +1891,7 @@
 - Show tooltips above truncated ui data block titles
 - Fix traits not being loaded correctly
 - Fix item storage fill bar not refreshing after load until device is selected
-- Fix need modifier traits preventing some needs from ever dropping or getting fulfilled 
+- Fix need modifier traits preventing some needs from ever dropping or getting fulfilled
 - Add initial implementation of turret firing bullets
 
 
@@ -1931,11 +1934,11 @@
 - Show more information about failed or rejected tasks
 - Make humans equip hats at will
 - Fix tall objects near walls catching light incorrectly
-- Refactor food to be a generic storable item 
+- Refactor food to be a generic storable item
 - Refactor Fridge to be a generic storage component
 - Add Steel Wardrobe furniture item
 - Workers will haul unused clothing items to wardrobes
- 
+
 
 <b>v0.5.9</b> (2021.04.25)
 - Fix research widget not refreshing when research is finished while widget is open
@@ -1952,7 +1955,7 @@
 - Rename "Remove" tool to "Deconstruct"
 - Prevent a situation where an object can end up being built without a floor beneath it
 - Fix ore mining expedition event ending up in a loop when shuttle storage is full
-- Auto fix door rotation if it is incorrect when loading a save 
+- Auto fix door rotation if it is incorrect when loading a save
 - Make story events more frequent
 - Make stasis wake up events more frequent
 
@@ -1999,9 +2002,9 @@
 - Turn Stasis Array into an electrical device
 - Encourage the player to connect to Stasis Array early in game
 - Build tool will show green tiles where current object can be placed
-- Implement fridge as food storage unit 
+- Implement fridge as food storage unit
 - Accumulate biowaste when Toilet is used
-- Implement toilet cleaning 
+- Implement toilet cleaning
 - Add Cloning Pods
 - Heal injured humans when they are sleeping in a bed with satisfied hunger need
 - Humans will seek and equip available clothing items
@@ -2013,7 +2016,7 @@
 <b>v0.5.5</b> (2021.04.14)
 - Add maintenance need for robots and drones
 - Add Repair Station to fix damaged robots and do their maintenance
-- Add Haul to Storage tool 
+- Add Haul to Storage tool
 - Fix task management tool not working properly with non-tile based tasks
 - Add Loom device
 - Separate Thought Bubble and regular Icon to make them displayable at the same time
@@ -2097,7 +2100,7 @@
 
 
 <b>v0.4.6</b> (2021.03.07)
-- Fix pulsating light source pulse working incorrectly 
+- Fix pulsating light source pulse working incorrectly
 - Fix video settings not showing current resolution properly
 - Set "run in background" setting to false by default
 - Fix electricity glitch where battery would show both production and consumption at the same time
@@ -2117,7 +2120,7 @@
 <b>v0.4.4</b> (2021.03.04)
 - Get rid of long press buttons where possible
 - Prevent clearing notifications while in tutorial
-- Create dialogue queue instead of replacing dialogs 
+- Create dialogue queue instead of replacing dialogs
 - Redo tutorial to work with new dialog queue mechanic
 - Improve graphics at further zoom levels
 - Fix some tooltips getting stuck when mouse moves over a dialog or UI element
@@ -2129,7 +2132,7 @@
 
 <b>v0.4.3</b> (2021.03.02)
 - Fix ship generation getting stuck in a loop if starting area failed to generate in first attempt
-- Fix objects not being cleaned up in between ship regeneration attempts 
+- Fix objects not being cleaned up in between ship regeneration attempts
 - Fix objects destroyed during generation cleanup still showing info icons
 - Fix Unity crash when error reporting was triggered not in main thread
 
@@ -2142,7 +2145,7 @@
 - Add Furnace for smelting ores into alloys
 - Fix trying to open Starmap overlay messing up the tutorial
 - Fix Engine sounds playing after load while engine is off
-- Fix game being unplayable on Mac 
+- Fix game being unplayable on Mac
 
 
 <b>v0.4.1</b> (2021.02.25)
@@ -2192,7 +2195,7 @@
 - Add new event notification type that will contain an extra info button
 - Fix Research Tree and Starmap widget WASD pan speed depending on in-game camera zoom
 - Show less components on unreachable devices
-- Expand electricity connection failure warning popups with more details on how to solve the problem 
+- Expand electricity connection failure warning popups with more details on how to solve the problem
 - Fix error in environment tab when section has become unavailable
 - Make Heater's target temperature configurable
 - Improve heat exchange simulation
@@ -2297,7 +2300,7 @@
 - Add initial Bridge Controls implementation
 - Do not reset the position of overlay popup menu
 - Fix custom UI scale resetting itself unnecessarily
-- Switch to bigger square shaped maps 
+- Switch to bigger square shaped maps
 - Do not try to load saves from incompatible versions
 - Make research widget and starmap zoomable and panable with all input devices
 - Make max charge rate configurable for charge station component
@@ -2312,7 +2315,7 @@
 - Fix consequent saving failing due to being unable to replace a backup
 - Show warning popup immediately if saving the game fails
 - Make colonist wakeup events less frequent
-- Add "Run in background" setting 
+- Add "Run in background" setting
 - Make charge stations consume more energy when a being is charging
 - Reduce power output of solar panels
 - Add solar panel cleaning mechanic
@@ -2418,7 +2421,7 @@
 - Fix misleading "Lacking raw material" notification when material is unreachable by grounded being
 - Fix multitile objects not working correctly before saved / loaded
 - Energy Connector will only auto-connect to unconnected devices
-- Kill distant sounds sooner 
+- Kill distant sounds sooner
 - Rebalance a lot of component research requirements
 - Rethink the research tree
 
@@ -2427,14 +2430,14 @@
 - Add event log that will contain your generated story
 - Add way to create custom event log entries
 - Add soft failure recovery for corrupt save files
-- Make UI more flexible 
-- Reduce the number of dead bodies in wrecked ship scenario generation 
+- Make UI more flexible
+- Reduce the number of dead bodies in wrecked ship scenario generation
 - Make zoom sensitivity configurable in input settings
 - Begin work on AI storyteller
-- Add story event: Asteroid 
+- Add story event: Asteroid
 - Add story event: Stasis wake up
 - Add story event: Drone battery overload
-- Add story event: Spawn egg 
+- Add story event: Spawn egg
 - Add story event: Electricity grid malfunction (light)
 
 
@@ -2448,7 +2451,7 @@
 - Improve performance with extreme amounts of beings (thousands)
 - Make species definition more flexible
 - Make genders, sexual orientations and attractions moddable for any species
-- Show warning triangles instead of missing sprites 
+- Show warning triangles instead of missing sprites
 - Link being looks generation to species config
 - Add support for complex names with nicknames
 - Fix incorrectly displayed time in some UI elements
@@ -2468,17 +2471,17 @@
 <b>v0.2.9</b> (2020.12.25)
 - Add asteroids
 - Generate people naked
-- Make hats and clothing 3D printable and equippable separately 
+- Make hats and clothing 3D printable and equippable separately
 - Fix ship computer not showing energy use during research
 - Show more details in electricity grid overlay
-- Make ignored drag distance configurable in input settings 
+- Make ignored drag distance configurable in input settings
 - Keep overlays activated while dragging with right mouse button
 - Make mouse controls and RMB behavior more consistent
 - Change how beings behave in dangerous conditions
 
 
 <b>v0.2.8</b> (2020.12.20)
-- Show construction progress 
+- Show construction progress
 - Fix some errors reported by playtesters
 - Make it possible to attach your save in feedback form
 - Fix being and object rendering z order
@@ -2488,7 +2491,7 @@
 - Add Robotics research
 - Make drones craftable
 - Add a craftable Soy Burger
-- Make humans go eat available food to satisfy hunger 
+- Make humans go eat available food to satisfy hunger
 - Fix lights flickering when walls or floors are built or removed
 - Fix broken fire implementation
 - Change how fire spreads and how fire damage is being dealt
@@ -2535,13 +2538,13 @@
 - Fix race condition with multiple coroutines using same waiter object
 
 
-<b>v0.2.4</b> (2020.12.08) 
+<b>v0.2.4</b> (2020.12.08)
 - Add Carbon raw material
 - add Ship Computer overheating and cooldown mechanics
 - Add mysterious eggs
 - Visualize connection previews
 - Change how energy connections look like
-- Fix a couple of random generation bugs 
+- Fix a couple of random generation bugs
 - Make sure Ship Computer and Robot are generated in safe area
 - Produce natural debris from ship destruction
 - Add hover links showing target objects for some UI elements
@@ -2554,7 +2557,7 @@
 - Fix some deconstruction ads being marked as unreachable after save/load
 - Make updates public on Discord
 - Toggle Quick Search with Tab
-- Add pagination to Quick Search 
+- Add pagination to Quick Search
 - Improve Quick Search result accuracy
 - Improve Context Menu behavior
 - Make Research run 5x faster for playtesting
@@ -2618,7 +2621,7 @@
 
 
 <b>v0.1.3-alpha</b> (2020.11.15)
-- Add multiple small enhancements 
+- Add multiple small enhancements
 - Rework the UI
 
 
