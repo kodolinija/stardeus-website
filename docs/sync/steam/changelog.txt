@@ -1,3 +1,16 @@
+<b>v0.5.186</b> (2021.12.21)
+- [Performance] Improve lights rendering performance by order of magnitude
+- [Performance] Improve icons rendering performance by order of magnitude
+- [Performance] Improve dirt rendering performance by order of magnitude
+- [Performance] Make "ultra" nebula cost nothing to render, remove nebula quality options
+
+
+<b>v0.5.185</b> (2021.12.17)
+- [Misc] Add "find_save" and "load_save" console commands
+- [Bug] Fix workers shutting down after loading a big save due to CPU shortage
+- [Bug] Fix removing a mod would prevent loading a save if it had an object from that mod
+
+
 <b>v0.5.184</b> (2021.12.16)
 - [Demo] Improve demo end dialog
 - [Performance] Optimize performance for large maps
