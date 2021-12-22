@@ -1,3 +1,7 @@
+<b>v0.5.187</b> (2021.12.22)
+- [Graphics] Add workarounds for Linux rendering issues with new VFX graph based particles
+
+
 <b>v0.5.186</b> (2021.12.21)
 - [Performance] Improve lights rendering performance by order of magnitude
 - [Performance] Improve icons rendering performance by order of magnitude
