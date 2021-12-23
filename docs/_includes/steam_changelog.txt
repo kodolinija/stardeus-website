@@ -1,3 +1,8 @@
+<b>v0.5.188</b> (2021.12.23)
+- [Graphics] Reimplement being and object graphics to work through VFX graph (work in progress)
+- [Graphics] Add workaround for nebula render glitch on Radeon RX 6700 XT
+
+
 <b>v0.5.187</b> (2021.12.22)
 - [Graphics] Add workarounds for Linux rendering issues with new VFX graph based particles
 
