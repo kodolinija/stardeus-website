@@ -1,6 +1,9 @@
-<b>v0.5.188</b> (2021.12.23)
+<b>v0.5.188</b> (2021.12.28)
 - [Graphics] Reimplement being and object graphics to work through VFX graph (work in progress)
 - [Graphics] Add workaround for nebula render glitch on Radeon RX 6700 XT
+- [Bug] Fix most issues related to graphics rework and performance improvements
+- [Bug] Fix damaged devices showing up in connector auto connect list
+- [Bug] Fix energy connection not displaying right after connecting a device through energy node UI
 
 
 <b>v0.5.187</b> (2021.12.22)
