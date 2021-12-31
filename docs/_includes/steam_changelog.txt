@@ -1,9 +1,22 @@
+<b>v0.5.189</b> (2021.12.31)
+- [Feature] Add Energy Automation research branch
+- [Feature] Add Auto Connect Upgrade for Ship Computer
+- [Feature] Automatically connect electric devices to closest available connectors if Auto Connect Upgrade is installed
+- [Balance] Increase production time for some objects that were produced too quickly
+- [Balance] Make certain annoying events (electricity grid malfunction) appear only in challenging difficulty level
+- [Balance] Make damaged objects relocatable, connectable and operational (until damage gets above 75%)
+- [Balance] Make tutorial skippable only if was finished within last month
+- [Graphics] Add particles to Recycler, Disassembler, ML Booth, Loom and more devices
+- [Bug] Fix auto haul behavior and auto haul priority when choosing haul targets for processable items
+- [Bug] Prevent grounded beings from attempting to relocate items that are in different islands
+
+
 <b>v0.5.188</b> (2021.12.28)
 - [Graphics] Reimplement being and object graphics to work through VFX graph (work in progress)
 - [Graphics] Add workaround for nebula render glitch on Radeon RX 6700 XT
 - [Bug] Fix most issues related to graphics rework and performance improvements
 - [Bug] Fix damaged devices showing up in connector auto connect list
-- [Bug] Fix energy connection not displaying right after connecting a device through energy node UI
+- [Bug] Fix energy connection not displaying right after connectiUnobstructedng a device through energy node UI
 
 
 <b>v0.5.187</b> (2021.12.22)
