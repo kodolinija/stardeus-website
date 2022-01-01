@@ -1,3 +1,9 @@
+<b>v0.5.190</b> (2022.01.01)
+- [Misc] Add Steam and Discord Rich Presence
+- [Bug] Fix batteries not behaving properly
+- [Graphics] Change the particle system of Matter Reactor (mini and regular)
+
+
 <b>v0.5.189</b> (2021.12.31)
 - [Feature] Add Energy Automation research branch
 - [Feature] Add Auto Connect Upgrade for Ship Computer
