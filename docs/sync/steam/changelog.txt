@@ -1,3 +1,10 @@
+<b>v0.5.191</b> (2022.01.03)
+- [UI/UX] Add input setting: ESC behavior (close menus, toggle main menu, both)
+- [UI/UX] Add input setting: RMB behavior on hover object (radial or context menu)
+- [Misc] Add hint popups after game loads (can turn off in settings > current game)
+- [Bug] Fix plant graphics not changing along with growth state
+
+
 <b>v0.5.190</b> (2022.01.01)
 - [Misc] Add Steam and Discord Rich Presence
 - [Bug] Fix batteries not behaving properly
