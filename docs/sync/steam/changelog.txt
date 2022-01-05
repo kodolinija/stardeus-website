@@ -1,3 +1,11 @@
+<b>v0.5.192</b> (2022.01.05)
+- [Balance] Tie research progress to electricity consumption, not time
+- [UI/UX] Add a Hotbar
+- [Misc] Add "skip_tutorial" console command
+- [Bug] Fix completed expeditions do not increment the situation expeditions count, preventing multiple story events from happening
+- [Bug] Fix planning tool colors not matching what is actually being painted
+
+
 <b>v0.5.191</b> (2022.01.03)
 - [UI/UX] Add input setting: ESC behavior (close menus, toggle main menu, both)
 - [UI/UX] Add input setting: RMB behavior on hover object (radial or context menu)
