@@ -1,3 +1,13 @@
+<b>v0.5.194</b> (2022.01.07)
+- [Balance] Remove Soil -> Rock processing path
+- [UI/UX] Add ship navigation overlay
+- [Misc] Continue burning engines even when ship is drifting towards destination using inertia
+- [Misc] Add version info to translation keys
+- [Misc] Add hint about increasing production capacity when configuring multiple crafters of same type
+- [Misc] Add "translations validate" console command
+- [Bug] Fix crafters flapping between producing and not producing an item when item count is hovering around crafting target
+
+
 <b>v0.5.193</b> (2022.01.06)
 - [Balance] Engine direction is now purely cosmetic
 - [Balance] Remove researched tech passive electricity draw on the Ship Computer
