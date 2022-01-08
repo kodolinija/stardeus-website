@@ -1,3 +1,12 @@
+<b>v0.5.195</b> (2022.01.08)
+- [Balance] Significantly increase chance of anomalies in planets (for new games only)
+- [Balance] Increase chance of anomaly being an Asimov Override Upgrade
+- [Graphics] Fix humans sleeping on the floor appear above others when they walk over them
+- [Graphics] Display ship motion visuals according to selected forward direction
+- [Bug] Fix someone carrying a material over an active construction site would interrupt the construction task with "site obstructed"
+- [Bug] Fix visual guidelines getting stuck on screen when pausing and exiting to main menu from the tutorial
+
+
 <b>v0.5.194</b> (2022.01.07)
 - [Balance] Remove Soil -> Rock processing path
 - [UI/UX] Add ship navigation overlay
