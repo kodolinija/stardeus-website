@@ -1,3 +1,13 @@
+<b>v0.5.196</b> (2022.01.09)
+- [AI] When creating a new task, try to find closest non-busy worker to take the task right away
+- [Feature] Make vents electric and closeable
+- [Graphics] Make beings accelerate, decelerate and move more smoothly
+- [Balance] Reduce processors queue capacity to 5 (Processors: Furnace, Grinde, Disassembler, Recycler, Nutrient Extractor)
+- [Misc] Add hint about vents leaking atmosphere
+- [Bug] Fix vents not exchanging oxygen as much as they should after game was saved / loaded
+- [UI/UX] Copy object's initial rotation when starting the relocation process
+
+
 <b>v0.5.195</b> (2022.01.08)
 - [Balance] Significantly increase chance of anomalies in planets (for new games only)
 - [Balance] Increase chance of anomaly being an Asimov Override Upgrade
