@@ -1,3 +1,13 @@
+<b>v0.5.197</b> (2022.01.11)
+- [Feature] Add "FTL Drive" - an engine capable of flying intergalactic distances
+- [Feature] Add "Void Ripper" - a device that enables traveling through black holes
+- [Feature] Add "Quantum Mechanics", "FTL Propulsion" and "Black Holes" research
+- [Graphics] Improve object selection outline looks
+- [Balance] Introduce "Science" research branch
+- [Balance] Rearrange some items in the Research Tree
+- [Bug] Fix AI roaming getting cancelled for tasks that wouldn't get assigned
+
+
 <b>v0.5.196</b> (2022.01.09)
 - [AI] When creating a new task, try to find closest non-busy worker to take the task right away
 - [Feature] Make vents electric and closeable
