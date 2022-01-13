@@ -1,3 +1,12 @@
+<b>v0.5.198</b> (2022.01.13)
+- [Feature] Start working on Factions and Diplomacy (WIP)
+- [Feature] Add several initial Factions
+- [Feature] Generate Faction ownership of planets across the Universe
+- [Balance] Generate wrecked ship with Thrusters instead of Fusion Drives
+- [Balance] Don't automatically process biowaste when it's collected from toilet (store it instead)
+- [Bug] Fix AI assignment issue introduced in 0.5.197
+
+
 <b>v0.5.197</b> (2022.01.11)
 - [Feature] Add "FTL Drive" - an engine capable of flying intergalactic distances
 - [Feature] Add "Void Ripper" - a device that enables traveling through black holes
