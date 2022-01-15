@@ -1,3 +1,8 @@
+<b>v0.5.199</b> (2022.01.15)
+- [Feature] Trade with planets that are owned by other factions
+- [Feature] Start tracking standing between factions and player
+
+
 <b>v0.5.198</b> (2022.01.13)
 - [Feature] Start working on Factions and Diplomacy (WIP)
 - [Feature] Add several initial Factions
