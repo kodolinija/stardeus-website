@@ -1,3 +1,10 @@
+<b>v0.5.200</b> (2022.01.20)
+- [Tech] Refactor AI logic
+- [Tech] Refactor item reservations
+- [Tech] Refactor item processing
+- [Bug] Fix a lot of AI logic issues (reservations, stuck materials, race conditions)
+
+
 <b>v0.5.199</b> (2022.01.15)
 - [Feature] Trade with planets that are owned by other factions
 - [Feature] Start tracking standing between factions and player
