@@ -1,3 +1,8 @@
+<b>v0.5.201</b> (2022.01.21)
+- [Bug] Fix Stock Market overwritting market item history on load
+- [Bug] Fix a few more AI edge cases
+
+
 <b>v0.5.200</b> (2022.01.20)
 - [Tech] Refactor AI logic
 - [Tech] Refactor item reservations
