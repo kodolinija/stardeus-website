@@ -1,3 +1,12 @@
+<b>v0.5.202</b> (2022.01.24)
+- [Scenario] Wrecked scenario will have a room with a couple of survivors in the beginning
+- [Balance] Reduce oxygen pump energy cost to 5kW
+- [Feature] Allow managing devices that are not connected to Ship Computer's grid by connecting the device to a robot or drone
+- [UI/UX] Add Research overlay icon
+- [UI/UX] Show drones / robots charge level bar when charge falls below 50%
+- [Bug] Fix tools get stuck after entering / leaving pause menu
+
+
 <b>v0.5.201</b> (2022.01.21)
 - [Bug] Fix Stock Market overwritting market item history on load
 - [Bug] Fix a few more AI edge cases
