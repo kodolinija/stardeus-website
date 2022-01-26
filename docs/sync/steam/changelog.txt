@@ -1,3 +1,12 @@
+<b>v0.5.204</b> (2022.01.26)
+- [Feature] ML Booth will also recharge the trainee
+- [UI/UX] Add more detail to UI
+- [UI/UX] Make most of UI modable (WIP)
+- [Bug] Fix ML Booth not hailing trainee correctly
+- [Bug] Fix debris not moving in the right direction when ship is flying
+- [Bug] Fix clicking on an unbuilt blueprint with build tool selected was not cancelling the build task (broken recently)
+
+
 <b>v0.5.203</b> (2022.01.25)
 - [UI/UX] Add "Find" button to inventory view
 - [Tutorial] Improve the tutorial to work with new scenario changes
