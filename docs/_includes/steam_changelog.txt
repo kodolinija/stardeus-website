@@ -1,3 +1,7 @@
+<b>v0.5.205</b> (2022.01.27)
+- [UI/UX] Enable new UI
+
+
 <b>v0.5.204</b> (2022.01.26)
 - [Feature] ML Booth will also recharge the trainee
 - [UI/UX] Add more detail to UI
