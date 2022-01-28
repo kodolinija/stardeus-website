@@ -1,3 +1,18 @@
+<b>v0.5.206</b> (2022.01.28)
+- [Balance] Disk Modules will now use more electricity
+- [Balance] Cap max energy increment research can receive in one tick -> (10% -> 1%)
+- [Misc] Pause simulation when opening or modifying ongoing trade UI
+- [Misc] Add hint about pausing simulation while trading
+- [UI/UX] Overhaul Research Tree UI
+- [UI/UX] Expand icon buttons to be covering whole data block when possible (wider clicking area)
+- [UI/UX] Clicking on two adjacent objects will cycle between the objects instead of always selecting the same one
+- [Bug] Fix context menu not synchronizing UI updates when info panel is showing same block
+- [Bug] Fix merchant transactions sometimes removing resources but not completing the payment
+- [Bug] Fix certain tasks would get immediately retried by same worker over and over again after initial failure
+- [Bug] Fix engines and certain other objects could be attached to unbuilt floor blueprints
+- [Bug] It will no longer be possible to trade with a faction in a planet if you are not nearby
+
+
 <b>v0.5.205</b> (2022.01.27)
 - [UI/UX] Enable new UI
 
