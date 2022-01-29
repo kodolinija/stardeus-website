@@ -1,3 +1,7 @@
+<b>v0.5.207</b> (2022.01.29)
+- [UI/UX] Fix a few small issues with UI
+
+
 <b>v0.5.206</b> (2022.01.28)
 - [Balance] Disk Modules will now use more electricity
 - [Balance] Cap max energy increment research can receive in one tick -> (10% -> 1%)
