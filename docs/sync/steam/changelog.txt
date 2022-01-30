@@ -1,3 +1,9 @@
+<b>v0.5.208</b> (2022.01.30)
+- [UI/UX] Fix rebuilding a context menu would paginate it when it could be expanded instead
+- [Bug] Fix tools could leak their configuration state from one game to another when loading
+- [Bug] Fix relocating a battery would lose it's charge
+
+
 <b>v0.5.207</b> (2022.01.29)
 - [UI/UX] Fix a few small issues with UI
 
