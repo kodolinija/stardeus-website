@@ -1,3 +1,16 @@
+<b>v0.5.209</b> (2022.02.04)
+- [Balance] Reduce heat radius for all engines
+- [Balance] Make "Nudist" trait more rare
+- [Feature] Add "Aesthetics" need and make humans do cleaning
+- [Feature] Add "Hat Person" trait that will affect how humans choose to wear hats
+- [UI/UX] Show tooltip about current blueprint when using a build tool (if less than 3 copies are built)
+- [Bug] Fix certain being traits not restored correctly after load
+- [Bug] Fix graphics not changing when human changes equipment item color
+- [Bug] Fix humans not always visualy equipping a space suit when walking outside
+- [Bug] Fix cat showing below cleaning bot when riding it
+- [Bug] Fix workers would sometimes go through a closed door
+
+
 <b>v0.5.208</b> (2022.01.30)
 - [UI/UX] Fix rebuilding a context menu would paginate it when it could be expanded instead
 - [Bug] Fix tools could leak their configuration state from one game to another when loading
