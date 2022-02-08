@@ -1,3 +1,13 @@
+<b>v0.5.210</b> (2022.02.08)
+- [Tech] Update Unity to 2022.2.10f1
+- [Tech] Optimize UI to produce less memory garbage
+- [Balance] Humans will avoid taking wall or floor tile replacement tasks (due to compromising hull integrity)
+- [Graphics] Improve overlapping beings graphics (i.e. cleaning bot will not be above a cat, etc)
+- [Feature] Allow ordering relocation of mass selected objects (i.e a table with chairs)
+- [Bug] Fix some issues with object and being multi-selection visual effects
+- [Bug] Fix pet feeder graphic not updating when food was loaded
+
+
 <b>v0.5.209</b> (2022.02.04)
 - [Balance] Reduce heat radius for all engines
 - [Balance] Make "Nudist" trait more rare
