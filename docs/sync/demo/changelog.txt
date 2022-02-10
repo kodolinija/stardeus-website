@@ -1,3 +1,206 @@
+<b>v0.5.211</b> (2022.02.10)
+- [Feature] Add Aesthetics overlay, make all devices contribute to overall aesthetics
+- [Feature] Make humans react to overall aesthetics instead of just dirt
+- [Feature] Add "Attachments" system that will be used to track emotional attachments of every colonist
+- [Feature] Add "Bed" emotional attachments to people and pets
+- [Balance] Reduce time required to build floors
+- [UI/UX] Add electricity charts
+- [UI/UX] Add charts for Situation history
+- [UI/UX] Display emotional attachments in the UI where possible
+- [UI/UX] Warn about duplicate input bindings
+- [Bug] Fix pets sleep action save/load would use human sleeping spot
+
+
+<b>v0.5.210</b> (2022.02.08)
+- [Tech] Update Unity to 2022.2.10f1
+- [Tech] Optimize UI to produce less memory garbage
+- [Balance] Humans will avoid taking wall or floor tile replacement tasks (due to compromising hull integrity)
+- [Graphics] Improve overlapping beings graphics (i.e. cleaning bot will not be above a cat, etc)
+- [Feature] Allow ordering relocation of mass selected objects (i.e a table with chairs)
+- [Bug] Fix some issues with object and being multi-selection visual effects
+- [Bug] Fix pet feeder graphic not updating when food was loaded
+
+
+<b>v0.5.209</b> (2022.02.04)
+- [Balance] Reduce heat radius for all engines
+- [Balance] Make "Nudist" trait more rare
+- [Feature] Add "Aesthetics" need and make humans do cleaning
+- [Feature] Add "Hat Person" trait that will affect how humans choose to wear hats
+- [UI/UX] Show tooltip about current blueprint when using a build tool (if less than 3 copies are built)
+- [Bug] Fix certain being traits not restored correctly after load
+- [Bug] Fix graphics not changing when human changes equipment item color
+- [Bug] Fix humans not always visually equipping a space suit when walking outside
+- [Bug] Fix cat showing below cleaning bot when riding it
+- [Bug] Fix workers would sometimes go through a closed door
+
+
+<b>v0.5.208</b> (2022.01.30)
+- [UI/UX] Fix rebuilding a context menu would paginate it when it could be expanded instead
+- [Bug] Fix tools could leak their configuration state from one game to another when loading
+- [Bug] Fix relocating a battery would lose it's charge
+
+
+<b>v0.5.207</b> (2022.01.29)
+- [UI/UX] Fix a few small issues with UI
+
+
+<b>v0.5.206</b> (2022.01.28)
+- [Balance] Disk Modules will now use more electricity
+- [Balance] Cap max energy increment research can receive in one tick -> (10% -> 1%)
+- [Misc] Pause simulation when opening or modifying ongoing trade UI
+- [Misc] Add hint about pausing simulation while trading
+- [UI/UX] Overhaul Research Tree UI
+- [UI/UX] Expand icon buttons to be covering whole data block when possible (wider clicking area)
+- [UI/UX] Clicking on two adjacent objects will cycle between the objects instead of always selecting the same one
+- [Bug] Fix context menu not synchronizing UI updates when info panel is showing same block
+- [Bug] Fix merchant transactions sometimes removing resources but not completing the payment
+- [Bug] Fix certain tasks would get immediately retried by same worker over and over again after initial failure
+- [Bug] Fix engines and certain other objects could be attached to unbuilt floor blueprints
+- [Bug] It will no longer be possible to trade with a faction in a planet if you are not nearby
+
+
+<b>v0.5.205</b> (2022.01.27)
+- [UI/UX] Enable new UI
+
+
+<b>v0.5.204</b> (2022.01.26)
+- [Feature] ML Booth will also recharge the trainee
+- [UI/UX] Add more detail to UI
+- [UI/UX] Make most of UI modable (WIP)
+- [Bug] Fix ML Booth not hailing trainee correctly
+- [Bug] Fix debris not moving in the right direction when ship is flying
+- [Bug] Fix clicking on an unbuilt blueprint with build tool selected was not cancelling the build task (broken recently)
+
+
+<b>v0.5.203</b> (2022.01.25)
+- [UI/UX] Add "Find" button to inventory view
+- [Tutorial] Improve the tutorial to work with new scenario changes
+- [Balance] Make research faster
+- [Bug] Fix relocating raw material pile failing and keeping the material linked to the worker
+- [Bug] Fix beings getting stuck in a loop due to urgent needs
+- [Bug] Fix cleaning bots not docking properly
+- [Bug] Fix cleaning bots failing to recharge
+- [Bug] Fix expeditions getting stuck
+- [Bug] Fix stuck expeditions not getting automatically aborted
+
+
+<b>v0.5.202</b> (2022.01.24)
+- [Scenario] Wrecked scenario will have a room with a couple of survivors in the beginning
+- [Balance] Reduce oxygen pump energy cost to 5kW
+- [Feature] Allow managing devices that are not connected to Ship Computer's grid by connecting the device to a robot or drone
+- [UI/UX] Add Research overlay icon
+- [UI/UX] Show drones / robots charge level bar when charge falls below 50%
+- [Bug] Fix tools get stuck after entering / leaving pause menu
+
+
+<b>v0.5.201</b> (2022.01.21)
+- [Bug] Fix Stock Market overwriting market item history on load
+- [Bug] Fix a few more AI edge cases
+
+
+<b>v0.5.200</b> (2022.01.20)
+- [Tech] Refactor AI logic
+- [Tech] Refactor item reservations
+- [Tech] Refactor item processing
+- [Bug] Fix a lot of AI logic issues (reservations, stuck materials, race conditions)
+
+
+<b>v0.5.199</b> (2022.01.15)
+- [Feature] Trade with planets that are owned by other factions
+- [Feature] Start tracking standing between factions and player
+
+
+<b>v0.5.198</b> (2022.01.13)
+- [Feature] Start working on Factions and Diplomacy (WIP)
+- [Feature] Add several initial Factions
+- [Feature] Generate Faction ownership of planets across the Universe
+- [Balance] Generate wrecked ship with Thrusters instead of Fusion Drives
+- [Balance] Don't automatically process biowaste when it's collected from toilet (store it instead)
+- [Bug] Fix AI assignment issue introduced in 0.5.197
+
+
+<b>v0.5.197</b> (2022.01.11)
+- [Feature] Add "FTL Drive" - an engine capable of flying intergalactic distances
+- [Feature] Add "Void Ripper" - a device that enables traveling through black holes
+- [Feature] Add "Quantum Mechanics", "FTL Propulsion" and "Black Holes" research
+- [Graphics] Improve object selection outline looks
+- [Balance] Introduce "Science" research branch
+- [Balance] Rearrange some items in the Research Tree
+- [Bug] Fix AI roaming getting cancelled for tasks that wouldn't get assigned
+
+
+<b>v0.5.196</b> (2022.01.09)
+- [AI] When creating a new task, try to find closest non-busy worker to take the task right away
+- [Feature] Make vents electric and closeable
+- [Graphics] Make beings accelerate, decelerate and move more smoothly
+- [Balance] Reduce processors queue capacity to 5 (Processors: Furnace, Grinder, Disassembler, Recycler, Nutrient Extractor)
+- [Misc] Add hint about vents leaking atmosphere
+- [Bug] Fix vents not exchanging oxygen as much as they should after game was saved / loaded
+- [UI/UX] Copy object's initial rotation when starting the relocation process
+
+
+<b>v0.5.195</b> (2022.01.08)
+- [Balance] Significantly increase chance of anomalies in planets (for new games only)
+- [Balance] Increase chance of anomaly being an Asimov Override Upgrade
+- [Graphics] Fix humans sleeping on the floor appear above others when they walk over them
+- [Graphics] Display ship motion visuals according to selected forward direction
+- [Bug] Fix someone carrying a material over an active construction site would interrupt the construction task with "site obstructed"
+- [Bug] Fix visual guidelines getting stuck on screen when pausing and exiting to main menu from the tutorial
+
+
+<b>v0.5.194</b> (2022.01.07)
+- [Balance] Remove Soil -> Rock processing path
+- [UI/UX] Add ship navigation overlay
+- [Misc] Continue burning engines even when ship is drifting towards destination using inertia
+- [Misc] Add version info to translation keys
+- [Misc] Add hint about increasing production capacity when configuring multiple crafters of same type
+- [Misc] Add "translations validate" console command
+- [Bug] Fix crafters flapping between producing and not producing an item when item count is hovering around crafting target
+
+
+<b>v0.5.193</b> (2022.01.06)
+- [Balance] Engine direction is now purely cosmetic
+- [Balance] Remove researched tech passive electricity draw on the Ship Computer
+- [UI/UX] Change research tree to display tech electricity requirements in kWh/MWh/GWh/TWh
+- [UI/UX] Add a way to see top electricity producers, consumers, and batteries
+- [Bug] Fix electricity grid ignoring device priority
+- [Bug] Fix autopilot still overshooting targets with highly overpowered engines
+
+
+<b>v0.5.192</b> (2022.01.05)
+- [Balance] Tie research progress to electricity consumption, not time
+- [UI/UX] Add a Hotbar
+- [Misc] Add "skip_tutorial" console command
+- [Bug] Fix completed expeditions do not increment the situation expeditions count, preventing multiple story events from happening
+- [Bug] Fix planning tool colors not matching what is actually being painted
+
+
+<b>v0.5.191</b> (2022.01.03)
+- [UI/UX] Add input setting: ESC behavior (close menus, toggle main menu, both)
+- [UI/UX] Add input setting: RMB behavior on hover object (radial or context menu)
+- [Misc] Add hint popups after game loads (can turn off in settings > current game)
+- [Bug] Fix plant graphics not changing along with growth state
+
+
+<b>v0.5.190</b> (2022.01.01)
+- [Misc] Add Steam and Discord Rich Presence
+- [Bug] Fix batteries not behaving properly
+- [Graphics] Change the particle system of Matter Reactor (mini and regular)
+
+
+<b>v0.5.189</b> (2021.12.31)
+- [Feature] Add Energy Automation research branch
+- [Feature] Add Auto Connect Upgrade for Ship Computer
+- [Feature] Automatically connect electric devices to closest available connectors if Auto Connect Upgrade is installed
+- [Balance] Increase production time for some objects that were produced too quickly
+- [Balance] Make certain annoying events (electricity grid malfunction) appear only in challenging difficulty level
+- [Balance] Make damaged objects relocatable, connectable and operational (until damage gets above 75%)
+- [Balance] Make tutorial skippable only if was finished within last month
+- [Graphics] Add particles to Recycler, Disassembler, ML Booth, Loom and more devices
+- [Bug] Fix auto haul behavior and auto haul priority when choosing haul targets for processable items
+- [Bug] Prevent grounded beings from attempting to relocate items that are in different islands
+
+
 <b>v0.5.188</b> (2021.12.28)
 - [Graphics] Reimplement being and object graphics to work through VFX graph (work in progress)
 - [Graphics] Add workaround for nebula render glitch on Radeon RX 6700 XT
@@ -168,7 +371,7 @@
 - [Graphics] Add shooting stars / distant moving space objects in the background
 - [Graphics] Add damage particles
 - [Graphics] Add hull oxygen leak particles
-- [Performance] Add options to disable particles and advanced ligthing in Video settings
+- [Performance] Add options to disable particles and advanced lighting in Video settings
 - [Bug] Fix "keep open" icon not showing up on doors after load
 
 
@@ -282,7 +485,7 @@
 
 
 <b>v0.5.152</b> (2021.11.14)
-- [Bug] Fix people prefering to eat off makeshift surfaces rather than a proper table
+- [Bug] Fix people preferring to eat off makeshift surfaces rather than a proper table
 - [Bug] Fix people not using a spot near the table if there is a meal left on it
 - [Bug] Fix error when generating merchant's sellable items when they involved colors (i.e. clothing)
 - [Bug] Fix graphics glitch where colonists would remain leaned forward after eating a meal
@@ -512,7 +715,7 @@
 
 <b>v0.5.128</b> (2021.09.24)
 - [Performance] Reduce GPU memory consumption
-- [Performance] Cache sprite atlasses on first load for quicker subsequent loads
+- [Performance] Cache sprite atlases on first load for quicker subsequent loads
 - [Balance] Reduce level up rate for construction skill by 4x
 - [Feature] Add space traffic system
 - [Feature] Add random merchant shuttles flying towards your ship and offering trades
