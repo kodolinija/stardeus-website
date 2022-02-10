@@ -1,3 +1,16 @@
+<b>v0.5.211</b> (2022.02.10)
+- [Feature] Add Aesthetics overlay, make all devices contribute to overall aesthetics
+- [Feature] Make humans react to overall aesthetics instead of just dirt
+- [Feature] Add "Attachments" system that will be used to track emotional attachments of every colonist
+- [Feature] Add "Bed" emotional attachments to people and pets
+- [Balance] Reduce time required to build floors
+- [UI/UX] Add electricity charts
+- [UI/UX] Add charts for Situation history
+- [UI/UX] Display emotional attachments in the UI where possible
+- [UI/UX] Warn about duplicate input bindings
+- [Bug] Fix pets sleep action save/load would use human sleeping spot
+
+
 <b>v0.5.210</b> (2022.02.08)
 - [Tech] Update Unity to 2022.2.10f1
 - [Tech] Optimize UI to produce less memory garbage
@@ -16,7 +29,7 @@
 - [UI/UX] Show tooltip about current blueprint when using a build tool (if less than 3 copies are built)
 - [Bug] Fix certain being traits not restored correctly after load
 - [Bug] Fix graphics not changing when human changes equipment item color
-- [Bug] Fix humans not always visualy equipping a space suit when walking outside
+- [Bug] Fix humans not always visually equipping a space suit when walking outside
 - [Bug] Fix cat showing below cleaning bot when riding it
 - [Bug] Fix workers would sometimes go through a closed door
 
@@ -81,7 +94,7 @@
 
 
 <b>v0.5.201</b> (2022.01.21)
-- [Bug] Fix Stock Market overwritting market item history on load
+- [Bug] Fix Stock Market overwriting market item history on load
 - [Bug] Fix a few more AI edge cases
 
 
@@ -120,7 +133,7 @@
 - [AI] When creating a new task, try to find closest non-busy worker to take the task right away
 - [Feature] Make vents electric and closeable
 - [Graphics] Make beings accelerate, decelerate and move more smoothly
-- [Balance] Reduce processors queue capacity to 5 (Processors: Furnace, Grinde, Disassembler, Recycler, Nutrient Extractor)
+- [Balance] Reduce processors queue capacity to 5 (Processors: Furnace, Grinder, Disassembler, Recycler, Nutrient Extractor)
 - [Misc] Add hint about vents leaking atmosphere
 - [Bug] Fix vents not exchanging oxygen as much as they should after game was saved / loaded
 - [UI/UX] Copy object's initial rotation when starting the relocation process
@@ -193,7 +206,7 @@
 - [Graphics] Add workaround for nebula render glitch on Radeon RX 6700 XT
 - [Bug] Fix most issues related to graphics rework and performance improvements
 - [Bug] Fix damaged devices showing up in connector auto connect list
-- [Bug] Fix energy connection not displaying right after connectiUnobstructedng a device through energy node UI
+- [Bug] Fix energy connection not displaying right after connecting a device through energy node UI
 
 
 <b>v0.5.187</b> (2021.12.22)
@@ -358,7 +371,7 @@
 - [Graphics] Add shooting stars / distant moving space objects in the background
 - [Graphics] Add damage particles
 - [Graphics] Add hull oxygen leak particles
-- [Performance] Add options to disable particles and advanced ligthing in Video settings
+- [Performance] Add options to disable particles and advanced lighting in Video settings
 - [Bug] Fix "keep open" icon not showing up on doors after load
 
 
@@ -472,7 +485,7 @@
 
 
 <b>v0.5.152</b> (2021.11.14)
-- [Bug] Fix people prefering to eat off makeshift surfaces rather than a proper table
+- [Bug] Fix people preferring to eat off makeshift surfaces rather than a proper table
 - [Bug] Fix people not using a spot near the table if there is a meal left on it
 - [Bug] Fix error when generating merchant's sellable items when they involved colors (i.e. clothing)
 - [Bug] Fix graphics glitch where colonists would remain leaned forward after eating a meal
@@ -702,7 +715,7 @@
 
 <b>v0.5.128</b> (2021.09.24)
 - [Performance] Reduce GPU memory consumption
-- [Performance] Cache sprite atlasses on first load for quicker subsequent loads
+- [Performance] Cache sprite atlases on first load for quicker subsequent loads
 - [Balance] Reduce level up rate for construction skill by 4x
 - [Feature] Add space traffic system
 - [Feature] Add random merchant shuttles flying towards your ship and offering trades
