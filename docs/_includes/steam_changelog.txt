@@ -1,3 +1,15 @@
+<b>v0.5.212</b> (2022.02.14)
+- [Tech] Reimplement name generation
+- [Misc] Make name generation more flexible and moddable
+- [Misc] Add persona generation templates (for "name an in-game colonist / robot")
+- [Misc] Add space object custom name queues (for "name an in-game planet / galaxy")
+- [Feature] Add support for custom emblems
+- [Feature] Cats and dogs will have names
+- [Balance] Make colony gayer
+- [Bug] Disabling non-essential particles would still show tons of VFX
+- [Bug] Fix light sprite packaged incorrectly, allowing potential graphics glitches
+
+
 <b>v0.5.211</b> (2022.02.10)
 - [Feature] Add Aesthetics overlay, make all devices contribute to overall aesthetics
 - [Feature] Make humans react to overall aesthetics instead of just dirt
