@@ -1,3 +1,14 @@
+<b>v0.5.213</b> (2022.02.24)
+- [Balance] Workers will be able to automatically force open doors when they are not powered by electricity
+- [Feature] Add Stasis pod raid story event (Work In Progress)
+- [Feature] Add Breach Capsule for raids (Work In Progress)
+- [Misc] Disallow cancelling build tasks in Tutorial
+- [Bug] Fix freshly spawned equipped humans would be naked
+- [Bug] Fix certain game seeds would produce a starting scenario without a ship computer
+- [Bug] Add temporary workaround for ATI GPUs showing garbled overlay (Nebula setting will be "Realtime" for all ATI devices by default)
+- [Bug] Hotbar would be empty after saving/loading during the tutorial
+
+
 <b>v0.5.212</b> (2022.02.14)
 - [Tech] Reimplement name generation
 - [Misc] Make name generation more flexible and moddable
