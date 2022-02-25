@@ -1,3 +1,11 @@
+<b>v0.5.214</b> (2022.02.25)
+- [Feature] New Story Event: Breach Capsule raid
+- [UI/UX] Add colors to being names
+- [UI/UX] Add combat controls overlay (Work in progress)
+- [Bug] Fix destroying a toilet would not scatter the poop around it
+- [Bug] Fix some issues with early implementation of raids and combat
+
+
 <b>v0.5.213</b> (2022.02.24)
 - [Balance] Workers will be able to automatically force open doors when they are not powered by electricity
 - [Feature] Add Stasis pod raid story event (Work In Progress)
