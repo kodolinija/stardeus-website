@@ -1,3 +1,12 @@
+<b>v0.5.215</b> (2022.02.26)
+- [Balance] Change the rate of dirt produced by beings
+- [Balance] Make Cleaning Bot never produce dirt
+- [Balance] Produce less excrements during Space Diarrhea event
+- [Feature] Colonists who had Space Diarrhea will be immune for several weeks
+- [Bug] Fix storage eject button spawning infinite copies of the material
+- [Bug] Fix Cleaning Bots wandering between Dock and Charge Station when discharged
+
+
 <b>v0.5.214</b> (2022.02.25)
 - [Feature] New Story Event: Breach Capsule raid
 - [UI/UX] Add colors to being names
