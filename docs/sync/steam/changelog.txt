@@ -1,3 +1,9 @@
+<b>v0.5.216</b> (2022.02.27)
+- [Bug] Fix a few more bugs with combat AI
+- [Bug] Fix lose materials never stop floating if flight gets cancelled
+- [Bug] Fix navigation bug where human would get stuck when trying to get out of unsafe environment
+
+
 <b>v0.5.215</b> (2022.02.26)
 - [Balance] Change the rate of dirt produced by beings
 - [Balance] Make Cleaning Bot never produce dirt
