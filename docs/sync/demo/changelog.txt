@@ -1,3 +1,10 @@
+<b>v0.5.217</b> (2022.02.28)
+- [Tutorial] Overhaul the tutorial, make it simpler, with less clicking
+- [Balance] Opening Research will not require the Ship Computer to be connected
+- [UI/UX] Add "Disconnect All" button to energy nodes when they have at least 1 connection
+- [Bug] Fix defending combat squad getting stuck if the team cannot reach the attackers easily
+
+
 <b>v0.5.216</b> (2022.02.27)
 - [Bug] Fix a few more bugs with combat AI
 - [Bug] Fix lose materials never stop floating if flight gets cancelled
