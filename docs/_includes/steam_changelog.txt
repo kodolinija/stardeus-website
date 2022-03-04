@@ -1,3 +1,21 @@
+<b>v0.5.218</b> (2022.03.04)
+- [Feature] Add Energy Rifle weapon
+- [Feature] Unequip any equipment before processing dead beings
+- [Feature] Add Melee combat when weapons are not available
+- [Feature] Most beings will have equipment and a weapon slot
+- [Balance] Increase Drone max construction skill level from 6 to 9
+- [Balance] Reduce the severity of Meteor Shower story event
+- [Balance] Make raids less frequent
+- [Graphics] Animate melee punches, rifle fire, getting shot at
+- [Graphics] Animate pets being petted
+- [Graphics] Add particles to Nutrient Extractor
+- [UI/UX] Refresh energy node UI after temporary energy connection is established or cut
+- [Bug] Fix AI pathfinding taking a lot of time when trying to reach a tile that is blocked from all directions
+- [Bug] Fix some AI tasks sending workers to invalid coordinates
+- [Bug] Fix workers getting stuck due to unresolved combat situation
+- [Bug] Fix equipment not showing up properly in certain situations
+
+
 <b>v0.5.217</b> (2022.02.28)
 - [Tutorial] Overhaul the tutorial, make it simpler, with less clicking
 - [Balance] Opening Research will not require the Ship Computer to be connected
