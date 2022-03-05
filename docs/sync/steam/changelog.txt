@@ -1,3 +1,13 @@
+<b>v0.5.219</b> (2022.03.05)
+- [Feature] Add "Carrier Drone" worker type
+- [Balance] Spawn a Robot at the beginning of Leaving Earth scenario
+- [Balance] Spawn some Carrier Drones at the beginning of Wrecked and Leaving Earth scenarios
+- [Balance] Make all reactors consume materials twice as slowly
+- [UI/UX] Make "Toggle Console" (~) rebindable
+- [UI/UX] Automatically rebind "Toggle Console" to "Scroll Lock" when switching into language that uses IME
+- [Bug] Fix beings failing to eat / drink if table was available but had no safe route to it
+
+
 <b>v0.5.218</b> (2022.03.04)
 - [Feature] Add Energy Rifle weapon
 - [Feature] Unequip any equipment before processing dead beings
