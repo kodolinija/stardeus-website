@@ -1,3 +1,11 @@
+<b>v0.5.220</b> (2022.03.06)
+- [AI] Change immediate task assignment logic
+- [AI] Split construction tasks into hauling and building parts, allowing separate priorities on hauling
+- [Balance] Adjust default worker priorities to offload hauling to carriers
+- [Bug] Fix workers with low carry capacity carrying more than they can handle
+- [Bug] Prevent AI pathfinding from getting stuck when command queue would get overfilled
+
+
 <b>v0.5.219</b> (2022.03.05)
 - [Feature] Add "Carrier Drone" worker type
 - [Balance] Spawn a Robot at the beginning of Leaving Earth scenario
