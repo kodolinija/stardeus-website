@@ -1,3 +1,9 @@
+<b>v0.5.222</b> (2022.03.13)
+- [Tech] Upgrade Unity to 2021.2.15f1
+- [Balance] Significantly reduce severity of Micro Meteor Strike event
+- [Bug] Fix combat not ending when presence of Crawler initiated the combat state
+
+
 <b>v0.5.221</b> (2022.03.11)
 - [Combat] Improve combat AI behavior
 - [Combat] Re-add raid theft mechanic
