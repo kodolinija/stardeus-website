@@ -1,3 +1,22 @@
+<b>v0.5.222</b> (2022.03.13)
+- [Tech] Upgrade Unity to 2021.2.15f1
+- [Balance] Significantly reduce severity of Micro Meteor Strike event
+- [Bug] Fix combat not ending when presence of Crawler initiated the combat state
+
+
+<b>v0.5.221</b> (2022.03.11)
+- [Combat] Improve combat AI behavior
+- [Combat] Re-add raid theft mechanic
+- [Combat] Add High Alert combat state where worker would keep doing tasks unless enemy is nearby
+- [Combat] Add manual control for drafting / undrafting the worker during combat situation
+- [Combat] Crawlers will now be handled just like other enemies
+- [Graphics] Improve initial sprite packaging performance
+- [Tech] Create a separate system that manages all projectiles in an efficient way
+- [Balance] Fluid Cannon will consume constant 5KW of electricity to maintain readiness
+- [Bug] Fix Fluid Cannon creating reload task only when trying to shoot on empty
+- [Bug] Fix biological beings waiting for disconnected doors forever
+
+
 <b>v0.5.220</b> (2022.03.06)
 - [AI] Change immediate task assignment logic
 - [AI] Split construction tasks into hauling and building parts, allowing separate priorities on hauling

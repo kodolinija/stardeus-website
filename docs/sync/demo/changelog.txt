@@ -1,3 +1,58 @@
+<b>v0.5.222</b> (2022.03.13)
+- [Tech] Upgrade Unity to 2021.2.15f1
+- [Balance] Significantly reduce severity of Micro Meteor Strike event
+- [Bug] Fix combat not ending when presence of Crawler initiated the combat state
+
+
+<b>v0.5.221</b> (2022.03.11)
+- [Combat] Improve combat AI behavior
+- [Combat] Re-add raid theft mechanic
+- [Combat] Add High Alert combat state where worker would keep doing tasks unless enemy is nearby
+- [Combat] Add manual control for drafting / undrafting the worker during combat situation
+- [Combat] Crawlers will now be handled just like other enemies
+- [Graphics] Improve initial sprite packaging performance
+- [Tech] Create a separate system that manages all projectiles in an efficient way
+- [Balance] Fluid Cannon will consume constant 5KW of electricity to maintain readiness
+- [Bug] Fix Fluid Cannon creating reload task only when trying to shoot on empty
+- [Bug] Fix biological beings waiting for disconnected doors forever
+
+
+<b>v0.5.220</b> (2022.03.06)
+- [AI] Change immediate task assignment logic
+- [AI] Split construction tasks into hauling and building parts, allowing separate priorities on hauling
+- [Balance] Adjust default worker priorities to offload hauling to carriers
+- [Bug] Fix workers with low carry capacity carrying more than they can handle
+- [Bug] Prevent AI pathfinding from getting stuck when command queue would get overfilled
+
+
+<b>v0.5.219</b> (2022.03.05)
+- [Feature] Add "Carrier Drone" worker type
+- [Balance] Spawn a Robot at the beginning of Leaving Earth scenario
+- [Balance] Spawn some Carrier Drones at the beginning of Wrecked and Leaving Earth scenarios
+- [Balance] Make all reactors consume materials twice as slowly
+- [UI/UX] Make "Toggle Console" (~) rebindable
+- [UI/UX] Automatically rebind "Toggle Console" to "Scroll Lock" when switching into language that uses IME
+- [Bug] Fix beings failing to eat / drink if table was available but had no safe route to it
+
+
+<b>v0.5.218</b> (2022.03.04)
+- [Feature] Add Energy Rifle weapon
+- [Feature] Unequip any equipment before processing dead beings
+- [Feature] Add Melee combat when weapons are not available
+- [Feature] Most beings will have equipment and a weapon slot
+- [Balance] Increase Drone max construction skill level from 6 to 9
+- [Balance] Reduce the severity of Meteor Shower story event
+- [Balance] Make raids less frequent
+- [Graphics] Animate melee punches, rifle fire, getting shot at
+- [Graphics] Animate pets being petted
+- [Graphics] Add particles to Nutrient Extractor
+- [UI/UX] Refresh energy node UI after temporary energy connection is established or cut
+- [Bug] Fix AI pathfinding taking a lot of time when trying to reach a tile that is blocked from all directions
+- [Bug] Fix some AI tasks sending workers to invalid coordinates
+- [Bug] Fix workers getting stuck due to unresolved combat situation
+- [Bug] Fix equipment not showing up properly in certain situations
+
+
 <b>v0.5.217</b> (2022.02.28)
 - [Tutorial] Overhaul the tutorial, make it simpler, with less clicking
 - [Balance] Opening Research will not require the Ship Computer to be connected
