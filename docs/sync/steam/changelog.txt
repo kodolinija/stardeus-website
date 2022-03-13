@@ -1,3 +1,11 @@
+<b>v0.5.223</b> (2022.03.13)
+- [Balance] Reduce furnace queue capacity
+- [Balance] Reduce processing time for ore resources
+- [Graphics] Show visual ranges of selected and placed cannons and turrets
+- [Graphics] Show electricity connection previews when placing energy enabled devices in range of connectors
+- [Bug] Fix expedition member validation keeping worker turned off or invisible if expedition failed
+
+
 <b>v0.5.222</b> (2022.03.13)
 - [Tech] Upgrade Unity to 2021.2.15f1
 - [Balance] Significantly reduce severity of Micro Meteor Strike event
