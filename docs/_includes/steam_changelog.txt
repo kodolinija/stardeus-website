@@ -1,3 +1,11 @@
+<b>v0.5.224</b> (2022.03.14)
+- [Tech] Add extra diagnostics to help detecting AI issues
+- [Bug] Fix High Alert combat state being suggested with incorrect weight
+- [Bug] Fix caret sometimes not displaying in text input widgets
+- [Bug] Fix "not enough hat" and similar notifications showing up when a colonist failed to equip something
+- [Bug] Fix switching into a tool after having something selected would keep displaying obsolete selection
+
+
 <b>v0.5.223</b> (2022.03.13)
 - [Balance] Reduce furnace queue capacity
 - [Balance] Reduce processing time for ore resources
