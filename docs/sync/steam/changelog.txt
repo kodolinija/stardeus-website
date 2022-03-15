@@ -1,3 +1,15 @@
+<b>v0.5.225</b> (2022.03.15)
+- [Feature] Add a setting to disable combat when starting a new game and in current game settings
+- [Feature] Eggs will be able to hatch other beings, not just crawlers
+- [Feature] Coffee Maker will have internal storage that will hold 10 cups
+- [Balance] Disallow storing objects that have specific storages in generic Storage Unit (affects clothing, upgrades)
+- [UI/UX] Dragging electrical devices will not switch into Connect tool, unless you are dragging a Connector
+- [Bug] Fix humans not able to find clothing items (when items were inside generic storage)
+- [Bug] Fix being attachments getting lost after relocating beds
+- [Bug] Fix plants not getting relocated along with the planter
+- [Bug] Remove stray plants when loading a save
+
+
 <b>v0.5.224</b> (2022.03.14)
 - [Tech] Add extra diagnostics to help detecting AI issues
 - [Bug] Fix High Alert combat state being suggested with incorrect weight
