@@ -1,3 +1,14 @@
+<b>v0.5.226</b> (2022.03.16)
+- [Balance] Reset being mood to >80 after a mental breakdown (was reset to 0 before)
+- [Balance] When floor gets destroyed, collapse any walls or objects above it
+- [Balance] Sleep deprived beings will fall asleep on the floor sooner
+- [AI] Improve Combat AI
+- [Graphics] Add some restrictions on texture quality for lower end GPUs to reduce potential GPU memory issues
+- [UI/UX] Display monetary values consistently, always abbreviating large numbers (i.e. $93K)
+- [Bug] Fix walls could exist without floors underneath, causing hull integrity and room enclosure issues
+- [Bug] Fix beings in "High Alert" combat state would not do any tasks
+
+
 <b>v0.5.225</b> (2022.03.15)
 - [Feature] Add a setting to disable combat when starting a new game and in current game settings
 - [Feature] Eggs will be able to hatch other beings, not just crawlers
