@@ -1,3 +1,15 @@
+<b>v0.5.227</b> (2022.03.17)
+- [Feature] Add "Light Block" device for having a light source alternative to Floor Lights
+- [Feature] Add "Copy Config" to emblems
+- [Feature] Add "Emblem Floor" tile for floors with custom graphic
+- [UI/UX] Add camera memory quick jumps: Ctrl + Numpad digit to save location, Numpad digit to jump
+- [UI/UX] Make Breakdown notifications sticky and automatically remove them when breakdown is over
+- [Graphics] Fix proportions of damage texture to be compressable in GPU
+- [Bug] Fix ESC opening pause menu if something is selected, when ESC mode was "close menus and pause"
+- [Bug] Fix offline workers could still be ordered to move somewhere manually
+- [Bug] Fix manual order to go somewhere would get interrupted by task assignment during the walk
+
+
 <b>v0.5.226</b> (2022.03.16)
 - [Balance] Reset being mood to >80 after a mental breakdown (was reset to 0 before)
 - [Balance] When floor gets destroyed, collapse any walls or objects above it
