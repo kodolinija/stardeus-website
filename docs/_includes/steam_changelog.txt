@@ -1,3 +1,15 @@
+<b>v0.5.228</b> (2022.03.18)
+- [Feature] Add "Processor Efficiency Upgrade" and "Processing Efficiency" research branch
+- [Feature] Add some new things that can be spawned by a storage capsule
+- [Balance] Planters will require Biowaste as a construction material
+- [Balance] Storage capsule will not spawn 100 clothing items anymore
+- [UI/UX] Pressing Hotbar Build button with something selected would not try to build a copy anymore
+- [Bug] Fix Breach Capsule could be saved in non-detachable state even if combat is not running
+- [Bug] Fix Hotbar Build button would show empty radial wheel submenus if radial menu was not invoked manually first
+- [Bug] Fix expedition bringing back a storage capsule would spawn a capsule shadow somewhere above it
+- [Bug] Fix enemies would go into High Alert combat state, which is meant for home team only
+
+
 <b>v0.5.227</b> (2022.03.17)
 - [Feature] Add "Light Block" device for having a light source alternative to Floor Lights
 - [Feature] Add "Copy Config" to emblems
