@@ -1,3 +1,12 @@
+<b>v0.5.229</b> (2022.03.19)
+- [Balance] Make equipment and weapons consumable by Matter Reactors
+- [Balance] Processing Efficiency Upgrade will require Titanium Plate instead of Titanium ore
+- [Bug] Fix Processing Efficiency Upgrade showing up as Reactor Efficiency Upgrade when installed
+- [Bug] Fix camera numpad memory would get activated when typing numbers with UI open
+- [Bug] Fix multiple beings could have attachments to same bed, leading to various reservation and logic bugs
+- [Bug] Fix attachments would not get removed for dead beings and destroyed entities
+
+
 <b>v0.5.228</b> (2022.03.18)
 - [Feature] Add "Processor Efficiency Upgrade" and "Processing Efficiency" research branch
 - [Feature] Add some new things that can be spawned by a storage capsule
