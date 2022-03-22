@@ -1,3 +1,24 @@
+<b>v0.5.231</b> (2022.03.22)
+- [Audio] Play selection sounds for carrier drones and cleaning bots
+- [UI/UX] Fix Research Tree nodes layout could intersect
+- [UI/UX] Show some details when clicking any reactor's power output in UI
+- [Tech] Update Message Pack (serialization library used in save/load)
+
+
+<b>v0.5.230</b> (2022.03.21)
+- [Feature] Add new types of resources: Crude Oil, Petroleum, Gears, Plastic, Copper Wire, Optical Fiber, Rubber, Transistor
+- [Feature] Add Liquid Processing research branch
+- [Feature] Add Refinery for processing oil
+- [Feature] Add an early-game suggestion to relocate pieces of the Space Suit near your human survivors
+- [Misc] Temporarily remove Leaving Earth scenario
+- [Balance] Change building and crafting requirements for most blueprints
+- [Balance] Reduce the float-apart distance of pieces of the ship in Wrecked scenario
+- [UI/UX] Show owned count when displaying crafting options (excl. beings)
+- [Translations] Include unknown (removed) translation keys to the language report
+- [Bug] Fix "show hints" toggle would change a wrong setting
+- [Bug] Fix "Copy Config" broken on crafter devices since last update
+
+
 <b>v0.5.229</b> (2022.03.19)
 - [Balance] Make equipment and weapons consumable by Matter Reactors
 - [Balance] Processing Efficiency Upgrade will require Titanium Plate instead of Titanium ore
