@@ -1,3 +1,13 @@
+<b>v0.5.232</b> (2022.03.23)
+- [UI/UX] Show appropriate "searching for clothing/weapon/headgear" message and icon when being is looking for equipment
+- [Graphics] Use HDR in game lights to make colors look more vibrant
+- [Graphics] Add gentle cursor light (configurable in video settings)
+- [Balance] Spawn 100x of each new type of resource that was introduced in v0.5.230 when loading an old game save, to make it playable again
+- [Bug] Fix Reactor efficiency never showing above 100%
+- [Bug] Change Vents algorithm to be more realistic. Fixes the constantly increasing heat issue in certain room layouts
+- [Bug] Automatically recover tiles when construction tasks gets missing on load
+
+
 <b>v0.5.231</b> (2022.03.22)
 - [Audio] Play selection sounds for carrier drones and cleaning bots
 - [UI/UX] Fix Research Tree nodes layout could intersect
