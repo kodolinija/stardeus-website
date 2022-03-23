@@ -1,3 +1,12 @@
+<b>v0.5.234</b> (2022.03.23)
+- [Balance] Generate one Assembler when starting a new game
+- [Graphics] Make generated floor lights dimmer
+- [Graphics] Animate human and animal food consumption
+- [UI/UX] Add display of "Next" task to worker brain UI
+- [Bug] Fix AI worker getting stuck when "Next" task source entity would get destroyed
+- [Bug] Fix humans looking naked after they switch from a space suit to regular clothing
+
+
 <b>v0.5.233</b> (2022.03.23)
 - [Balance] Solar panels will require copper wire instead of copper plate
 - [Balance] Doors and vents will contain transistors and copper wire
