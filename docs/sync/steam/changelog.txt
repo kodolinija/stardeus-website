@@ -1,3 +1,13 @@
+<b>v0.5.233</b> (2022.03.23)
+- [Balance] Solar panels will require copper wire instead of copper plate
+- [Balance] Doors and vents will contain transistors and copper wire
+- [Balance] Assemblers will require construction level 4 (was 5)
+- [Balance] Solar Panel Array will require construction level 5 (was 6)
+- [Balance] Reduce electricity consumption and time needed for crafting Copper Wire
+- [UI/UX] Add reservation details in slots UI (toilets, showers, etc.)
+- [Bug] Fix unreachable toilet or shower would remain reserved forever, making all toilets / showers eventually unusable
+
+
 <b>v0.5.232</b> (2022.03.23)
 - [UI/UX] Show appropriate "searching for clothing/weapon/headgear" message and icon when being is looking for equipment
 - [Graphics] Use HDR in game lights to make colors look more vibrant
