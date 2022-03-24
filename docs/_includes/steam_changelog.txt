@@ -1,3 +1,18 @@
+<b>v0.5.235</b> (2022.03.24)
+- [Feature] Auto Kitchen will have an internal storage instead of dumping fresh meals on the floor
+- [Feature] Beings are going to die of old age
+- [Balance] Reduce probability of bomb in a capsule drop
+- [Balance] Spawn more plastic at the beginning of the game
+- [Balance] Loom clothing production will cost 5kW for regular clothing (was 0.1kW)
+- [Balance] Adjust ingredients for space suits and helmets (include new materials)
+- [UI/UX] Add "Switch ON/OFF" buttons to electricity grid producers / consumers / batteries view
+- [UI/UX] Add common action to order cleaning for mass selected cleanable devices (solar panels, toilets, showers, etc.)
+- [UI/UX] Add UI details for beings who are biological clones
+- [UI/UX] Display shorter version of being names when possible
+- [Bug] Fix underaged colonists being spawned looking as adults
+- [Bug] Fix mood effects list in UI not showing multiplier when it has to, and showing X1 when it doesn't
+
+
 <b>v0.5.234</b> (2022.03.23)
 - [Balance] Generate one Assembler when starting a new game
 - [Graphics] Make generated floor lights dimmer
