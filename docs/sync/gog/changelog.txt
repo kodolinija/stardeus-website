@@ -1,3 +1,89 @@
+<b>v0.5.235</b> (2022.03.24)
+- [Feature] Auto Kitchen will have an internal storage instead of dumping fresh meals on the floor
+- [Feature] Beings are going to die of old age
+- [Balance] Reduce probability of bomb in a capsule drop
+- [Balance] Spawn more plastic at the beginning of the game
+- [Balance] Loom clothing production will cost 5kW for regular clothing (was 0.1kW)
+- [Balance] Adjust ingredients for space suits and helmets (include new materials)
+- [UI/UX] Add "Switch ON/OFF" buttons to electricity grid producers / consumers / batteries view
+- [UI/UX] Add common action to order cleaning for mass selected cleanable devices (solar panels, toilets, showers, etc.)
+- [UI/UX] Add UI details for beings who are biological clones
+- [UI/UX] Display shorter version of being names when possible
+- [Bug] Fix underaged colonists being spawned looking as adults
+- [Bug] Fix mood effects list in UI not showing multiplier when it has to, and showing X1 when it doesn't
+
+
+<b>v0.5.234</b> (2022.03.23)
+- [Balance] Generate one Assembler when starting a new game
+- [Graphics] Make generated floor lights dimmer
+- [Graphics] Animate human and animal food consumption
+- [UI/UX] Add display of "Next" task to worker brain UI
+- [Bug] Fix AI worker getting stuck when "Next" task source entity would get destroyed
+- [Bug] Fix humans looking naked after they switch from a space suit to regular clothing
+
+
+<b>v0.5.233</b> (2022.03.23)
+- [Balance] Solar panels will require copper wire instead of copper plate
+- [Balance] Doors and vents will contain transistors and copper wire
+- [Balance] Assemblers will require construction level 4 (was 5)
+- [Balance] Solar Panel Array will require construction level 5 (was 6)
+- [Balance] Reduce electricity consumption and time needed for crafting Copper Wire
+- [UI/UX] Add reservation details in slots UI (toilets, showers, etc.)
+- [Bug] Fix unreachable toilet or shower would remain reserved forever, making all toilets / showers eventually unusable
+
+
+<b>v0.5.232</b> (2022.03.23)
+- [UI/UX] Show appropriate "searching for clothing/weapon/headgear" message and icon when being is looking for equipment
+- [Graphics] Use HDR in game lights to make colors look more vibrant
+- [Graphics] Add gentle cursor light (configurable in video settings)
+- [Balance] Spawn 100x of each new type of resource that was introduced in v0.5.230 when loading an old game save, to make it playable again
+- [Bug] Fix Reactor efficiency never showing above 100%
+- [Bug] Change Vents algorithm to be more realistic. Fixes the constantly increasing heat issue in certain room layouts
+- [Bug] Automatically recover tiles when construction tasks gets missing on load
+
+
+<b>v0.5.231</b> (2022.03.22)
+- [Audio] Play selection sounds for carrier drones and cleaning bots
+- [UI/UX] Fix Research Tree nodes layout could intersect
+- [UI/UX] Show some details when clicking any reactor's power output in UI
+- [Tech] Update Message Pack (serialization library used in save/load)
+
+
+<b>v0.5.230</b> (2022.03.21)
+- [Feature] Add new types of resources: Crude Oil, Petroleum, Gears, Plastic, Copper Wire, Optical Fiber, Rubber, Transistor
+- [Feature] Add Liquid Processing research branch
+- [Feature] Add Refinery for processing oil
+- [Feature] Add an early-game suggestion to relocate pieces of the Space Suit near your human survivors
+- [Misc] Temporarily remove Leaving Earth scenario
+- [Balance] Change building and crafting requirements for most blueprints
+- [Balance] Reduce the float-apart distance of pieces of the ship in Wrecked scenario
+- [UI/UX] Show owned count when displaying crafting options (excl. beings)
+- [Translations] Include unknown (removed) translation keys to the language report
+- [Bug] Fix "show hints" toggle would change a wrong setting
+- [Bug] Fix "Copy Config" broken on crafter devices since last update
+
+
+<b>v0.5.229</b> (2022.03.19)
+- [Balance] Make equipment and weapons consumable by Matter Reactors
+- [Balance] Processing Efficiency Upgrade will require Titanium Plate instead of Titanium ore
+- [Bug] Fix Processing Efficiency Upgrade showing up as Reactor Efficiency Upgrade when installed
+- [Bug] Fix camera numpad memory would get activated when typing numbers with UI open
+- [Bug] Fix multiple beings could have attachments to same bed, leading to various reservation and logic bugs
+- [Bug] Fix attachments would not get removed for dead beings and destroyed entities
+
+
+<b>v0.5.228</b> (2022.03.18)
+- [Feature] Add "Processor Efficiency Upgrade" and "Processing Efficiency" research branch
+- [Feature] Add some new things that can be spawned by a storage capsule
+- [Balance] Planters will require Biowaste as a construction material
+- [Balance] Storage capsule will not spawn 100 clothing items anymore
+- [UI/UX] Pressing Hotbar Build button with something selected would not try to build a copy anymore
+- [Bug] Fix Breach Capsule could be saved in non-detachable state even if combat is not running
+- [Bug] Fix Hotbar Build button would show empty radial wheel submenus if radial menu was not invoked manually first
+- [Bug] Fix expedition bringing back a storage capsule would spawn a capsule shadow somewhere above it
+- [Bug] Fix enemies would go into High Alert combat state, which is meant for home team only
+
+
 <b>v0.5.227</b> (2022.03.17)
 - [Feature] Add "Light Block" device for having a light source alternative to Floor Lights
 - [Feature] Add "Copy Config" to emblems
