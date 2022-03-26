@@ -1,3 +1,19 @@
+<b>v0.5.237</b> (2022.03.26)
+- [Feature] Reintroduce "Leaving Earth" scenario with balance fixes
+- [Bug] Fix aborting an expedition when a member failed to reach it would not remove the expedition controls UI
+- [Bug] Fix failing to save games when save name ended with dot character
+- [Bug] Fix combat potentially getting stuck when there are more than 16 units
+- [Bug] Plants will no longer be movable
+
+
+<b>v0.5.236</b> (2022.03.25)
+- [Graphics] Add transparency support for custom floor tiles
+- [Graphics] Automatically fix door / vent rotation when a new wall is built nearby
+- [Misc] Add Japanese translation by Souzen Yurama
+- [Misc] Redo the "worker forced to be offline" mechanic to allow multiple reasons
+- [Bug] Fixed robots produced in assemblers would have a "clone" tag
+
+
 <b>v0.5.235</b> (2022.03.24)
 - [Feature] Auto Kitchen will have an internal storage instead of dumping fresh meals on the floor
 - [Feature] Beings are going to die of old age
