@@ -1,3 +1,9 @@
+<b>v0.5.238</b> (2022.03.27)
+- [UI/UX] Add electricity production and consumption priority controls for compatible devices
+- [UI/UX] Show last 30 entries of colonist mood history in addition to currently ongoing effects
+- [Misc] Fix several translations after scenario intro text sequence was changed
+
+
 <b>v0.5.237</b> (2022.03.26)
 - [Feature] Reintroduce "Leaving Earth" scenario with balance fixes
 - [Bug] Fix aborting an expedition when a member failed to reach it would not remove the expedition controls UI
