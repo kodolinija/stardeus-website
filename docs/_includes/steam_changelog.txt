@@ -1,3 +1,13 @@
+<b>v0.5.239</b> (2022.03.28)
+- [Balance] Add missing Gears in Leaving Earth scenario
+- [Balance] Change how Particle Collector works normally and during dust storm
+- [Graphics] Make Solar Panels unlit when their output is < 50%
+- [UI/UX] Show Particle Collector progress for currently collected material
+- [UI/UX] Change how items with colors are produced in crafters (clothing items in a Loom)
+- [Bug] Fix internal error happening when viewing task links for an object that is not movable
+- [Bug] Fix some electrical devices background lights not working when needed
+
+
 <b>v0.5.238</b> (2022.03.27)
 - [UI/UX] Add electricity production and consumption priority controls for compatible devices
 - [UI/UX] Show last 30 entries of colonist mood history in addition to currently ongoing effects
