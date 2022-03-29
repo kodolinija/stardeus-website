@@ -1,3 +1,20 @@
+<b>v0.5.240</b> (2022.03.29)
+- [Feature] Replacing walls and floors will not remove the old wall / floor during the task
+- [Feature] Allow disassembling a captured Breach Capsule after raid is over
+- [Balance] Damaged solar panels and reactors will produce less electricity
+- [Balance] Damaged connectors will have less max slots
+- [Balance] Change Space Helmet production electricity cost to 50kW (was 100kW)
+- [Balance] Adjust some market item prices and groups
+- [Balance] Merchants will buy more variety of items than they sell themselves
+- [Balance] Move "Steel Wardrobe" from Advanced Furniture to regular Furniture
+- [Balance] Planters will require Water rather than Biowaste
+- [Performance] Fix possible stutter when walls / floors were deconstructed
+- [UI/UX] Limit input field length
+- [UI/UX] Add a shortcut ("o") to start relocating selected tiles or objects
+- [Bug] Fix clothing items would flood merchant's inventory with color versions and other items would not get generated
+- [Bug] Replacement of a tile (i.e. door or vent) with the same item will not be allowed
+
+
 <b>v0.5.239</b> (2022.03.28)
 - [Balance] Add missing Gears in Leaving Earth scenario
 - [Balance] Change how Particle Collector works normally and during dust storm
