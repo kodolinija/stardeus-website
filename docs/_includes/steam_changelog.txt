@@ -1,3 +1,22 @@
+<b>v0.5.241</b> (2022.03.30)
+- [Feature] Storage Capsule drops will sometimes try to spawn materials you lack
+- [Feature] Make it possible to upgrade / rebuild certain devices (memory modules, connectors) without removing them
+- [Feature] Attempt to keep existing connections when relocating a connector
+- [Balance] Spawn additional 50 Silicon in the beginning of Wrecked Ship and Leaving Earth scenarios
+- [Balance] Adjust production cost and ingredients for Energy Rifle
+- [Balance] Humans will have individualized set of job priorities
+- [Balance] Change production cost of the Storage Unit
+- [Balance] Wood will not be burnable into Coal anymore
+- [Balance] Remove internal job types from worker's UI (Eating, Recharging, Sleeping, etc)
+- [UI/UX] Feedback form will remember the entered text if it was not submitted
+- [UI/UX] Add instructions for selected worker direct orders (Managed Worker > Direct Control)
+- [UI/UX] Do not squash Radial Menu submenus that have only 1 child
+- [Bug] Fix Ship Computer's ghost showing "no research" while pending relocation
+- [Bug] Fix selected being path preview while holding Ctrl / Shift would get stuck or not update
+- [Bug] Fix Radial Menu could show items with no children (i.e. Furniture during tutorial)
+- [Bug] Job types will not show popups with missing translations
+
+
 <b>v0.5.240</b> (2022.03.29)
 - [Feature] Replacing walls and floors will not remove the old wall / floor during the task
 - [Feature] Allow disassembling a captured Breach Capsule after raid is over
