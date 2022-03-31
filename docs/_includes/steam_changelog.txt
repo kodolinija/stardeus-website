@@ -1,3 +1,20 @@
+<b>v0.5.243</b> (2022.03.31)
+- [Feature] Add Recreational activity (low priority) - clean floors
+- [Feature] Add Trait: Enlightened. Enlightened humans will not be able to form any attachments to anything.
+- [Feature] Add Reinforced Emblem Floor tile
+- [Feature] Flight will not get cancelled when Bridge Controls are offline (engines will stop)
+- [Balance] Make engine power consumption equal to actual engine output
+- [Balance] Damaged Particle Collector will collect materials slower
+- [Balance] Spawn some water in the beginning of Wrecked ship scenario
+- [UI/UX] Add more details about replacement tasks in UI
+- [Graphics] Fix Micro Meteor trails rendering below floors
+- [Bug] Fix space traffic could be spawned during the tutorial
+- [Bug] Fix humans would not clean floors
+- [Bug] Fix auto hauling could get triggered on an object that was pending relocation
+- [Bug] Fix Construction Drone missing Recharging job type
+- [Bug] Fix Micro Meteors event notification using the wrong widget type
+
+
 <b>v0.5.242</b> (2022.03.31)
 - [Feature] Add relocation to the Tutorial
 - [Feature] Processing Rock may yield other materials with random chance
