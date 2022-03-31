@@ -1,3 +1,18 @@
+<b>v0.5.242</b> (2022.03.31)
+- [Feature] Add relocation to the Tutorial
+- [Feature] Processing Rock may yield other materials with random chance
+- [Balance] Soil will not spawn on planets anymore
+- [Balance] Spawn more Rock on planets
+- [Balance] Change production ingredients for C42
+- [UI/UX] Improve some parts of the tutorial
+- [Performance] Generate new game scenarios faster
+- [Bug] Fix male clothing now showing color choice in Loom settings
+- [Bug] Fix mood details UI refreshing unnecessarily on every tick
+- [Bug] Fix relocation of unfinished construction was possible via shortcut
+- [Bug] Add more diagnostics and recovery for corner case with expedition member getting stuck in off state
+- [Bug] Fix relocation shortcut would activate even if nothing was selected
+
+
 <b>v0.5.241</b> (2022.03.30)
 - [Feature] Storage Capsule drops will sometimes try to spawn materials you lack
 - [Feature] Make it possible to upgrade / rebuild certain devices (memory modules, connectors) without removing them
