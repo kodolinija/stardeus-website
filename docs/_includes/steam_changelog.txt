@@ -1,3 +1,15 @@
+<b>v0.5.244</b> (2022.04.01)
+- [Feature] Add Codex overlay with an in-game knowledge base
+- [UI/UX] Show existing item counts in Radial Menu
+- [UI/UX] Add new crafting demand type option: One
+- [UI/UX] Add tooltips in crafter configuration UI
+- [Bug] Fix socialization was completely impossible for humans with Introverted trait
+- [Bug] Fix multiple internal errors in various edge cases
+- [Bug] Fix loot generation broken for radioactive planet type
+- [Bug] Fix CPU module showing hard-coded incorrect Thz value from translations file
+- [Bug] Fix some game seeds would generate survivor area with a broken wall
+
+
 <b>v0.5.243</b> (2022.03.31)
 - [Feature] Add Recreational activity (low priority) - clean floors
 - [Feature] Add Trait: Enlightened. Enlightened humans will not be able to form any attachments to anything.
