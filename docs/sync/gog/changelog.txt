@@ -1,3 +1,66 @@
+<b>v0.5.244</b> (2022.04.01)
+- [Feature] Add Codex overlay with an in-game knowledge base
+- [UI/UX] Show existing item counts in Radial Menu
+- [UI/UX] Add new crafting demand type option: One
+- [UI/UX] Add tooltips in crafter configuration UI
+- [Bug] Fix socialization was completely impossible for humans with Introverted trait
+- [Bug] Fix multiple internal errors in various edge cases
+- [Bug] Fix loot generation broken for radioactive planet type
+- [Bug] Fix CPU module showing hard-coded incorrect Thz value from translations file
+- [Bug] Fix some game seeds would generate survivor area with a broken wall
+
+
+<b>v0.5.243</b> (2022.03.31)
+- [Feature] Add Recreational activity (low priority) - clean floors
+- [Feature] Add Trait: Enlightened. Enlightened humans will not be able to form any attachments to anything.
+- [Feature] Add Reinforced Emblem Floor tile
+- [Feature] Flight will not get cancelled when Bridge Controls are offline (engines will stop)
+- [Balance] Make engine power consumption equal to actual engine output
+- [Balance] Damaged Particle Collector will collect materials slower
+- [Balance] Spawn some water in the beginning of Wrecked ship scenario
+- [UI/UX] Add more details about replacement tasks in UI
+- [Graphics] Fix Micro Meteor trails rendering below floors
+- [Bug] Fix space traffic could be spawned during the tutorial
+- [Bug] Fix humans would not clean floors
+- [Bug] Fix auto hauling could get triggered on an object that was pending relocation
+- [Bug] Fix Construction Drone missing Recharging job type
+- [Bug] Fix Micro Meteors event notification using the wrong widget type
+
+
+<b>v0.5.242</b> (2022.03.31)
+- [Feature] Add relocation to the Tutorial
+- [Feature] Processing Rock may yield other materials with random chance
+- [Balance] Soil will not spawn on planets anymore
+- [Balance] Spawn more Rock on planets
+- [Balance] Change production ingredients for C42
+- [UI/UX] Improve some parts of the tutorial
+- [Performance] Generate new game scenarios faster
+- [Bug] Fix male clothing now showing color choice in Loom settings
+- [Bug] Fix mood details UI refreshing unnecessarily on every tick
+- [Bug] Fix relocation of unfinished construction was possible via shortcut
+- [Bug] Add more diagnostics and recovery for corner case with expedition member getting stuck in off state
+- [Bug] Fix relocation shortcut would activate even if nothing was selected
+
+
+<b>v0.5.241</b> (2022.03.30)
+- [Feature] Storage Capsule drops will sometimes try to spawn materials you lack
+- [Feature] Make it possible to upgrade / rebuild certain devices (memory modules, connectors) without removing them
+- [Feature] Attempt to keep existing connections when relocating a connector
+- [Balance] Spawn additional 50 Silicon in the beginning of Wrecked Ship and Leaving Earth scenarios
+- [Balance] Adjust production cost and ingredients for Energy Rifle
+- [Balance] Humans will have individualized set of job priorities
+- [Balance] Change production cost of the Storage Unit
+- [Balance] Wood will not be burnable into Coal anymore
+- [Balance] Remove internal job types from worker's UI (Eating, Recharging, Sleeping, etc)
+- [UI/UX] Feedback form will remember the entered text if it was not submitted
+- [UI/UX] Add instructions for selected worker direct orders (Managed Worker > Direct Control)
+- [UI/UX] Do not squash Radial Menu submenus that have only 1 child
+- [Bug] Fix Ship Computer's ghost showing "no research" while pending relocation
+- [Bug] Fix selected being path preview while holding Ctrl / Shift would get stuck or not update
+- [Bug] Fix Radial Menu could show items with no children (i.e. Furniture during tutorial)
+- [Bug] Job types will not show popups with missing translations
+
+
 <b>v0.5.240</b> (2022.03.29)
 - [Feature] Replacing walls and floors will not remove the old wall / floor during the task
 - [Feature] Allow disassembling a captured Breach Capsule after raid is over
