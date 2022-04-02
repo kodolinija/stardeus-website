@@ -1,3 +1,9 @@
+<b>v0.5.245</b> (2022.04.02)
+- [Feature] Add the initial version of the Operations Manual (inside Codex)
+- [Balance] Make Emblems not difficult to walk over
+- [Bug] Fix tutorial getting stuck on repair step if there was no bed found for relocation step
+
+
 <b>v0.5.244</b> (2022.04.01)
 - [Feature] Add Codex overlay with an in-game knowledge base
 - [UI/UX] Show existing item counts in Radial Menu
