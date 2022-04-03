@@ -1,3 +1,20 @@
+<b>v0.5.246</b> (2022.04.03)
+- [Feature] Add more content to Codex > Operations Manual
+- [Feature] Add custom walking difficulty slider to Emblem configuration UI
+- [Feature] Add Factions list to Codex
+- [Graphics] Fix Walking Difficulty overlay showing incorrect colors
+- [Balance] Generate more Oil on planets
+- [Balance] Add a Merchant type that will trade Oil and its products
+- [Bug] Fix several internal errors
+- [Bug] Fix Codex > Operations Manual button was missing in build
+
+
+<b>v0.5.245</b> (2022.04.02)
+- [Feature] Add the initial version of the Operations Manual (inside Codex)
+- [Balance] Make Emblems not difficult to walk over
+- [Bug] Fix tutorial getting stuck on repair step if there was no bed found for relocation step
+
+
 <b>v0.5.244</b> (2022.04.01)
 - [Feature] Add Codex overlay with an in-game knowledge base
 - [UI/UX] Show existing item counts in Radial Menu
