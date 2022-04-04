@@ -1,3 +1,11 @@
+<b>v0.5.247</b> (2022.04.04)
+- [Feature] Generate more interesting ships
+- [Feature] Add new types of floor tiles
+- [UX/UI] Show Research and Starmap shortcuts in overlay tooltips
+- [UX/UI] Hide Radial Menu when opening a full screen overlay (Starmap, Research)
+- [Bug] Fix emblems having 100% custom walking difficulty by default
+
+
 <b>v0.5.246</b> (2022.04.03)
 - [Feature] Add more content to Codex > Operations Manual
 - [Feature] Add custom walking difficulty slider to Emblem configuration UI
