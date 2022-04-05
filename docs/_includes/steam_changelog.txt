@@ -1,3 +1,11 @@
+<b>v0.5.248</b> (2022.04.05)
+- [Feature] Add Quantum Barrier device that generates a force field to protect from asteroids and meteors
+- [Feature] Add Force Fields research branch (under Quantum Mechanics)
+- [Feature] Add automatic suggestion to disassemble a reclaimed Breach Capsule
+- [Bug] Fix socializing with enlightened humans would cause internal errors when trying to form attachments
+- [Bug] Fix Micro Meteor trails invisible
+
+
 <b>v0.5.247</b> (2022.04.04)
 - [Feature] Generate more interesting ships
 - [Feature] Add new types of floor tiles
