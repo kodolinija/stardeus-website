@@ -1,3 +1,10 @@
+<b>v0.5.249</b> (2022.04.07)
+- [Graphics] Display space objects in-game (work in progress)
+- [Graphics] Redo planets, stars, black holes, systems and galaxies looks in Starmap
+- [Bug] Fix emerging through a black hole could get us back to old galaxy if we changed Starmap scope to Universe and back
+- [Bug] Fix changing Starmap scope to Universe and back would emerge us near the Black Hole instead of last position
+
+
 <b>v0.5.248</b> (2022.04.05)
 - [Feature] Add Quantum Barrier device that generates a force field to protect from asteroids and meteors
 - [Feature] Add Force Fields research branch (under Quantum Mechanics)
