@@ -1,3 +1,8 @@
+<b>v0.5.250</b> (2022.04.07)
+- [Bug] Fix Unity stripping new starmap shaders as they are not linked in compile time (white squares)
+- [Graphics] Make shuttles appear small in background above planets
+
+
 <b>v0.5.249</b> (2022.04.07)
 - [Graphics] Display space objects in-game (work in progress)
 - [Graphics] Redo planets, stars, black holes, systems and galaxies looks in Starmap
