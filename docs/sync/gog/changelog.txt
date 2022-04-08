@@ -1,3 +1,7 @@
+<b>v0.5.251</b> (2022.04.08)
+- [Bug] Hotfix for game getting stuck in loading screen if Texture Quality setting was default
+
+
 <b>v0.5.250</b> (2022.04.07)
 - [Bug] Fix Unity stripping new starmap shaders as they are not linked in compile time (white squares)
 - [Graphics] Make shuttles appear small in background above planets
