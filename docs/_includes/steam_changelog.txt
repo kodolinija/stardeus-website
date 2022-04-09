@@ -1,3 +1,12 @@
+<b>v0.5.252</b> (2022.04.09)
+- [Feature] Add Winch Hook and Winch Anchor devices
+- [Feature] Add Winch Research branch
+- [Feature] Implement moving disconnected sections using Winch Hook + Anchor
+- [Feature] Add Winch section to Operations Manual
+- [Graphics] Fix space object visually sliding into position right after load
+- [Bug] Fix shuttle visuals not disappearing from the starfield while shuttle is landing on base
+
+
 <b>v0.5.251</b> (2022.04.08)
 - [Bug] Hotfix for game getting stuck in loading screen if Texture Quality setting was default
 
