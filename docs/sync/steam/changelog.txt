@@ -1,3 +1,12 @@
+<b>v0.5.254</b> (2022.04.11)
+- [Feature] Add Probe device for launching probes to scan distant planets
+- [Feature] Add Probe research branch
+- [Graphics] Add smoke trail effects to Capsules, Meteors, Shuttles, etc
+- [Bug] Fix nearby merchant ship constantly changing direction if your ship moves
+- [Bug] Fix mods not loading non-english translations
+- [Bug] Fix text input popup widget would not close after submitting the input with Enter/Return
+
+
 <b>v0.5.253</b> (2022.04.10)
 - [Balance] Make Winch Hook and Anchor cheaper to research and build
 - [Bug] Fix possible graphics glitch after winching
