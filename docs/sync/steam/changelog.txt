@@ -1,3 +1,12 @@
+<b>v0.5.256</b> (2022.04.13)
+- [Feature] Add Telescope device that can find a terraformable planet (for end goal)
+- [Feature] Add Telescope research branch
+- [UI/UX] Update the "End Goal" section of the Operations Manual
+- [Bug] Fix merchants in ships not starting trades anymore
+- [Bug] Fix Search popup not showing up in Research Tree
+- [Bug] Fix relocating the bed to the same spot in the tutorial would lock tutorial from progressing
+
+
 <b>v0.5.255</b> (2022.04.12)
 - [Feature] Add AutoDoc device for patching up biological damage
 - [Feature] Add AutoDoc research branch
