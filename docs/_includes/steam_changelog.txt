@@ -1,3 +1,16 @@
+<b>v0.5.257</b> (2022.04.16)
+- [Feature] Add Terraforming Controls device for running terraforming operations
+- [Feature] Add Atmosphere Generator device for terraforming planets
+- [Feature] Add Biosphere Generator device for terraforming planets
+- [Feature] Add Ocean Generator device for terraforming planets
+- [Feature] Add Terrain Generator device for terraforming planets
+- [Feature] Add Terraforming research branch
+- [Feature] Add new craftable materials required for terraforming: AtmosphereMix, OrganicTurf, BioEnrichedWater, MultiFertilizer
+- [Feature] Allow growing Protein in Cloning Pod
+- [Graphics] Improve glass floor and window reflections
+- [UI/UX] Show fuel type in all refillable devices when hovering them
+
+
 <b>v0.5.256</b> (2022.04.13)
 - [Feature] Add Telescope device that can find a terraformable planet (for end goal)
 - [Feature] Add Telescope research branch
