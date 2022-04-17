@@ -1,3 +1,9 @@
+<b>v0.5.258</b> (2022.04.17)
+- [Balance] Remove Battery Overload sub-events that end up with robots dying (except for Challenging difficulty)
+- [UI/UX] Notify about malformed translations when loading definitions with template variables
+- [Bug] Hotfix universe fails to generate for a new game
+
+
 <b>v0.5.257</b> (2022.04.16)
 - [Feature] Add Terraforming Controls device for running terraforming operations
 - [Feature] Add Atmosphere Generator device for terraforming planets
