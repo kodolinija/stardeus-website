@@ -1,3 +1,10 @@
+<b>v0.5.259</b> (2022.04.17)
+- [Feature] Add "Colonize" option to settle your colony on a terraformed planet
+- [Feature] Add end credits screen
+- [Bug] Fix flight between galaxies would take forever
+- [Bug] Fix Starmap targeting broken in Universe layer
+
+
 <b>v0.5.258</b> (2022.04.17)
 - [Balance] Remove Battery Overload sub-events that end up with robots dying (except for Challenging difficulty)
 - [UI/UX] Notify about malformed translations when loading definitions with template variables
