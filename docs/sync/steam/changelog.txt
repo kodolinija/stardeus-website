@@ -1,3 +1,13 @@
+<b>v0.5.260</b> (2022.04.18)
+- [Feature] Fluid cannon filled with Petroleum will shoot incendiary bullets
+- [Balance] Allow terraforming materials to be used by Matter Reactors and Fluid Cannons
+- [Balance] When forcing a direct order (ctrl+click) on a task that is already assigned to another worker, reassign the task
+- [Bug] Fix "Generate Validity Report" in Language settings would only work after switching to another language
+- [Bug] Fix Terraformers would allow being configured using any type of fuel
+- [Bug] Fix Fluid Cannon filled with Water would not hit floors that are on fire
+- [Bug] Fix some issues with AI task assignment logic related to firefighting
+
+
 <b>v0.5.259</b> (2022.04.17)
 - [Feature] Add "Colonize" option to settle your colony on a terraformed planet
 - [Feature] Add end credits screen
