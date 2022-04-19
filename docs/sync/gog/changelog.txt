@@ -1,3 +1,77 @@
+<b>v0.5.261</b> (2022.04.19)
+- [Balance] Improve firefighting system
+- [Balance] Make Directional Turret store more shots and shoot bullets faster
+- [Balance] When an object on fire is extinguished, prevent it from cathing on fire again for 15 minutes (simulation time)
+- [Misc] Detect malformed variables when validating translations
+- [UI/UX] Explain Winch failures instead of hiding "Reel In" options
+- [UI/UX] Don't show the terraforming progress bar on Terraformer devices as it was conflicting with fuel bar
+- [Bug] Fix Fluid Cannon not able to extinguish fire properly on small objects (i.e. plants)
+- [Bug] Fix Stasis Array would not produce electricity after conversion to The Matrix (until save/load)
+
+
+<b>v0.5.260</b> (2022.04.18)
+- [Feature] Fluid cannon filled with Petroleum will shoot incendiary bullets
+- [Balance] Allow terraforming materials to be used by Matter Reactors and Fluid Cannons
+- [Balance] When forcing a direct order (ctrl+click) on a task that is already assigned to another worker, reassign the task
+- [Bug] Fix "Generate Validity Report" in Language settings would only work after switching to another language
+- [Bug] Fix Terraformers would allow being configured using any type of fuel
+- [Bug] Fix Fluid Cannon filled with Water would not hit floors that are on fire
+- [Bug] Fix some issues with AI task assignment logic related to firefighting
+
+
+<b>v0.5.259</b> (2022.04.17)
+- [Feature] Add "Colonize" option to settle your colony on a terraformed planet
+- [Feature] Add end credits screen
+- [Bug] Fix flight between galaxies would take forever
+- [Bug] Fix Starmap targeting broken in Universe layer
+
+
+<b>v0.5.258</b> (2022.04.17)
+- [Balance] Remove Battery Overload sub-events that end up with robots dying (except for Challenging difficulty)
+- [UI/UX] Notify about malformed translations when loading definitions with template variables
+- [Bug] Hotfix universe fails to generate for a new game
+
+
+<b>v0.5.257</b> (2022.04.16)
+- [Feature] Add Terraforming Controls device for running terraforming operations
+- [Feature] Add Atmosphere Generator device for terraforming planets
+- [Feature] Add Biosphere Generator device for terraforming planets
+- [Feature] Add Ocean Generator device for terraforming planets
+- [Feature] Add Terrain Generator device for terraforming planets
+- [Feature] Add Terraforming research branch
+- [Feature] Add new craftable materials required for terraforming: AtmosphereMix, OrganicTurf, BioEnrichedWater, MultiFertilizer
+- [Feature] Allow growing Protein in Cloning Pod
+- [Graphics] Improve glass floor and window reflections
+- [UI/UX] Show fuel type in all refillable devices when hovering them
+
+
+<b>v0.5.256</b> (2022.04.13)
+- [Feature] Add Telescope device that can find a terraformable planet (for end goal)
+- [Feature] Add Telescope research branch
+- [UI/UX] Update the "End Goal" section of the Operations Manual
+- [Bug] Fix merchants in ships not starting trades anymore
+- [Bug] Fix Search popup not showing up in Research Tree
+- [Bug] Fix relocating the bed to the same spot in the tutorial would lock tutorial from progressing
+
+
+<b>v0.5.255</b> (2022.04.12)
+- [Feature] Add AutoDoc device for patching up biological damage
+- [Feature] Add AutoDoc research branch
+- [Bug] Fix winching would break heaters and oxygen pumps
+- [Bug] Fix relocating anything with refillable storage (reactors, fluid cannons) would lose the fuel
+- [Bug] Fix winching would leave Ship Computer's research particles in old location
+- [Bug] Fix UI pagination sometimes not showing last couple of items
+
+
+<b>v0.5.254</b> (2022.04.11)
+- [Feature] Add Probe device for launching probes to scan distant planets
+- [Feature] Add Probe research branch
+- [Graphics] Add smoke trail effects to Capsules, Meteors, Shuttles, etc
+- [Bug] Fix nearby merchant ship constantly changing direction if your ship moves
+- [Bug] Fix mods not loading non-english translations
+- [Bug] Fix text input popup widget would not close after submitting the input with Enter/Return
+
+
 <b>v0.5.253</b> (2022.04.10)
 - [Balance] Make Winch Hook and Anchor cheaper to research and build
 - [Bug] Fix possible graphics glitch after winching
