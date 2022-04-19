@@ -1,3 +1,14 @@
+<b>v0.5.261</b> (2022.04.19)
+- [Balance] Improve firefighting system
+- [Balance] Make Directional Turret store more shots and shoot bullets faster
+- [Balance] When an object on fire is extinguished, prevent it from cathing on fire again for 15 minutes (simulation time)
+- [Misc] Detect malformed variables when validating translations
+- [UI/UX] Explain Winch failures instead of hiding "Reel In" options
+- [UI/UX] Don't show the terraforming progress bar on Terraformer devices as it was conflicting with fuel bar
+- [Bug] Fix Fluid Cannon not able to extinguish fire properly on small objects (i.e. plants)
+- [Bug] Fix Stasis Array would not produce electricity after conversion to The Matrix (until save/load)
+
+
 <b>v0.5.260</b> (2022.04.18)
 - [Feature] Fluid cannon filled with Petroleum will shoot incendiary bullets
 - [Balance] Allow terraforming materials to be used by Matter Reactors and Fluid Cannons
