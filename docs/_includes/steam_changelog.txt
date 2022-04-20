@@ -1,3 +1,9 @@
+<b>v0.5.262</b> (2022.04.20)
+- [Balance] Significantly reduce Terraformer material consumption
+- [Bug] Fix freshly spawned beings not showing part of sprites if directional are split across different atlas pages
+- [Bug] Fix several small internal errors in edge cases
+
+
 <b>v0.5.261</b> (2022.04.19)
 - [Balance] Improve firefighting system
 - [Balance] Make Directional Turret store more shots and shoot bullets faster
