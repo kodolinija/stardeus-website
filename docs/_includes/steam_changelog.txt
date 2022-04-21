@@ -1,3 +1,13 @@
+<b>v0.5.263</b> (2022.04.21)
+- [Balance] Require Manufacturing research to produce Optical Fiber
+- [Bug] Fix Winching would make certain tasks impossible until next save/load due to pathfinding issues
+- [Bug] Fix generating maps with same seed would produce a slightly different result due to variations in structural damage
+- [Bug] Fix missing "Steel Bed" translation
+- [Bug] Fix relocating a cleanable device (toilet, shower, solar panel) would reset the dirt state
+- [Bug] Fix cleanable devices would lose accumulated dirt amount when loading the game
+- [Bug] Prevent plants appearing with incorrect offsets when loading a save
+
+
 <b>v0.5.262</b> (2022.04.20)
 - [Balance] Significantly reduce Terraformer material consumption
 - [Bug] Fix freshly spawned beings not showing part of sprites if directional are split across different atlas pages
