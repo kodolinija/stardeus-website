@@ -1,3 +1,11 @@
+<b>v0.5.264</b> (2022.04.22)
+- [Feature] Add Beta Wave Transceiver for colonist mind control
+- [Feature] Add Mind Control research branch
+- [Feature] Add trait Beta Wave Resistent that would make a colonist resistent to mind control
+- [UI/UX] Improve Research Tree auto layout
+- [UI/UX] Add operations manual entry for Camera Memory and Mind Control
+
+
 <b>v0.5.263</b> (2022.04.21)
 - [Balance] Require Manufacturing research to produce Optical Fiber
 - [Bug] Fix Winching would make certain tasks impossible until next save/load due to pathfinding issues
