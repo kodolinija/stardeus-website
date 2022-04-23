@@ -1,3 +1,18 @@
+<b>v0.5.265</b> (2022.04.23)
+- [Balance] Generate more inhabitants in Stasis Array
+- [Feature] Add Modifiers system for starting new game with a set of challenges (modable)
+- [Feature] Add "No Pause" modifier
+- [Feature] Add "Resource Multiplier" modifier
+- [UI/UX] Move "Map Size" and "Ship Size" into modifiers
+- [UI/UX] Move "No Reload" save load mode into modifiers
+- [UI/UX] Turn "Enable Combat" new game setting into a modifier
+- [UI/UX] Remember last selected Radial Menu top level item
+- [Bug] Fix survivor area would generate in slightly different location from same seed
+- [Bug] Fix removing an unbuilt Beta Wave Transceiver would reset beta wave synchronization to zero
+- [Bug] Fix Radial Menu always selecting the 12 o'clock item when drilling into submenus
+- [Bug] Fix Emblem objects allowing to select sprites with dynamically generated rotations
+
+
 <b>v0.5.264</b> (2022.04.22)
 - [Feature] Add Beta Wave Transceiver for colonist mind control
 - [Feature] Add Mind Control research branch
