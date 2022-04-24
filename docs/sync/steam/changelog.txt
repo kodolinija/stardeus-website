@@ -1,3 +1,11 @@
+<b>v0.5.266</b> (2022.04.24)
+- [Feature] Add Achievements system and dozens of initial achievements
+- [UI/UX] List all achievements in Codex overlay
+- [UI/UX] List all achievements in Main Menu
+- [UI/UX] Add option to disable achievements
+- [Bug] Fix terraforming progress slowing down if more than one terraformable planet was discovered
+
+
 <b>v0.5.265</b> (2022.04.23)
 - [Balance] Generate more inhabitants in Stasis Array
 - [Feature] Add Modifiers system for starting new game with a set of challenges (modable)
