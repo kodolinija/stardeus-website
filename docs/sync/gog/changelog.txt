@@ -1,3 +1,52 @@
+<b>v0.5.267</b> (2022.04.25)
+- [Feature] Add Sentry Drone - a security drone built for combat operations
+- [Balance] Increase Robot health to 150
+- [Performance] Optimize electricity grid rebuild performance
+- [UI/UX] When displaying percentages in UI, never show 100% while the value is lower than 100%;
+- [UI/UX] Add a Chart toggle button for Electricity overlay
+- [UI/UX] Add details display for disconnected sub grids
+- [UI/UX] When showing sub grid details, show visual connections only for that subgrid
+- [UI/UX] Improve electricity grid details UI
+- [Bug] Fix complex electricity grids (thousands of devices) could lead to incorrect subgrid divisions
+- [Bug] Fix colonizing a planet during an expedition or combat would get the game into an inconsistent state
+- [Bug] Fix colonizing a planet would unlock an achievement for destroying the Stasis Array
+- [Bug] Fix being particles not getting removed when beings are sent to a colonized planet
+- [Bug] Fix colonizing a planet with a paused time would not begin until time flow is resumed
+- [Bug] Prevent auto save during the planet colonization phase
+- [Bug] Fix pathfinding target change would make a being go back to the center of the current tile before moving on
+
+
+<b>v0.5.266</b> (2022.04.24)
+- [Feature] Add Achievements system and dozens of initial achievements
+- [UI/UX] List all achievements in Codex overlay
+- [UI/UX] List all achievements in Main Menu
+- [UI/UX] Add option to disable achievements
+- [Bug] Fix terraforming progress slowing down if more than one terraformable planet was discovered
+
+
+<b>v0.5.265</b> (2022.04.23)
+- [Balance] Generate more inhabitants in Stasis Array
+- [Feature] Add Modifiers system for starting new game with a set of challenges (modable)
+- [Feature] Add "No Pause" modifier
+- [Feature] Add "Resource Multiplier" modifier
+- [UI/UX] Move "Map Size" and "Ship Size" into modifiers
+- [UI/UX] Move "No Reload" save load mode into modifiers
+- [UI/UX] Turn "Enable Combat" new game setting into a modifier
+- [UI/UX] Remember last selected Radial Menu top level item
+- [Bug] Fix survivor area would generate in slightly different location from same seed
+- [Bug] Fix removing an unbuilt Beta Wave Transceiver would reset beta wave synchronization to zero
+- [Bug] Fix Radial Menu always selecting the 12 o'clock item when drilling into submenus
+- [Bug] Fix Emblem objects allowing to select sprites with dynamically generated rotations
+
+
+<b>v0.5.264</b> (2022.04.22)
+- [Feature] Add Beta Wave Transceiver for colonist mind control
+- [Feature] Add Mind Control research branch
+- [Feature] Add trait Beta Wave Resistent that would make a colonist resistent to mind control
+- [UI/UX] Improve Research Tree auto layout
+- [UI/UX] Add operations manual entry for Camera Memory and Mind Control
+
+
 <b>v0.5.263</b> (2022.04.21)
 - [Balance] Require Manufacturing research to produce Optical Fiber
 - [Bug] Fix Winching would make certain tasks impossible until next save/load due to pathfinding issues
