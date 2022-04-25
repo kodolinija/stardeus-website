@@ -1,3 +1,21 @@
+<b>v0.5.267</b> (2022.04.25)
+- [Feature] Add Sentry Drone - a security drone built for combat operations
+- [Balance] Increase Robot health to 150
+- [Performance] Optimize electricity grid rebuild performance
+- [UI/UX] When displaying percentages in UI, never show 100% while the value is lower than 100%;
+- [UI/UX] Add a Chart toggle button for Electricity overlay
+- [UI/UX] Add details display for disconnected sub grids
+- [UI/UX] When showing sub grid details, show visual connections only for that subgrid
+- [UI/UX] Improve electricity grid details UI
+- [Bug] Fix complex electricity grids (thousands of devices) could lead to incorrect subgrid divisions
+- [Bug] Fix colonizing a planet during an expedition or combat would get the game into an inconsistent state
+- [Bug] Fix colonizing a planet would unlock an achievement for destroying the Stasis Array
+- [Bug] Fix being particles not getting removed when beings are sent to a colonized planet
+- [Bug] Fix colonizing a planet with a paused time would not begin until time flow is resumed
+- [Bug] Prevent auto save during the planet colonization phase
+- [Bug] Fix pathfinding target change would make a being go back to the center of the current tile before moving on
+
+
 <b>v0.5.266</b> (2022.04.24)
 - [Feature] Add Achievements system and dozens of initial achievements
 - [UI/UX] List all achievements in Codex overlay
