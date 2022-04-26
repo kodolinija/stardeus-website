@@ -1,3 +1,19 @@
+<b>v0.5.268</b> (2022.04.26)
+- [UI/UX] Improve auto scaling for screens with unreported DPI (Steam Deck)
+- [UI/UX] Show only controller glyphs when controller is in use
+- [UI/UX] Change default controller bindings to include Shift and Ctrl modifier
+- [UI/UX] Improve fonts readability
+- [UI/UX] When applying repair limit of 25 tiles in tutorial, check the number of tiles, not the drag rect size
+- [UI/UX] Prevent wrong type of research from being started during the tutorial
+- [UI/UX] Improve research tutorial guidelines if research tree is closed without starting the required research
+- [UI/UX] Add Steam Controller glyphs for Steam Deck
+- [UI/UX] Hide keyboard controls in input settings when controller is in use
+- [Bug] Fix resetting input settings would not reset the invert UI option
+- [Bug] Fix tutorial impossible to complete with controller alone
+- [Bug] Fix cat riding a bot achievement getting unlocked while cat is still chasing the bot
+- [Bug] Fix saving / loading near the end of the tutorial could resume the tutorial without instructions what to do
+
+
 <b>v0.5.267</b> (2022.04.25)
 - [Feature] Add Sentry Drone - a security drone built for combat operations
 - [Balance] Increase Robot health to 150
