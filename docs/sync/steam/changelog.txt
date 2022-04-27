@@ -1,3 +1,10 @@
+<b>v0.5.269</b> (2022.04.27)
+- [UI/UX] Change controller left stick press binding from Cycle Tool Mode to Rotate
+- [UI/UX] Show virtual keyboard automatically when selecting an input field in Steam Deck or Steam Big Screen mode
+- [UI/UX] Show a copy of input field above the virtual keyboard on Steam Deck, as keyboard often covers the input
+- [Bug] Detect gamepad flavor correctly
+
+
 <b>v0.5.268</b> (2022.04.26)
 - [UI/UX] Improve auto scaling for screens with unreported DPI (Steam Deck)
 - [UI/UX] Show only controller glyphs when controller is in use
