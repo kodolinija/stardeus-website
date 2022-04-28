@@ -1,3 +1,15 @@
+<b>v0.5.270</b> (2022.04.28)
+- [Feature] Synchronize local and Steam Achievements
+- [Feature] Replace Millionaire achievement with 5 different money related achievements
+- [UI/UX] Create custom locked/unlocked images for each achievement
+- [UI/UX] Show big achievement images in UI
+- [UI/UX] Improve formatting on some of the in-game tooltips
+- [UI/UX] Warn about low battery on your gaming device
+- [UI/UX] Automatically pause when Steam overlay is open
+- [Bug] Fix Fluid Cannon water bullets not going through objects
+- [Bug] Fix some controller glyphs appearing in incorrect positions
+
+
 <b>v0.5.269</b> (2022.04.27)
 - [UI/UX] Change controller left stick press binding from Cycle Tool Mode to Rotate
 - [UI/UX] Show virtual keyboard automatically when selecting an input field in Steam Deck or Steam Big Screen mode
