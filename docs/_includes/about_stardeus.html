@@ -20,17 +20,19 @@
         {% include screenshot.html id='Stardeus0007.jpg' name='Stardeus Screenshot' %}
     </div>
 
-    <div class="unit whole">
-      <h2>Game Systems</h2>
-      <p>
-          In Stardeus, many different systems are working independently to achieve a deep and complex simulation that produces emergent situations and surprising results. The game architecture allows creating and injecting new systems through mods.
-      </p>
-      <p>
-        You can explore <a href="https://kodolinija.github.io/stardeus-graphs/gameplay-3d/">this interactive graph</a> to see what systems are already working in the simulation.
-      </p>
-      <a href="https://kodolinija.github.io/stardeus-graphs/gameplay-3d/">
-          <img src="{{ 'img/graph.jpg' | relative_url }}" alt="Stardeus Gameplay Graph">
-      </a>
+    <div class="unit half">
+    <h2>Game Systems</h2>
+    <p>
+        In Stardeus, many different systems are working independently to achieve a deep and complex simulation that produces emergent situations and surprising results. The game architecture allows creating and injecting new systems through mods.
+    </p>
+    </div>
+    <div class="unit half">
+    <p>
+        You can explore <a href="https://kodolinija.github.io/stardeus-graphs/research-3d/">this interactive graph</a> of Stardeus research tree.
+    </p>
+    <a href="https://kodolinija.github.io/stardeus-graphs/research-3d/">
+        <img src="{{ 'img/research.jpg' | relative_url }}" alt="Stardeus Research Tree">
+    </a>
     </div>
 
     <div class="unit whole">
@@ -201,6 +203,16 @@ While electricity is very important, there are multiple creative ways to produce
             More threats and ways to mitigate them will be added as the game evolves.
         </p>
         {% include screenshot.html id='Stardeus0003.jpg' name='Stardeus Screenshot' %}
+    </div>
+
+    <div class="unit half">
+        <h2>Weapons and Combat</h2>
+        <p>
+            The wealth you accumulate on your ship will attract raiders. You can produce weapons and setup automated defenses
+            to fight the boarding parties.
+        </p>
+
+       {% include screenshot.html id='Stardeus0044.jpg' name='Stardeus Screenshot' %}
     </div>
 
     <div class="unit half">
@@ -460,8 +472,16 @@ This feedback form proved to be extremely useful to reproduce bugs in closed pla
     <div class="unit half">
       <h2>Steam Deck Support</h2>
       <p>
-        Controller support was one of the initial design goals for Stardeus, making it a perfect match for the Steam Deck. Native Linux builds and obsessive performance tuning will let you enjoy Stardeus on the go to the fullest, no matter how big your colony gets.
-    </p>
+          Stardeus is well tested and works great on Steam Deck:
+          <ul>
+              <li>Controller support was one of the initial design goals before Steam Deck was announced, not an afterthought.</li>
+              <li>Scalable UI with crisp, well readable fonts.</li>
+              <li>Virtual keyboard will show up automatically when input fields are selected.</li>
+              <li>Will display controller glyphs</li>
+              <li>Native Linux builds with obsessive performance tuning makes Stardeus run at 60 FPS regardless of the size of your ship.</li>
+          </ul>
+
+      </p>
         {% include screenshot.html id='StardeusSteamDeck.jpg' name='Stardeus on Steam Deck' %}
     </div>
 
