@@ -1,19 +1,11 @@
-Welcome to Stardeus Demo
+Welcome to Stardeus
 https://stardeusgame.com Open stardeusgame.com
-2021-12-11
-
-FOR RADEON RX CARD OWNERS!
-If you see glitchy view, go to Settings > Video and set Nebulas to Realtime or OFF!
-
-
-Hey Space Travelers,
-
-It's the Holiday season - Stardeus Demo is going to be available for a while.
+2022-03-11
 
 If you encounter any issues or have a suggestion, use the "Send Feedback" button.
 
-If you have any questions, visit [url=https://discord.com/invite/89amEwP]Stardeus Discord[/url]
+If you have any questions, visit [url=https://discord.com/invite/89amEwP]Stardeus Discord[/url].
 
-Happy upcoming 2022, and I hope you have a great time in Stardeus universe!
+Catch the live development streams on [url=https://twitch.tv/dev_spajus]twitch.tv/dev_spajus[/url].
 
-- Spajus
+I hope you have a great time in Stardeus universe!
