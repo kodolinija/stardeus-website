@@ -1,4 +1,7 @@
 <b>v0.5.271</b> (2022.04.30)
+- [Feature] Add Security Console to control all security devices at once
+- [Audio] Change Assembler and Auto Kitchen SFX
+- [AUdio] Add new OST track
 - [Bug] Fix first instance of text input popup would execute game key bindings when typing
 
 
