@@ -1,11 +1,11 @@
 Welcome to Stardeus
 https://stardeusgame.com Open stardeusgame.com
-2022-03-11
+2021-10-20
 
 If you encounter any issues or have a suggestion, use the "Send Feedback" button.
 
-If you have any questions, visit [url=https://discord.com/invite/89amEwP]Stardeus Discord[/url].
-
-Catch the live development streams on [url=https://twitch.tv/dev_spajus]twitch.tv/dev_spajus[/url].
+If you have any questions, visit [url=https://discord.com/invite/89amEwP]Stardeus Discord[/url]
 
 I hope you have a great time in Stardeus universe!
+
+Spajus

@@ -1,3 +1,16 @@
+<b>v0.5.271</b> (2022.05.02)
+- [Feature] Add Security Controls overlay to control all security devices at once
+- [Feature] Add Security Controls device and research branch
+- [UI/UX] Add huge labels next to root items in Research Tree
+- [UI/UX] Show device battery level when hovering the clock
+- [UI/UX] Virtual mouse cursor will now pan Research / Starmap view when pushing the edges
+- [Audio] Change Assembler and Auto Kitchen SFX
+- [AUdio] Add new OST track
+- [Bug] Fix first instance of text input popup would execute game key bindings when typing
+- [Bug] Fix Steam Achievements synchronizing with local ones with incorrect unlock date
+- [Bug] Fix controller edge pan activating on the map when game was paused or in Research / Starmap
+
+
 <b>v0.5.270</b> (2022.04.28)
 - [Feature] Synchronize local and Steam Achievements
 - [Feature] Replace Millionaire achievement with 5 different money related achievements
