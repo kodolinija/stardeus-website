@@ -1,3 +1,14 @@
+<b>v0.5.272</b> (2022.05.04)
+- [Tech] Upgrade Unity to 2021.3.1f1
+- [Balance] Humans and pets will seek recreational activities more frequently
+- [Feature] Add Treadmill device and research node
+- [Bug] Fix Radial menu not rebuilding if necessary when invoked through B shortcut
+- [Bug] Fix potential crash when warming up Vulcan shares on Linux
+- [Bug] Fix game modifiers menu failing to create all buttons when Sandbox scenario was selected
+- [Bug] Show the right preview sprite in slots components when slots are used
+- [Bug] Fix socializing would pick social candidates in opposite order (worst candidate first)
+
+
 <b>v0.5.271</b> (2022.05.02)
 - [Feature] Add Security Controls overlay to control all security devices at once
 - [Feature] Add Security Controls device and research branch

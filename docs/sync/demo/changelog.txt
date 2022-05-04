@@ -1,3 +1,518 @@
+<b>v0.5.272</b> (2022.05.04)
+- [Tech] Upgrade Unity to 2021.3.1f1
+- [Balance] Humans and pets will seek recreational activities more frequently
+- [Feature] Add Treadmill device and research node
+- [Bug] Fix Radial menu not rebuilding if necessary when invoked through B shortcut
+- [Bug] Fix potential crash when warming up Vulcan shares on Linux
+- [Bug] Fix game modifiers menu failing to create all buttons when Sandbox scenario was selected
+- [Bug] Show the right preview sprite in slots components when slots are used
+- [Bug] Fix socializing would pick social candidates in opposite order (worst candidate first)
+
+
+<b>v0.5.271</b> (2022.05.02)
+- [Feature] Add Security Controls overlay to control all security devices at once
+- [Feature] Add Security Controls device and research branch
+- [UI/UX] Add huge labels next to root items in Research Tree
+- [UI/UX] Show device battery level when hovering the clock
+- [UI/UX] Virtual mouse cursor will now pan Research / Starmap view when pushing the edges
+- [Audio] Change Assembler and Auto Kitchen SFX
+- [AUdio] Add new OST track
+- [Bug] Fix first instance of text input popup would execute game key bindings when typing
+- [Bug] Fix Steam Achievements synchronizing with local ones with incorrect unlock date
+- [Bug] Fix controller edge pan activating on the map when game was paused or in Research / Starmap
+
+
+<b>v0.5.270</b> (2022.04.28)
+- [Feature] Synchronize local and Steam Achievements
+- [Feature] Replace Millionaire achievement with 5 different money related achievements
+- [UI/UX] Create custom locked/unlocked images for each achievement
+- [UI/UX] Show big achievement images in UI
+- [UI/UX] Improve formatting on some of the in-game tooltips
+- [UI/UX] Warn about low battery on your gaming device
+- [UI/UX] Automatically pause when Steam overlay is open
+- [Bug] Fix Fluid Cannon water bullets not going through objects
+- [Bug] Fix some controller glyphs appearing in incorrect positions
+
+
+<b>v0.5.269</b> (2022.04.27)
+- [UI/UX] Change controller left stick press binding from Cycle Tool Mode to Rotate
+- [UI/UX] Show virtual keyboard automatically when selecting an input field in Steam Deck or Steam Big Screen mode
+- [UI/UX] Show a copy of input field above the virtual keyboard on Steam Deck, as keyboard often covers the input
+- [Bug] Detect gamepad flavor correctly
+
+
+<b>v0.5.268</b> (2022.04.26)
+- [UI/UX] Improve auto scaling for screens with unreported DPI (Steam Deck)
+- [UI/UX] Show only controller glyphs when controller is in use
+- [UI/UX] Change default controller bindings to include Shift and Ctrl modifier
+- [UI/UX] Improve fonts readability
+- [UI/UX] When applying repair limit of 25 tiles in tutorial, check the number of tiles, not the drag rect size
+- [UI/UX] Prevent wrong type of research from being started during the tutorial
+- [UI/UX] Improve research tutorial guidelines if research tree is closed without starting the required research
+- [UI/UX] Add Steam Controller glyphs for Steam Deck
+- [UI/UX] Hide keyboard controls in input settings when controller is in use
+- [Bug] Fix resetting input settings would not reset the invert UI option
+- [Bug] Fix tutorial impossible to complete with controller alone
+- [Bug] Fix cat riding a bot achievement getting unlocked while cat is still chasing the bot
+- [Bug] Fix saving / loading near the end of the tutorial could resume the tutorial without instructions what to do
+
+
+<b>v0.5.267</b> (2022.04.25)
+- [Feature] Add Sentry Drone - a security drone built for combat operations
+- [Balance] Increase Robot health to 150
+- [Performance] Optimize electricity grid rebuild performance
+- [UI/UX] When displaying percentages in UI, never show 100% while the value is lower than 100%;
+- [UI/UX] Add a Chart toggle button for Electricity overlay
+- [UI/UX] Add details display for disconnected sub grids
+- [UI/UX] When showing sub grid details, show visual connections only for that subgrid
+- [UI/UX] Improve electricity grid details UI
+- [Bug] Fix complex electricity grids (thousands of devices) could lead to incorrect subgrid divisions
+- [Bug] Fix colonizing a planet during an expedition or combat would get the game into an inconsistent state
+- [Bug] Fix colonizing a planet would unlock an achievement for destroying the Stasis Array
+- [Bug] Fix being particles not getting removed when beings are sent to a colonized planet
+- [Bug] Fix colonizing a planet with a paused time would not begin until time flow is resumed
+- [Bug] Prevent auto save during the planet colonization phase
+- [Bug] Fix pathfinding target change would make a being go back to the center of the current tile before moving on
+
+
+<b>v0.5.266</b> (2022.04.24)
+- [Feature] Add Achievements system and dozens of initial achievements
+- [UI/UX] List all achievements in Codex overlay
+- [UI/UX] List all achievements in Main Menu
+- [UI/UX] Add option to disable achievements
+- [Bug] Fix terraforming progress slowing down if more than one terraformable planet was discovered
+
+
+<b>v0.5.265</b> (2022.04.23)
+- [Balance] Generate more inhabitants in Stasis Array
+- [Feature] Add Modifiers system for starting new game with a set of challenges (modable)
+- [Feature] Add "No Pause" modifier
+- [Feature] Add "Resource Multiplier" modifier
+- [UI/UX] Move "Map Size" and "Ship Size" into modifiers
+- [UI/UX] Move "No Reload" save load mode into modifiers
+- [UI/UX] Turn "Enable Combat" new game setting into a modifier
+- [UI/UX] Remember last selected Radial Menu top level item
+- [Bug] Fix survivor area would generate in slightly different location from same seed
+- [Bug] Fix removing an unbuilt Beta Wave Transceiver would reset beta wave synchronization to zero
+- [Bug] Fix Radial Menu always selecting the 12 o'clock item when drilling into submenus
+- [Bug] Fix Emblem objects allowing to select sprites with dynamically generated rotations
+
+
+<b>v0.5.264</b> (2022.04.22)
+- [Feature] Add Beta Wave Transceiver for colonist mind control
+- [Feature] Add Mind Control research branch
+- [Feature] Add trait Beta Wave Resistent that would make a colonist resistent to mind control
+- [UI/UX] Improve Research Tree auto layout
+- [UI/UX] Add operations manual entry for Camera Memory and Mind Control
+
+
+<b>v0.5.263</b> (2022.04.21)
+- [Balance] Require Manufacturing research to produce Optical Fiber
+- [Bug] Fix Winching would make certain tasks impossible until next save/load due to pathfinding issues
+- [Bug] Fix generating maps with same seed would produce a slightly different result due to variations in structural damage
+- [Bug] Fix missing "Steel Bed" translation
+- [Bug] Fix relocating a cleanable device (toilet, shower, solar panel) would reset the dirt state
+- [Bug] Fix cleanable devices would lose accumulated dirt amount when loading the game
+- [Bug] Prevent plants appearing with incorrect offsets when loading a save
+
+
+<b>v0.5.262</b> (2022.04.20)
+- [Balance] Significantly reduce Terraformer material consumption
+- [Bug] Fix freshly spawned beings not showing part of sprites if directional are split across different atlas pages
+- [Bug] Fix several small internal errors in edge cases
+
+
+<b>v0.5.261</b> (2022.04.19)
+- [Balance] Improve firefighting system
+- [Balance] Make Directional Turret store more shots and shoot bullets faster
+- [Balance] When an object on fire is extinguished, prevent it from cathing on fire again for 15 minutes (simulation time)
+- [Misc] Detect malformed variables when validating translations
+- [UI/UX] Explain Winch failures instead of hiding "Reel In" options
+- [UI/UX] Don't show the terraforming progress bar on Terraformer devices as it was conflicting with fuel bar
+- [Bug] Fix Fluid Cannon not able to extinguish fire properly on small objects (i.e. plants)
+- [Bug] Fix Stasis Array would not produce electricity after conversion to The Matrix (until save/load)
+
+
+<b>v0.5.260</b> (2022.04.18)
+- [Feature] Fluid cannon filled with Petroleum will shoot incendiary bullets
+- [Balance] Allow terraforming materials to be used by Matter Reactors and Fluid Cannons
+- [Balance] When forcing a direct order (ctrl+click) on a task that is already assigned to another worker, reassign the task
+- [Bug] Fix "Generate Validity Report" in Language settings would only work after switching to another language
+- [Bug] Fix Terraformers would allow being configured using any type of fuel
+- [Bug] Fix Fluid Cannon filled with Water would not hit floors that are on fire
+- [Bug] Fix some issues with AI task assignment logic related to firefighting
+
+
+<b>v0.5.259</b> (2022.04.17)
+- [Feature] Add "Colonize" option to settle your colony on a terraformed planet
+- [Feature] Add end credits screen
+- [Bug] Fix flight between galaxies would take forever
+- [Bug] Fix Starmap targeting broken in Universe layer
+
+
+<b>v0.5.258</b> (2022.04.17)
+- [Balance] Remove Battery Overload sub-events that end up with robots dying (except for Challenging difficulty)
+- [UI/UX] Notify about malformed translations when loading definitions with template variables
+- [Bug] Hotfix universe fails to generate for a new game
+
+
+<b>v0.5.257</b> (2022.04.16)
+- [Feature] Add Terraforming Controls device for running terraforming operations
+- [Feature] Add Atmosphere Generator device for terraforming planets
+- [Feature] Add Biosphere Generator device for terraforming planets
+- [Feature] Add Ocean Generator device for terraforming planets
+- [Feature] Add Terrain Generator device for terraforming planets
+- [Feature] Add Terraforming research branch
+- [Feature] Add new craftable materials required for terraforming: AtmosphereMix, OrganicTurf, BioEnrichedWater, MultiFertilizer
+- [Feature] Allow growing Protein in Cloning Pod
+- [Graphics] Improve glass floor and window reflections
+- [UI/UX] Show fuel type in all refillable devices when hovering them
+
+
+<b>v0.5.256</b> (2022.04.13)
+- [Feature] Add Telescope device that can find a terraformable planet (for end goal)
+- [Feature] Add Telescope research branch
+- [UI/UX] Update the "End Goal" section of the Operations Manual
+- [Bug] Fix merchants in ships not starting trades anymore
+- [Bug] Fix Search popup not showing up in Research Tree
+- [Bug] Fix relocating the bed to the same spot in the tutorial would lock tutorial from progressing
+
+
+<b>v0.5.255</b> (2022.04.12)
+- [Feature] Add AutoDoc device for patching up biological damage
+- [Feature] Add AutoDoc research branch
+- [Bug] Fix winching would break heaters and oxygen pumps
+- [Bug] Fix relocating anything with refillable storage (reactors, fluid cannons) would lose the fuel
+- [Bug] Fix winching would leave Ship Computer's research particles in old location
+- [Bug] Fix UI pagination sometimes not showing last couple of items
+
+
+<b>v0.5.254</b> (2022.04.11)
+- [Feature] Add Probe device for launching probes to scan distant planets
+- [Feature] Add Probe research branch
+- [Graphics] Add smoke trail effects to Capsules, Meteors, Shuttles, etc
+- [Bug] Fix nearby merchant ship constantly changing direction if your ship moves
+- [Bug] Fix mods not loading non-english translations
+- [Bug] Fix text input popup widget would not close after submitting the input with Enter/Return
+
+
+<b>v0.5.253</b> (2022.04.10)
+- [Balance] Make Winch Hook and Anchor cheaper to research and build
+- [Bug] Fix possible graphics glitch after winching
+- [Bug] Fix winching would not move info icons of multi-tile objects correctly
+- [Bug] Fix winching would not move particles correctly
+- [Bug] Fix winching would not move dirt correctly
+- [Bug] Fix floating islands during ship wreck generation phase would not move dirt correctly
+- [Bug] Fix winching would fail to start when single tile objects (Thrusters, Solar Panels) were attached to the section
+
+
+<b>v0.5.252</b> (2022.04.09)
+- [Feature] Add Winch Hook and Winch Anchor devices
+- [Feature] Add Winch Research branch
+- [Feature] Implement moving disconnected sections using Winch Hook + Anchor
+- [Feature] Add Winch section to Operations Manual
+- [Graphics] Fix space object visually sliding into position right after load
+- [Bug] Fix shuttle visuals not disappearing from the starfield while shuttle is landing on base
+
+
+<b>v0.5.251</b> (2022.04.08)
+- [Bug] Hotfix for game getting stuck in loading screen if Texture Quality setting was default
+
+
+<b>v0.5.250</b> (2022.04.07)
+- [Bug] Fix Unity stripping new starmap shaders as they are not linked in compile time (white squares)
+- [Graphics] Make shuttles appear small in background above planets
+
+
+<b>v0.5.249</b> (2022.04.07)
+- [Graphics] Display space objects in-game (work in progress)
+- [Graphics] Redo planets, stars, black holes, systems and galaxies looks in Starmap
+- [Bug] Fix emerging through a black hole could get us back to old galaxy if we changed Starmap scope to Universe and back
+- [Bug] Fix changing Starmap scope to Universe and back would emerge us near the Black Hole instead of last position
+
+
+<b>v0.5.248</b> (2022.04.05)
+- [Feature] Add Quantum Barrier device that generates a force field to protect from asteroids and meteors
+- [Feature] Add Force Fields research branch (under Quantum Mechanics)
+- [Feature] Add automatic suggestion to disassemble a reclaimed Breach Capsule
+- [Bug] Fix socializing with enlightened humans would cause internal errors when trying to form attachments
+- [Bug] Fix Micro Meteor trails invisible
+
+
+<b>v0.5.247</b> (2022.04.04)
+- [Feature] Generate more interesting ships
+- [Feature] Add new types of floor tiles
+- [UX/UI] Show Research and Starmap shortcuts in overlay tooltips
+- [UX/UI] Hide Radial Menu when opening a full screen overlay (Starmap, Research)
+- [Bug] Fix emblems having 100% custom walking difficulty by default
+
+
+<b>v0.5.246</b> (2022.04.03)
+- [Feature] Add more content to Codex > Operations Manual
+- [Feature] Add custom walking difficulty slider to Emblem configuration UI
+- [Feature] Add Factions list to Codex
+- [Graphics] Fix Walking Difficulty overlay showing incorrect colors
+- [Balance] Generate more Oil on planets
+- [Balance] Add a Merchant type that will trade Oil and its products
+- [Bug] Fix several internal errors
+- [Bug] Fix Codex > Operations Manual button was missing in build
+
+
+<b>v0.5.245</b> (2022.04.02)
+- [Feature] Add the initial version of the Operations Manual (inside Codex)
+- [Balance] Make Emblems not difficult to walk over
+- [Bug] Fix tutorial getting stuck on repair step if there was no bed found for relocation step
+
+
+<b>v0.5.244</b> (2022.04.01)
+- [Feature] Add Codex overlay with an in-game knowledge base
+- [UI/UX] Show existing item counts in Radial Menu
+- [UI/UX] Add new crafting demand type option: One
+- [UI/UX] Add tooltips in crafter configuration UI
+- [Bug] Fix socialization was completely impossible for humans with Introverted trait
+- [Bug] Fix multiple internal errors in various edge cases
+- [Bug] Fix loot generation broken for radioactive planet type
+- [Bug] Fix CPU module showing hard-coded incorrect Thz value from translations file
+- [Bug] Fix some game seeds would generate survivor area with a broken wall
+
+
+<b>v0.5.243</b> (2022.03.31)
+- [Feature] Add Recreational activity (low priority) - clean floors
+- [Feature] Add Trait: Enlightened. Enlightened humans will not be able to form any attachments to anything.
+- [Feature] Add Reinforced Emblem Floor tile
+- [Feature] Flight will not get cancelled when Bridge Controls are offline (engines will stop)
+- [Balance] Make engine power consumption equal to actual engine output
+- [Balance] Damaged Particle Collector will collect materials slower
+- [Balance] Spawn some water in the beginning of Wrecked ship scenario
+- [UI/UX] Add more details about replacement tasks in UI
+- [Graphics] Fix Micro Meteor trails rendering below floors
+- [Bug] Fix space traffic could be spawned during the tutorial
+- [Bug] Fix humans would not clean floors
+- [Bug] Fix auto hauling could get triggered on an object that was pending relocation
+- [Bug] Fix Construction Drone missing Recharging job type
+- [Bug] Fix Micro Meteors event notification using the wrong widget type
+
+
+<b>v0.5.242</b> (2022.03.31)
+- [Feature] Add relocation to the Tutorial
+- [Feature] Processing Rock may yield other materials with random chance
+- [Balance] Soil will not spawn on planets anymore
+- [Balance] Spawn more Rock on planets
+- [Balance] Change production ingredients for C42
+- [UI/UX] Improve some parts of the tutorial
+- [Performance] Generate new game scenarios faster
+- [Bug] Fix male clothing now showing color choice in Loom settings
+- [Bug] Fix mood details UI refreshing unnecessarily on every tick
+- [Bug] Fix relocation of unfinished construction was possible via shortcut
+- [Bug] Add more diagnostics and recovery for corner case with expedition member getting stuck in off state
+- [Bug] Fix relocation shortcut would activate even if nothing was selected
+
+
+<b>v0.5.241</b> (2022.03.30)
+- [Feature] Storage Capsule drops will sometimes try to spawn materials you lack
+- [Feature] Make it possible to upgrade / rebuild certain devices (memory modules, connectors) without removing them
+- [Feature] Attempt to keep existing connections when relocating a connector
+- [Balance] Spawn additional 50 Silicon in the beginning of Wrecked Ship and Leaving Earth scenarios
+- [Balance] Adjust production cost and ingredients for Energy Rifle
+- [Balance] Humans will have individualized set of job priorities
+- [Balance] Change production cost of the Storage Unit
+- [Balance] Wood will not be burnable into Coal anymore
+- [Balance] Remove internal job types from worker's UI (Eating, Recharging, Sleeping, etc)
+- [UI/UX] Feedback form will remember the entered text if it was not submitted
+- [UI/UX] Add instructions for selected worker direct orders (Managed Worker > Direct Control)
+- [UI/UX] Do not squash Radial Menu submenus that have only 1 child
+- [Bug] Fix Ship Computer's ghost showing "no research" while pending relocation
+- [Bug] Fix selected being path preview while holding Ctrl / Shift would get stuck or not update
+- [Bug] Fix Radial Menu could show items with no children (i.e. Furniture during tutorial)
+- [Bug] Job types will not show popups with missing translations
+
+
+<b>v0.5.240</b> (2022.03.29)
+- [Feature] Replacing walls and floors will not remove the old wall / floor during the task
+- [Feature] Allow disassembling a captured Breach Capsule after raid is over
+- [Balance] Damaged solar panels and reactors will produce less electricity
+- [Balance] Damaged connectors will have less max slots
+- [Balance] Change Space Helmet production electricity cost to 50kW (was 100kW)
+- [Balance] Adjust some market item prices and groups
+- [Balance] Merchants will buy more variety of items than they sell themselves
+- [Balance] Move "Steel Wardrobe" from Advanced Furniture to regular Furniture
+- [Balance] Planters will require Water rather than Biowaste
+- [Performance] Fix possible stutter when walls / floors were deconstructed
+- [UI/UX] Limit input field length
+- [UI/UX] Add a shortcut ("o") to start relocating selected tiles or objects
+- [Bug] Fix clothing items would flood merchant's inventory with color versions and other items would not get generated
+- [Bug] Replacement of a tile (i.e. door or vent) with the same item will not be allowed
+
+
+<b>v0.5.239</b> (2022.03.28)
+- [Balance] Add missing Gears in Leaving Earth scenario
+- [Balance] Change how Particle Collector works normally and during dust storm
+- [Graphics] Make Solar Panels unlit when their output is < 50%
+- [UI/UX] Show Particle Collector progress for currently collected material
+- [UI/UX] Change how items with colors are produced in crafters (clothing items in a Loom)
+- [Bug] Fix internal error happening when viewing task links for an object that is not movable
+- [Bug] Fix some electrical devices background lights not working when needed
+
+
+<b>v0.5.238</b> (2022.03.27)
+- [UI/UX] Add electricity production and consumption priority controls for compatible devices
+- [UI/UX] Show last 30 entries of colonist mood history in addition to currently ongoing effects
+- [Misc] Fix several translations after scenario intro text sequence was changed
+
+
+<b>v0.5.237</b> (2022.03.26)
+- [Feature] Reintroduce "Leaving Earth" scenario with balance fixes
+- [Bug] Fix aborting an expedition when a member failed to reach it would not remove the expedition controls UI
+- [Bug] Fix failing to save games when save name ended with dot character
+- [Bug] Fix combat potentially getting stuck when there are more than 16 units
+- [Bug] Plants will no longer be movable
+
+
+<b>v0.5.236</b> (2022.03.25)
+- [Graphics] Add transparency support for custom floor tiles
+- [Graphics] Automatically fix door / vent rotation when a new wall is built nearby
+- [Misc] Add Japanese translation by Souzen Yurama
+- [Misc] Redo the "worker forced to be offline" mechanic to allow multiple reasons
+- [Bug] Fixed robots produced in assemblers would have a "clone" tag
+
+
+<b>v0.5.235</b> (2022.03.24)
+- [Feature] Auto Kitchen will have an internal storage instead of dumping fresh meals on the floor
+- [Feature] Beings are going to die of old age
+- [Balance] Reduce probability of bomb in a capsule drop
+- [Balance] Spawn more plastic at the beginning of the game
+- [Balance] Loom clothing production will cost 5kW for regular clothing (was 0.1kW)
+- [Balance] Adjust ingredients for space suits and helmets (include new materials)
+- [UI/UX] Add "Switch ON/OFF" buttons to electricity grid producers / consumers / batteries view
+- [UI/UX] Add common action to order cleaning for mass selected cleanable devices (solar panels, toilets, showers, etc.)
+- [UI/UX] Add UI details for beings who are biological clones
+- [UI/UX] Display shorter version of being names when possible
+- [Bug] Fix underaged colonists being spawned looking as adults
+- [Bug] Fix mood effects list in UI not showing multiplier when it has to, and showing X1 when it doesn't
+
+
+<b>v0.5.234</b> (2022.03.23)
+- [Balance] Generate one Assembler when starting a new game
+- [Graphics] Make generated floor lights dimmer
+- [Graphics] Animate human and animal food consumption
+- [UI/UX] Add display of "Next" task to worker brain UI
+- [Bug] Fix AI worker getting stuck when "Next" task source entity would get destroyed
+- [Bug] Fix humans looking naked after they switch from a space suit to regular clothing
+
+
+<b>v0.5.233</b> (2022.03.23)
+- [Balance] Solar panels will require copper wire instead of copper plate
+- [Balance] Doors and vents will contain transistors and copper wire
+- [Balance] Assemblers will require construction level 4 (was 5)
+- [Balance] Solar Panel Array will require construction level 5 (was 6)
+- [Balance] Reduce electricity consumption and time needed for crafting Copper Wire
+- [UI/UX] Add reservation details in slots UI (toilets, showers, etc.)
+- [Bug] Fix unreachable toilet or shower would remain reserved forever, making all toilets / showers eventually unusable
+
+
+<b>v0.5.232</b> (2022.03.23)
+- [UI/UX] Show appropriate "searching for clothing/weapon/headgear" message and icon when being is looking for equipment
+- [Graphics] Use HDR in game lights to make colors look more vibrant
+- [Graphics] Add gentle cursor light (configurable in video settings)
+- [Balance] Spawn 100x of each new type of resource that was introduced in v0.5.230 when loading an old game save, to make it playable again
+- [Bug] Fix Reactor efficiency never showing above 100%
+- [Bug] Change Vents algorithm to be more realistic. Fixes the constantly increasing heat issue in certain room layouts
+- [Bug] Automatically recover tiles when construction tasks gets missing on load
+
+
+<b>v0.5.231</b> (2022.03.22)
+- [Audio] Play selection sounds for carrier drones and cleaning bots
+- [UI/UX] Fix Research Tree nodes layout could intersect
+- [UI/UX] Show some details when clicking any reactor's power output in UI
+- [Tech] Update Message Pack (serialization library used in save/load)
+
+
+<b>v0.5.230</b> (2022.03.21)
+- [Feature] Add new types of resources: Crude Oil, Petroleum, Gears, Plastic, Copper Wire, Optical Fiber, Rubber, Transistor
+- [Feature] Add Liquid Processing research branch
+- [Feature] Add Refinery for processing oil
+- [Feature] Add an early-game suggestion to relocate pieces of the Space Suit near your human survivors
+- [Misc] Temporarily remove Leaving Earth scenario
+- [Balance] Change building and crafting requirements for most blueprints
+- [Balance] Reduce the float-apart distance of pieces of the ship in Wrecked scenario
+- [UI/UX] Show owned count when displaying crafting options (excl. beings)
+- [Translations] Include unknown (removed) translation keys to the language report
+- [Bug] Fix "show hints" toggle would change a wrong setting
+- [Bug] Fix "Copy Config" broken on crafter devices since last update
+
+
+<b>v0.5.229</b> (2022.03.19)
+- [Balance] Make equipment and weapons consumable by Matter Reactors
+- [Balance] Processing Efficiency Upgrade will require Titanium Plate instead of Titanium ore
+- [Bug] Fix Processing Efficiency Upgrade showing up as Reactor Efficiency Upgrade when installed
+- [Bug] Fix camera numpad memory would get activated when typing numbers with UI open
+- [Bug] Fix multiple beings could have attachments to same bed, leading to various reservation and logic bugs
+- [Bug] Fix attachments would not get removed for dead beings and destroyed entities
+
+
+<b>v0.5.228</b> (2022.03.18)
+- [Feature] Add "Processor Efficiency Upgrade" and "Processing Efficiency" research branch
+- [Feature] Add some new things that can be spawned by a storage capsule
+- [Balance] Planters will require Biowaste as a construction material
+- [Balance] Storage capsule will not spawn 100 clothing items anymore
+- [UI/UX] Pressing Hotbar Build button with something selected would not try to build a copy anymore
+- [Bug] Fix Breach Capsule could be saved in non-detachable state even if combat is not running
+- [Bug] Fix Hotbar Build button would show empty radial wheel submenus if radial menu was not invoked manually first
+- [Bug] Fix expedition bringing back a storage capsule would spawn a capsule shadow somewhere above it
+- [Bug] Fix enemies would go into High Alert combat state, which is meant for home team only
+
+
+<b>v0.5.227</b> (2022.03.17)
+- [Feature] Add "Light Block" device for having a light source alternative to Floor Lights
+- [Feature] Add "Copy Config" to emblems
+- [Feature] Add "Emblem Floor" tile for floors with custom graphic
+- [UI/UX] Add camera memory quick jumps: Ctrl + Numpad digit to save location, Numpad digit to jump
+- [UI/UX] Make Breakdown notifications sticky and automatically remove them when breakdown is over
+- [Graphics] Fix proportions of damage texture to be compressable in GPU
+- [Bug] Fix ESC opening pause menu if something is selected, when ESC mode was "close menus and pause"
+- [Bug] Fix offline workers could still be ordered to move somewhere manually
+- [Bug] Fix manual order to go somewhere would get interrupted by task assignment during the walk
+
+
+<b>v0.5.226</b> (2022.03.16)
+- [Balance] Reset being mood to >80 after a mental breakdown (was reset to 0 before)
+- [Balance] When floor gets destroyed, collapse any walls or objects above it
+- [Balance] Sleep deprived beings will fall asleep on the floor sooner
+- [AI] Improve Combat AI
+- [Graphics] Add some restrictions on texture quality for lower end GPUs to reduce potential GPU memory issues
+- [UI/UX] Display monetary values consistently, always abbreviating large numbers (i.e. $93K)
+- [Bug] Fix walls could exist without floors underneath, causing hull integrity and room enclosure issues
+- [Bug] Fix beings in "High Alert" combat state would not do any tasks
+
+
+<b>v0.5.225</b> (2022.03.15)
+- [Feature] Add a setting to disable combat when starting a new game and in current game settings
+- [Feature] Eggs will be able to hatch other beings, not just crawlers
+- [Feature] Coffee Maker will have internal storage that will hold 10 cups
+- [Balance] Disallow storing objects that have specific storages in generic Storage Unit (affects clothing, upgrades)
+- [UI/UX] Dragging electrical devices will not switch into Connect tool, unless you are dragging a Connector
+- [Bug] Fix humans not able to find clothing items (when items were inside generic storage)
+- [Bug] Fix being attachments getting lost after relocating beds
+- [Bug] Fix plants not getting relocated along with the planter
+- [Bug] Remove stray plants when loading a save
+
+
+<b>v0.5.224</b> (2022.03.14)
+- [Tech] Add extra diagnostics to help detecting AI issues
+- [Bug] Fix High Alert combat state being suggested with incorrect weight
+- [Bug] Fix caret sometimes not displaying in text input widgets
+- [Bug] Fix "not enough hat" and similar notifications showing up when a colonist failed to equip something
+- [Bug] Fix switching into a tool after having something selected would keep displaying obsolete selection
+
+
+<b>v0.5.223</b> (2022.03.13)
+- [Balance] Reduce furnace queue capacity
+- [Balance] Reduce processing time for ore resources
+- [Graphics] Show visual ranges of selected and placed cannons and turrets
+- [Graphics] Show electricity connection previews when placing energy enabled devices in range of connectors
+- [Bug] Fix expedition member validation keeping worker turned off or invisible if expedition failed
+
+
 <b>v0.5.222</b> (2022.03.13)
 - [Tech] Upgrade Unity to 2021.2.15f1
 - [Balance] Significantly reduce severity of Micro Meteor Strike event
