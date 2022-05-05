@@ -1,3 +1,14 @@
+<b>v0.5.273</b> (2022.05.05)
+- [Feature] Make enclosed areas dimmer to encourage installing lights
+- [Bug] Fix drone hovering and object rotations getting choppy after playing for many hours in same save
+- [Bug] Fix some particles not updating their position after winch operation
+- [Bug] Fix beings would socialize with themselves
+- [Bug] Fix enclosed areas not recalculating automatically after winching, causing issues with heaters and oxygen pumps
+- [Bug] Fix beings would remain tethered to themselves after socializing with themselves (doh)
+- [Bug] Fix beings would fail to reach their walk destinations when socializing with themselves
+- [Bug] Fix space objects rapidly changing visual direction if both player ship and the object is moving
+
+
 <b>v0.5.272</b> (2022.05.04)
 - [Tech] Upgrade Unity to 2021.3.1f1
 - [Balance] Humans and pets will seek recreational activities more frequently
