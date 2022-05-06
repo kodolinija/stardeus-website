@@ -1,3 +1,13 @@
+<b>v0.5.274</b> (2022.05.06)
+- [Balance] Make Cleaning Bots accelerate faster
+- [UI/UX] Hide notifications about lack of materials when the lack is resolved
+- [UI/UX] Add material sorting modes to inventory overlay (count asc/desc, alphabetic)
+- [Graphics] Make space background move faster when ship is flying
+- [Audio] Change Emergency Siren sound to a more sci-fi one
+- [Performance] Reduce CPU consumption coming from audio filters and music playback
+- [Performance] Fix periodic small frame drops happening due to oxygen/heat simulation on the GPU
+
+
 <b>v0.5.273</b> (2022.05.05)
 - [Feature] Make enclosed areas dimmer to encourage installing lights
 - [Bug] Fix drone hovering and object rotations getting choppy after playing for many hours in same save
