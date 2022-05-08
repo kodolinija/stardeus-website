@@ -1,3 +1,17 @@
+<b>v0.5.275</b> (2022.05.08)
+- [Tech] Upgrade Unity to 2021.3.2f1
+- [Feature] Add a Crafting Station device that requires a human operator to craft objects
+- [Feature] Add new Operate skill for humans
+- [Feature] Add Radiator device for reducing heat indoors
+- [Feature] Most industrial devices will produce heat around them
+- [Balance] Generate Wrecked scenario with one Crafting Station instead of Assembler
+- [Balance] Move Copper Wire and Transistor to Technology research node
+- [Balance] Move Assembler to Robotics research node
+- [Audio] Add new OST track
+- [Bug] Fix dirt visuals could get created too far from the grid position
+- [Bug] Fix dirt sprites not refreshing correctly when dirt is cleaned and created at the same time
+
+
 <b>v0.5.274</b> (2022.05.06)
 - [Balance] Make Cleaning Bots accelerate faster
 - [UI/UX] Hide notifications about lack of materials when the lack is resolved
