@@ -1,3 +1,13 @@
+<b>v0.5.276</b> (2022.05.09)
+- [Feature] Add Cooking Station device for humans to cook their food
+- [Feature] Coffee Maker, Bridge Controls and Loom will require a human operator to produce coffee
+- [Balance] Move AutoKitchen into it's own research node
+- [Balance] Coffee will cost less electricity and take less time to produce
+- [Balance] Automatically start growing Wheat in the planter inside survivor area in Wrecked scenario
+- [Graphics] Fix operator visual offsets on Crafting Station
+- [Graphics] Fix visual offsets on Treadmill
+
+
 <b>v0.5.275</b> (2022.05.08)
 - [Tech] Upgrade Unity to 2021.3.2f1
 - [Feature] Add a Crafting Station device that requires a human operator to craft objects
