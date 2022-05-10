@@ -1,3 +1,16 @@
+<b>v0.5.277</b> (2022.05.10)
+- [Balance] When stasis pod spawns friendly beings, they will have space suits and clothing
+- [Audio] Add Cooking Station ambience
+- [UI/UX] Show material deficit notifications for tiles that are pending replacement
+- [UI/UX] Show (not bound) instead of () in Operations Manual when shortcut is missing
+- [UI/UX] Don't show electricity grid chart if there is nothing to show
+- [Bug] Fix tables unusable after winching
+- [Bug] Fix relocating processors would lose processor settings and queue contents
+- [Bug] Fix possibility to start relocation of same object twice through shortcut
+- [Bug] Fix Stasis Pod would spawn the smoke trail before repositioning to the start location
+- [Bug] Automatically remove invalid objects when loading the game
+
+
 <b>v0.5.276</b> (2022.05.09)
 - [Feature] Add Cooking Station device for humans to cook their food
 - [Feature] Coffee Maker, Bridge Controls and Loom will require a human operator to produce coffee
