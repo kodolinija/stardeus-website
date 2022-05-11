@@ -1,3 +1,16 @@
+<b>v0.5.278</b> (2022.05.11)
+- [AI] Adjust needs satisfaction logic to prevent some needs from getting neglected
+- [Feature] Add Rest need and make humans get tired after working, so they will not take work tasks until they rest
+- [Balance] Beings will only socialize when Shower need is above 30
+- [Balance] Make humans seek fun activities less frequently
+- [Balance] Make Crafting Station and Cooking Station usable as a makeshift table for eating
+- [Graphics] Add Cooking Station VFX
+- [Graphics] Change some device operate animations to go from side to side
+- [Graphics] Animate construction, desconstruction, repairs and harvesting plants
+- [Bug] Fix electricity grid VFX not clearing up when selecting a being or material pile
+- [Bug] Fix raiders being rescued by your drones when stuck in open space
+
+
 <b>v0.5.277</b> (2022.05.10)
 - [Balance] When stasis pod spawns friendly beings, they will have space suits and clothing
 - [Audio] Add Cooking Station ambience
@@ -13,7 +26,7 @@
 
 <b>v0.5.276</b> (2022.05.09)
 - [Feature] Add Cooking Station device for humans to cook their food
-- [Feature] Coffee Maker, Bridge Controls and Loom will require a human operator to produce coffee
+- [Feature] Coffee Maker, Bridge Controls and Loom will require a human operator to work
 - [Balance] Move AutoKitchen into it's own research node
 - [Balance] Coffee will cost less electricity and take less time to produce
 - [Balance] Automatically start growing Wheat in the planter inside survivor area in Wrecked scenario
