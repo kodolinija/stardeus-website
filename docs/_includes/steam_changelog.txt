@@ -1,3 +1,11 @@
+<b>v0.5.279</b> (2022.05.12)
+- [AI] Roaming beings will only go for short distances
+- [UI/UX] Improve Oxygen, Heat, Insulation and Airtightness overlay readability
+- [Graphics] Replace construction animation with a nanobot swarm
+- [Performance] Optimize performance to reduce potential frame drops when running a large map at high speed
+- [Bug] Fix load failure when expedition story event without a constructor fails to deserialize
+
+
 <b>v0.5.278</b> (2022.05.11)
 - [AI] Adjust needs satisfaction logic to prevent some needs from getting neglected
 - [Feature] Add Rest need and make humans get tired after working, so they will not take work tasks until they rest
