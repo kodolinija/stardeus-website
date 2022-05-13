@@ -1,3 +1,11 @@
+<b>v0.5.280</b> (2022.05.13)
+- [Misc] Add gamepad rumble
+- [UI/UX] Add option to disable gamepad rumble
+- [UI/UX] Close the Radial Menu when clicking with mouse outside it
+- [UI/UX] R1 + L1 + Start will trigger feedback panel when playing with a controller
+- [Bug] Fix Stasis Array would break electricity grid when loading the game if Matrix mode was enabled
+
+
 <b>v0.5.279</b> (2022.05.12)
 - [AI] Roaming beings will only go for short distances
 - [UI/UX] Improve Oxygen, Heat, Insulation and Airtightness overlay readability
