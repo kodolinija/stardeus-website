@@ -1,3 +1,12 @@
+<b>v0.5.281</b> (2022.05.15)
+- [Balance] Randomizing job priorities for humans would not remove Operations priority
+- [UI/UX] Display no priority in the list of reasons for worker not taking the task
+- [Music] Add new OST track
+- [Graphics] Replace deconstruction and repairs VFX with nanobot swarm
+- [Graphics] Update Charge Stations VFX
+- [Bug] Deconstructing devices will no longer destroy installed upgrade modules
+
+
 <b>v0.5.280</b> (2022.05.13)
 - [Misc] Add gamepad rumble
 - [UI/UX] Add option to disable gamepad rumble
