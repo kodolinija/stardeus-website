@@ -1,3 +1,18 @@
+<b>v0.5.283</b> (2022.05.16)
+- [Feature] Add 9x9 Solar Panel Array (50kW)
+- [Feature] Add Advanced Solar research node
+- [Feature] Construction, deconstruction and repair tasks will be streamlined (worker will try to take nearby tasks immediately)
+- [UI/UX] Improve mood history view
+- [UI/UX] Close Quick Search (TAB) menu when opening a full screen widget
+- [UI/UX] Automatically hide non-important dialog popups when new dialog popup is attempted to be displayed
+- [UI/UX] When showing a dialog, show a bubble with pending message queue size
+- [Balance] Sentries and Carrier Drones will now participate in enemy raids 
+- [Bug] Bridge controls would ask for operator when ship is not flying or when device is off
+- [Bug] Fix engine flames not going out when engine is turned off or damaged
+- [Bug] Fix Hotbar build tool shortcut not showing the newly unlocked blueprints on first click 
+- [Bug] Fix releasing shift with being selected would not always clear the path preview
+
+
 <b>v0.5.282</b> (2022.05.15)
 - [Balance] Make mining happen 2x faster
 - [Bug] Hotfix deconstructing devices without upgrades would not remove the object properly
