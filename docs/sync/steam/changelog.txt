@@ -1,3 +1,12 @@
+<b>v0.5.284</b> (2022.05.17)
+- [UI/UX] Show event notification when someone joins your colony
+- [UI/UX] Add more details in info panel task view
+- [UI/UX] Show alerts about imminent explosions from armed bombs
+- [Bug] Fix some AI tasks could get stuck indefinitely if workers were removed while performing the task
+- [Bug] Fix drones getting stuck in "find enemy" state if there was a big gap of open space between them and the attackers
+- [Bug] Fix radial menu not always getting hidden when another widget would open
+
+
 <b>v0.5.283</b> (2022.05.16)
 - [Feature] Add 9x9 Solar Panel Array (50kW)
 - [Feature] Add Advanced Solar research node
