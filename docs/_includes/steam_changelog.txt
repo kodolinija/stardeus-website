@@ -1,3 +1,19 @@
+<b>v0.6.0</b> (2022.05.20)
+- [Feature] Add Research Station device for humans to help Ship Computer with research
+- [Feature] Redo Research system from ground up
+- [Feature] Implement Research Queue
+- [Feature] Add Disk Compression Upgrade (+50% disk space, stackable)
+- [Feature] Add Disk Compression research node
+- [Feature] Ship Computer will produce electricity and have it's own grid even when disconnected
+- [Balance] Allow more than one Ship Computer on the same electricity grid
+- [Balance] Make Energy research cost 5kW instead of just time
+- [Balance] Limit single Ship Computer's max research capacity to 1MW
+- [UI/UX] Add controls for throttling research energy use
+- [UI/UX] Redo Research electricity cost display to improve clarity
+- [Bug] Fix harvested plants would show outdated health bar if they were damaged
+- [Bug] Fix humans would not stop operating turned off devices
+
+
 <b>v0.5.284</b> (2022.05.17)
 - [UI/UX] Show event notification when someone joins your colony
 - [UI/UX] Add more details in info panel task view
@@ -15,10 +31,10 @@
 - [UI/UX] Close Quick Search (TAB) menu when opening a full screen widget
 - [UI/UX] Automatically hide non-important dialog popups when new dialog popup is attempted to be displayed
 - [UI/UX] When showing a dialog, show a bubble with pending message queue size
-- [Balance] Sentries and Carrier Drones will now participate in enemy raids 
+- [Balance] Sentries and Carrier Drones will now participate in enemy raids
 - [Bug] Bridge controls would ask for operator when ship is not flying or when device is off
 - [Bug] Fix engine flames not going out when engine is turned off or damaged
-- [Bug] Fix Hotbar build tool shortcut not showing the newly unlocked blueprints on first click 
+- [Bug] Fix Hotbar build tool shortcut not showing the newly unlocked blueprints on first click
 - [Bug] Fix releasing shift with being selected would not always clear the path preview
 
 
