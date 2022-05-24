@@ -1,3 +1,19 @@
+<b>v0.6.2</b> (2022.05.24)
+- [Tech] Refactor crafting recipes to allow having more than one recipe for same type of object
+- [Balance] Make "build more <...>" suggestions non-recurring
+- [Balance] Link max merchant inventory size to in-game time
+- [Balance] Change construction requirements for several devices
+- [UI/UX] Show warning icons on switched off devices
+- [Bug] Fix loading a game with an ongoing shuttle expedition could cause an issue since 0.6.1
+- [Bug] Fix charts showing slightly wrong values in the popup
+- [Bug] Fix further upgrades may not be found for a device if at least one upgrade was installed before
+- [Bug] Fix fires would not get extinguished on beings or objects
+- [Bug] Fix expedition shuttle would drop copies of same object loot every time it unloaded the storage
+- [Bug] Fix biological beings able to go through unpowered doors under certain conditions
+- [Bug] Fix estimating being path would not show "cannot go there" for unreachable paths
+- [Bug] Fix Particle Collector would sometimes break through the wall of enclosed area in wrecked ship start generation
+
+
 <b>v0.6.1</b> (2022.05.23)
 - [Misc] Add Ukrainian translation
 - [Audio] Add new OST track
