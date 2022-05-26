@@ -1,3 +1,14 @@
+<b>v0.6.3</b> (2022.05.26)
+- [Feature] Add Tier value to Research nodes
+- [Balance] It will take significantly longer for workers to build higher tier devices
+- [Balance] Change multiple research tree node costs and positions
+- [Balance] Change construction costs for most devices
+- [Feature] Add Converter device
+- [Feature] Add new research nodes for unlocking production of certain materials
+- [UI/UX] Redo the Research Tree layout from ground up
+- [Feature] Make it possible to have multiple dependencies in Research Tree
+
+
 <b>v0.6.2</b> (2022.05.24)
 - [Tech] Refactor crafting recipes to allow having more than one recipe for same type of object
 - [Balance] Make "build more <...>" suggestions non-recurring
