@@ -1,3 +1,10 @@
+<b>v0.6.4</b> (2022.05.27)
+- [UI/UX] Add battery charge and reserve power to the electricity overlay (grid details and chart)
+- [Balance] Change some construction and research costs
+- [Balance] Humans with space suits will now be able to do mining expeditions
+- [Bug] Fix "Auto Unload" toggle not working in expedition controls
+
+
 <b>v0.6.3</b> (2022.05.26)
 - [Feature] Add Tier value to Research nodes
 - [Balance] It will take significantly longer for workers to build higher tier devices
