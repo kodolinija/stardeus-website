@@ -1,3 +1,7 @@
+<b>v0.6.5</b> (2022.05.28)
+- [Audio] Change multiple sound effects and device ambiences
+
+
 <b>v0.6.4</b> (2022.05.27)
 - [UI/UX] Add battery charge and reserve power to the electricity overlay (grid details and chart)
 - [Balance] Change some construction and research costs
