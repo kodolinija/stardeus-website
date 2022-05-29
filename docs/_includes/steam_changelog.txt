@@ -1,3 +1,11 @@
+<b>v0.6.6</b> (2022.05.29)
+- [Feature] Communicator will be able to search for Merchants of specific type
+- [Balance] Make FTL drives 4x more powerful
+- [UI/UX] Return to the last seen page of stock market items after viewing an item
+- [Audio] Add several missing device ambiences and sfx
+- [Bug] Fix sparks visual effect removed too quickly after repairing a tile
+
+
 <b>v0.6.5</b> (2022.05.28)
 - [Audio] Change multiple sound effects and device ambiences
 
