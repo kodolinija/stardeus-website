@@ -1,3 +1,269 @@
+<b>v0.6.6</b> (2022.05.29)
+- [Feature] Communicator will be able to search for Merchants of specific type
+- [Balance] Make FTL drives 4x more powerful
+- [UI/UX] Return to the last seen page of stock market items after viewing an item
+- [Audio] Add several missing device ambiences and sfx
+- [Bug] Fix sparks visual effect removed too quickly after repairing a tile
+
+
+<b>v0.6.5</b> (2022.05.28)
+- [Audio] Change multiple sound effects and device ambiences
+
+
+<b>v0.6.4</b> (2022.05.27)
+- [UI/UX] Add battery charge and reserve power to the electricity overlay (grid details and chart)
+- [Balance] Change some construction and research costs
+- [Balance] Humans with space suits will now be able to do mining expeditions
+- [Bug] Fix "Auto Unload" toggle not working in expedition controls
+
+
+<b>v0.6.3</b> (2022.05.26)
+- [Feature] Add Tier value to Research nodes
+- [Balance] It will take significantly longer for workers to build higher tier devices
+- [Balance] Change multiple research tree node costs and positions
+- [Balance] Change construction costs for most devices
+- [Feature] Add Converter device
+- [Feature] Add new research nodes for unlocking production of certain materials
+- [UI/UX] Redo the Research Tree layout from ground up
+- [Feature] Make it possible to have multiple dependencies in Research Tree
+
+
+<b>v0.6.2</b> (2022.05.24)
+- [Tech] Refactor crafting recipes to allow having more than one recipe for same type of object
+- [Balance] Make "build more <...>" suggestions non-recurring
+- [Balance] Link max merchant inventory size to in-game time
+- [Balance] Change construction requirements for several devices
+- [UI/UX] Show warning icons on switched off devices
+- [Bug] Fix loading a game with an ongoing shuttle expedition could cause an issue since 0.6.1
+- [Bug] Fix charts showing slightly wrong values in the popup
+- [Bug] Fix further upgrades may not be found for a device if at least one upgrade was installed before
+- [Bug] Fix fires would not get extinguished on beings or objects
+- [Bug] Fix expedition shuttle would drop copies of same object loot every time it unloaded the storage
+- [Bug] Fix biological beings able to go through unpowered doors under certain conditions
+- [Bug] Fix estimating being path would not show "cannot go there" for unreachable paths
+- [Bug] Fix Particle Collector would sometimes break through the wall of enclosed area in wrecked ship start generation
+
+
+<b>v0.6.1</b> (2022.05.23)
+- [Misc] Add Ukrainian translation
+- [Audio] Add new OST track
+- [UI/UX] Move Difficulty setting from New Game panel into Modifiers
+- [UI/UX] Improve repair and construction ui info panel entries
+- [Balance] Reduce Ship Computer research capacity to 500kW
+- [Balance] Increase Research Station research capacity to 250kW
+- [Balance] Research Station will add +1 to research parallelism (when operator is present)
+- [Balance] Make electrical device damaged story event more interesting
+- [Balance] Allow connecting short range connector to a long range one without backlink check
+- [Bug] Fix RMB would open Radial Menu when closing Research Queue context menu
+- [Bug] Radial menu selection would not work with controller when invoked through the Hotbar
+- [Bug] Fix devices that were turned off would get damaged due to wear
+- [Bug] Fix cancelling construction task on a selected tile should keep showing selection vfx
+- [Bug] Fix Copy Config would result in Crafter progress bar showing incorrect product
+- [Bug] Fix Store tool would create hauling tasks for piles that were being carried by workers
+- [Bug] Prevent modifying Shuttle state right before it gets launched on an expedition
+- [Bug] Fix health showing up as 0/0 for undamaged tiles
+
+
+<b>v0.6.0</b> (2022.05.20)
+- [Feature] Add Research Station device for humans to help Ship Computer with research
+- [Feature] Redo Research system from ground up
+- [Feature] Implement Research Queue
+- [Feature] Add Disk Compression Upgrade (+50% disk space, stackable)
+- [Feature] Add Disk Compression research node
+- [Feature] Ship Computer will produce electricity and have it's own grid even when disconnected
+- [Balance] Allow more than one Ship Computer on the same electricity grid
+- [Balance] Make Energy research cost 5kW instead of just time
+- [Balance] Limit single Ship Computer's max research capacity to 1MW
+- [UI/UX] Add controls for throttling research energy use
+- [UI/UX] Redo Research electricity cost display to improve clarity
+- [Bug] Fix harvested plants would show outdated health bar if they were damaged
+- [Bug] Fix humans would not stop operating turned off devices
+
+
+<b>v0.5.284</b> (2022.05.17)
+- [UI/UX] Show event notification when someone joins your colony
+- [UI/UX] Add more details in info panel task view
+- [UI/UX] Show alerts about imminent explosions from armed bombs
+- [Bug] Fix some AI tasks could get stuck indefinitely if workers were removed while performing the task
+- [Bug] Fix drones getting stuck in "find enemy" state if there was a big gap of open space between them and the attackers
+- [Bug] Fix radial menu not always getting hidden when another widget would open
+
+
+<b>v0.5.283</b> (2022.05.16)
+- [Feature] Add 9x9 Solar Panel Array (50kW)
+- [Feature] Add Advanced Solar research node
+- [Feature] Construction, deconstruction and repair tasks will be streamlined (worker will try to take nearby tasks immediately)
+- [UI/UX] Improve mood history view
+- [UI/UX] Close Quick Search (TAB) menu when opening a full screen widget
+- [UI/UX] Automatically hide non-important dialog popups when new dialog popup is attempted to be displayed
+- [UI/UX] When showing a dialog, show a bubble with pending message queue size
+- [Balance] Sentries and Carrier Drones will now participate in enemy raids
+- [Bug] Bridge controls would ask for operator when ship is not flying or when device is off
+- [Bug] Fix engine flames not going out when engine is turned off or damaged
+- [Bug] Fix Hotbar build tool shortcut not showing the newly unlocked blueprints on first click
+- [Bug] Fix releasing shift with being selected would not always clear the path preview
+
+
+<b>v0.5.282</b> (2022.05.15)
+- [Balance] Make mining happen 2x faster
+- [Bug] Hotfix deconstructing devices without upgrades would not remove the object properly
+
+
+<b>v0.5.281</b> (2022.05.15)
+- [Balance] Randomizing job priorities for humans would not remove Operations priority
+- [UI/UX] Display no priority in the list of reasons for worker not taking the task
+- [Audio] Add new OST track
+- [Graphics] Replace deconstruction and repairs VFX with nanobot swarm
+- [Graphics] Update Charge Stations VFX
+- [Bug] Deconstructing devices will no longer destroy installed upgrade modules
+
+
+<b>v0.5.280</b> (2022.05.13)
+- [Misc] Add gamepad rumble
+- [UI/UX] Add option to disable gamepad rumble
+- [UI/UX] Close the Radial Menu when clicking with mouse outside it
+- [UI/UX] R1 + L1 + Start will trigger feedback panel when playing with a controller
+- [Bug] Fix Stasis Array would break electricity grid when loading the game if Matrix mode was enabled
+
+
+<b>v0.5.279</b> (2022.05.12)
+- [AI] Roaming beings will only go for short distances
+- [UI/UX] Improve Oxygen, Heat, Insulation and Airtightness overlay readability
+- [Graphics] Replace construction animation with a nanobot swarm
+- [Performance] Optimize performance to reduce potential frame drops when running a large map at high speed
+- [Bug] Fix load failure when expedition story event without a constructor fails to deserialize
+
+
+<b>v0.5.278</b> (2022.05.11)
+- [AI] Adjust needs satisfaction logic to prevent some needs from getting neglected
+- [Feature] Add Rest need and make humans get tired after working, so they will not take work tasks until they rest
+- [Balance] Beings will only socialize when Shower need is above 30
+- [Balance] Make humans seek fun activities less frequently
+- [Balance] Make Crafting Station and Cooking Station usable as a makeshift table for eating
+- [Graphics] Add Cooking Station VFX
+- [Graphics] Change some device operate animations to go from side to side
+- [Graphics] Animate construction, desconstruction, repairs and harvesting plants
+- [Bug] Fix electricity grid VFX not clearing up when selecting a being or material pile
+- [Bug] Fix raiders being rescued by your drones when stuck in open space
+
+
+<b>v0.5.277</b> (2022.05.10)
+- [Balance] When stasis pod spawns friendly beings, they will have space suits and clothing
+- [Audio] Add Cooking Station ambience
+- [UI/UX] Show material deficit notifications for tiles that are pending replacement
+- [UI/UX] Show (not bound) instead of () in Operations Manual when shortcut is missing
+- [UI/UX] Don't show electricity grid chart if there is nothing to show
+- [Bug] Fix tables unusable after winching
+- [Bug] Fix relocating processors would lose processor settings and queue contents
+- [Bug] Fix possibility to start relocation of same object twice through shortcut
+- [Bug] Fix Stasis Pod would spawn the smoke trail before repositioning to the start location
+- [Bug] Automatically remove invalid objects when loading the game
+
+
+<b>v0.5.276</b> (2022.05.09)
+- [Feature] Add Cooking Station device for humans to cook their food
+- [Feature] Coffee Maker, Bridge Controls and Loom will require a human operator to work
+- [Balance] Move AutoKitchen into it's own research node
+- [Balance] Coffee will cost less electricity and take less time to produce
+- [Balance] Automatically start growing Wheat in the planter inside survivor area in Wrecked scenario
+- [Graphics] Fix operator visual offsets on Crafting Station
+- [Graphics] Fix visual offsets on Treadmill
+
+
+<b>v0.5.275</b> (2022.05.08)
+- [Tech] Upgrade Unity to 2021.3.2f1
+- [Feature] Add a Crafting Station device that requires a human operator to craft objects
+- [Feature] Add new Operate skill for humans
+- [Feature] Add Radiator device for reducing heat indoors
+- [Feature] Most industrial devices will produce heat around them
+- [Balance] Generate Wrecked scenario with one Crafting Station instead of Assembler
+- [Balance] Move Copper Wire and Transistor to Technology research node
+- [Balance] Move Assembler to Robotics research node
+- [Audio] Add new OST track
+- [Bug] Fix dirt visuals could get created too far from the grid position
+- [Bug] Fix dirt sprites not refreshing correctly when dirt is cleaned and created at the same time
+
+
+<b>v0.5.274</b> (2022.05.06)
+- [Balance] Make Cleaning Bots accelerate faster
+- [UI/UX] Hide notifications about lack of materials when the lack is resolved
+- [UI/UX] Add material sorting modes to inventory overlay (count asc/desc, alphabetic)
+- [Graphics] Make space background move faster when ship is flying
+- [Audio] Change Emergency Siren sound to a more sci-fi one
+- [Performance] Reduce CPU consumption coming from audio filters and music playback
+- [Performance] Fix periodic small frame drops happening due to oxygen/heat simulation on the GPU
+
+
+<b>v0.5.273</b> (2022.05.05)
+- [Feature] Make enclosed areas dimmer to encourage installing lights
+- [Bug] Fix drone hovering and object rotations getting choppy after playing for many hours in same save
+- [Bug] Fix some particles not updating their position after winch operation
+- [Bug] Fix beings would socialize with themselves
+- [Bug] Fix enclosed areas not recalculating automatically after winching, causing issues with heaters and oxygen pumps
+- [Bug] Fix beings would remain tethered to themselves after socializing with themselves (doh)
+- [Bug] Fix beings would fail to reach their walk destinations when socializing with themselves
+- [Bug] Fix space objects rapidly changing visual direction if both player ship and the object is moving
+
+
+<b>v0.5.272</b> (2022.05.04)
+- [Tech] Upgrade Unity to 2021.3.1f1
+- [Balance] Humans and pets will seek recreational activities more frequently
+- [Feature] Add Treadmill device and research node
+- [Bug] Fix Radial menu not rebuilding if necessary when invoked through B shortcut
+- [Bug] Fix potential crash when warming up Vulcan shares on Linux
+- [Bug] Fix game modifiers menu failing to create all buttons when Sandbox scenario was selected
+- [Bug] Show the right preview sprite in slots components when slots are used
+- [Bug] Fix socializing would pick social candidates in opposite order (worst candidate first)
+
+
+<b>v0.5.271</b> (2022.05.02)
+- [Feature] Add Security Controls overlay to control all security devices at once
+- [Feature] Add Security Controls device and research branch
+- [UI/UX] Add huge labels next to root items in Research Tree
+- [UI/UX] Show device battery level when hovering the clock
+- [UI/UX] Virtual mouse cursor will now pan Research / Starmap view when pushing the edges
+- [Audio] Change Assembler and Auto Kitchen SFX
+- [AUdio] Add new OST track
+- [Bug] Fix first instance of text input popup would execute game key bindings when typing
+- [Bug] Fix Steam Achievements synchronizing with local ones with incorrect unlock date
+- [Bug] Fix controller edge pan activating on the map when game was paused or in Research / Starmap
+
+
+<b>v0.5.270</b> (2022.04.28)
+- [Feature] Synchronize local and Steam Achievements
+- [Feature] Replace Millionaire achievement with 5 different money related achievements
+- [UI/UX] Create custom locked/unlocked images for each achievement
+- [UI/UX] Show big achievement images in UI
+- [UI/UX] Improve formatting on some of the in-game tooltips
+- [UI/UX] Warn about low battery on your gaming device
+- [UI/UX] Automatically pause when Steam overlay is open
+- [Bug] Fix Fluid Cannon water bullets not going through objects
+- [Bug] Fix some controller glyphs appearing in incorrect positions
+
+
+<b>v0.5.269</b> (2022.04.27)
+- [UI/UX] Change controller left stick press binding from Cycle Tool Mode to Rotate
+- [UI/UX] Show virtual keyboard automatically when selecting an input field in Steam Deck or Steam Big Screen mode
+- [UI/UX] Show a copy of input field above the virtual keyboard on Steam Deck, as keyboard often covers the input
+- [Bug] Detect gamepad flavor correctly
+
+
+<b>v0.5.268</b> (2022.04.26)
+- [UI/UX] Improve auto scaling for screens with unreported DPI (Steam Deck)
+- [UI/UX] Show only controller glyphs when controller is in use
+- [UI/UX] Change default controller bindings to include Shift and Ctrl modifier
+- [UI/UX] Improve fonts readability
+- [UI/UX] When applying repair limit of 25 tiles in tutorial, check the number of tiles, not the drag rect size
+- [UI/UX] Prevent wrong type of research from being started during the tutorial
+- [UI/UX] Improve research tutorial guidelines if research tree is closed without starting the required research
+- [UI/UX] Add Steam Controller glyphs for Steam Deck
+- [UI/UX] Hide keyboard controls in input settings when controller is in use
+- [Bug] Fix resetting input settings would not reset the invert UI option
+- [Bug] Fix tutorial impossible to complete with controller alone
+- [Bug] Fix cat riding a bot achievement getting unlocked while cat is still chasing the bot
+- [Bug] Fix saving / loading near the end of the tutorial could resume the tutorial without instructions what to do
+
+
 <b>v0.5.267</b> (2022.04.25)
 - [Feature] Add Sentry Drone - a security drone built for combat operations
 - [Balance] Increase Robot health to 150
