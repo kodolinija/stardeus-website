@@ -1,3 +1,13 @@
+<b>v0.6.7</b> (2022.05.30)
+- [Feature] Add device wear (can be disabled through new game modifiers or current game settings)
+- [Feature] Add two new Battery devices for mid and late game
+- [Balance] Plants will no longer need or use oxygen
+- [Balance] Change Construction Speed research to be more useful
+- [UI/UX] Show tooltips with inventory count when hovering material names in most UI material lists
+- [Bug] Fix "One" crafting option would show "Production goal reached" immediately
+- [Bug] Fix Winch Hook UI failing to load when Winch Anchor was not available
+
+
 <b>v0.6.6</b> (2022.05.29)
 - [Feature] Communicator will be able to search for Merchants of specific type
 - [Balance] Make FTL drives 4x more powerful
