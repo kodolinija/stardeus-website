@@ -1,3 +1,22 @@
+<b>v0.6.9</b> (2022.05.31)
+- [Balance] Beings won't drop work if health > 50% and damage amount is negligible
+- [Balance] Prevent eggs hatching during CPU cooldown procedure
+- [Balance] Increase amount of food spawned per survivor in wrecked scenario
+- [UI/UX] Improve connector build UX on drag-drop power line on the floor
+- [UI/UX] Add more information in direct assignment tooltip
+- [UI/UX] Add a way to see last damage location in being health UI
+- [UI/UX] Adjusting priority on certain repeating tasks will save the priority for the device
+- [Bug] Fix Quick Search not refreshing the index after something got unlocked until Radial menu is displayed
+- [Bug] Fix left / right modifier keys showing duplicate binding glyphs in UI tooltips
+- [Bug] Fix force assigning an already assigned task could end up in two workers attempting to perform the same work, leading to bugs
+- [Bug] Fix using deconstruct tool on a tile with deconstruction in progress would reset the progress
+- [Bug] Fix selecting tile along with objects or beings would not render tile selection vfx
+- [Bug] Fix plants getting misaligned after winching
+- [Bug] Fix stray floor tiles would prevent winching if they were touching the island diagonally
+- [Bug] Fix relocating a landed capsule would produce a smoke trail
+- [Bug] Fix irremovable stasis pods sitting on the map forever
+
+
 <b>v0.6.8</b> (2022.05.31)
 - [Balance] Change material cost of new batteries
 - [Balance] Adjust Hunger, Purpose and Maintenance need drop rates
