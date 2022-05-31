@@ -1,3 +1,20 @@
+<b>v0.6.8</b> (2022.05.31)
+- [Balance] Change material cost of new batteries
+- [Balance] Adjust Hunger, Purpose and Maintenance need drop rates
+- [Balance] Meals will cook faster
+- [Balance] Growing Protein in Cloning Pod will yield 5 Protein out of 1
+- [UI/UX] Show shortcut tooltips for Relocate and Build a Copy UI buttons
+- [Bug] Fix object replacement tasks would not show skill requirements in tooltips
+- [Bug] Fix Nuclear Battery using wrong graphic
+- [Bug] Fix cleaning devices would add excessive amounts of wear
+- [Bug] Fix Stasis Array could get generated near a wall
+- [Bug] Fix atmosphere leak particles missing or behaving in unexpected ways
+- [Bug] Fix hints could show up for shortcuts that are not bound
+- [Bug] Fix Processor progress bar not updating in UI when queue becomes empty
+- [Bug] Fix energy graph registering sharp drops when game was saved and loaded
+- [Bug] Fix Ship Computer resetting it's energy consumption if Energy overlay was opened with time stopped
+
+
 <b>v0.6.7</b> (2022.05.30)
 - [Feature] Add device wear (can be disabled through new game modifiers or current game settings)
 - [Feature] Add two new Battery devices for mid and late game
