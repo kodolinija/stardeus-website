@@ -1,3 +1,10 @@
+<b>v0.6.11</b> (2022.06.01)
+- [Performance] Improve pathfinding speed for short distances
+- [UI/UX] Mark raider names in red in Beings overlay
+- [Bug] Fix beings to go for a long hike to avoid stepping on a chair
+- [Bug] Fix raiders being greeted as someone who joined your colony
+
+
 <b>v0.6.10</b> (2022.06.01)
 - [Balance] Fix Shuttle getting worn off too quickly
 - [Balance] Significantly reduce wear for Disk / Memory / CPU modules
