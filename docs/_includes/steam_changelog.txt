@@ -1,3 +1,11 @@
+<b>v0.6.10</b> (2022.06.01)
+- [Balance] Fix Shuttle getting worn off too quickly
+- [Balance] Significantly reduce wear for Disk / Memory / CPU modules
+- [UI/UX] Dropping a connection on a wall will suggest building a wall socket
+- [Bug] Hotfix new task priority would default to 0 unless overridden
+- [Bug] Fix dropping a connection from an unresearched connector type would not suggest building a connector
+
+
 <b>v0.6.9</b> (2022.05.31)
 - [Balance] Beings won't drop work if health > 50% and damage amount is negligible
 - [Balance] Prevent eggs hatching during CPU cooldown procedure
