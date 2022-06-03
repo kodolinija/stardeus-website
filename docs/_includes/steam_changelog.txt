@@ -1,3 +1,9 @@
+<b>v0.6.13</b> (2022.06.03)
+- [Performance] Synchronize mouse and gamepad cursor in a more efficient way
+- [UI/UX] Make D-Pad navigate menus in Main Menu and Pause Panel
+- [Bug] Hotfix Steam Deck not detecting system mouse, resulting in invisible cursor
+
+
 <b>v0.6.12</b> (2022.06.03)
 - [Tech] Update Unity to 2021.3.4f1
 - [Performance] Further improve pathfinding performance and reduce garbage generation
