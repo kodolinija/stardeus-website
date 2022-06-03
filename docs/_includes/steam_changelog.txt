@@ -1,3 +1,17 @@
+<b>v0.6.12</b> (2022.06.03)
+- [Tech] Update Unity to 2021.3.4f1
+- [Performance] Further improve pathfinding performance and reduce garbage generation
+- [UI/UX] Seamlessly synchronize mouse and gamepad cursor position
+- [UI/UX] Change default controller bindings to be more compatible with Steam Deck
+- [UI/UX] Add font scale slider to video settings
+- [UI/UX] Increase min/max range of UI scale
+- [UI/UX] Set font scale to max by default on Steam Deck
+- [UI/UX] Use max UI scale by default on Steam Deck
+- [Bug] Fix duplicate shortcut bindings appearing in certain situations
+- [Bug] Fix "Shortcut:" tooltip appearing on buttons when using a controller
+- [Bug] Fix dropping a connection on a wall would show empty context menu for build connector if wall sockets were not researched
+
+
 <b>v0.6.11</b> (2022.06.01)
 - [Performance] Improve pathfinding speed for short distances
 - [UI/UX] Mark raider names in red in Beings overlay
