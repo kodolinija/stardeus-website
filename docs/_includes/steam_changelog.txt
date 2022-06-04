@@ -1,3 +1,9 @@
+<b>v0.6.14</b> (2022.06.04)
+- [Bug] Add official configurations for Steam Deck and Steam Controller
+- [Bug] Fix text would not fit into blocks with largest font scale in some languages (i.e. Japanese)
+- [Bug] Fix mouse not able to activate Radial Menu if controller is available
+
+
 <b>v0.6.13</b> (2022.06.03)
 - [Performance] Synchronize mouse and gamepad cursor in a more efficient way
 - [UI/UX] Make D-Pad navigate menus in Main Menu and Pause Panel
