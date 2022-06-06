@@ -1,3 +1,11 @@
+<b>v0.6.15</b> (2022.06.06)
+- [Audio] Add new OST track
+- [UI/UX] Add gamepad pointer acceleration (very gentle default, tunable in input settings)
+- [UI/UX] Change some tutorial texts when controller is used
+- [UI/UX] Overhaul controller input bindings again to simplify and improve them
+- [Bug] Fix a few issues related to gamepad / mouse / keyboard switching
+
+
 <b>v0.6.14</b> (2022.06.04)
 - [Bug] Add official configurations for Steam Deck and Steam Controller
 - [Bug] Fix text would not fit into blocks with largest font scale in some languages (i.e. Japanese)
