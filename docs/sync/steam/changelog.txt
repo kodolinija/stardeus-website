@@ -1,3 +1,8 @@
+<b>v0.6.16</b> (2022.06.07)
+- [Audio] Add another OST track
+- [Misc] Split Closed Alpha and Early Access builds to have separate news
+
+
 <b>v0.6.15</b> (2022.06.06)
 - [Audio] Add new OST track
 - [UI/UX] Add gamepad pointer acceleration (very gentle default, tunable in input settings)
