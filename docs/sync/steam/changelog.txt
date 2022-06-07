@@ -1,6 +1,12 @@
 <b>v0.6.16</b> (2022.06.07)
+- [Balance] Improve "Ensure Ship Computer Ventilation" goal start and end conditions
+- [UI/UX] Add "Furnace is idle" notification
+- [UI/UX] Add "Explore the Operations Manual" goal
+- [UI/UX] Enhance the tooltip in all charts (Energy, Stock Market, Situation)
 - [Audio] Add another OST track
+- [Misc] Add Unity Data Privacy button in About menu
 - [Misc] Split Closed Alpha and Early Access builds to have separate news
+- [Bug] Fix Situation list resetting to 1st page whenever any item was clicked
 
 
 <b>v0.6.15</b> (2022.06.06)
