@@ -1,11 +1,20 @@
-Welcome to Stardeus
+Welcome to Stardeus Early Access
 https://stardeusgame.com Open stardeusgame.com
-2022-03-11
+2022-06-07
+
+Hey Space Travelers!
+
+You are playing an Early Access version of the game, which means there can be
+bugs or rough edges.
 
 If you encounter any issues or have a suggestion, use the "Send Feedback" button.
+It will submit your save file directly to the developer, making it easy to
+reproduce and fix most issues.
 
 If you have any questions, visit [url=https://discord.com/invite/89amEwP]Stardeus Discord[/url].
 
 Catch the live development streams on [url=https://twitch.tv/dev_spajus]twitch.tv/dev_spajus[/url].
 
 I hope you have a great time in Stardeus universe!
+
+Spajus
