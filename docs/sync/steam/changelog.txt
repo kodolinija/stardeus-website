@@ -1,3 +1,21 @@
+<b>v0.6.17</b> (2022.06.08)
+- [Audio] Change Loom sound effect
+- [UI/UX] Add more "idle" device notifications
+- [UI/UX] Limit chart size on smaller screens
+- [UI/UX] Improve chart tooltip behavior near chart edges
+- [UI/UX] Hide the bottom-left description tooltip after selecting the device blueprint in Radial menu
+- [UI/UX] Fix doors and planters showing a misleading icon during electricity deficit
+- [UI/UX] Remove obsolete "Heading" block from Starmap info panel
+- [UI/UX] Differentiate heavily damaged device UI entry with a warning icon
+- [UI/UX] Improve Particle Collector material choice UI to be more informative
+- [UI/UX] Improve Processor devices (Disassembler, Nutrient Extractor, Recycler, etc) queue UI to provide more details
+- [Bug] Fix multi-select ui list items could select an entity that is no longer active
+- [Bug] Fix "Drop Task" button in beings overlay would allow dropping tasks for non mind-controlled humans
+- [Bug] Fix electricity consumers with deficit would not show up in "Consumers" list in Electricity overlay
+- [Bug] Fix winching sections would leave ghost dirt sprites behind
+- [Bug] Fix several internal corner case exceptions
+
+
 <b>v0.6.16</b> (2022.06.07)
 - [Balance] Improve "Ensure Ship Computer Ventilation" goal start and end conditions
 - [UI/UX] Add "Furnace is idle" notification
