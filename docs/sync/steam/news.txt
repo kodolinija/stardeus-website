@@ -8,7 +8,7 @@ You are playing an Early Access version of the game, which means there will be
 bugs, unfinished parts or rough edges. We are actively working on it!
 
 If you want to receive the latest features as soon as they are implemented,
-switch to <b>experimental</b> branch in Steam game properties BETAS tab.
+switch to <b>experimental<b/> branch in Steam game properties BETAS tab.
 
 If you encounter any issues or have a suggestion, use the "Send Feedback" button.
 It will submit your save file directly to the developer, making it easy to

@@ -1,3 +1,18 @@
+<b>v0.6.18</b> (2022.06.09)
+- [Feature] Add "Order Petting" button for all pet types
+- [Feature] Allow ordering device replacement if wear is over 50%
+- [Balance] Ensure tighter Stock Market price correlation between items and their ingredients (i.e. Copper - Copper Plate)
+- [Balance] Reduce wear rate for Doors and Airlocks
+- [Misc] Change default UI scroll speed for Linux builds
+- [Misc] Add "Full Reset" option to settings
+- [UI/UX] Don't show save file dropdown when there is only one save file
+- [UI/UX] Make worker priorities copyable (for non-biological species only)
+- [UI/UX] Fix some font size inconsistencies in events panel
+- [Bug] Fix beings could spawn too far from Stasis Array work spot, ending up inside a wall and teleporting to another area
+- [Bug] Fix stock market change percentages above 100% would show up multiplied by 1000
+- [Bug] Fix Oxygen missing in Environment tab
+
+
 <b>v0.6.17</b> (2022.06.08)
 - [Audio] Change Loom sound effect
 - [UI/UX] Add more "idle" device notifications
