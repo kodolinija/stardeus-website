@@ -1,3 +1,11 @@
+<b>v0.6.19</b> (2022.06.11)
+- [Feature] Add "Hail a Merchant" goal
+- [UI/UX] Add "Installable Upgrade" UI item on upgrades objects
+- [Feature] Automatically detect and warn when objects that are supposed to be usable by humans are in unsafe location
+- [Performance] Fix fake VRAM reported by Unity for Intel HD graphics cards on Linux would crash Vulkan with "out of memory"
+- [Bug] Fix "Install Upgrade" goal failing to run the check if Matter Reactor was not available
+
+
 <b>v0.6.18</b> (2022.06.09)
 - [Feature] Add "Order Petting" button for all pet types
 - [Feature] Allow ordering device replacement if wear is over 50%
