@@ -1,3 +1,10 @@
+<b>v0.6.20</b> (2022.06.13)
+- [Feature] Improve ship generation algorithm to come up with nicer looking smaller ships
+- [UI/UX] Allow replacing floor tiles without removing walls or objects when in Sandbox mode
+- [Bug] Hotfix menu panel would remain invisible but intercept mouse clicks if opened and closed quickly
+- [Bug] Fix a couple of mistypes in English
+
+
 <b>v0.6.19</b> (2022.06.11)
 - [Feature] Add "Hail a Merchant" goal
 - [UI/UX] Add "Installable Upgrade" UI item on upgrades objects
