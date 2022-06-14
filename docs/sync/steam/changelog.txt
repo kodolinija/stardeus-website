@@ -1,3 +1,18 @@
+<b>v0.6.21</b> (2022.06.14)
+- [Balance] Change speed and acceleration for most beings
+- [Balance] Reduce wear on connectors
+- [UI/UX] Make being names readable at all zoom levels
+- [UI/UX] Common actions will have a way to highlight and cycle affected entities
+- [UI/UX] Gamepad mouse cursor will pan the camera when pushing on the edge even above UI
+- [UI/UX] Show electricity requirement in Research Queue
+- [UI/UX] Show turned off device count when looking at energy grid details
+- [Input] Swap left and right controller shoulder bindings
+- [Bug] Fix multi-selection failing to show common actions list in context menu after a common action was invoked
+- [Bug] Fix mouse scroll would get inverted after using a controller
+- [Bug] Fix generated merchant wallets would trigger money related achievements
+- [Bug] Fix Wrecked scenario could generate a map with unreachable areas
+
+
 <b>v0.6.20</b> (2022.06.13)
 - [Feature] Improve ship generation algorithm to come up with nicer looking smaller ships
 - [UI/UX] Allow replacing floor tiles without removing walls or objects when in Sandbox mode
