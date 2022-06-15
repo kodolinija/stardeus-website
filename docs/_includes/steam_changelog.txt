@@ -1,3 +1,20 @@
+<b>v0.6.22</b> (2022.06.15)
+- [Balance] Increase fire oxygen consumption x3
+- [Balance] Require 15% oxygen for fire to self ignite (was 10%)
+- [Balance] Reduce wear from switching electrical devices by 20x
+- [Feature] Add "Beverage Cooler" device for storing drinks
+- [UI/UX] Show the favorite meal in Persona UI
+- [UI/UX] Add current game setting to disable all "Device idle" warnings
+- [UI/UX] Add current game setting to disable all "Object in unsafe area" warnings
+- [Graphics] Make the Refrigerator bigger
+- [Performance] Improve performance of fire situations (minor)
+- [Performance] Improve performance of large grid rebuilds (minor)
+- [Performance] Improve Research Tree performance
+- [Bug] Fix receiving small amounts of damage would not drop any tasks ever
+- [Bug] Fix coffee would treated as a meal that recovers Hunger need
+- [Bug] Fix terraforming could get completed too early when devices were switched
+
+
 <b>v0.6.21</b> (2022.06.14)
 - [Balance] Change speed and acceleration for most beings
 - [Balance] Reduce wear on connectors
