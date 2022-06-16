@@ -1,3 +1,12 @@
+<b>v0.6.23</b> (2022.06.16)
+- [Tech] Refactor runtime components away, as they were causing too many issues
+- [UI/UX] Allow ordering direct replacement for worn out devices by trying to build a copy of the device on top of it
+- [Bug] Fix multiple issues with Expedition states
+- [Bug] Automatically recover beings who went into inconsistent state due to expedition bugs
+- [Bug] Fix some hints with missing bindings would still show up on Steam Deck
+- [Bug] Fix beings would attempt to reach materials in unsafe areas
+
+
 <b>v0.6.22</b> (2022.06.15)
 - [Balance] Increase fire oxygen consumption x3
 - [Balance] Require 15% oxygen for fire to self ignite (was 10%)
