@@ -1,3 +1,15 @@
+<b>v0.6.24</b> (2022.06.17)
+- [Balance] Rearrange the Research Tree dependencies
+- [UI/UX] Improve Research Tree layout
+- [UI/UX] Improve Beings overlay
+- [UI/UX] Add Sort buttons to Inventory, Economy Net Worth and Merchant Trade UI lists
+- [UI/UX] Improve Merchant Trade UI list readability
+- [Bug] Fix communicator would be unavailable right after load, making the merchant ship leave you
+- [Bug] Fix firefighters sometimes getting stuck doing nothing if there was fire around
+- [Bug] Fix workers would take dangerous tasks and then refuse to go to the spot due to potential harm
+- [Bug] Fix some UI elements too big on small screens with large UI scale (i.e. inventory overlay)
+
+
 <b>v0.6.23</b> (2022.06.16)
 - [Tech] Refactor runtime components away, as they were causing too many issues
 - [UI/UX] Allow ordering direct replacement for worn out devices by trying to build a copy of the device on top of it
