@@ -1,3 +1,9 @@
+<b>v0.6.25</b> (2022.06.18)
+- [Audio] Add new OST track
+- [UI/UX] Improve Research Storage UI
+- [UI/UX] Revert some of the new UI auto resizing (need to rethink the implementation)
+
+
 <b>v0.6.24</b> (2022.06.17)
 - [Balance] Rearrange the Research Tree dependencies
 - [UI/UX] Improve Research Tree layout
