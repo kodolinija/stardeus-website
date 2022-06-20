@@ -1,3 +1,21 @@
+<b>v0.6.26</b> (2022.06.20)
+- [Feature] Add "Order Strip" button to dead beings with equipment
+- [Balance] Make socializing shorter
+- [Balance] Operating a Cooking Station will promise satisfying Hunger
+- [AI] Prevent dropping tasks due to urgent needs when task is aligned with the need (i.e. cooking vs hunger)
+- [AI] Prevent socializing from interrupting other worker tasks
+- [UI/UX] Add mood trend tooltip and show the trend in mood details list
+- [UI/UX] Limit the distance at which RMB would show a hovered device context menu
+- [UI/UX] Add color accent on bold texts in dialogs and popups
+- [Graphics] Show hovered tile outline
+- [Bug] Fix robots who cannot go on expeditions would fail to be switched on
+- [Bug] Fix certain recurring goals would prevent other goals from showing up
+- [Bug] Fix Order Petting button would appear for dead pets
+- [Bug] Fix controller not working correctly if plugged / unplugged during gameplay
+- [Bug] Fix equipment visuals not synchronizing with actual equipment state after load until being would move around
+- [Bug] Fix "sleep interrupted" mood effect lasting 4x longer than expected
+
+
 <b>v0.6.25</b> (2022.06.18)
 - [Audio] Add new OST track
 - [UI/UX] Improve Research Storage UI
