@@ -1,3 +1,17 @@
+<b>v0.6.27</b> (2022.06.21)
+- [Balance] Generate more inventory for Merchants
+- [UI/UX] Regroup the Radial Menu build submenu items
+- [UI/UX] Improve research event notification
+- [Bug] Fix hovered item would not get cleared if mouse went above UI, and RMB would invoke context menu
+- [Bug] Fix Radial Menu could show empty build categories if all items in the category were locked
+- [Bug] Fix merchant arrival notification not getting restored after save / load
+- [Bug] Fix possibility of ordering install of upgrades when it was not allowed
+- [Bug] Fix Shuttle was relocatable after loading a save when it was out
+- [Bug] Fix being self preservation being broken when there is no task assigned
+- [Bug] Fix humans not changing into space suit when walking outside
+- [Bug] Fix several edge case bugs and internal exceptions
+
+
 <b>v0.6.26</b> (2022.06.20)
 - [Feature] Add "Order Strip" button to dead beings with equipment
 - [Balance] Make socializing shorter
