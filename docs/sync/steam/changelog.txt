@@ -1,3 +1,15 @@
+<b>v0.6.28</b> (2022.06.23)
+- [Balance] Change multiple devices to require Steel instead of Titanium plate
+- [Performance] Improve performance of dragging a dialog with lots of details (esp. on Steam Deck)
+- [UI/UX] Change chart gradient line color
+- [AI] Improve combat AI
+- [Graphics] Animate all info icons and thought bubbles to pulsate
+- [Bug] Fix several misc bugs while overhauling automated tests
+- [Bug] Fix unfueled reactors reporting non-zero energy max output level
+- [Bug] Fix allow relocating beings in batches when otherwise they wouldn't be relocatable one by one
+- [Bug] Fix switched off workers hiding their off icon after relocation
+
+
 <b>v0.6.27</b> (2022.06.21)
 - [Balance] Generate more inventory for Merchants
 - [UI/UX] Regroup the Radial Menu build submenu items
