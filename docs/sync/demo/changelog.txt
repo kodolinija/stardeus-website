@@ -1,3 +1,268 @@
+<b>v0.6.29</b> (2022.06.24)
+- [UI/UX] Change the logic behind bulk replacing floor tiles when drawing rectangles / circles / lines
+- [Graphics] Prevent dirt from appearing on angular or hollow floor tiles
+- [Graphics] Show skull icon on dead beings
+- [Bug] Fix font scaling would make Research button texts disappear
+- [Bug] Fix UI widget drag confinement wouldn't work correctly after last change
+
+
+<b>v0.6.28</b> (2022.06.23)
+- [Balance] Change multiple devices to require Steel instead of Titanium plate
+- [Performance] Improve performance of dragging a dialog with lots of details (esp. on Steam Deck)
+- [UI/UX] Change chart gradient line color
+- [AI] Improve combat AI
+- [Graphics] Animate all info icons and thought bubbles to pulsate
+- [Bug] Fix several misc bugs while overhauling automated tests
+- [Bug] Fix unfueled reactors reporting non-zero energy max output level
+- [Bug] Fix allow relocating beings in batches when otherwise they wouldn't be relocatable one by one
+- [Bug] Fix switched off workers hiding their off icon after relocation
+
+
+<b>v0.6.27</b> (2022.06.21)
+- [Balance] Generate more inventory for Merchants
+- [UI/UX] Regroup the Radial Menu build submenu items
+- [UI/UX] Improve research event notification
+- [Bug] Fix hovered item would not get cleared if mouse went above UI, and RMB would invoke context menu
+- [Bug] Fix Radial Menu could show empty build categories if all items in the category were locked
+- [Bug] Fix merchant arrival notification not getting restored after save / load
+- [Bug] Fix possibility of ordering install of upgrades when it was not allowed
+- [Bug] Fix Shuttle was relocatable after loading a save when it was out
+- [Bug] Fix being self preservation being broken when there is no task assigned
+- [Bug] Fix humans not changing into space suit when walking outside
+- [Bug] Fix several edge case bugs and internal exceptions
+
+
+<b>v0.6.26</b> (2022.06.20)
+- [Feature] Add "Order Strip" button to dead beings with equipment
+- [Balance] Make socializing shorter
+- [Balance] Operating a Cooking Station will promise satisfying Hunger
+- [AI] Prevent dropping tasks due to urgent needs when task is aligned with the need (i.e. cooking vs hunger)
+- [AI] Prevent socializing from interrupting other worker tasks
+- [UI/UX] Add mood trend tooltip and show the trend in mood details list
+- [UI/UX] Limit the distance at which RMB would show a hovered device context menu
+- [UI/UX] Add color accent on bold texts in dialogs and popups
+- [Graphics] Show hovered tile outline
+- [Bug] Fix robots who cannot go on expeditions would fail to be switched on
+- [Bug] Fix certain recurring goals would prevent other goals from showing up
+- [Bug] Fix Order Petting button would appear for dead pets
+- [Bug] Fix controller not working correctly if plugged / unplugged during gameplay
+- [Bug] Fix equipment visuals not synchronizing with actual equipment state after load until being would move around
+- [Bug] Fix "sleep interrupted" mood effect lasting 4x longer than expected
+
+
+<b>v0.6.25</b> (2022.06.18)
+- [Audio] Add new OST track
+- [UI/UX] Improve Research Storage UI
+- [UI/UX] Revert some of the new UI auto resizing (need to rethink the implementation)
+
+
+<b>v0.6.24</b> (2022.06.17)
+- [Balance] Rearrange the Research Tree dependencies
+- [UI/UX] Improve Research Tree layout
+- [UI/UX] Improve Beings overlay
+- [UI/UX] Add Sort buttons to Inventory, Economy Net Worth and Merchant Trade UI lists
+- [UI/UX] Improve Merchant Trade UI list readability
+- [Bug] Fix communicator would be unavailable right after load, making the merchant ship leave you
+- [Bug] Fix firefighters sometimes getting stuck doing nothing if there was fire around
+- [Bug] Fix workers would take dangerous tasks and then refuse to go to the spot due to potential harm
+- [Bug] Fix some UI elements too big on small screens with large UI scale (i.e. inventory overlay)
+
+
+<b>v0.6.23</b> (2022.06.16)
+- [Tech] Refactor runtime components away, as they were causing too many issues
+- [UI/UX] Allow ordering direct replacement for worn out devices by trying to build a copy of the device on top of it
+- [Bug] Fix multiple issues with Expedition states
+- [Bug] Automatically recover beings who went into inconsistent state due to expedition bugs
+- [Bug] Fix some hints with missing bindings would still show up on Steam Deck
+- [Bug] Fix beings would attempt to reach materials in unsafe areas
+
+
+<b>v0.6.22</b> (2022.06.15)
+- [Balance] Increase fire oxygen consumption x3
+- [Balance] Require 15% oxygen for fire to self ignite (was 10%)
+- [Balance] Reduce wear from switching electrical devices by 20x
+- [Feature] Add "Beverage Cooler" device for storing drinks
+- [UI/UX] Show the favorite meal in Persona UI
+- [UI/UX] Add current game setting to disable all "Device idle" warnings
+- [UI/UX] Add current game setting to disable all "Object in unsafe area" warnings
+- [Graphics] Make the Refrigerator bigger
+- [Performance] Improve performance of fire situations (minor)
+- [Performance] Improve performance of large grid rebuilds (minor)
+- [Performance] Improve Research Tree performance
+- [Bug] Fix receiving small amounts of damage would not drop any tasks ever
+- [Bug] Fix coffee would treated as a meal that recovers Hunger need
+- [Bug] Fix terraforming could get completed too early when devices were switched
+
+
+<b>v0.6.21</b> (2022.06.14)
+- [Balance] Change speed and acceleration for most beings
+- [Balance] Reduce wear on connectors
+- [UI/UX] Make being names readable at all zoom levels
+- [UI/UX] Common actions will have a way to highlight and cycle affected entities
+- [UI/UX] Gamepad mouse cursor will pan the camera when pushing on the edge even above UI
+- [UI/UX] Show electricity requirement in Research Queue
+- [UI/UX] Show turned off device count when looking at energy grid details
+- [Input] Swap left and right controller shoulder bindings
+- [Bug] Fix multi-selection failing to show common actions list in context menu after a common action was invoked
+- [Bug] Fix mouse scroll would get inverted after using a controller
+- [Bug] Fix generated merchant wallets would trigger money related achievements
+- [Bug] Fix Wrecked scenario could generate a map with unreachable areas
+
+
+<b>v0.6.20</b> (2022.06.13)
+- [Feature] Improve ship generation algorithm to come up with nicer looking smaller ships
+- [UI/UX] Allow replacing floor tiles without removing walls or objects when in Sandbox mode
+- [Bug] Hotfix menu panel would remain invisible but intercept mouse clicks if opened and closed quickly
+- [Bug] Fix a couple of mistypes in English
+
+
+<b>v0.6.19</b> (2022.06.11)
+- [Feature] Add "Hail a Merchant" goal
+- [UI/UX] Add "Installable Upgrade" UI item on upgrades objects
+- [Feature] Automatically detect and warn when objects that are supposed to be usable by humans are in unsafe location
+- [Performance] Fix fake VRAM reported by Unity for Intel HD graphics cards on Linux would crash Vulkan with "out of memory"
+- [Bug] Fix "Install Upgrade" goal failing to run the check if Matter Reactor was not available
+
+
+<b>v0.6.18</b> (2022.06.09)
+- [Feature] Add "Order Petting" button for all pet types
+- [Feature] Allow ordering device replacement if wear is over 50%
+- [Balance] Ensure tighter Stock Market price correlation between items and their ingredients (i.e. Copper - Copper Plate)
+- [Balance] Reduce wear rate for Doors and Airlocks
+- [Misc] Change default UI scroll speed for Linux builds
+- [Misc] Add "Full Reset" option to settings
+- [UI/UX] Don't show save file dropdown when there is only one save file
+- [UI/UX] Make worker priorities copyable (for non-biological species only)
+- [UI/UX] Fix some font size inconsistencies in events panel
+- [Bug] Fix beings could spawn too far from Stasis Array work spot, ending up inside a wall and teleporting to another area
+- [Bug] Fix stock market change percentages above 100% would show up multiplied by 1000
+- [Bug] Fix Oxygen missing in Environment tab
+
+
+<b>v0.6.17</b> (2022.06.08)
+- [Audio] Change Loom sound effect
+- [UI/UX] Add more "idle" device notifications
+- [UI/UX] Limit chart size on smaller screens
+- [UI/UX] Improve chart tooltip behavior near chart edges
+- [UI/UX] Hide the bottom-left description tooltip after selecting the device blueprint in Radial menu
+- [UI/UX] Fix doors and planters showing a misleading icon during electricity deficit
+- [UI/UX] Remove obsolete "Heading" block from Starmap info panel
+- [UI/UX] Differentiate heavily damaged device UI entry with a warning icon
+- [UI/UX] Improve Particle Collector material choice UI to be more informative
+- [UI/UX] Improve Processor devices (Disassembler, Nutrient Extractor, Recycler, etc) queue UI to provide more details
+- [Bug] Fix multi-select ui list items could select an entity that is no longer active
+- [Bug] Fix "Drop Task" button in beings overlay would allow dropping tasks for non mind-controlled humans
+- [Bug] Fix electricity consumers with deficit would not show up in "Consumers" list in Electricity overlay
+- [Bug] Fix winching sections would leave ghost dirt sprites behind
+- [Bug] Fix several internal corner case exceptions
+
+
+<b>v0.6.16</b> (2022.06.07)
+- [Balance] Improve "Ensure Ship Computer Ventilation" goal start and end conditions
+- [UI/UX] Add "Furnace is idle" notification
+- [UI/UX] Add "Explore the Operations Manual" goal
+- [UI/UX] Enhance the tooltip in all charts (Energy, Stock Market, Situation)
+- [Audio] Add another OST track
+- [Misc] Add Unity Data Privacy button in About menu
+- [Misc] Split Closed Alpha and Early Access builds to have separate news
+- [Bug] Fix Situation list resetting to 1st page whenever any item was clicked
+
+
+<b>v0.6.15</b> (2022.06.06)
+- [Audio] Add new OST track
+- [UI/UX] Add gamepad pointer acceleration (very gentle default, tunable in input settings)
+- [UI/UX] Change some tutorial texts when controller is used
+- [UI/UX] Overhaul controller input bindings again to simplify and improve them
+- [Bug] Fix a few issues related to gamepad / mouse / keyboard switching
+
+
+<b>v0.6.14</b> (2022.06.04)
+- [Bug] Add official configurations for Steam Deck and Steam Controller
+- [Bug] Fix text would not fit into blocks with largest font scale in some languages (i.e. Japanese)
+- [Bug] Fix mouse not able to activate Radial Menu if controller is available
+
+
+<b>v0.6.13</b> (2022.06.03)
+- [Performance] Synchronize mouse and gamepad cursor in a more efficient way
+- [UI/UX] Make D-Pad navigate menus in Main Menu and Pause Panel
+- [Bug] Hotfix Steam Deck not detecting system mouse, resulting in invisible cursor
+
+
+<b>v0.6.12</b> (2022.06.03)
+- [Tech] Update Unity to 2021.3.4f1
+- [Performance] Further improve pathfinding performance and reduce garbage generation
+- [UI/UX] Seamlessly synchronize mouse and gamepad cursor position
+- [UI/UX] Change default controller bindings to be more compatible with Steam Deck
+- [UI/UX] Add font scale slider to video settings
+- [UI/UX] Increase min/max range of UI scale
+- [UI/UX] Set font scale to max by default on Steam Deck
+- [UI/UX] Use max UI scale by default on Steam Deck
+- [Bug] Fix duplicate shortcut bindings appearing in certain situations
+- [Bug] Fix "Shortcut:" tooltip appearing on buttons when using a controller
+- [Bug] Fix dropping a connection on a wall would show empty context menu for build connector if wall sockets were not researched
+
+
+<b>v0.6.11</b> (2022.06.01)
+- [Performance] Improve pathfinding speed for short distances
+- [UI/UX] Mark raider names in red in Beings overlay
+- [Bug] Fix beings to go for a long hike to avoid stepping on a chair
+- [Bug] Fix raiders being greeted as someone who joined your colony
+
+
+<b>v0.6.10</b> (2022.06.01)
+- [Balance] Fix Shuttle getting worn off too quickly
+- [Balance] Significantly reduce wear for Disk / Memory / CPU modules
+- [UI/UX] Dropping a connection on a wall will suggest building a wall socket
+- [Bug] Hotfix new task priority would default to 0 unless overridden
+- [Bug] Fix dropping a connection from an unresearched connector type would not suggest building a connector
+
+
+<b>v0.6.9</b> (2022.05.31)
+- [Balance] Beings won't drop work if health > 50% and damage amount is negligible
+- [Balance] Prevent eggs hatching during CPU cooldown procedure
+- [Balance] Increase amount of food spawned per survivor in wrecked scenario
+- [UI/UX] Improve connector build UX on drag-drop power line on the floor
+- [UI/UX] Add more information in direct assignment tooltip
+- [UI/UX] Add a way to see last damage location in being health UI
+- [UI/UX] Adjusting priority on certain repeating tasks will save the priority for the device
+- [Bug] Fix Quick Search not refreshing the index after something got unlocked until Radial menu is displayed
+- [Bug] Fix left / right modifier keys showing duplicate binding glyphs in UI tooltips
+- [Bug] Fix force assigning an already assigned task could end up in two workers attempting to perform the same work, leading to bugs
+- [Bug] Fix using deconstruct tool on a tile with deconstruction in progress would reset the progress
+- [Bug] Fix selecting tile along with objects or beings would not render tile selection vfx
+- [Bug] Fix plants getting misaligned after winching
+- [Bug] Fix stray floor tiles would prevent winching if they were touching the island diagonally
+- [Bug] Fix relocating a landed capsule would produce a smoke trail
+- [Bug] Fix irremovable stasis pods sitting on the map forever
+
+
+<b>v0.6.8</b> (2022.05.31)
+- [Balance] Change material cost of new batteries
+- [Balance] Adjust Hunger, Purpose and Maintenance need drop rates
+- [Balance] Meals will cook faster
+- [Balance] Growing Protein in Cloning Pod will yield 5 Protein out of 1
+- [UI/UX] Show shortcut tooltips for Relocate and Build a Copy UI buttons
+- [Bug] Fix object replacement tasks would not show skill requirements in tooltips
+- [Bug] Fix Nuclear Battery using wrong graphic
+- [Bug] Fix cleaning devices would add excessive amounts of wear
+- [Bug] Fix Stasis Array could get generated near a wall
+- [Bug] Fix atmosphere leak particles missing or behaving in unexpected ways
+- [Bug] Fix hints could show up for shortcuts that are not bound
+- [Bug] Fix Processor progress bar not updating in UI when queue becomes empty
+- [Bug] Fix energy graph registering sharp drops when game was saved and loaded
+- [Bug] Fix Ship Computer resetting it's energy consumption if Energy overlay was opened with time stopped
+
+
+<b>v0.6.7</b> (2022.05.30)
+- [Feature] Add device wear (can be disabled through new game modifiers or current game settings)
+- [Feature] Add two new Battery devices for mid and late game
+- [Balance] Plants will no longer need or use oxygen
+- [Balance] Change Construction Speed research to be more useful
+- [UI/UX] Show tooltips with inventory count when hovering material names in most UI material lists
+- [Bug] Fix "One" crafting option would show "Production goal reached" immediately
+- [Bug] Fix Winch Hook UI failing to load when Winch Anchor was not available
+
+
 <b>v0.6.6</b> (2022.05.29)
 - [Feature] Communicator will be able to search for Merchants of specific type
 - [Balance] Make FTL drives 4x more powerful
