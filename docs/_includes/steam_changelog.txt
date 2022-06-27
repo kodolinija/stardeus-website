@@ -1,3 +1,16 @@
+<b>v0.6.30</b> (2022.06.27)
+- [Balance] Reduce Ship Computer's built-in research capacity to 250kW
+- [Balance] Reduce wear of Repair Station by 20x
+- [Balance] Humans will get a mood penalty when having to use a Planter as a Toilet
+- [Balance] Humans will look for a usable Toilet longer before going to the Planter
+- [UI/UX] Add titles to charts where appropriate
+- [UI/UX] Show average price in Stock Market chart when looking at owned shares
+- [UI/UX] Make wall build / replacement logic consistent with floor build / replacement
+- [Bug] Fix "Enter Amount" would allow to buy more items than trader had in stock
+- [Bug] Fix chart would be blank if all values were 0
+- [Bug] Fix Battery Charge not saving properly in Situation history
+
+
 <b>v0.6.29</b> (2022.06.24)
 - [UI/UX] Change the logic behind bulk replacing floor tiles when drawing rectangles / circles / lines
 - [Graphics] Prevent dirt from appearing on angular or hollow floor tiles
