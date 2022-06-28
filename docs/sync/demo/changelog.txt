@@ -1,3 +1,12 @@
+<b>v0.6.31</b> (2022.06.28)
+- [Tech] Upgrade Unity to 2021.3.5f1
+- [Balance] Review processing and crafting speeds and energy cost for many resources (make things faster in exchange for more energy consumption)
+- [UI/UX] Where possible, show chart on item hover rather than on click
+- [Bug] Fix logic behind processing large amounts of ores when they were in storage
+- [Bug] Fix modifying electricity grid would cause the Ship Computer to produce a power consumption spike when multiple research nodes were in queue
+- [Bug] Reimplement "lack" notifications to properly remove them when lack is satisfied
+
+
 <b>v0.6.30</b> (2022.06.27)
 - [Balance] Reduce Ship Computer's built-in research capacity to 250kW
 - [Balance] Reduce wear of Repair Station by 20x
