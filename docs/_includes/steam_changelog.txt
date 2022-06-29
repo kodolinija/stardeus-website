@@ -1,3 +1,11 @@
+<b>v0.6.32</b> (2022.06.29)
+- [Balance] Failed task retry delay will depend on task priority
+- [UI/UX] When increasing priority on a failed task, automatically retry it
+- [Bug] Fix Stasis Pod would fail to land and disappear if attempted to land on an obstacle (broken recently)
+- [Bug] Fix Direct Order would sometimes see unrelated tasks that would prevent forcing execution of the hovered task
+- [Bug] Fix several internal edge case errors
+
+
 <b>v0.6.31</b> (2022.06.28)
 - [Tech] Upgrade Unity to 2021.3.5f1
 - [Balance] Review processing and crafting speeds and energy cost for many resources (make things faster in exchange for more energy consumption)
