@@ -1,3 +1,17 @@
+<b>v0.6.33</b> (2022.06.30)
+- [Balance] Reduce work amount required to build walls and floors
+- [Balance] Increase Disk Module capacity from 16ZB to 24ZB
+- [Balance] Overhaul starting conditions for Leaving Earth scenario
+- [Bug] Fix material lack notifications would not get restored immediately after loading the game
+- [Bug] Fix research may not run on Ship Computer if there is a Research Station without an operator
+- [Bug] Fix energy node off and deficit icons showing / hiding inconsistently when devices are getting switched off and on during energy deficit
+- [Bug] Fix certain seeds could produce incorrectly rotated angle floor tiles near horizontal axis of the ship
+- [Bug] Fix Safety Check would almost never get triggered
+- [Bug] Fix "Energy Consumption" showing energy actual energy production rather than consumption
+- [Bug] Fix "Breakdowns" were not tracked in Situation
+- [Bug] Fix merchant ships counting towards discovered space objects, thus triggering late game story events too soon
+
+
 <b>v0.6.32</b> (2022.06.29)
 - [Balance] Failed task retry delay will depend on task priority
 - [UI/UX] When increasing priority on a failed task, automatically retry it
