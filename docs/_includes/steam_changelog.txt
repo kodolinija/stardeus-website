@@ -1,3 +1,12 @@
+<b>v0.6.34</b> (2022.07.01)
+- [Misc] Review and cleanup procgen name lists
+- [UI/UX] Show object choice menu when clicking a cluster of nearby objects in the Starmap
+- [Bug] Fix Treadmill misleadingly contributing to energy Max Output while nobody is operating it
+- [Bug] Fix Player's ship showing up as not identified in the Starmap
+- [Bug] Fix Ship Log getting records about visiting Merchants and Shuttles
+- [Bug] Fix using D-Pad to navigate the UI would sometimes show tooltips in the wrong place
+
+
 <b>v0.6.33</b> (2022.06.30)
 - [Balance] Reduce work amount required to build walls and floors
 - [Balance] Increase Disk Module capacity from 16ZB to 24ZB
