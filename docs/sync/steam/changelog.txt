@@ -1,3 +1,11 @@
+<b>v0.6.35</b> (2022.07.03)
+- [Feature] Add a migration popup allowing to change the Story Generator when loading a demo save in full game
+- [Balance] Make Purpose need drop slower
+- [Audio] Add new OST track
+- [Bug] Fix "Battery Charge" levels showing up incorrectly in energy chart
+- [Bug] Fix human colonists would eat food in vacuum while wearing space suits
+
+
 <b>v0.6.34</b> (2022.07.01)
 - [Misc] Review and cleanup procgen name lists
 - [UI/UX] Show object choice menu when clicking a cluster of nearby objects in the Starmap
