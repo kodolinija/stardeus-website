@@ -1,3 +1,15 @@
+<b>v0.6.36</b> (2022.07.05)
+- [UI/UX] Show "Unlocked" text next to unlocked research nodes
+- [UI/UX] Add a tooltip to crafters to display production time and electricity cost
+- [UI/UX] Show a notification when battery gets discharged
+- [Misc] Add Dev Menu (dev_menu in console or Current Game Settings > Dev Menu)
+- [Input] Add gamepad deadzone to input settings
+- [Bug] Fix Radial Menu showing in incorrect position in triple monitor setup
+- [Bug] Fix unlocking all research would still show "Research not running" warning
+- [Bug] Fix Research Station would still ask for an operator when everything is unlocked
+- [Bug] Fix long menus would auto scroll to top shortly after they have finished loading
+
+
 <b>v0.6.35</b> (2022.07.03)
 - [Feature] Add a migration popup allowing to change the Story Generator when loading a demo save in full game
 - [Balance] Make Purpose need drop slower
