@@ -1,3 +1,20 @@
+<b>v0.6.37</b> (2022.07.06)
+- [Graphics] Increase drone hover speed
+- [Bug] Fix Sandbox mode would not show build tool menu in a new game
+- [Bug] Fix save hanging indefinitely if screenshot could not get taken
+- [Bug] Fix feedback submissions would fail to show up on Discord if screenshot could not get taken
+- [Bug] Fix Research Queue page resetting when modifying item order
+- [Bug] Fix inventory charts could display corrupted lines
+- [Bug] Fix Breakdowns statistics in Situation are not persisted between saves
+- [Bug] Fix Situation chart would not include current day value
+- [Bug] Fix Attempting to connect to a full connector would show the wrong connector capacity in the error message
+- [Bug] Fix Repair tool would keep showing outdated red markers for freshly repaired tiles if cursor did not move
+- [Bug] Fix Particle Collector not displaying material icon on cold start
+- [Bug] Fix cancelling stasis array relocation would unlock "No Hope" achievement
+- [Bug] Fix gamepad right stick would not pan the camera at low input value
+- [Bug] Fix Solar Panel cleaning progress bar would not display correctly
+
+
 <b>v0.6.36</b> (2022.07.05)
 - [UI/UX] Show "Unlocked" text next to unlocked research nodes
 - [UI/UX] Add a tooltip to crafters to display production time and electricity cost
