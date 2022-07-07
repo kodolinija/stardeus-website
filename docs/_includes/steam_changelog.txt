@@ -1,3 +1,22 @@
+<b>v0.6.38</b> (2022.07.07)
+- [Feature] Reimplement socializing action to feel more natural
+- [Balance] Beings with Enlightened trait will not have mental breakdowns
+- [Balance] Naked humans will not socialize (unless nudists)
+- [Balance] Change "device broke down" story event to only affect devices with >30% wear
+- [Balance] Spawn more Titanium Plate for the Wrecked scenario (200 -> 300)
+- [Balance] Reduce Battery device wear
+- [UI/UX] Task priority tool will now show "Increase Priority" on top of the Radial Menu wheel
+- [UI/UX] Close connector context menu after using auto connect / disconnect
+- [UI/UX] Restore cursor position after using Radial Menu with controller
+- [UI/UX] Show animated outline when hovering a connectable device with a Connect tool
+- [UI/UX] Add a button to disable Battery discharge notifications (per each battery)
+- [UI/UX] Automatically hide "Done" notifications for suggestions after 1 in-game hour
+- [Tech] Change screenshot method to attempt a workaround for a rare screenshot capture failure
+- [Bug] Fix pause menu would not be clickable if opened above a context menu
+- [Bug] Fix space suit looks would not get applied in hazardous environment during breakdowns
+- [Bug] Fix Dust Storm particles disappearing instantly after event has ended
+
+
 <b>v0.6.37</b> (2022.07.06)
 - [Graphics] Increase drone hover speed
 - [Bug] Fix Sandbox mode would not show build tool menu in a new game
