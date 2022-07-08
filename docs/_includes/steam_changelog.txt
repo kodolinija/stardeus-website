@@ -1,3 +1,13 @@
+<b>v0.6.39</b> (2022.07.08)
+- [Feature] Add music mood system to play tracks of relevant intensity
+- [UI/UX] Add Soundtrack panel to Audio settings
+- [UI/UX] Add progress bar to ML Booth
+- [UI/UX] Allow skipping the tutorial any time with ESC
+- [UI/UX] Automatically hide several event notification types (level ups, stasis wakeups, damage)
+- [UI/UX] Auto fill Feedback form contact and "post to discord" checkbox state with last values
+- [Bug] Fix drag-drop connection on a wall would not auto-connect the newly built wall socket
+
+
 <b>v0.6.38</b> (2022.07.07)
 - [Feature] Reimplement socializing action to feel more natural
 - [Balance] Beings with Enlightened trait will not have mental breakdowns
