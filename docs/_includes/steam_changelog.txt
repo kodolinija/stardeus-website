@@ -1,3 +1,11 @@
+<b>v0.6.40</b> (2022.07.09)
+- [Balance] Make Fun drop slower when operating devices
+- [Balance] Make Fun go up faster when socializing
+- [Balance] Reduce socializing duration
+- [UI/UX] Don't allow filling out the feedback form if network connection is blocked
+- [Bug] Fix socializing would not increase fun if being was chasing another one
+
+
 <b>v0.6.39</b> (2022.07.08)
 - [Feature] Add music mood system to play tracks of relevant intensity
 - [UI/UX] Add Soundtrack panel to Audio settings
