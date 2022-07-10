@@ -1,3 +1,25 @@
+<b>v0.6.41</b> (2022.07.10)
+- [Balance] Increase Robot acceleration
+- [Balance] Increase plant growth rate
+- [Balance] Slightly reduce amount of Survival Meals and Protein for Wrecked scenario
+- [Balance] Set default Firefighting task priority to 9
+- [Balance] Adjust multiple colonist mood effects
+- [Balance] Reduce mining skill level up rate
+- [Balance] When battery gets fully discharged it will have to regain at least 5% of charge in order to be usable again
+- [UI/UX] When using a tool, RMB + LMB (or B + A) will go back into last page of Radial Menu (same as [ / ])
+- [Misc] Disable Achievements after certain dev functions were used
+- [Misc] Add option to Dev Menu to unlock current research queue
+- [Bug] Fix merchant trade UI would show item quantity popup with incorrect pagination if item was being added from non-first page
+- [Bug] Fix stock market UI producing an internal error when stock portfolio was not created
+- [Bug] Fix controller input would click the last hovered button when radial menu wheel selection was made
+- [Bug] Fix unbuilt devices would show "Copy Config" option in their context menu
+- [Bug] Fix Storage Capsule brought from an expedition would not be movable
+- [Bug] Fix devices with refillable storage would show false "task cancelled" warning after refill was completed
+- [Bug] Fix Direct Order would fail to do immediate pathfinding for multi tile objects if their bottom left corner was blocked
+- [Bug] Fix Firefighting tasks would fail for multi tile objects on fire if their bottom left corner was blocked
+- [Bug] Fix humans would not face the food properly when game was loaded in the middle of eating
+
+
 <b>v0.6.40</b> (2022.07.09)
 - [Balance] Make Fun drop slower when operating devices
 - [Balance] Make Fun go up faster when socializing
