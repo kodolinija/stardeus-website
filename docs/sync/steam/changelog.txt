@@ -1,3 +1,15 @@
+<b>v0.6.42</b> (2022.07.11)
+- [Feature] If human is operating a device with a chair in the work spot, rest need will drain 2x slower
+- [Feature] Add chance to get mood boost and debuff for working at devices with/without a chair
+- [Balance] Increase showering and toilet time
+- [Balance] Change Aesthetics system and need implementation
+- [Balance] People will clean floors more often
+- [Balance] Allow relocating beings and objects to open space
+- [UI/UX] Prevent starting expeditions to empty planets
+- [Misc] Add feedback ID to each report
+- [Bug] Fix Cleanable component wouldn't show "Copy Config" button in info panel
+
+
 <b>v0.6.41</b> (2022.07.10)
 - [Balance] Increase Robot acceleration
 - [Balance] Increase plant growth rate
