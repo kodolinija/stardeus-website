@@ -1,3 +1,9 @@
+<b>v0.6.43</b> (2022.07.12)
+- [UI/UX] Make Battery related UI more clear
+- [Bug] Fix UI pagination issue introduced in v0.6.41
+- [Bug] Fix Research Queue tooltip would still show incorrect data if an idle research station was present
+
+
 <b>v0.6.42</b> (2022.07.11)
 - [Feature] If human is operating a device with a chair in the work spot, rest need will drain 2x slower
 - [Feature] Add chance to get mood boost and debuff for working at devices with/without a chair
