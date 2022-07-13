@@ -1,3 +1,10 @@
+<b>v0.6.44</b> (2022.07.13)
+- [UI/UX] Redo camera zoom and pan to use smooth motion with inertia
+- [Balance] Reduce material and time cost to build a Treadmill
+- [Feature] Add new story event: Short Circuit
+- [Bug] Fix texture quality may not be autodetected correctly in certain setups
+
+
 <b>v0.6.43</b> (2022.07.12)
 - [UI/UX] Make Battery related UI more clear
 - [Bug] Fix UI pagination issue introduced in v0.6.41
