@@ -1,3 +1,9 @@
+<b>v0.6.45</b> (2022.07.14)
+- [Input] Make mouse scroll work consistently on all operating systems
+- [UI/UX] Adjust smooth camera motion sensitivity and values
+- [Bug] Fix input rebind widget could get stuck forever if input was reset to defaults while rebind was open
+
+
 <b>v0.6.44</b> (2022.07.13)
 - [UI/UX] Redo camera zoom and pan to use smooth motion with inertia
 - [Balance] Reduce material and time cost to build a Treadmill
