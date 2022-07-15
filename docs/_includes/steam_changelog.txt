@@ -1,3 +1,10 @@
+<b>v0.6.46</b> (2022.07.15)
+- [Input] Redo "smooth drag" to "throw" the map on drag-release
+- [Feature] Add "Floor Vent" object
+- [Bug] Fix mouse edge pan not working properly after recent input changes
+- [Bug] Fix Merchant ships would register leave event in Ship Log
+
+
 <b>v0.6.45</b> (2022.07.14)
 - [Input] Make mouse scroll work consistently on all operating systems
 - [UI/UX] Adjust smooth camera motion sensitivity and values
