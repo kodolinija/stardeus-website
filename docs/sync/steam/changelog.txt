@@ -1,3 +1,9 @@
+<b>v0.6.47</b> (2022.07.16)
+- [Input] Improve "smooth drag" feel
+- [Input] Double clicking MMB (Camera Drag) will focus camera on the clicked position
+- [Misc] Add more tooling to Dev Camera Menu
+
+
 <b>v0.6.46</b> (2022.07.15)
 - [Input] Redo "smooth drag" to "throw" the map on drag-release
 - [Feature] Add "Floor Vent" object
