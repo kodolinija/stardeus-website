@@ -1,3 +1,13 @@
+<b>v0.6.48</b> (2022.07.17)
+- [Balance] Increase Aesthetics value of AutoDoc
+- [Balance] Doors will not consume more energy while they are forced to remain open
+- [Graphics] Make AutoDoc's ambient light less saturated
+- [UI/UX] Double clicking LMB (or controller X) will select all similar objects in camera view
+- [UI/UX] Add common action for all Vents to mass open/close them
+- [Bug] Fix Floor vents would be walkable while open
+- [Bug] Fix Oxygen Pump and Heater would oxygenate the area above an open floor vent or heavily damaged floor tile
+
+
 <b>v0.6.47</b> (2022.07.16)
 - [Input] Improve "smooth drag" feel
 - [Input] Double clicking MMB (Camera Drag) will focus camera on the clicked position
