@@ -1,3 +1,19 @@
+<b>v0.6.49</b> (2022.07.18)
+- [Tech] Upgrade Unity to 2021.3.6f1
+- [Balance] Make "Short Circuit" and "Micro Meteors" events more rare
+- [Balance] Apply difficulty levels to Micro Meteors story event
+- [Balance] Micro meteor hits will have a high chance to leave the wall heavily damaged rather than fully destroyed
+- [UI/UX] Include compression when showing Disk Module size in Info Panel
+- [UI/UX] Add common actions for multi-selected doors
+- [Bug] Fix Ship Computer cooldown would not work properly after relocation or if there was more than one Ship Computer
+- [Bug] Fix Energy Rifle was in Security instead of Energy Weapons research node
+- [Bug] Fix Repair Station or Charge Station would become locked up if their use was interrupted (i.e. by combat)
+- [Bug] Fix releasing drag hold after staying still for a while would still flick the map a little
+- [Bug] Fix Directional Turret was able to overcharge a little
+- [Bug] Fix Door would still use more energy while held open
+- [Bug] Fix some UI issues with multi selected entities (i.e. cycling would not always work correctly)
+
+
 <b>v0.6.48</b> (2022.07.17)
 - [Balance] Increase Aesthetics value of AutoDoc
 - [Balance] Doors will not consume more energy while they are forced to remain open
