@@ -1,3 +1,142 @@
+<b>v0.6.50</b> (2022.08.01)
+- [Balance] Allow grounded beings to build objects in space when they are adjacent to the ship
+- [Input] Improve how smooth drag feels
+- [Bug] Fix auto connect upgrade would create fake connections that would disappear after grid changed
+- [Bug] Fix beings would not drop current task while taking hunger damage even when food was available
+- [Bug] Fix RMB + LMB (or B + A) would order building a blueprint before switching to radial menu
+- [Bug] Fix ship generation would pick incorrect angled tiles
+- [Bug] Fix streamlined building tasks would not work for grounded beings when building was in space (i.e. floor bridge)
+- [Bug] Fix smooth drag behaving differently depending on framerate
+
+
+<b>v0.6.49</b> (2022.07.18)
+- [Balance] Make "Short Circuit" and "Micro Meteors" events more rare
+- [Balance] Apply difficulty levels to Micro Meteors story event
+- [Balance] Micro meteor hits will have a high chance to leave the wall heavily damaged rather than fully destroyed
+- [UI/UX] Include compression when showing Disk Module size in Info Panel
+- [UI/UX] Add common actions for multi-selected doors
+- [Bug] Fix Ship Computer cooldown would not work properly after relocation or if there was more than one Ship Computer
+- [Bug] Fix Energy Rifle was in Security instead of Energy Weapons research node
+- [Bug] Fix Repair Station or Charge Station would become locked up if their use was interrupted (i.e. by combat)
+- [Bug] Fix releasing drag hold after staying still for a while would still flick the map a little
+- [Bug] Fix Directional Turret was able to overcharge a little
+- [Bug] Fix Door would still use more energy while held open
+- [Bug] Fix some UI issues with multi selected entities (i.e. cycling would not always work correctly)
+
+
+<b>v0.6.48</b> (2022.07.17)
+- [Balance] Increase Aesthetics value of AutoDoc
+- [Balance] Doors will not consume more energy while they are forced to remain open
+- [Graphics] Make AutoDoc's ambient light less saturated
+- [UI/UX] Double clicking LMB (or controller X) will select all similar objects in camera view
+- [UI/UX] Add common action for all Vents to mass open/close them
+- [Bug] Fix Floor vents would be walkable while open
+- [Bug] Fix Oxygen Pump and Heater would oxygenate the area above an open floor vent or heavily damaged floor tile
+
+
+<b>v0.6.47</b> (2022.07.16)
+- [Input] Improve "smooth drag" feel
+- [Input] Double clicking MMB (Camera Drag) will focus camera on the clicked position
+- [Misc] Add more tooling to Dev Camera Menu
+
+
+<b>v0.6.46</b> (2022.07.15)
+- [Input] Redo "smooth drag" to "throw" the map on drag-release
+- [Feature] Add "Floor Vent" object
+- [Bug] Fix mouse edge pan not working properly after recent input changes
+- [Bug] Fix Merchant ships would register leave event in Ship Log
+
+
+<b>v0.6.45</b> (2022.07.14)
+- [Input] Make mouse scroll work consistently on all operating systems
+- [UI/UX] Adjust smooth camera motion sensitivity and values
+- [Bug] Fix input rebind widget could get stuck forever if input was reset to defaults while rebind was open
+
+
+<b>v0.6.44</b> (2022.07.13)
+- [UI/UX] Redo camera zoom and pan to use smooth motion with inertia
+- [Balance] Reduce material and time cost to build a Treadmill
+- [Feature] Add new story event: Short Circuit
+- [Bug] Fix texture quality may not be autodetected correctly in certain setups
+
+
+<b>v0.6.43</b> (2022.07.12)
+- [UI/UX] Make Battery related UI more clear
+- [Bug] Fix UI pagination issue introduced in v0.6.41
+- [Bug] Fix Research Queue tooltip would still show incorrect data if an idle research station was present
+
+
+<b>v0.6.42</b> (2022.07.11)
+- [Feature] If human is operating a device with a chair in the work spot, rest need will drain 2x slower
+- [Feature] Add chance to get mood boost and debuff for working at devices with/without a chair
+- [Balance] Increase showering and toilet time
+- [Balance] Change Aesthetics system and need implementation
+- [Balance] People will clean floors more often
+- [Balance] Allow relocating beings and objects to open space
+- [UI/UX] Prevent starting expeditions to empty planets
+- [Misc] Add feedback ID to each report
+- [Bug] Fix Cleanable component wouldn't show "Copy Config" button in info panel
+
+
+<b>v0.6.41</b> (2022.07.10)
+- [Balance] Increase Robot acceleration
+- [Balance] Increase plant growth rate
+- [Balance] Slightly reduce amount of Survival Meals and Protein for Wrecked scenario
+- [Balance] Set default Firefighting task priority to 9
+- [Balance] Adjust multiple colonist mood effects
+- [Balance] Reduce mining skill level up rate
+- [Balance] When battery gets fully discharged it will have to regain at least 5% of charge in order to be usable again
+- [UI/UX] When using a tool, RMB + LMB (or B + A) will go back into last page of Radial Menu (same as [ / ])
+- [Misc] Disable Achievements after certain dev functions were used
+- [Misc] Add option to Dev Menu to unlock current research queue
+- [Bug] Fix merchant trade UI would show item quantity popup with incorrect pagination if item was being added from non-first page
+- [Bug] Fix stock market UI producing an internal error when stock portfolio was not created
+- [Bug] Fix controller input would click the last hovered button when radial menu wheel selection was made
+- [Bug] Fix unbuilt devices would show "Copy Config" option in their context menu
+- [Bug] Fix Storage Capsule brought from an expedition would not be movable
+- [Bug] Fix devices with refillable storage would show false "task cancelled" warning after refill was completed
+- [Bug] Fix Direct Order would fail to do immediate pathfinding for multi tile objects if their bottom left corner was blocked
+- [Bug] Fix Firefighting tasks would fail for multi tile objects on fire if their bottom left corner was blocked
+- [Bug] Fix humans would not face the food properly when game was loaded in the middle of eating
+
+
+<b>v0.6.40</b> (2022.07.09)
+- [Balance] Make Fun drop slower when operating devices
+- [Balance] Make Fun go up faster when socializing
+- [Balance] Reduce socializing duration
+- [UI/UX] Don't allow filling out the feedback form if network connection is blocked
+- [Bug] Fix socializing would not increase fun if being was chasing another one
+
+
+<b>v0.6.39</b> (2022.07.08)
+- [Feature] Add music mood system to play tracks of relevant intensity
+- [UI/UX] Add Soundtrack panel to Audio settings
+- [UI/UX] Add progress bar to ML Booth
+- [UI/UX] Allow skipping the tutorial any time with ESC
+- [UI/UX] Automatically hide several event notification types (level ups, stasis wakeups, damage)
+- [UI/UX] Auto fill Feedback form contact and "post to discord" checkbox state with last values
+- [Bug] Fix drag-drop connection on a wall would not auto-connect the newly built wall socket
+
+
+<b>v0.6.38</b> (2022.07.07)
+- [Feature] Reimplement socializing action to feel more natural
+- [Balance] Beings with Enlightened trait will not have mental breakdowns
+- [Balance] Naked humans will not socialize (unless nudists)
+- [Balance] Change "device broke down" story event to only affect devices with >30% wear
+- [Balance] Spawn more Titanium Plate for the Wrecked scenario (200 -> 300)
+- [Balance] Reduce Battery device wear
+- [UI/UX] Task priority tool will now show "Increase Priority" on top of the Radial Menu wheel
+- [UI/UX] Close connector context menu after using auto connect / disconnect
+- [UI/UX] Restore cursor position after using Radial Menu with controller
+- [UI/UX] Show animated outline when hovering a connectable device with a Connect tool
+- [UI/UX] Add a button to disable Battery discharge notifications (per each battery)
+- [UI/UX] Automatically hide "Done" notifications for suggestions after 1 in-game hour
+- [Tech] Change screenshot method to attempt a workaround for a rare screenshot capture failure
+- [Bug] Fix pause menu would not be clickable if opened above a context menu
+- [Bug] Fix space suit looks would not get applied in hazardous environment during breakdowns
+- [Bug] Fix Dust Storm particles disappearing instantly after event has ended
+
+
 <b>v0.6.37</b> (2022.07.06)
 - [Graphics] Increase drone hover speed
 - [Bug] Fix Sandbox mode would not show build tool menu in a new game

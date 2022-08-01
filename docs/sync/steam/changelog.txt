@@ -1,5 +1,15 @@
+<b>v0.6.50</b> (2022.08.01)
+- [Balance] Allow grounded beings to build objects in space when they are adjacent to the ship
+- [Input] Improve how smooth drag feels
+- [Bug] Fix auto connect upgrade would create fake connections that would disappear after grid changed
+- [Bug] Fix beings would not drop current task while taking hunger damage even when food was available
+- [Bug] Fix RMB + LMB (or B + A) would order building a blueprint before switching to radial menu
+- [Bug] Fix ship generation would pick incorrect angled tiles
+- [Bug] Fix streamlined building tasks would not work for grounded beings when building was in space (i.e. floor bridge)
+- [Bug] Fix smooth drag behaving differently depending on framerate
+
+
 <b>v0.6.49</b> (2022.07.18)
-- [Tech] Upgrade Unity to 2021.3.6f1
 - [Balance] Make "Short Circuit" and "Micro Meteors" events more rare
 - [Balance] Apply difficulty levels to Micro Meteors story event
 - [Balance] Micro meteor hits will have a high chance to leave the wall heavily damaged rather than fully destroyed
