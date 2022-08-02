@@ -1,3 +1,19 @@
+<b>v0.6.51</b> (2022.08.02)
+- [Balance] Make Oil less abundant in the universe
+- [Balance] Give more Steel Plate and Titanium Plate for Leaving Earth scenario
+- [Balance] Generate more Disk Modules and a big Matter Reactor for Leaving Earth scenario
+- [Balance] Revert grounded beings ability to build objects in space (has unwanted side effects)
+- [UI/UX] Automatically hide a few more event notification types when appropriate
+- [Bug] Fix Stasis Array and Ship Computer could mess up angled floors if generated too close to the edge
+- [Bug] Fix controller mouse cursor would always reset to bottom-left after loading the game
+- [Bug] Fix relocating damaged / disconnected planters would sometimes prevent the worker from finishing the relocation task
+- [Bug] Fix processing or annihilating a dead being would immediately hide the "Died" notification
+- [Bug] Fix plants harvested near a wall could spawn on the other side of the wall
+- [Bug] Fix several potential bugs that could have appeared after loading multiple saves without exiting the game
+- [Bug] Fix incorrect deficit notification persisting after changing fuel type in refillable devices (Pet Bowl, Fluid Cannon, etc)
+- [Bug] Fix research queue showing 0% on tech that had > 0% but was not on top of the queue
+
+
 <b>v0.6.50</b> (2022.08.01)
 - [Balance] Allow grounded beings to build objects in space when they are adjacent to the ship
 - [Input] Improve how smooth drag feels
