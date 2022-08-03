@@ -1,3 +1,12 @@
+<b>v0.6.52</b> (2022.08.03)
+- [Balance] Limit max temperature of Heater to 21C (was 30C)
+- [Balance] Limit max oxygen of Oxygen Pump to 21% (was 24%)
+- [Bug] Fix tooltip not following the mouse cursor correctly in main menu on Steam Deck
+- [Bug] Fix idle Research Stations would still require a human operator
+- [Bug] Fix multiple Research Stations would consume electricity in unpredictable ways
+- [Bug] Fix reducing automatic cleaning threshold below dirt level would not create the cleaning task immediately on showers and toilets
+
+
 <b>v0.6.51</b> (2022.08.02)
 - [Balance] Make Oil less abundant in the universe
 - [Balance] Give more Steel Plate and Titanium Plate for Leaving Earth scenario
