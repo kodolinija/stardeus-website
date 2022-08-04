@@ -1,3 +1,35 @@
+<b>v0.6.53</b> (2022.08.04)
+- [Feature] Add "Research" job type for humans
+- [Balance] Adjust how Purpose drains and refills
+- [Balance] Reward Cleaning Bots with Purpose for cleaning each piece of dirt
+- [Balance] Require Research skill to operate Research Station
+- [Balance] Change Research Station tasks from Operate to Research
+- [Balance] Significantly reduce the Aesthetics need drop rate from ugly surroundings
+- [Balance] Spawn 20-50% of survivors when Stasis Array gets deconstructed
+- [Balance] Ablutophobic colonists will get opposite mood effects from using or lacking a shower (positive if shower is lacking, negative after taking a shower)
+- [Feature] If Stasis Pod work spot is in open space, spawn beings on solid floor adjacent to the pod
+- [UI/UX] Don't show electricity consumption amount and priority controls for devices that do not consume electricity
+- [Bug] Fix safety warning appearing immediately on all objects in a room if a distant wall was removed
+- [Bug] Fix double beds would not show a safety warning if exposed to open space
+- [Bug] Fix double entry in "Multiple Nodes" connection context menu
+- [Bug] Fix save/load not restoring ongoing "Expedition Found Object" event correctly
+- [Bug] Fix Stasis Pod would spawn different things if saved / loaded before opened
+- [Bug] Fix opening a storage capsule containing a crawler would fail the opening task due to combat
+- [Bug] Fix console scrolling extremely slowly
+- [Bug] Fix "No More Hope" achievement wouldn't unlock
+- [Bug] Fix Disk Module compression tooltip shows 100% when it's actually 150%
+- [Bug] Fix time would run and popups would show up in end game screen
+
+
+<b>v0.6.52</b> (2022.08.03)
+- [Balance] Limit max temperature of Heater to 21C (was 30C)
+- [Balance] Limit max oxygen of Oxygen Pump to 21% (was 24%)
+- [Bug] Fix tooltip not following the mouse cursor correctly in main menu on Steam Deck
+- [Bug] Fix idle Research Stations would still require a human operator
+- [Bug] Fix multiple Research Stations would consume electricity in unpredictable ways
+- [Bug] Fix reducing automatic cleaning threshold below dirt level would not create the cleaning task immediately on showers and toilets
+
+
 <b>v0.6.51</b> (2022.08.02)
 - [Balance] Make Oil less abundant in the universe
 - [Balance] Give more Steel Plate and Titanium Plate for Leaving Earth scenario
