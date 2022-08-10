@@ -1,3 +1,30 @@
+<b>v0.6.55</b> (2022.08.10)
+- [Balance] There will be no more loss of materials when deconstructing or destroying any object
+- [Balance] Remove Basic Materials, Organic Materials and Synthetic Materials research nodes
+- [Balance] Remove Teleportation research node (Teleporter will unlock with Science)
+- [Balance] Change several nodes in the Research Tree
+- [Balance] Increase processing duration for multiple ore types
+- [UI/UX] Group colors into single item in Codex > Materials list
+- [UI/UX] Automatically reposition UI dialog if action button gets off screen
+- [Bug] Fix deconstruction VFX showing an odd artifact
+- [Bug] Fix starting a new game after playing another save would mess up inventory history charts (+autofix affected saves)
+- [Bug] Fix "Install Upgrade" button would show up in context menu for devices with existing upgrades even if new upgrades were not available
+- [Bug] Fix camera shake would not end while Radial Menu is open
+
+
+<b>v0.6.54</b> (2022.08.09)
+- [Feature] Add Tractor Beam and Tractor Beam Target devices
+- [Feature] Add Tractor Beam research node (between Quantum Mechanics and Force Fields)
+- [Feature] Add Mega Asteroid story event (rare, late game)
+- [Balance] Reduce default Maintenance priority for Robots to 1
+- [Balance] Reduce material costs for all structure to minimum
+- [Performance] Improve explosion performance
+- [Music] Add new OST track
+- [Bug] Fix placing a vent in sandbox mode would not set hull integrity correctly
+- [Bug] Fix workers with 0 Construct job priority would still perform construction
+- [Bug] Fix workers would ignore reduction of job priority to 0 while working on adjacent streamlined tasks
+
+
 <b>v0.6.53</b> (2022.08.04)
 - [Feature] Add "Research" job type for humans
 - [Balance] Adjust how Purpose drains and refills
