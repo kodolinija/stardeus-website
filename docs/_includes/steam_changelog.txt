@@ -1,3 +1,8 @@
+<b>v0.6.56</b> (2022.08.11)
+- [UI/UX] Rename "Send Feedback" to "Report a Bug"
+- [Bug] Hotfix removed research nodes would break research and saving in games where the removed research was in queue
+
+
 <b>v0.6.55</b> (2022.08.10)
 - [Balance] There will be no more loss of materials when deconstructing or destroying any object
 - [Balance] Remove Basic Materials, Organic Materials and Synthetic Materials research nodes
