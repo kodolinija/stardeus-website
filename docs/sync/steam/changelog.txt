@@ -1,3 +1,12 @@
+<b>v0.6.57</b> (2022.08.11)
+- [Feature] Each starmap region (systems, galaxies, universe) will have slightly different space background
+- [Graphics] Make Starfield move in the main menu
+- [Graphics] Make Starfield nebulas look identical in Realtime and Static (optimized) modes
+- [Tech] Add internal crash detection, reporting and boot safe mode to troubleshoot crash issues on Linux
+- [Bug] Fix opening a Storage Capsule would show the open container graphic above the items that came out
+- [Bug] Fix Realtime starfield nebulas would not move
+
+
 <b>v0.6.56</b> (2022.08.11)
 - [UI/UX] Rename "Send Feedback" to "Report a Bug"
 - [Bug] Hotfix removed research nodes would break research and saving in games where the removed research was in queue
