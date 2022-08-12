@@ -1,3 +1,14 @@
+<b>v0.6.58</b> (2022.08.12)
+- [Feature] When Radar is active, selected flying objects will show their trajectory
+- [Graphics] Redo Merchant Ship graphics
+- [Misc] Track friendly human deaths in Situation report for use as a story event hook
+- [Bug] Fix smooth drag would still act differently on different frame rates
+- [Bug] Fix chart tooltips showing slightly inaccurate values
+- [Bug] Fix objects destroyed while selected could cause minor internal errors
+- [Bug] Fix several internal edge-case errors
+- [Bug] Fix loading bindings would fail due to missing processor on Mac OSX
+
+
 <b>v0.6.57</b> (2022.08.11)
 - [Feature] Each starmap region (systems, galaxies, universe) will have slightly different space background
 - [Graphics] Make Starfield move in the main menu
