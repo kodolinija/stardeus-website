@@ -1,3 +1,9 @@
+<b>v0.6.59</b> (2022.08.13)
+- [Graphics] Add VFX for Converter, Crafting Station, Research Station, Teleporter, Tractor Beam Target
+- [Audio] Replace construction and repairs sounds
+- [Bug] Fix replacing a device would not preserve electricity connections
+
+
 <b>v0.6.58</b> (2022.08.12)
 - [Feature] When Radar is active, selected flying objects will show their trajectory
 - [Graphics] Redo Merchant Ship graphics
