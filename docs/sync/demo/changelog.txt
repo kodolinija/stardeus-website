@@ -1,10 +1,22 @@
+<b>v0.6.61</b> (2022.08.15)
+- [Balance] AutoDoc will hold the patient for at least 1h even for small wounds
+- [Balance] Disallow connecting adjacent teleporters
+- [Graphics] Add VFX for loading materials into things
+- [Graphics] Improve teleporter VFX
+- [Graphics] Fine tune the space nebula color ranges to look more subtle
+- [AI] Improve being pathfinding to utilize teleporters whenever possible
+- [Audio] Make construction sounds more quiet
+- [Bug] Fix some devices would show particles in old position after relocating them
+- [Bug] Fix electricity grid would keep ghost connections when a connector was destroyed or replaced
+
+
 <b>v0.6.60</b> (2022.08.14)
 - [Feature] Make Teleporters linkable and useful
 - [Feature] Add Story Event: teleporter clone
 - [Balance] Increase Teleporter electricity cost to 7kW
 - [Balance] Reduce Teleporter construction time to 1/3
 - [Balance] Adjust Ship Computer and Stasis Array skill requirements
-- [UI/UX] Show new changes when the game gets and update
+- [UI/UX] Show new changes when the game gets an update
 - [Bug] Fix beings would sometimes be able to go through walls or walk to weird locations
 
 
