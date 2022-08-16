@@ -1,3 +1,14 @@
+<b>v0.6.62</b> (2022.08.16)
+- [Balance] Add "Wear" to lit floors and light blocks
+- [Graphics] Improve Teleporter VFX
+- [Graphics] Make Star Systems look slightly better
+- [UI/UX] Pick a point nearby instead of center when selecting a travel target in Starmap
+- [Audio] Filter out low frequency rumble from new construction (nanobot) sounds
+- [Bug] Fix Robot going through a Teleporter would add a trail between teleporters
+- [Bug] Fix dragging the Research Tree or Starmap would also drag the ship in the background
+- [Bug] Fix "Upload to Steam Workshop" button would be visible on mods downloaded from Steam
+
+
 <b>v0.6.61</b> (2022.08.15)
 - [Balance] AutoDoc will hold the patient for at least 1h even for small wounds
 - [Balance] Disallow connecting adjacent teleporters
