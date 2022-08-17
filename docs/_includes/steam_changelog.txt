@@ -1,3 +1,27 @@
+<b>v0.6.63</b> (2022.08.17)
+- [Feature] Add a Mini Heater device
+- [Feature] Add Cooling and Heating research tree nodes
+- [Balance] Make all solar panels cheaper to build
+- [Balance] Reduce cost of Energy Efficiency research to 300kW (was 1.4MW)
+- [Balance] Reduce cost of Energy Efficiency research to 3MW (was 4.5MW)
+- [Balance] Reactors will burn fuel for 2x longer
+- [Balance] Mini Matter Reactor will now produce 20kW (was 15kW)
+- [Balance] Particle Collector will collect materials 10x faster
+- [Balance] Particle Collector will collect materials using 2x less energy
+- [Balance] Teleporters will now have +3 aesthetics (was -3)
+- [Balance] Teleporters will consume 3kW (was 7kW)
+- [Balance] Mini Disk Modules will consume 0.25kW (was 1kW)
+- [Balance] Disk Modules will consume 1kW (was 2kW)
+- [Balance] Mini CPU Modules will consume 5kW (was 10kW)
+- [Balance] CPU Modules will consume 10kW (was 20kW)
+- [Balance] Plants will use 0.5kW (was 1kW)
+- [Balance] Make Directional Turret able to shoot target at closer range
+- [UI/UX] Allow customizing UI padding for ultra wide screens
+- [Graphics] Improve planet looks and variety
+- [Graphics] Show stars in Starmap and Research Tree background
+- [Bug] Fix some disabled mods would still get loaded if they were subscribed
+
+
 <b>v0.6.62</b> (2022.08.16)
 - [Balance] Add "Wear" to lit floors and light blocks
 - [Graphics] Improve Teleporter VFX
