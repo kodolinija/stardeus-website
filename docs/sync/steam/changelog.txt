@@ -1,3 +1,16 @@
+<b>v0.6.65</b> (2022.08.18)
+- [Feature] Add Story Event: multi faction raid
+- [Balance] Unlock Computing research at the beginning of Wrecked scenario
+- [UI/UX] Mark new blueprints in Radial Menu
+- [UI/UX] Split floors section into multiple subcategories in the Radial Menu
+- [UI/UX] Make Research Tree and Starmap background opaque
+- [UI/UX] Automatically replace text in quotes with accented colorful text in UI dialogs, popups and tooltips
+- [Audio] Replace Raid alert sound
+- [Bug] Fix gamepad virtual mouse cursor position incorrect when using wide screen padding
+- [Bug] Fix teleporters would sometimes not get registered after loading the game
+- [Bug] Fix pathfinding system would not update teleporter locations after winching
+
+
 <b>v0.6.64</b> (2022.08.18)
 - [UI/UX] Restrict wide screen padding to have a minimum safe zone of 1200px
 - [Bug] Hotfix ultra wide screen monitors would get incorrect UI padding set automatically
