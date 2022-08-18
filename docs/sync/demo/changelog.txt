@@ -1,3 +1,8 @@
+<b>v0.6.64</b> (2022.08.18)
+- [UI/UX] Restrict wide screen padding to have a minimum safe zone of 1200px
+- [Bug] Hotfix ultra wide screen monitors would get incorrect UI padding set automatically
+
+
 <b>v0.6.63</b> (2022.08.17)
 - [Feature] Add a Mini Heater device
 - [Feature] Add Cooling and Heating research tree nodes
