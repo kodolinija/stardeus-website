@@ -1,3 +1,16 @@
+<b>v0.6.67</b> (2022.08.19)
+- [UI/UX] Make Research Queue show the first item in the event panel
+- [UI/UX] Add Settings > Input > Ignore Gamepads option
+- [Bug] Fix "Repair or deconstruct" suggestion would not mark itself as done if all damage was repaired without creating >10 tasks
+- [Bug] Fix research system would try to run all items in the queue once right after loading a save, resulting in huge electricity consumption spike
+- [Bug] Fix clicking on research queue item would not focus on the item if research widget was not loaded before
+- [Bug] Fix pencil mode (Alt) would sometimes connect points with a line when it was not supposed to
+- [Bug] Fix double clicking a teleporter would sometimes not show all selected teleporter links
+- [Bug] Fix Mini Matter Reactor still saying 15kW in the description
+- [Bug] Fix relocating a being / obj would sometimes keep the object sprite attached to the carrier after the task is completed, producing buggy situations
+- [Bug] Fix false message about Robot failing to reach the workspot in tutorial when robot tried to relocate an object and failed to reach it
+
+
 <b>v0.6.66</b> (2022.08.19)
 - [Input] Automatically pause the game if gamepad gets disconnected
 
