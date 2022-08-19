@@ -1,3 +1,7 @@
+<b>v0.6.66</b> (2022.08.19)
+- [Input] Automatically pause the game if gamepad gets disconnected
+
+
 <b>v0.6.65</b> (2022.08.18)
 - [Feature] Add Story Event: multi faction raid
 - [Balance] Unlock Computing research at the beginning of Wrecked scenario
