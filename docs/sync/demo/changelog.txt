@@ -1,8 +1,20 @@
+<b>v0.6.69</b> (2022.08.22)
+- [Feature] When building a new battery, add 50% charge upon construction
+- [Feature] When teleporting merchant goods, prefer a teleporter inside an oxygenated area
+- [Balance] Starcreds Miner will consume 100kW (was 10kW) and will produce $100/hour (was $1/hour)
+- [Balance] Increase mining speed by 2.5x
+- [Balance] Remove most "Build More X" goals (except for Build More Storages)
+- [Balance] Increase teleporter durability (1500 -> 5000)
+- [UI/UX] Move Teleporter from Space Travel to Special category in the Radial Menu
+- [Bug] Fix upgrade modules listed unbuilt devices as upgradeable
+- [Bug] Hotfix newly built teleporters would not be linkable
+
+
 <b>v0.6.68</b> (2022.08.22)
 - [Misc] Add initial Russian translation
 - [Audio] Add new OST track
 - [Performance] Optimize rendering performance on lower end devices (i.e. Steam Deck)
-- [Bug] Fix destroyed teleporter would prevent navigation system from rebuilding propertly
+- [Bug] Fix destroyed teleporter would prevent navigation system from rebuilding properly
 - [Bug] Fix several internal edge case exceptions
 
 
