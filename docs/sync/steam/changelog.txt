@@ -1,3 +1,11 @@
+<b>v0.6.68</b> (2022.08.22)
+- [Misc] Add initial Russian translation
+- [Audio] Add new OST track
+- [Performance] Optimize rendering performance on lower end devices (i.e. Steam Deck)
+- [Bug] Fix destroyed teleporter would prevent navigation system from rebuilding propertly
+- [Bug] Fix several internal edge case exceptions
+
+
 <b>v0.6.67</b> (2022.08.19)
 - [UI/UX] Make Research Queue show the first item in the event panel
 - [UI/UX] Add Settings > Input > Ignore Gamepads option
