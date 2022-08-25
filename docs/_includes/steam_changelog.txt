@@ -1,3 +1,9 @@
+<b>v0.6.72</b> (2022.08.25)
+- [UI/UX] When focusing on something (i.e. by using Find button), adjust the focus point so it won't be covered by UI
+- [Performance] Add option to "pause on camera motion" to video settings to make panning / zooming smoother on lower tier hardware
+- [Performance] Optimize most particle systems to not overuse the GPU
+
+
 <b>v0.6.71</b> (2022.08.25)
 - [Bug] Hotfix rendering broken on Windows since 0.6.70
 
