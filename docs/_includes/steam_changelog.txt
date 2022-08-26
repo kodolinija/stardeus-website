@@ -1,3 +1,22 @@
+<b>v0.6.73</b> (2022.08.26)
+- [Balance] Humans will not use toilets and showers that are in unsafe areas even with a space suit
+- [Balance] Copper Wire and Gears will no longer show up in Furnace as smeltable item
+- [Balance] Set default Haul and Maintenance (refill reactors) priority to 0 for Robot
+- [UI/UX] Show a popup when there is an action required in an ongoing expedition
+- [Bug] Fix flying Shuttle would use the wrong sprite
+- [Bug] Fix drones would keep trying the same task after repeated failure to reach required materials
+- [Bug] Fix giving a direct order to work on a task could mess up worker's navigation and leave the task execution stuck in a loop
+- [Bug] Fix music would change when ship generation would fail and have another attempt
+- [Bug] Fix some shortcuts and Hotbar buttons would not work until Radial Menu was displayed at least once
+- [Bug] Fix trading with merchant during expedition would teleport goods near shuttle landing pad instead of a teleporter
+- [Bug] Fix Oil would not self-register as a processable material (Refinery wouldn't find it in storages)
+- [Bug] Fix tile placement preview would show possible electricity connections linking to the center of bottom left tile instead of center of the object
+- [Bug] Fix damage decals not getting removed after tiles were repositioned during gen stage or winching
+- [Bug] Fix energy connector would remain connected to objects outside it's range after winching
+- [Bug] Fix destroying ground below an object with ongoing construction / deconstruction / repair task would end up with a stuck particle system running forever
+- [Bug] Fix News sometimes showing up instead of Changelog when there are new updates
+
+
 <b>v0.6.72</b> (2022.08.25)
 - [UI/UX] When focusing on something (i.e. by using Find button), adjust the focus point so it won't be covered by UI
 - [Performance] Add option to "pause on camera motion" to video settings to make panning / zooming smoother on lower tier hardware
