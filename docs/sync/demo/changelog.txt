@@ -1,3 +1,17 @@
+<b>v0.6.74</b> (2022.08.29)
+- [Balance] Increase durability of Toilets, Showers, Doors and Teleporters
+- [Balance] Reduce Wear in all difficulty levels
+- [Balance] Rewrite "auto haul" logic to find haulable objects in faster and more reliable way
+- [Performance] Add multiple minor performance optimizations
+- [Performance] Plants will not longer be producing oxygen, as it was a negligible amount, but cost some CPU time
+- [Performance] Electrical devices will no longer get small amounts of wear when electricity flows (saves some CPU time on large grids)
+- [Video] Add video settings option to switch between multiple displays
+- [UI/UX] Show a popup offering to apply video settings if the panel was closed without applying the changes
+- [UI/UX] Allow interacting with the map from more distant camera zoom levels
+- [Misc] Use the correct scientific term "Meteoroid" instead of "Meteor"
+- [Music] Add new OST track
+
+
 <b>v0.6.73</b> (2022.08.26)
 - [Balance] Humans will not use toilets and showers that are in unsafe areas even with a space suit
 - [Balance] Copper Wire and Gears will no longer show up in Furnace as smeltable item
@@ -12,7 +26,7 @@
 - [Bug] Fix Oil would not self-register as a processable material (Refinery wouldn't find it in storages)
 - [Bug] Fix tile placement preview would show possible electricity connections linking to the center of bottom left tile instead of center of the object
 - [Bug] Fix damage decals not getting removed after tiles were repositioned during gen stage or winching
-- [Bug] Fix energy connector would remain connected to objects outside it's range after winching
+- [Bug] Fix energy connector would remain connected to objects outside its range after winching
 - [Bug] Fix destroying ground below an object with ongoing construction / deconstruction / repair task would end up with a stuck particle system running forever
 - [Bug] Fix News sometimes showing up instead of Changelog when there are new updates
 
@@ -732,7 +746,7 @@
 - [Bug] Fix hints could show up for shortcuts that are not bound
 - [Bug] Fix Processor progress bar not updating in UI when queue becomes empty
 - [Bug] Fix energy graph registering sharp drops when game was saved and loaded
-- [Bug] Fix Ship Computer resetting it's energy consumption if Energy overlay was opened with time stopped
+- [Bug] Fix Ship Computer resetting its energy consumption if Energy overlay was opened with time stopped
 
 
 <b>v0.6.7</b> (2022.05.30)
@@ -817,7 +831,7 @@
 - [Feature] Implement Research Queue
 - [Feature] Add Disk Compression Upgrade (+50% disk space, stackable)
 - [Feature] Add Disk Compression research node
-- [Feature] Ship Computer will produce electricity and have it's own grid even when disconnected
+- [Feature] Ship Computer will produce electricity and have its own grid even when disconnected
 - [Balance] Allow more than one Ship Computer on the same electricity grid
 - [Balance] Make Energy research cost 5kW instead of just time
 - [Balance] Limit single Ship Computer's max research capacity to 1MW
@@ -910,7 +924,7 @@
 <b>v0.5.276</b> (2022.05.09)
 - [Feature] Add Cooking Station device for humans to cook their food
 - [Feature] Coffee Maker, Bridge Controls and Loom will require a human operator to work
-- [Balance] Move AutoKitchen into it's own research node
+- [Balance] Move AutoKitchen into its own research node
 - [Balance] Coffee will cost less electricity and take less time to produce
 - [Balance] Automatically start growing Wheat in the planter inside survivor area in Wrecked scenario
 - [Graphics] Fix operator visual offsets on Crafting Station
@@ -1614,7 +1628,7 @@
 <b>v0.5.208</b> (2022.01.30)
 - [UI/UX] Fix rebuilding a context menu would paginate it when it could be expanded instead
 - [Bug] Fix tools could leak their configuration state from one game to another when loading
-- [Bug] Fix relocating a battery would lose it's charge
+- [Bug] Fix relocating a battery would lose its charge
 
 
 <b>v0.5.207</b> (2022.01.29)
@@ -1692,7 +1706,7 @@
 - [Feature] Add several initial Factions
 - [Feature] Generate Faction ownership of planets across the Universe
 - [Balance] Generate wrecked ship with Thrusters instead of Fusion Drives
-- [Balance] Don't automatically process biowaste when it's collected from toilet (store it instead)
+- [Balance] Don't automatically process biowaste when its collected from toilet (store it instead)
 - [Bug] Fix AI assignment issue introduced in 0.5.197
 
 
@@ -2124,7 +2138,7 @@
 - [Bug] Restore missing mood effects for nudity
 - [Bug] Fix Cabinets not acting as storage for upgrades
 - [Bug] Fix auto haul on storages would trigger hauling of materials that had no compatible storage
-- [Balance] Reduce chance of bullet hitting a friendly being blocking it's path from 66% to 5%
+- [Balance] Reduce chance of bullet hitting a friendly being blocking its path from 66% to 5%
 - [Balance] Change Communicator construction level requirement to 6 (was 7)
 
 
@@ -2733,7 +2747,7 @@
 - [Balance] One drone will have Construction skill lvl 2 at start of the game
 - [Balance] Damaged electrical device story event will not happen for Ship Computer or Stasis Array
 - [Bug] Storyteller was able to invoke events during the tutorial
-- [Bug] Fix Asteroid not hitting the base if it's center was not landing directly on some tile
+- [Bug] Fix Asteroid not hitting the base if its center was not landing directly on some tile
 - [Bug] Fix loading spawn crawlers on shuttle land story event failing due to missing default constructor
 - [Bug] Fix deleting a save in main menu would lock out all other saves until restart
 - [Bug] Fix camera panning to bottom left when application loses focus with edge pan enabled
@@ -2857,7 +2871,7 @@
 - [UI/UX] Add "Auto Clean" toggler for cleanable devices
 - [Feature] Allow travel to arbitrary locations on starmap
 - [Feature] Add Story Event: Humans who had crawler attached die and hatch new crawlers
-- [Feature] Kill the crawler parasite when it's host human dies
+- [Feature] Kill the crawler parasite when its host human dies
 
 
 <b>v0.5.85</b> (2021.07.28)
@@ -3470,7 +3484,7 @@
 - Fix engines not cooling down after work
 - Add big planter
 - Add Oak tree
-- Fix Nutrient Extractor destroying processed goods when it's storage full
+- Fix Nutrient Extractor destroying processed goods when its storage full
 - Fix Emergency Siren turning on after electrical device breaks down
 - Fix Storage Capsule disappearing after being opened
 
