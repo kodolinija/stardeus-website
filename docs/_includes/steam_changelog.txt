@@ -1,3 +1,15 @@
+<b>v0.6.75</b> (2022.08.30)
+- [Balance] Installing upgrades will now be of "Construction" job type (since Robot does not do Maintenance by default anymore)
+- [Performance] Rewrite "auto haul" for processing components to be more performant and reliable
+- [Performance] Major performance improvement: introduce simulation tick frame budget and carry unfinished tick parts to next frame if necessary
+- [Bug] Fix Drone shadow not rotating along with the body
+- [Bug] Fix Auto Haul would not evaluate the last storage in the list
+- [Bug] Fix processors hauling processables from storage would fail to create haul tasks and ejected items ended up being hauled back to storage
+- [Bug] Fix after loading the game workers may try to go to zero coordinates and would fail tasks due to that
+- [Bug] Fix unconstructed storages would get added to inventory system on load
+- [Bug] Fix relocated or destroyed storages would not get removed from inventory
+
+
 <b>v0.6.74</b> (2022.08.29)
 - [Balance] Increase durability of Toilets, Showers, Doors and Teleporters
 - [Balance] Reduce Wear in all difficulty levels
