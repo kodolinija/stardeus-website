@@ -1,3 +1,11 @@
+<b>v0.6.77</b> (2022.08.31)
+- [Bug] Fix Breach Capsule could land on immutable object (i.e. another Breach Capsule), creating inconsistent state
+- [Bug] Fix Stasis Pod could land on an immutable object, creating inconsistent state
+- [Bug] Fix simulation carrying a tick over to next frame would induce a graphics jerk on rotating space objects
+- [Bug] Fix several some game story events not ending automatically, making them run forever and potentially cause bugs
+- [Bug] Fix all skill levels would be 0 when you start a new game in v0.6.76
+
+
 <b>v0.6.76</b> (2022.08.31)
 - [Bug] Fix loading saves created before 0.6.75 would not restore being skill levels
 - [Bug] Fix newly built storages would not be registered with inventory system (hauling wouldn't work)
