@@ -1,3 +1,21 @@
+<b>v0.6.78</b> (2022.09.01)
+- [Feature] Add "Disconnected Devices" list to Electricity grid overlay
+- [Feature] Allow replacing / upgrading batteries with other battery models
+- [Balance] Make Carrier drones a little slower (to promote optimizing paths with use of Teleporters)
+- [Balance] Make construction / deconstruction / repairs go faster at lower worker levels
+- [Balance] Humans will try to find a shower less frequently if they failed to find one
+- [UI/UX] Continue button in Main Menu will load the game instead of opening the load panel
+- [UI/UX] Add Codex entries for Research
+- [UI/UX] Let the player know that "Direct Control" is just informational popup
+- [UI/UX] Show "x minutes ago" tooltips on event groups
+- [UI/UX] Show individual tooltips with counts on event groups, when events have custom tooltip
+- [UI/UX] Explain "Object in unsafe location" warning more clearly
+- [Bug] Fix Auto Haul not working for storages
+- [Bug] Fix raider deaths would create death notifications in Ship Log and Event List
+- [Bug] Fix Suggestions would remain internally marked as completed when exiting to main menu from a game session and loading / starting another game
+- [Bug] Fix "Copy Config" not appearing in the bottom of context menu for some items
+
+
 <b>v0.6.77</b> (2022.08.31)
 - [Bug] Fix Breach Capsule could land on immutable object (i.e. another Breach Capsule), creating inconsistent state
 - [Bug] Fix Stasis Pod could land on an immutable object, creating inconsistent state
