@@ -1,3 +1,10 @@
+<b>v0.6.79</b> (2022.09.04)
+- [Feature] Opening a floor vent will suck objects out of enclosed pressurized (oxygenated) areas
+- [Tech] Update Unity to 2021.3.9f1
+- [Tech] Improve malformed translation detection and validation
+- [Bug] Fix a ton of typos in English texts
+
+
 <b>v0.6.78</b> (2022.09.01)
 - [Feature] Add "Disconnected Devices" list to Electricity grid overlay
 - [Feature] Allow replacing / upgrading batteries with other battery models
