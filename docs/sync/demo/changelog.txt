@@ -1,3 +1,14 @@
+<b>v0.6.80</b> (2022.09.05)
+- [Graphics] Make Tractor Beam pull VFX look more consistent at different distances
+- [UI/UX] Show a warning tooltip when dragging a new connection from a connector that is fully utilized
+- [UI/UX] Show a "build connector" hint tooltip when dragging a new connection from a connector onto ground
+- [UI/UX] Show "out of range" hint tooltip when dragging a new connection too far
+- [Tech] Improve translations file validation tools
+- [Bug] Fix event sounds would not play if multiple groupable events were created at the same time
+- [Bug] Fix Breach Capsules could fail to attach if they were affected by Tractor Beam
+- [Bug] Fix Tractor Beam could pull a projectile towards a target that is obstructed or damaged
+
+
 <b>v0.6.79</b> (2022.09.04)
 - [Feature] Opening a floor vent will suck objects out of enclosed pressurized (oxygenated) areas
 - [Tech] Update Unity to 2021.3.9f1
