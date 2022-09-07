@@ -1,3 +1,8 @@
+<b>v0.6.82</b> (2022.09.07)
+- [Performance] Add multiple minor performance optimizations
+- [Bug] Fix bed ownership would get unassigned for everyone when a single colonist died
+
+
 <b>v0.6.81</b> (2022.09.06)
 - [Misc] Add initial Swedish translation by YogiesAndPeas
 - [Feature] Detect blocked doors and show a notification about them
