@@ -1,3 +1,20 @@
+<b>v0.6.81</b> (2022.09.06)
+- [Misc] Add initial Swedish translation by YogiesAndPeas
+- [Feature] Detect blocked doors and show a notification about them
+- [Balance] Carbon Fiber will no longer be processable into Carbon
+- [UI/UX] Autodetect metric / imperial system (needs verification if it works)
+- [UI/UX] Show next colonist wake up time in Stasis Array UI
+- [UI/UX] Add more warning tooltips for connection tool
+- [UI/UX] Remove all popups related to failed electricity connection attempts
+- [UI/UX] If nothing is selected, clicking B will "build a copy" of currently hovered object
+- [UI/UX] Move "Rename" button up from Persona component submenu
+- [Bug] Fix ESC would show pause menu when player had a tool active
+- [Bug] Fix submitting a text input popup with Enter / Return key would not correctly focus the next popup input field
+- [Bug] Fix "No Story" generator would never wake anybody up
+- [Bug] Fix relocating objects with (i.e. beds) would lose object attachments
+- [Bug] Fix ownership of an object (i.e. bed) not released properly when owner died
+
+
 <b>v0.6.80</b> (2022.09.05)
 - [Graphics] Make Tractor Beam pull VFX look more consistent at different distances
 - [UI/UX] Show a warning tooltip when dragging a new connection from a connector that is fully utilized
