@@ -1,3 +1,8 @@
+<b>v0.6.83</b> (2022.09.08)
+- [Performance] Add multiple performance improvements
+- [Bug] Fix persona submenu showing an empty button near being name
+
+
 <b>v0.6.82</b> (2022.09.07)
 - [Performance] Add multiple minor performance optimizations
 - [Bug] Fix bed ownership would get unassigned for everyone when a single colonist died
