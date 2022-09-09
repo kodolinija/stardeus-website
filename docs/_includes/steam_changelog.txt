@@ -1,3 +1,10 @@
+<b>v0.6.84</b> (2022.09.09)
+- [Performance] Automatically set recommended VSync for current refresh rate, warn if player is overriding it
+- [Performance] Reduce VSync for high simulation speeds to prevent uneven framerates
+- [Performance] Add "Automatic Framerate" option in video settings
+- [Bug] Fix being animations not smooth after latest performance improvements
+
+
 <b>v0.6.83</b> (2022.09.08)
 - [Performance] Add multiple performance improvements
 - [Bug] Fix persona submenu showing an empty button near being name
