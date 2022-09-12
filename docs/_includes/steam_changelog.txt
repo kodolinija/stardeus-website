@@ -1,3 +1,40 @@
+<b>v0.6.86</b> (2022.09.12)
+- [Feature] Add a decorative Vase (in Furniture)
+- [Feature] To prevent constant reoccurring deficit, Research will keep 10% of electricity grid capacity as reserve
+- [Balance] When electrical device has a deficit, it will not try to consume electricity for 15 minutes (game time)
+- [Balance] If research fails to run completely due to lack of resources, it will retry after 1 hour delay (game time)
+- [Balance] Plants will slowly grow on their own even if there is no electricity in the planter
+- [Balance] Research will consume up to 90% of available electricity (including battery supply)
+- [Graphics] Fix Shuttle launch animation spawning flying shuttle too close to the ground
+- [UI/UX] Research Queue tooltips will distinguish lack of resources for parallel execution
+- [UI/UX] Make New Game > Scenario dropdown show individual tooltips for each scenario choice
+- [UI/UX] Move Wall Sockets from Walls to Electricity category in the Radial Menu
+- [UI/UX] Split Furniture into multiple categories in Radial Menu
+- [UI/UX] Add event notification about inefficient research
+- [Audio] Play "action denied" sound in several more places where it makes sense
+- [Bug] Fix cancelling Stasis Array relocation would grant an achievement
+- [Bug] Fix Install Upgrade task could get silently marked as completed if grounded being (i.e. Robot) failed to reach the upgrade or the device
+- [Bug] Fix Auto Connect not reaching items bigger than 2x2 that are on the edge of the range
+- [Bug] Fix Particle Collector destroying collected materials when internal storage was full (will now drop materials on work spot)
+- [Bug] Fix turning on a worker who was pending relocation would not cancel the relocation task
+- [Bug] Fix Research Queue could display false information about items deeper in the queue lacking Disk and Memory
+- [Bug] Fix Research Queue would not refresh Disk and Memory lack information display when situation changed in real time
+- [Bug] Fix Beta Wave Transceiver would allow mind controlling raiders
+- [Bug] Fix mind controlled colonists could be forced to unequip their items while dead
+- [Bug] Fix forcing to unequip space suit / helmet in open space would not visually remove the equipment
+- [Bug] Fix devices that were reachable by electricity grid but not yet connected would expose their controls
+- [Bug] Fix Electricity Grid running consumer nodes in opposite order of "Consumer Priority"
+
+
+<b>v0.6.85</b> (2022.09.10)
+- [Balance] Make construction faster
+- [UI/UX] Pressing B while just hovering something will no longer build a copy
+- [UI/UX] Pressing B with something selected will show build menu if the blueprint of selected device is locked
+- [Performance] Reduce chance of potential frame drops when large amount of construction / deconstruction tasks are being executed
+- [Bug] Fix Electricity running off-sync with Research after last update
+- [Bug] Fix rare bug where rooms or sections occasionally would not get recalculated if multiple floor / wall construction tasks were ongoing
+
+
 <b>v0.6.84</b> (2022.09.09)
 - [Performance] Automatically set recommended VSync for current refresh rate, warn if player is overriding it
 - [Performance] Reduce VSync for high simulation speeds to prevent uneven framerates
