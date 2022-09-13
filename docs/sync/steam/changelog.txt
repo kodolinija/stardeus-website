@@ -1,10 +1,15 @@
+<b>v0.6.87</b> (2022.09.13)
+- [Bug] Fix newly planted small and medium sized plants would have incorrect visual offset
+- [Bug] Fix selecting "Relaxing" difficulty modifier would use "Balanced" instead
+- [Bug] Fix placing floor tiles in a row would ignore selected floor tile rotation
+
+
 <b>v0.6.86</b> (2022.09.12)
 - [Feature] Add a decorative Vase (in Furniture)
 - [Feature] To prevent constant reoccurring deficit, Research will keep 10% of electricity grid capacity as reserve
 - [Balance] When electrical device has a deficit, it will not try to consume electricity for 15 minutes (game time)
 - [Balance] If research fails to run completely due to lack of resources, it will retry after 1 hour delay (game time)
 - [Balance] Plants will slowly grow on their own even if there is no electricity in the planter
-- [Balance] Research will consume up to 90% of available electricity (including battery supply)
 - [Graphics] Fix Shuttle launch animation spawning flying shuttle too close to the ground
 - [UI/UX] Research Queue tooltips will distinguish lack of resources for parallel execution
 - [UI/UX] Make New Game > Scenario dropdown show individual tooltips for each scenario choice
