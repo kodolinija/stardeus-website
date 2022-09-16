@@ -1,3 +1,10 @@
+<b>v0.6.88</b> (2022.09.16)
+- [Performance] Slightly improve Research Tree performance
+- [UI/UX] Make all tooltips appear with 200ms delay (most were appearing instantly)
+- [Bug] Fix removal of orphan plants at load time would break the load procedure
+- [Bug] Fix mouse tooltip would occasionally not resize itself correctly to fit the text
+
+
 <b>v0.6.87</b> (2022.09.13)
 - [Bug] Fix newly planted small and medium sized plants would have incorrect visual offset
 - [Bug] Fix selecting "Relaxing" difficulty modifier would use "Balanced" instead
