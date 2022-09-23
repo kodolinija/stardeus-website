@@ -1,3 +1,37 @@
+<b>v0.6.92</b> (2022.09.22)
+- [Feature] Add Quest: "Enclose the Stasis Array"
+- [Balance] Significantly increase durability of most devices to reduce natural wear
+- [UI/UX] Allow skipping the tutorial even for the first playthrough
+- [UI/UX] Remove popups for confirm mass orders (except for mass processing)
+- [Bug] Prevent purple guidelines from getting stuck on screenwhen exiting to the main menu at the wrong time
+- [Bug] Fix demo misbehaving after 2 hours of run time even if a different game was started
+- [Bug] Fix new change detection sometimes failing to work correctly if version number was mentioned in the middle of the line
+- [Bug] Fix several small corner case internal errors
+
+
+<b>v0.6.91</b> (2022.09.20)
+- [Feature] Add "Connect to the Survivor Area" Quest
+- [Balance] Move Light Block to Lighting research node
+- [UI/UX] Improve Quest UI
+- [UI/UX] Correctly detect player country for Steam platform to determine default units of measurement (Metric vs Imperial)
+- [Tech] Add diagnostics to triage the "floor looks unbuilt" bug
+- [Bug] Fix "Disconnected Devices" list including unbuilt devices
+- [Bug] Fix research tree would not save / load the "discovered" state
+
+
+<b>v0.6.90</b> (2022.09.20)
+- [Bug] Fix loading spinner stuck in Main Menu since v0.6.89
+- [Bug] Fix exiting to main menu would not clean up visible space objects (planets, shuttles) since v0.6.89
+- [Bug] Fix "Connect to the Stasis Array" quest not triggering
+
+
+<b>v0.6.89</b> (2022.09.19)
+- [Feature] Add Quest System
+- [Feature] Add "Provide a Charge Station" Quest
+- [Feature] Add "Connect to the Stasis Array" Quest
+- [Bug] Fix workers stalling periodically when large amount of construction / deconstruction tasks were in progress
+
+
 <b>v0.6.88</b> (2022.09.16)
 - [Performance] Slightly improve Research Tree performance
 - [UI/UX] Make all tooltips appear with 200ms delay (most were appearing instantly)
