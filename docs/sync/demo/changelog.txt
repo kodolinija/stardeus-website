@@ -1,3 +1,17 @@
+<b>v0.6.93</b> (2022.09.26)
+- [Feature] Split "Enclose the Stasis Array" quest into smaller steps
+- [Feature] Add new game Modifer: Skip Beginner Quests
+- [Feature] Add Quest: "Find a Habitable Planet"
+- [Feature] Finish implementing the final quest: "Colonize A Planet"
+- [Feature] Polish the Quest System and all existing quests
+- [Balance] Stasis Array area will have random structural damage, for the "Pressurize the Stasis Array" quest to always make sense
+- [Balance] Communicator will be cheaper to build
+- [UI/UX] Make TAB open Search in Research Tree and Starmap
+- [Bug] Fix resetting the new game modifiers form to defaults would select Relaxing difficulty instead of Balanced
+- [Bug] Fix disabling cosmetic particles during the game would cause internal errors and prevent from displaying the electricity grid
+- [Bug] Fix several internal edge case errors
+
+
 <b>v0.6.92</b> (2022.09.22)
 - [Feature] Add Quest: "Enclose the Stasis Array"
 - [Balance] Significantly increase durability of most devices to reduce natural wear
