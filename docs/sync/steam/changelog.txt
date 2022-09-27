@@ -1,8 +1,20 @@
+<b>v0.6.94</b> (2022.09.27)
+- [Feature] Add Quest: "Make Ship Flight Ready"
+- [Feature] Add Quest: "Establish Food Production"
+- [UI/UX] Allow linking and unlinking Teleporters using the Connect tool
+- [UI/UX] Improve visuals of Teleporter connections
+- [UI/UX] Add tooltips for Feedback form dropdown options
+- [UI/UX] Hide details and step count for completed quests
+- [Bug] Fix LMB would drag the background of Research Tree and Starmap
+- [Bug] Fix tooltips resizing themselves after a short delay rather than immediately
+- [Bug] Fix quests that are excluded due to scenario filter would prevent depending quests from being added
+
+
 <b>v0.6.93</b> (2022.09.26)
 - [Feature] Split "Enclose the Stasis Array" quest into smaller steps
 - [Feature] Add new game Modifer: Skip Beginner Quests
 - [Feature] Add Quest: "Find a Habitable Planet"
-- [Feature] Finish implementing the final quest: "Colonize A Planet"
+- [Feature] Finish implementing the final quest: "Colonize a Planet"
 - [Feature] Polish the Quest System and all existing quests
 - [Balance] Stasis Array area will have random structural damage, for the "Pressurize the Stasis Array" quest to always make sense
 - [Balance] Communicator will be cheaper to build
