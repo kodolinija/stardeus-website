@@ -1,3 +1,11 @@
+<b>v0.6.95</b> (2022.09.28)
+- [Feature] Add Quest: "Hail a Merchant"
+- [Balance] Quests will no longer lock any tech in Research Tree
+- [Balance] Move Emblems into their own research branch
+- [Balance] Give 100 Protein and 100 Plant Fiber in Leaving Earth scenario
+- [Bug] Fix "Pressurize Stasis Array" quest would not get completed if open vents were facing adjacent enclosed areas
+
+
 <b>v0.6.94</b> (2022.09.27)
 - [Feature] Add Quest: "Make Ship Flight Ready"
 - [Feature] Add Quest: "Establish Food Production"
