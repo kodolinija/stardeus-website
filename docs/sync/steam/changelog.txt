@@ -1,3 +1,11 @@
+<b>v0.6.96</b> (2022.10.03)
+- [Misc] Add full Spanish and Chinese translations
+- [Balance] Small objects that catch on fire easily (food items, plants, wood) will receive large amounts of fire damage
+- [UI/UX] Improve the Rename UI
+- [Tech] Fix C# mods would not be able to compile if certain UI interfaces were extended
+- [Bug] Fix multiple edge case internal errors
+
+
 <b>v0.6.95</b> (2022.09.28)
 - [Feature] Add Quest: "Hail a Merchant"
 - [Balance] Quests will no longer lock any tech in Research Tree
