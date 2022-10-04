@@ -1,3 +1,17 @@
+<b>v0.6.98</b> (2022.10.04)
+- [UI/UX] Suggest restart dialog will always display in English when changing languages
+- [UI/UX] When opening a long list of items (i.e. Inventory), make sure that "Next" button would not overlap the Hotbar
+- [UI/UX] Display shorcut binding when showing Build A Copy and Relocate buttons in UI
+- [Bug] Fix community translation language report would not generate correctly
+- [Bug] Fix Situation would not count multiple Ship Computers if they were all in the same grid
+- [Bug] Fix Connector text count not updating after "Auto Connect" / "Disconnect All" action
+- [Bug] Fix incorrect count displayed in incompleted "Auto Connect" popup
+- [Bug] Fix Quest Reward that would give +X% on a research node would not work correctly
+- [Bug] Fix Crafter device icons would interfere with other component icons on the same device at higher clock speed
+- [Bug] Fix objects in unsafe areas would not update / remove their notifications correctly
+- [Bug] Fix all workers shutting down if Ship Computer sufferred an electricity deficit (i.e. while mining crypto)
+
+
 <b>v0.6.97</b> (2022.10.04)
 - [Balance] Double the mining speed
 - [Balance] Spawn much more Silicon and a little bit of Lithium in Wrecked scenario
