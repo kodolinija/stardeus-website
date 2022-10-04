@@ -1,3 +1,13 @@
+<b>v0.6.97</b> (2022.10.04)
+- [Balance] Double the mining speed
+- [Balance] Spawn much more Silicon and a little bit of Lithium in Wrecked scenario
+- [Balance] Generate bigger rather than more piles when starting the game with higher resource multiplier
+- [Bug] Fix relocating a device on top of burning floor would make the fire impossible to extinguish
+- [Bug] Fix not all starting objects would generate with certain game seeds
+- [Bug] Fix starting objects would always generate with same default rotation
+- [Bug] Fix impossible to switch into a community translation
+
+
 <b>v0.6.96</b> (2022.10.03)
 - [Misc] Add full Spanish and Chinese translations
 - [Balance] Small objects that catch on fire easily (food items, plants, wood) will receive large amounts of fire damage
