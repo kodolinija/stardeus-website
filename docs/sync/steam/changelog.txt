@@ -1,3 +1,15 @@
+<b>v0.6.99</b> (2022.10.05)
+- [Misc] Move the position of Cooking Station work spot in front of the burners
+- [Bug] Add extra precautions against rare edge case failures to save the game
+- [Bug] Fix crafters not clearing "Haul ingredients" info icon since 0.6.98
+- [Bug] Fix colonists could drop operator tasks due to clipping into the wall when the device work spot was near a wall corner
+- [Bug] Fix "Generate Validity Report" would not work for community translations until the language selection was changed at least once
+- [Bug] Fix Eject button would work with non-player faction storages (i.e. raider's Breach Capsule)
+- [Bug] Fix material deficit event would not go away under certain conditions when it should
+- [Bug] Fix doors opening between two oxygenated areas would create vacuum
+- [Bug] Fix storage inventory material count not refreshing when storage gets modified while UI is open
+
+
 <b>v0.6.98</b> (2022.10.04)
 - [UI/UX] Suggest restart dialog will always display in English when changing languages
 - [UI/UX] When opening a long list of items (i.e. Inventory), make sure that "Next" button would not overlap the Hotbar
