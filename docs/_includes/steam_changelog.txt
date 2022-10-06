@@ -1,3 +1,12 @@
+<b>v0.6.100</b> (2022.10.06)
+- [Graphics] Improve planet looks generation to produce sharper looking and more diverse planets
+- [UI/UX] Show a dialog suggesting a new destination in the Starmap after an expedition has returned
+- [UI/UX] Suggest restart after toggling "Ignore Gamepads"
+- [UI/UX] Hovering "Ignore Gamepads" will show a list of connected input devices
+- [Tech] Automatically recover from potential graphics cache read/write errors
+- [Bug] Fix Joystick type of devices would feed input into UI navigation
+
+
 <b>v0.6.99</b> (2022.10.05)
 - [Misc] Move the position of Cooking Station work spot in front of the burners
 - [Bug] Add extra precautions against rare edge case failures to save the game
