@@ -1,3 +1,30 @@
+<b>v0.6.104</b> (2022.10.13)
+- [Feature] Add story event: Mutiny
+- [Feature] Add story event: Engine Failure
+- [Tech] Lift upper limit of renderer capacity from 16K to 64K objects (per type)
+- [Misc] Update several community translations
+- [Bug] Fix reading old Kickstarter alpha saves could prevent the Main Menu from loading if save file was corrupted
+- [Bug] Fix failure to detect the current mouse device would end up in an error loop
+- [Bug] Fix occasional failure to remove particle effect that was not completely initialized
+- [Bug] Fix certain storage filter configuration could prevent hauling from happening
+- [Bug] Fix an edge case that could get colonists stuck indefinitely while they were trying to find food
+- [Bug] Fix removed devices could cause errors if they were not cleanly removed from the electricity grid at time of destruction
+- [Bug] Fix tweaking light color controls for a destroyed light would cause internal errors
+- [Bug] Fix force completing a quest that was not supported by a scenario would produce an internal error
+- [Bug] Fix Ctrl + Click on the Radial Menu in the tutorial for the first time would cause internal error (because Hotbar is not initialized until the tutorial ends)
+- [Bug] Fix Electric device damaged story event could cause an internal error
+- [Bug] Fix workers who had a next task in queue would try to take that task in the middle of a fight if a fight broke out
+- [Bug] Fix replacing a device could leave the ghost of previous device on the electricity grid until the grid was rebuilt
+
+
+<b>v0.6.103</b> (2022.10.11)
+- [Balance] Change Winch mechanic to always pull the lighter section towards the heavier one
+- [Performance] Improve Winch operation performance
+- [Bug] Fix Winch operation would only update being and loose objects visual positions after winching has finished all steps
+- [Bug] Fix ordering a relocation of an object and then cancelling it would keep an inactive object in the game until next save / load, leading to several bugs
+- [Bug] Fix a couple of internal edge case errors
+
+
 <b>v0.6.102</b> (2022.10.10)
 - [Balance] Increase default melee damage for all beings (1 -> 5)
 - [Misc] Enable Achievements in Demo
