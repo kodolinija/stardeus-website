@@ -1,3 +1,8 @@
+<b>v0.6.105</b> (2022.10.13)
+- [Bug] Fix Energy research could get stuck during the Tutorial
+- [Bug] Fix toggling "Device Wear" or "Enable Combat" in current game settings would save the opposite value of the setting
+
+
 <b>v0.6.104</b> (2022.10.13)
 - [Feature] Add story event: Mutiny
 - [Feature] Add story event: Engine Failure
