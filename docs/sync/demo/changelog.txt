@@ -1,3 +1,44 @@
+<b>v0.6.107</b> (2022.10.15)
+- [Balance] Increase simulation speed for 2nd and 3rd clock speeds
+- [Balance] New games will have no "Permadeath" by default
+- [Balance] Allow relocating even heavily damaged devices
+- [UI/UX] Allow changing "Permadeath" setting in Pause menu > Current Game Settings
+- [UI/UX] Show grayed out "Save" button in pause panel when Permadeath is enabled
+- [Misc] Update several community translations
+- [Bug] Fix saving a game with an ongoing combat where someone was completely annihilated (including the body) could prevent loading that save
+- [Bug] Fix cycling the game speed via a shortcut would skip the fastest speed level
+- [Bug] Fix 4 shortcut would enable a different speed than 4th speed button
+- [Bug] Fix internal error could happen when updating information icon for an object with an unexpected state
+- [Bug] Fix internal error with Wallet failing to calculate current amount
+- [Bug] Fix exiting the game in the middle of ongoing Winch operation could cause an internal error
+- [Bug] Fix edge case internal error could happen when checking a next step in pathfinding search result
+- [Bug] Fix Sleep action could cause internal error if the bed was unexpectedly removed
+- [Bug] Fix pressing ESC while Research Tree was building itself on first load would cause the UI to get into an inconsistent state
+- [Bug] Fix device getting destroyed due to wear while it was operated by a colonist would cause an internal error
+- [Bug] Fix relocating a device in the middle of repairs would not interrupt the repair task and could cause side effects
+- [Bug] Fix raiding party members could be sold to slave trader while the raid was ongoing
+- [Bug] Fix beings on expedition, raiders from other factions and colonists with good mood could be drawn into Mutiny event
+- [Bug] Fix pending replacement could get cancelled while leaving the object in "pending replacement" state forever
+
+
+<b>v0.6.106</b> (2022.10.14)
+- [Balance] Make Engine Failure explosion radius bigger for larger engines (thanks Santa)
+- [Balance] When a Stasis Array is placed in Sandbox mode, it will now contain hundreds of colonists
+- [Graphics] Make space object animations (planet rotation, etc) slower
+- [UI/UX] Make the analog game clock show actual time (thanks Wasted)
+- [UI/UX] Expose the extra fast 4th speed in the UI
+- [UI/UX] Disabling space background animation in video settings will also disable space object animations
+- [UI/UX] Make Quest UI slightly easier to understand
+- [UI/UX] Add a button to toggle fight state on / off on workers during combat
+- [Bug] Fix disabling cosmetic particles would not disable construction / teleporter / tractor beam particles
+- [Bug] Fix Probe would allow rotating it, resulting in broken graphics
+- [Bug] Fix battery level would be displayed in the game time tooltip even if there was not battery
+- [Bug] Fix combat would get stuck if enemies would be in a blocked area
+- [Bug] Fix "High Alert" combat state would get dropped whenever an enemy was within range regardless of the ability to reach it
+- [Bug] Fix connecting the Connector to the Ship Computer too early in the Tutorial would prevent the progression
+- [Bug] Fix copying configuration of Storage Unit would keep changes to the filter synchronized with all copy targets
+
+
 <b>v0.6.105</b> (2022.10.13)
 - [Bug] Fix Energy research could get stuck during the Tutorial
 - [Bug] Fix toggling "Device Wear" or "Enable Combat" in current game settings would save the opposite value of the setting
