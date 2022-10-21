@@ -1,3 +1,57 @@
+<b>v0.6.109</b> (2022.10.21)
+- [Balance] Make story generator event frequency less predictable
+- [Feature] Add Auto Pilot Upgrade that removes the need of having a human operator for Bridge Controls
+- [Feature] Add reinforced versions of Vent and Wall Socket
+- [Misc] Rework the Feedback submission form to encourage use of Steam Forums and include Player.log
+- [Tech] Remove default implementation of IsConsumerActive from IEnergyConsumer interface so mods can use it with older .NET target
+- [Tech] Disable code stripping to encourage modding
+- [Tech] Expose Crafter and Particle Collector component speed multiplier property to JSON config for modding
+- [UI/UX] Return back to the list of items after selecting something in the Trade UI
+- [UI/UX] Allow placing windows by click-dragging rows of them
+- [Graphics] Reduce lights blink speed and particle speed at high clock rates
+- [Performance] Slightly improve performance on high simulation speeds
+- [Bug] Fix Stasis Pods getting stuck forever in irremovable state
+- [Bug] Fix UI would go off-screen in long lists on 4K displays, making it difficult to use ML Booth, Storage Filters, etc
+- [Bug] Fix some particles act differently at high simulations speed compared to low
+- [Bug] Fix story event frequency was incorrectly calculated for Relaxing and Challenging difficulty levels
+- [Bug] Fix building a Directional Turret would show visual trails of range preview
+- [Bug] Fix Breach Capsule without assigned faction would do nothing on spawn
+- [Bug] Fix ML Booth would not eject workers after they are fully maxed out
+- [Bug] Fix framerate limiter would keep low FPS after Ship Computer Cooldown has finished
+- [Bug] Fix removing mods with new research nodes could prevent the game from loading if game was saved with that mod enabled
+- [Bug] Fix Directional Turret would fire at Breach Capsule while it was underneath the ship, causing friendly fire and heavy ship damage
+- [Bug] Fix potential a race condition in pathfinding system
+
+
+<b>v0.6.108</b> (2022.10.19)
+- [Feature] Add new game modifier: "Disable Heavy Disasters" to turn off Asteroids / Meteor Showers
+- [Feature] Add new game modifier: "Disable Fire Spread", which also disables object self-combustion
+- [Feature] Directional Turret will now use a much faster and deadlier Heavy Energy ammo
+- [Feature] Add a Log system and Debug Log button in Event Log overlay (WIP)
+- [Feature] Add "Log Brain Activity" toggle to the Being Brain component UI (WIP)
+- [Feature] Add "Debug Log" toggle to the Being Navigation component UI (WIP)
+- [Balance] Engine Failure will only happen for engines that have more than 50% wear
+- [Balance] Make Meteoroids slower and with more varied speeds
+- [Balance] Directional Turret will now shoot at incoming Breach Capsules
+- [Balance] Make objects self-reignite less frequently
+- [Balance] Adjust the self-ignition temperatures for multiple objects
+- [Balance] Make fire less hot
+- [UI/UX] Add tooltips for clock speeds to show the actual multiplier value
+- [Misc] Add Korean community translation by Ciizel
+- [Misc] Do not log an error when mods create new species without adding an internal species trait
+- [Bug] Fix Research Tree "Add to Queue" buttons would not display Japanese / Chinese / Korean font
+- [Bug] Fix Quick Search results would not display Japanese / Chinese / Korean fonts
+- [Bug] Add a workaround and extra diagnostics for pathfinding errors that happen to small percentage of players
+- [Bug] Fix Tractor Beam internal errors would happen if the selected target got destroyed while pulling a projectile
+- [Bug] Fix trying to load wallet contents during the trade would cause internal error for a few players
+- [Bug] Fix ongoing fire would keep the clock speed restricted to normal until fire was completely put out
+- [Bug] Fix Directional Turrets always missing shots at Meteoroids
+- [Bug] Fix end game story generating "Blank" names for certain fate outcomes
+- [Bug] Fix Quantum Barrier would not drop the shield if it was disconnected from the electricity grid
+- [Bug] Fix selecting a directional turret could mess up its targeting
+- [Bug] Fix restoring an expedition after load could cause an internal error and prevent remaining expeditions from loading correctly
+
+
 <b>v0.6.107</b> (2022.10.15)
 - [Balance] Increase simulation speed for 2nd and 3rd clock speeds
 - [Balance] New games will have no "Permadeath" by default
