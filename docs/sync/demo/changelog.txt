@@ -1,3 +1,16 @@
+<b>v0.6.110</b> (2022.10.23)
+- [Balance] "Capsule Bomb" event will be treated as "heavy disaster"
+- [Balance] Add Hauling capability to Sentry drones (with 0 priority, player should override)
+- [Balance] Reduce the number of Cats that can spawn in certain events
+- [Performance] Fix memory bloat where too many pathfinding instances were being created and kept alive
+- [Performance] Reduce flood fill multi threading and CPU consumption
+- [Performance] Minor pathfinding performance improvements
+- [Bug] Fix AI bug where humans / pets would get stuck in certain states when game was running at high speed with many ongoing construction tasks
+- [Bug] Fix "Copy Config" would always paste the configuration to all devices between the copied and the pasted one
+- [Bug] Fix raiders could be switched from "fighting" to "working" state
+- [Bug] Fix Radial Menu submenus could reorder themselves in unpredictable ways depending on available/unlocked tech
+
+
 <b>v0.6.109</b> (2022.10.21)
 - [Balance] Make story generator event frequency less predictable
 - [Feature] Add Auto Pilot Upgrade that removes the need of having a human operator for Bridge Controls
