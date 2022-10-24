@@ -1,3 +1,16 @@
+<b>v0.6.111</b> (2022.10.23)
+- [Feature] Add new Story Event: Construction Failure
+- [Balance] Increase chance of alien life forms on all planets
+- [Balance] Increase probability of crawler taxi event (nobody had it ever)
+- [Bug] Fix some navigation failure reasons showing up untranslated
+- [Bug] Fix "Open Directory" buttons would not work on Linux / OSX
+- [Bug] Fix C# code stripping would still be performed
+- [Bug] Fix story generator would fail to load saved ongoing story events if they were added by external mods
+- [Bug] Fix some systems would get an exception when trying to set job worker thread counts, preventing the game from loading correctly
+- [Bug] Fix "One Of Us" achievement would not unlock
+- [Bug] Fix a few internal edge case exceptions
+
+
 <b>v0.6.110</b> (2022.10.23)
 - [Balance] "Capsule Bomb" event will be treated as "heavy disaster"
 - [Balance] Add Hauling capability to Sentry drones (with 0 priority, player should override)
