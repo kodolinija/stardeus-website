@@ -1,3 +1,27 @@
+<b>v0.6.112</b> (2022.10.25)
+- [Balance] Double the cost of Uranium in the Particle Collector
+- [Balance] Humans will not try building floors in space
+- [Tech] Increase suggested FPS values for "Automatic Framerate"
+- [Tech] Add diagnostics to detect and automatically unstuck workers with tasks that are taking too long
+- [Tech] Automatically fail navigation tasks when they are taking too long to execute
+- [Tech] Rebuild graphics cache if any sprite file size changes
+- [Tech] Don't rebuild graphics cache after a premature application exit via Alt-F4
+- [UI/UX] Improve UI height fit at various UI scale levels (fixes off-screen buttons on Steam Deck)
+- [UI/UX] Change a misleading tooltip about "Inefficient Research"
+- [UI/UX] Automatically scan space objects when nearby if Radar is active
+- [UI/UX] Show tooltip with being skills in ML Booth / Expedition / Being list UI when hovering someone
+- [UI/UX] Make "Stop Producing" a regular button (was long press)
+- [UI/UX] Show counts in all possible UI elements of crafting devices
+- [UI/UX] Do not show beings without skills (Carried Drones) in ML Booth trainee list
+- [Bug] Fix relocating a battery would add 50% charge
+- [Bug] Add more diagnostics and auto recovery attempt for Merchant with blank inventory bug
+- [Bug] Fix trying to install an upgrade to a Shuttle that is out would keep retrying and granting Science skill for each attempt
+- [Bug] Add diagnostics for determining the cause of Stasis Array getting removed
+- [Bug] Disable all input devices when the game is not in focus
+- [Bug] Fix Input > "Ignore gamepads" setting would disable virtual mouse, but not full gamepad input
+- [Bug] Fix invisible people could be spawned if being had invalid properties in Persona component
+
+
 <b>v0.6.111</b> (2022.10.23)
 - [Feature] Add new Story Event: Construction Failure
 - [Balance] Increase chance of alien life forms on all planets
