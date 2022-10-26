@@ -1,3 +1,17 @@
+<b>v0.6.113</b> (2022.10.26)
+- [Feature] Relocating a storage will also relocate all contents
+- [UI/UX] Add "Task Priority" setting to all crafting devices
+- [UI/UX] When choosing a crafting target, the amount will automatically default to "available count" + 10
+- [UI/UX] Add more information tooltips when hovering items in various UI lists
+- [Misc] Add initial Polish community translation (12%)
+- [Bug] Fix "Weaponize a Cleaning Bot" achievement would unlock if raiding party had a weaponized cleaning bot
+- [Bug] Fix all workers would keep trying to reach the same piece of material that would be stuck in a wall, preventing other tasks from getting done
+- [Bug] Fix automatic object unstucking algorithm could end up leaving an object inside a wall if a nearby spot was not available
+- [Bug] Fix ordering a battery upgrade could break the visuals
+- [Bug] Fix Beings list (F7) would show all human preview icons with same skin color
+- [Bug] Fix Bridge Controls would still complain about unsafe environment after Auto Pilot upgrade was installed
+
+
 <b>v0.6.112</b> (2022.10.25)
 - [Balance] Double the cost of Uranium in the Particle Collector
 - [Balance] Humans will not try building floors in space
