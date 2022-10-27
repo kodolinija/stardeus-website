@@ -1,3 +1,17 @@
+<b>v0.6.114</b> (2022.10.27)
+- [Feature] Allow choosing a designated Teleporter for trade
+- [Feature] Buying biological beings with designated Teleporter in unsafe area will be forbidden (unless Asimov Override is installed)
+- [Feature] Allow reinstalling floors underneath walls and objects
+- [Tech] Reimplement firefighting AI logic to be more robust and reactive
+- [UI/UX] Allow disabling input bindings
+- [UI/UX] Show visual links to relocated objects
+- [UI/UX] Allow disabling smooth camera zoom in Video settings
+- [Bug] Fix tool shortcut binding overrides would not get applied on app restart
+- [Bug] Fix Copy Config tool would not copy planter's Auto Harvest flag
+- [Bug] Fix relocation of objects would not be allowed in open space depending on how relocation was initiated
+- [Bug] Fix solar panels and objects built in space would not allow relocation on top of themselves
+
+
 <b>v0.6.113</b> (2022.10.26)
 - [Feature] Relocating a storage will also relocate all contents
 - [UI/UX] Add "Task Priority" setting to all crafting devices
@@ -26,7 +40,7 @@
 - [UI/UX] Show tooltip with being skills in ML Booth / Expedition / Being list UI when hovering someone
 - [UI/UX] Make "Stop Producing" a regular button (was long press)
 - [UI/UX] Show counts in all possible UI elements of crafting devices
-- [UI/UX] Do not show beings without skills (Carried Drones) in ML Booth trainee list
+- [UI/UX] Do not show beings without skills (Carrier Drones) in ML Booth trainee list
 - [Bug] Fix relocating a battery would add 50% charge
 - [Bug] Add more diagnostics and auto recovery attempt for Merchant with blank inventory bug
 - [Bug] Fix trying to install an upgrade to a Shuttle that is out would keep retrying and granting Science skill for each attempt
