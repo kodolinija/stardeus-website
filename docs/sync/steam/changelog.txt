@@ -1,6 +1,26 @@
+<b>v0.6.115</b> (2022.10.28)
+- [Feature] Add explicit Direct Control button to managed workers UI
+- [Feature] Allow controlling multiple workers at the same time
+- [Feature] Direct controlling a Cleaning Bot will do manual floor cleaning
+- [Balance] Solar panels will produce much less power during dust storm (even when clean)
+- [Tech] Improve floor cleaning AI to search for nearby dirt first
+- [UI/UX] Add extra common actions related to direct control of multi-selected workers
+- [UI/UX] CTRL + click will both order going to position and taking the task (no more Shift + click)
+- [UI/UX] Reposition tooltips vertically if they go out of screen area
+- [Bug] Fix direct order to perform a task would show "0 workable" if task was reserved for someone
+- [Bug] Fix workers would needlessly use Repair Stations and Charge Stations
+- [Bug] Fix forcing a worker to go somewhere would show a broken path as worker moves along
+- [Bug] Fix hungry biological beings would not go through danger to reach food
+- [Bug] Fix people trying to eat at a table while almost dying from hunger
+- [Bug] Fix beings would get stuck in place for extreme periods of time if there was no safe path to food
+- [Bug] Fix entering a star system would spawn the player's ship too far away from all planets
+- [Bug] Fix Raiders would stop fighting if there was a fire, causing game breaking state
+- [Bug] Fix space objects sometimes not registering as close enough after traveling there
+
+
 <b>v0.6.114</b> (2022.10.27)
 - [Feature] Allow choosing a designated Teleporter for trade
-- [Feature] Buying biological beings with designated Teleporter in unsafe area will be forbidden (unless Asimovs Override is installed)
+- [Feature] Buying biological beings with designated Teleporter in unsafe area will be forbidden (unless Asimov Override is installed)
 - [Feature] Allow reinstalling floors underneath walls and objects
 - [Tech] Reimplement firefighting AI logic to be more robust and reactive
 - [UI/UX] Allow disabling input bindings
