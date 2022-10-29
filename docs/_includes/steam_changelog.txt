@@ -1,3 +1,8 @@
+<b>v0.6.116</b> (2022.10.29)
+- [Bug] Hotfix for ship unable to reenter the current Galaxy in Starmap
+- [UI/UX] Ensure that trade ui closes any open item lists when closing itself
+
+
 <b>v0.6.115</b> (2022.10.28)
 - [Feature] Add explicit Direct Control button to managed workers UI
 - [Feature] Allow controlling multiple workers at the same time
