@@ -1,3 +1,26 @@
+<b>v0.6.117</b> (2022.11.01)
+- [Balance] Reduce the size of monetary reward for completing "Find a Habitable Planet" quest
+- [Misc] Add Worker CPU cost section to Codex
+- [Misc] Skip the "Explore Codex" suggestion if the player has at least 5 unlocked achievements
+- [UI/UX] Show a popup when a Merchant ship offers a trade
+- [UI/UX] Lists with pagination in-game can now be scrolled via mouse wheel
+- [UI/UX] Show worker CPU cost in Managed Worker UI
+- [UI/UX] Add extended controls for modifying wanted amount when configuring crafting devices
+- [UI/UX] Show more details in "Device Idle" notifications
+- [UI/UX] Add a toggle for disabling "Auto Haul" on items
+- [UI/UX] Add shortcuts to Codex > Blueprints and Codex > Materials in Inventory overlay (F2)
+- [UI/UX] Allow closing the "New Quest" dialog without opening Quest UI
+- [Performance] Fix story generator checking event preconditions could produce a lag spike / dropped frame
+- [Performance] Add several minor performance optimizations
+- [Bug] Fix combat UI would allow switching enemy AI from combat to work
+- [Bug] Fix workers would have a mass-shutdown if Ship Computer suffered an electricity deficit
+- [Bug] Fix opening too many popups would prevent save confirmation popup from opening when exiting the game
+- [Bug] Fix Combat AI and Emergency Siren systems would fight for control over human colonists
+- [Bug] Fix relocating anything with a built-in storage on top of itself would duplicate the storage contents
+- [Bug] Fix relocating a processor on top of itself would duplicate all items in the processing queue
+- [Bug] Fix Starcreds mining would stop working after having an excessive amount of Starcreds
+
+
 <b>v0.6.116</b> (2022.10.29)
 - [Bug] Hotfix for ship unable to reenter the current Galaxy in Starmap
 - [UI/UX] Ensure that trade ui closes any open item lists when closing itself
