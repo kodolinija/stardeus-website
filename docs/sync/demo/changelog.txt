@@ -1,3 +1,14 @@
+<b>v0.6.118</b> (2022.11.02)
+- [Misc] Add diagnostics and validation of teleporter pathfinding issues
+- [UI/UX] Add pathfinding system debug UI to Walking Difficulty overlay
+- [UI/UX] Add more information and tools to Being Navigation component UI
+- [Bug] Fix Stasis Pod Raid story events not working since last patch
+- [Bug] Fix giving a Direct Order to go somewhere would always immediately show a "cannot go there" tooltip afterwards
+- [Bug] Fix Socializing being would get stuck in a pathfinding loop if the target was operating a device that move the worker inside it (i.e. Research Station)
+- [Bug] Fix teleporter catching on fire could cause an inextinguishable fire that would make firefighters get stuck
+- [Bug] Fix linking teleporters via UI would work slightly differently than via drag-connect (could lead to inconsistent behavior)
+
+
 <b>v0.6.117</b> (2022.11.01)
 - [Balance] Reduce the size of monetary reward for completing "Find a Habitable Planet" quest
 - [Misc] Add Worker CPU cost section to Codex
@@ -7,6 +18,7 @@
 - [UI/UX] Show worker CPU cost in Managed Worker UI
 - [UI/UX] Add extended controls for modifying wanted amount when configuring crafting devices
 - [UI/UX] Show more details in "Device Idle" notifications
+- [UI/UX] Add a toggle for disabling "Device Idle" notifications in crafting device UI
 - [UI/UX] Add a toggle for disabling "Auto Haul" on items
 - [UI/UX] Add shortcuts to Codex > Blueprints and Codex > Materials in Inventory overlay (F2)
 - [UI/UX] Allow closing the "New Quest" dialog without opening Quest UI
