@@ -1,3 +1,21 @@
+<b>v0.6.119</b> (2022.11.03)
+- [Feature] Add Memory Compression research branch and Memory Compression Upgrade module
+- [Balance] Biological beings who just joined the colony will not immediately try to do firefighting
+- [Balance] Have a 1 hour (in game time) grace period for shutting down workers if there is not enough CPU
+- [Balance] Increase durability of Teleporters 10x (again)
+- [Tech] Automatically remove traits added by mods if the added trait is causing internal errors
+- [Performance] Add major performance improvement for situations with large amount of tasks and workers
+- [Bug] Fix beings could get their grid position and visual position desynchronized too much, which would cause the being to become stuck until save / load (thanks JDPlays for help)
+- [Bug] Fix selecting the closest Emergency Siren if more than one was available would cause an internal error
+- [Bug] Fix humans would sometimes not display body / hair sprites
+- [Bug] Fix Roaming action could fail to find a valid position and cause a looping internal error
+- [Bug] Fix Beings could be spawned outside map bounds, causing various inconsistent states
+- [Bug] Fix Beings would try to satisfy hunger need in mid combat
+- [Bug] Fix Combat AI would try to create a new Home squad when new raiders were added to an ongoing combat
+- [Bug] Fix dead bots could be taken under direct control
+- [Bug] Fix ranged attackers would stand still if target was in range on their weapon (even without line of sight)
+
+
 <b>v0.6.118</b> (2022.11.02)
 - [Misc] Add diagnostics and validation of teleporter pathfinding issues
 - [UI/UX] Add pathfinding system debug UI to Walking Difficulty overlay
