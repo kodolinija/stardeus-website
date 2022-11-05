@@ -1,3 +1,22 @@
+<b>v0.6.120</b> (2022.11.05)
+- [Feature] Workers will now be able to replace and repair floors under large objects without relocating them
+- [Balance] Strip all equipment from a being before selling it to a merchant
+- [UI/UX] Selecting one or more Connectors and shift + clicking any electrical device will attempt to create (or break) a connection between the device and selected connector(s)
+- [UI/UX] Selecting one or more electrical devices and shift + clicking a connector will attempt to create (or break) a connection between selected devices and the connector
+- [UI/UX] Selecting one or more Teleporters and shift + clicking another teleporter will link the selected teleporter(s) to the clicked one
+- [UI/UX] Holding Shift and clicking beings will add new beings to group selection
+- [UI/UX] Holding Ctrl and clicking tiles will add new tiles to the group selection
+- [UI/UX] Holding Alt and clicking objects (piles) will add new objects to the group selection
+- [UI/UX] Show icons of crafted / processed / produced items in every device
+- [UI/UX] Configurable processors (i.e. Furnace) will also have an "Idle Warning" toggle
+- [Bug] Fix Copy Config would not copy the new "Idle Warning" toggle state on crafter components
+- [Bug] Fix Copy Config would not copy priority on crafter components
+- [Bug] Fix adjusting task priority directly would not update the crafting / processing device priority in the controls UI submenu
+- [Bug] Fix internal error that could lead to game crash when selecting and ordering relocation for more than 1024 objects
+- [Bug] Fix relocating a device mid-operation would not drop the task correctly (root cause of the beings stuck bug that was fixed in last update)
+- [Bug] Fix removing a mod that introduced a new material type would prevent inventory history from loading correctly
+
+
 <b>v0.6.119</b> (2022.11.03)
 - [Feature] Add Memory Compression research branch and Memory Compression Upgrade module
 - [Balance] Biological beings who just joined the colony will not immediately try to do firefighting
