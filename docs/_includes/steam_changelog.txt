@@ -1,3 +1,24 @@
+<b>v0.6.121</b> (2022.11.06)
+- [Feature] Add Jukebox device and Entertainment research branch
+- [Feature] Add recreational activity: Use Jukebox
+- [Balance] Move Treadmill research node under Entertainment
+- [Balance] Generate Merchants with larger inventory
+- [UI/UX] Unbind Arrow keys from default UI navigation
+- [UI/UX] Add multiple small improvements to Merchant Trade UI
+- [UI/UX] Ctrl + clicking "Select" in Merchant Trade UI will add 100% of the item
+- [UI/UX] Shift + clicking "Select" in Merchant Trade UI will add 50% of the item
+- [UI/UX] Alt + clicking "Select" in Merchant Trade UI will add x1 of the item
+- [UI/UX] Ctrl + clicking arrows in the Research Queue will move the item to topmost / bottommost position
+- [Bug] Fix Workout would not set the mood effect duration correctly
+- [Bug] Fix relocating a Stasis Pod would trigger stasis pod story events
+- [Bug] Fix relocating a Stasis Pod would create the relocation ghost as immutable (preventing the relocation task from succeeding)
+- [Bug] Add extra checks to prevent generating a merchant with blank inventory
+- [Bug] Fix Achievements on Steam would only unlock after reloading the game
+- [Bug] Add extra diagnostics for troubleshooting why some Achievements won't unlock for some players (i.e Joy Ride)
+- [Bug] Fix newly added stock market items without prior history would end up getting an internal error when attempting to render a chart
+- [Bug] Fix trying to sell a being without equipment (i.e. a pet) would fail the transaction (since the last patch)
+
+
 <b>v0.6.120</b> (2022.11.05)
 - [Feature] Workers will now be able to replace and repair floors under large objects without relocating them
 - [Balance] Strip all equipment from a being before selling it to a merchant
