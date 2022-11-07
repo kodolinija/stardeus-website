@@ -1,3 +1,23 @@
+<b>v0.6.122</b> (2022.11.07)
+- [Balance] Further adjust how Merchant inventory is generated
+- [UI/UX] ESC will only close UI by default (won't pause the game)
+- [UI/UX] Swap C and K bindings. C will Cancel Tasks, K will focus on Ship Computer
+- [UI/UX] Ctrl + clicking "Change" in Trade UI items will remove them from the trade list
+- [UI/UX] Show work spots for nearby operatable devices when placing a chair
+- [UI/UX] Improve Quick Search UI (scroll wheel and arrow keys will work, tooltips will appear)
+- [UI/UX] Run in background setting will be true by default
+- [Bug] Fix Esc would show Pause Panel when Quick Search was open
+- [Bug] Fix updating some settings (like ESC behavior) would not update the settings cache
+- [Bug] Fix swapping LMB and RMB would still use LMB for UI clicks
+- [Bug] Fix copy configuration would not update the preview icon for crafters and processors
+- [Bug] Fix "food on device" story event could trigger for food on regular tables
+- [Bug] Fix Direct Control would allow assigning tasks to workers who had no skill to perform them
+- [Bug] Fix winching would not update connector position cache, resulting in incorrect connection previews when placing new tiles
+- [Bug] Fix adjusting priority on Operate task would not synchronize with the rest of device configuration
+- [Bug] Fix processors would not update percentage since recent
+- [Bug] Fix replacing floors underneath a planter would float the plant if ship was moving
+
+
 <b>v0.6.121</b> (2022.11.06)
 - [Feature] Add Jukebox device and Entertainment research branch
 - [Feature] Add recreational activity: Use Jukebox
