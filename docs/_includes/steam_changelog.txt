@@ -1,3 +1,24 @@
+<b>v0.6.123</b> (2022.11.09)
+- [Balance] Memory Compression Upgrade will correlate with Uranium in the Stock Market
+- [Misc] Remove unused assets cleanup in between scene changes (suspected cause for some new crashes)
+- [Misc] Selecting a pile will validate its availability and automatically fix and log diagnostics if the availability was inconsistent
+- [Performance] Improve performance of electricity grid rebuild with large grids
+- [Performance] Fix the bottleneck when dragging a big area with Task Priority / Retry / Cancel tools
+- [UI/UX] Include known materials with 0 count in Inventory overlay
+- [UI/UX] Holding Shift will make priority adjustment tool set priorities to either 1 or 9
+- [Translations] Update Japanese to 100% (thanks to Taijiro Inagaki)
+- [Bug] Fix merchant inventories would be extremely low since last patch
+- [Bug] Fix relocating and object onto a different object of same type would create an invalid relocation task and order an upgrade
+- [Bug] Fix spawning a material pile in the position of another material pile that was not added to the inventory for whatever reason would merge the new pile into the existing one
+- [Bug] Fix FTL drive would only show up to 32 drive particle systems at the same time
+- [Bug] Fix Faction information field would not update icon / text after being displayed for the first time in Starmap
+- [Bug] Fix Merchants and Probes no longer visible behind the ship in the game view when nearby
+- [Bug] Fix section detection would occasionally create two almost identical overlapping sections if a lot of floors would be ordered and clock speed was high
+- [Bug] Fix workers would not shut down after 1h grace period with too little CPU available
+- [Bug] Add extra validation to prevent some built floors remaining with unbuilt looks when large amount of construction tasks was created
+- [Bug] Prevent plants from floating in space
+
+
 <b>v0.6.122</b> (2022.11.07)
 - [Balance] Further adjust how Merchant inventory is generated
 - [UI/UX] ESC will only close UI by default (won't pause the game)
@@ -14,7 +35,7 @@
 - [Bug] Fix Direct Control would allow assigning tasks to workers who had no skill to perform them
 - [Bug] Fix winching would not update connector position cache, resulting in incorrect connection previews when placing new tiles
 - [Bug] Fix adjusting priority on Operate task would not synchronize with the rest of device configuration
-- [Bug] Fix processors would not update percentage since recent
+- [Bug] Fix processors would not update percentage since recent patch
 - [Bug] Fix replacing floors underneath a planter would float the plant if ship was moving
 
 
