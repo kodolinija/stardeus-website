@@ -1,3 +1,24 @@
+<b>v0.6.124</b> (2022.11.10)
+- [Feature] Add "Experimental Features" toggle in Settings > Gameplay
+- [Balance] Swap Recycling and Nutrient Extraction research in the tree
+- [Balance] Make Nutrient Extraction research a prerequisite for Vegetarian Food
+- [Balance] Prevent Stock Market prices from dropping below $1
+- [Balance] Cat wont ride a Cleaning Bot through a teleporter if it leads to an unsafe area
+- [Balance] Merchant Stasis Pods can now be deconstructed (at your own risk)
+- [UI/UX] Mark experimental and unfinished content as such in Research Tree and codex tooltips / popups
+- [UI/UX] Holding Shift or Ctrl while adjusting 0-9 priorities in UI will move them to 1 / 9
+- [UI/UX] Improve Planter grow selection UI
+- [UI/UX] Improve Refillable storage components UI (Reactors, Fluid Cannon, Pet Bowl)
+- [UI/UX] Show more information when failing a task due to lack of or unreachable materials
+- [UI/UX] Prevent big tooltips from going above the top of the screen on small screens
+- [Bug] Fix unbuilt Telescope would show a scanning progress bar
+- [Bug] Fix merchant ships could change visual direction too frequently while player's ship is flying diagonally
+- [Bug] Fix root cause of floors remaining with unbuilt looks (thanks to validation and diagnostics added in previous patch)
+- [Bug] Fix Merchants could get generated with negative amount of cash if player had excessive amount of cash
+- [Bug] Fix Tractor Beams would make Stasis Pods miss the ship
+- [Bug] Fix removing targets from various ongoing tasks would not cancel the task correctly, leading to inconsistencies
+
+
 <b>v0.6.123</b> (2022.11.09)
 - [Balance] Memory Compression Upgrade will correlate with Uranium in the Stock Market
 - [Misc] Remove unused assets cleanup in between scene changes (suspected cause for some new crashes)
