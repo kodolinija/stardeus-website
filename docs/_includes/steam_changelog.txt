@@ -1,3 +1,12 @@
+<b>v0.6.125</b> (2022.11.12)
+- [UI/UX] Hovering the device or object name will show a tooltip with the codex entry
+- [UI/UX] Hide fully maxed out workers from ML Booth selection
+- [Tech] Improve translation validation
+- [Bug] Fix cats wouldn't ride a cleaning bot that was under direct control
+- [Bug] Fix Cooldown procedure would set very low framerate and wouldn't unset it correctly
+- [Bug] Fix grounded beings would treat storages in different sections unreachable, even if those sections were reachable through a teleporter
+
+
 <b>v0.6.124</b> (2022.11.10)
 - [Feature] Add "Experimental Features" toggle in Settings > Gameplay
 - [Balance] Swap Recycling and Nutrient Extraction research in the tree

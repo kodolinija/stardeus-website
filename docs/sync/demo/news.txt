@@ -1,16 +1,10 @@
-One week in
-https://stardeusgame.com Open stardeusgame.com
-2022-10-19
+Welcome to Stardeus Demo
+https://discord.com/invite/89amEwP Join Stardeus Discord
+2022-11-12
 
-Hey everyone! The launch week was a humbling and overwhelming experience. I am actively working on fixing the most immediate issues, and trying to organize your feedback!
+Hey Space Traveler, thank you for trying Stardeus Demo!
 
 Use Steam Discussions > [url=https://steamcommunity.com/app/1380910/discussions/2/]Bug Reports[/url] sub forum to report bug.
-
-Use Steam Discussions > [url=https://steamcommunity.com/app/1380910/discussions/3/]Feature Requests[/url] sub forum to suggest features and QOL changes.
-
-Please read the pinned messages before posting!
-
-If you want to receive the latest features as soon as they are implemented, [url=https://steamcommunity.com/app/1380910/discussions/0/5230393378275047235/]switch to experimental branch[/url].
 
 Join [url=https://discord.com/invite/89amEwP]Stardeus Discord[/url] to chat with other players.
 
