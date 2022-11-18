@@ -1,3 +1,14 @@
+<b>v0.6.129</b> (2022.11.18)
+- [UI/UX] Show unreachable events and warning icons for material piles that were repeatedly unreachable by flying workers
+- [UI/UX] Add unreachable position diagnostics to Walking Difficulty overlay
+- [Tech] Add a new workaround for Radeon nebula glitch
+- [Bug] Fix remaining problems with auto processors (Grinder, Refinery) inability to find processable materials
+- [Bug] Repeatedly unreachable material was attempted to be reached over and over by all workers
+- [Bug] Fix humans would try to reach equipment that was in unsafe locations
+- [Bug] Fix multiple instances of beings trying to go to locations where they clearly couldn't go
+- [Bug] Fix Solar Panels would not produce any electricity right after the game was loaded
+
+
 <b>v0.6.128</b> (2022.11.17)
 - [Balance] Damage dealt by some needs (i.e. Hunger, Maintenance) will not interrupt current task
 - [Balance] When a human fails to find food, they will try to cook right away
