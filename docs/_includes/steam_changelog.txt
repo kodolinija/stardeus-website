@@ -1,3 +1,19 @@
+<b>v0.6.128</b> (2022.11.17)
+- [Balance] Damage dealt by some needs (i.e. Hunger, Maintenance) will not interrupt current task
+- [Balance] When a human fails to find food, they will try to cook right away
+- [Balance] Tune human AI to use priorities more strictly
+- [UI/UX] Automatically turn workers back on after CPU deficit is resolved
+- [UI/UX] Show nebula instead of static background when viewing Research Tree and Starmap
+- [Tech] Remove Radeon nebula glitch workarounds
+- [Tech] Add "IsHumanoid" flag to Species definition to allow implementing humanoid species
+- [Tech] Fix Cleanup() could get called more than once for all AI tasks
+- [Performance] Add multiple small performance optimizations
+- [Bug] Fix mod translations would be validated as community translations and ignored due to not having an official counterpart
+- [Bug] Fix plants could get initialized with 0 harvest output
+- [Bug] Fix processors (Grinder, Refinery) would have trouble getting materials hauled to them from storages
+- [Bug] Fix workers would not be able to pick up a material if it was blocked in orthogonal directions (N/E/S/W)
+
+
 <b>v0.6.127</b> (2022.11.14)
 - [Feature] Add multi select actions for installing and uninstalling upgrades
 - [Tech] Automatically load save backup file when available if save file is corrupted

@@ -1,3 +1,44 @@
+<b>v0.6.128</b> (2022.11.17)
+- [Balance] Damage dealt by some needs (i.e. Hunger, Maintenance) will not interrupt current task
+- [Balance] When a human fails to find food, they will try to cook right away
+- [Balance] Tune human AI to use priorities more strictly
+- [UI/UX] Automatically turn workers back on after CPU deficit is resolved
+- [UI/UX] Show nebula instead of static background when viewing Research Tree and Starmap
+- [Tech] Remove Radeon nebula glitch workarounds
+- [Tech] Add "IsHumanoid" flag to Species definition to allow implementing humanoid species
+- [Tech] Fix Cleanup() could get called more than once for all AI tasks
+- [Performance] Add multiple small performance optimizations
+- [Bug] Fix mod translations would be validated as community translations and ignored due to not having an official counterpart
+- [Bug] Fix plants could get initialized with 0 harvest output
+- [Bug] Fix processors (Grinder, Refinery) would have trouble getting materials hauled to them from storages
+- [Bug] Fix workers would not be able to pick up a material if it was blocked in orthogonal directions (N/E/S/W)
+
+
+<b>v0.6.127</b> (2022.11.14)
+- [Feature] Add multi select actions for installing and uninstalling upgrades
+- [Tech] Automatically load save backup file when available if save file is corrupted
+- [Tech] Add extra layer of security to prevent writing corrupted data into save files
+- [Tech] Rotate 3 auto save files instead of having just 1
+- [Bug] Fix slot system would fail to update slots by designation after they were relocated
+- [Bug] Fix winching multiple rows of solar panels would only consider the row near the floor as part of the island
+- [Bug] Fix relocating multiple rows of solar panels would leave some panels out
+- [Bug] Fix dragging deconstruct tool over multiple relocation tasks would not cancel them
+- [Bug] Fix copying configuration and pasting it onto a single object would skip the copy validation
+
+
+<b>v0.6.126</b> (2022.11.13)
+- [Feature] Replace Ship Computer's internal heat / cooldown procedure with neural network fragmentation / defragmentation
+- [Feature] Having multiple Ship Computers will reduce the time spent in defragmentation procedure (ex cooldown)
+- [Balance] Ship Computer will emit 3x more heat
+- [Balance] You can Defragment (ex cooldown) Ship Computer on demand if it has over 10% fragmentation (was available only since 50% before)
+- [UI/UX] Show Event Log when neural network is booted after defragmentation procedure
+- [Performance] Limit concurrent teleporter particle systems to 15
+- [Performance] Limit concurrent nanobot particle systems (construct, deconstruct, repair vfx) to 20
+- [Bug] Fix Achievement "One Piece" would only unlock if you had an active suggestion to connect the ship sections together
+- [Bug] Fix Achievement "Joy Ride" could not unlock in certain conditions
+- [Bug] Fix Furnace would ignore individual "Idle Warning" setting, and wouldn't save / load it
+
+
 <b>v0.6.125</b> (2022.11.12)
 - [UI/UX] Hovering the device or object name will show a tooltip with the codex entry
 - [UI/UX] Hide fully maxed out workers from ML Booth selection
