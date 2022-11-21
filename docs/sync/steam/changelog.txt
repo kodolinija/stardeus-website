@@ -1,3 +1,12 @@
+<b>v0.6.130</b> (2022.11.21)
+- [Balance] Mega Asteroid will be once per game event (only in Challenging difficulty)
+- [Balance] When your ship is moving, Meteoroids, Asteroids, Storage Capsules and Stasis Pods will not follow your ship
+- [Balance] Add a new game modifier that allows disabling selected story events
+- [UI/UX] Load materials before checking skill levels on construction tasks, to prevent confusing skill check failures for "Hauling"
+- [Bug] Fix Turrets would shoot at the location where Breach Capsule would land right after capsule spawns
+- [Bug] Fix selecting landed storage capsules would display their former trajectories
+
+
 <b>v0.6.129</b> (2022.11.18)
 - [UI/UX] Show unreachable events and warning icons for material piles that were repeatedly unreachable by flying workers
 - [UI/UX] Add unreachable position diagnostics to Walking Difficulty overlay
