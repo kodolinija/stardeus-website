@@ -1,3 +1,10 @@
+<b>v0.6.131</b> (2022.11.22)
+- [Balance] Colonists with "Descontructing things" mental breakdown will never deconstruct floors
+- [Tech] Add ML Booth "TrainingSpeed" configuration variable for creating faster ML Booths
+- [Tech] Catch looping AI task related errors originating from mods and warn the player
+- [Bug] Fix Breach Capsules are no longer shot at by directional turrets since v0.6.130
+
+
 <b>v0.6.130</b> (2022.11.21)
 - [Balance] Mega Asteroid will be once per game event (only in Challenging difficulty)
 - [Balance] When your ship is moving, Meteoroids, Asteroids, Storage Capsules and Stasis Pods will not follow your ship

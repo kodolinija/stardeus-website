@@ -1,12 +1,12 @@
-Stardeus Roadmap Vote: Round 1
-https://forms.gle/VprnyUkDtReZi7A78 Cast your vote
-2022-11-12
+Roadmap Vote Results: Round 1
+https://steamcommunity.com/games/1380910/announcements/detail/3484125695455269869 See Voting Results
+2022-11-22
 
 Greetings, Space Traveler!
 
-It has been a month since release, and after 21 patches with hundreds of bug fixes and QoL changes, it is time to start shifting the development focus towards the big things.
+Thank you for casting your votes on the [url=https://kodolinija.github.io/stardeus-graphs/roadmap-3d/]Feature Roadmap[/url]!
 
-I invite you to explore the interactive [url=https://kodolinija.github.io/stardeus-graphs/roadmap-3d/]Roadmap[/url] and then [url=https://forms.gle/VprnyUkDtReZi7A78]cast your vote[/url].
+Space and Base Building were the dominant categories, and I already started work on technical changes required for Derelict Ships. If you missed the opportunity to vote, don't worry, there will be more voting rounds!
 
 Please be my guest when I'm working on Stardeus live on [url=https://twitch.tv/dev_spajus]twitch.tv/dev_spajus[/url] - I will be happy to answer any questions.
 
