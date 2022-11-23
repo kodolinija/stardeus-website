@@ -1,3 +1,15 @@
+<b>v0.6.132</b> (2022.11.23)
+- [Balance] Automatically validate, adjust and correlate base market item prices
+- [Balance] Adjust merchant ripoff levels
+- [Balance] Adjust base price for multiple market items
+- [Balance] Make certain items cost much more when you buy them compared to what you get if you sell them
+- [Tech] Prevent autosave generating "_autosave_0_autosave_1" file names if an autosave file was loaded
+- [Bug] Fix "TrainingSpeed" had no effect on training speed for modding
+- [Bug] Fix edge case race condition happening in Pathfinding system when registering failed positions
+- [Bug] Fix grounded beings could get stuck if they managed to get to the edge of the map
+- [Bug] Add a workaround for mouse clicks not working after invoking steam overlay with Shift + TAB
+
+
 <b>v0.6.131</b> (2022.11.22)
 - [Balance] Colonists with "Descontructing things" mental breakdown will never deconstruct floors
 - [Tech] Add ML Booth "TrainingSpeed" configuration variable for creating faster ML Booths
