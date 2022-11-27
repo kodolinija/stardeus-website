@@ -1,3 +1,44 @@
+<b>v0.6.133</b> (2022.11.25)
+- [Balance] Teleporters will have to be at least 3 tiles away from each other (for technical reasons)
+- [Balance] Floor lights will have to be at least 3 tiles away from each other (for performance reasons)
+- [Tech] Refactor save file data to take up less space
+- [Tech] Add initial version of new internal chunk / region partitioning system (a prerequisite for upcoming major performance and AI logic optimizations)
+- [Bug] Fix ML Booth "LevelEnergyCostCurve" configuration property being ignored
+- [Bug] Prevent Terrain Generator particles from producing visual glitch on some Mac OSX systems
+- [Bug] Fix replacing a smaller device with a bigger one could overwrite the adjacent device of same type
+- [Bug] Fix mods that created a crafting device without ExtraInfo component would cause an internal error when player was selecting crafting target through the UI
+- [Bug] Fix Camera Zoom interactive input rebinding would fail to rebind to the mouse scroll, causing looping internal errors
+- [Bug] Fix a few internal edge case errors with pathfinding
+
+
+<b>v0.6.132</b> (2022.11.23)
+- [Balance] Automatically validate, adjust and correlate base market item prices
+- [Balance] Adjust merchant ripoff levels
+- [Balance] Adjust base price for multiple market items
+- [Balance] Make certain items cost much more when you buy them compared to what you get if you sell them
+- [Tech] Prevent autosave generating "_autosave_0_autosave_1" file names if an autosave file was loaded
+- [Bug] Fix "TrainingSpeed" had no effect on training speed for modding
+- [Bug] Fix edge case race condition happening in Pathfinding system when registering failed positions
+- [Bug] Fix grounded beings could get stuck if they managed to get to the edge of the map
+- [Bug] Add a workaround for mouse clicks not working after invoking steam overlay with Shift + TAB
+
+
+<b>v0.6.131</b> (2022.11.22)
+- [Balance] Colonists with "Descontructing things" mental breakdown will never deconstruct floors
+- [Tech] Add ML Booth "TrainingSpeed" configuration variable for creating faster ML Booths
+- [Tech] Catch looping AI task related errors originating from mods and warn the player
+- [Bug] Fix Breach Capsules are no longer shot at by directional turrets since v0.6.130
+
+
+<b>v0.6.130</b> (2022.11.21)
+- [Balance] Mega Asteroid will be once per game event (only in Challenging difficulty)
+- [Balance] When your ship is moving, Meteoroids, Asteroids, Storage Capsules and Stasis Pods will not follow your ship
+- [Balance] Add a new game modifier that allows disabling selected story events
+- [UI/UX] Load materials before checking skill levels on construction tasks, to prevent confusing skill check failures for "Hauling"
+- [Bug] Fix Turrets would shoot at the location where Breach Capsule would land right after capsule spawns
+- [Bug] Fix selecting landed storage capsules would display their former trajectories
+
+
 <b>v0.6.129</b> (2022.11.18)
 - [UI/UX] Show unreachable events and warning icons for material piles that were repeatedly unreachable by flying workers
 - [UI/UX] Add unreachable position diagnostics to Walking Difficulty overlay
