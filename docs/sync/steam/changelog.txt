@@ -1,3 +1,19 @@
+<b>v0.6.134</b> (2022.11.30)
+- [Feature] Some objects will have a chance to explode when on fire
+- [Balance] Increase comfortable temperature range for drones
+- [Balance] Reduce Merchant price markup for most merchant types
+- [Balance] Adjust sale price multiplier for most upgrade chips
+- [Tech] Add ActBeforeStart and ActAfterEnd signals for more flexible modding
+- [Tech] Reimplement atmosphere simulation to run on CPU
+- [Performance] Fix neural network fragmentation check would be increasingly slower with more Ship Computers
+- [Performance] Fix multiple performance bottlenecks with excessive amounts of particle collectors and crafters
+- [Performance] Being will no longer directly contribute to aesthetics of the surroundings
+- [Performance] Optimize performance when there are a lot of turrets and a lot of active threats at the same time
+- [Performance] Improve performance when there are large amount of ongoing fire
+- [Bug] Fix clicking the Starmap button after closing it using ESC would not reopen the Starmap
+- [Bug] Fix processors showing incorrect progress percentage text on hover
+
+
 <b>v0.6.133</b> (2022.11.26)
 - [Balance] Teleporters will have to be at least 3 tiles away from each other (for technical reasons)
 - [Tech] Refactor save file data to take up less space
