@@ -1,3 +1,19 @@
+<b>v0.6.135</b> (2022.12.02)
+- [Feature] Add no-build zones in the corners of the map for spawning things
+- [Balance] Increase Teleporter energy cost to 10kW
+- [Balance] Building a Teleporter will also require Optical Fiber
+- [Balance] Establish food production quest will reward 50% on Nutrient Extraction instead of Recycling
+- [Performance] Don't run the clock faster than the computer can handle smoothly
+- [Graphics] Add interlace effect to overlays
+- [UI/UX] Allow processors to be configured to process known materials with 0 stock
+- [UI/UX] Building a copy of a device will copy the rotation
+- [UI/UX] When attempting to use build a copy (B) shortcut on a device that is not researched, don't open the build menu
+- [Bug] Fix relocating a teleporter would disallow placing it close to itself
+- [Bug] Fix resource processing devices wouldn't could fail to order processing of available resources
+- [Bug] Fix Oxygen / Heat data wouldn't save correctly since v0.6.134
+- [Bug] Attempt to fix input remaining locked for some players after neural network defragmentation
+
+
 <b>v0.6.134</b> (2022.11.30)
 - [Feature] Some objects will have a chance to explode when on fire
 - [Balance] Increase comfortable temperature range for drones
