@@ -1,3 +1,7 @@
+<b>v0.6.136</b> (2022.12.02)
+- [Bug] Hotfix clock speed restriction would not get lifted since v0.6.135
+
+
 <b>v0.6.135</b> (2022.12.02)
 - [Feature] Add no-build zones in the corners of the map for spawning things
 - [Balance] Increase Teleporter energy cost to 10kW
