@@ -1,5 +1,17 @@
+<b>v0.6.137</b> (2022.12.05)
+- [Balance] Humans will have to be more tired to be reluctant to take non critical work tasks
+- [Performance] Reimplement being and object motion to remain smooth at performance intensive situations
+- [Performance] Add multiple performance improvements
+- [Performance] Improve defragmentation performance
+- [UI/UX] Group "Creature attached to colonist" notifications
+- [Bug] Fix alt-tabbing away from the game during neural network defragmentation could lock the input permanently
+- [Bug] Fix trying to select an object when there were large amount of nearby objects would sometimes select the wrong object or fail to select anything
+- [Bug] Fix destroyed devices would participate in electricity grid during the rebuild
+- [Bug] Fix refillable storage tasks would get cancelled if they were saved / loaded in mid execution
+
+
 <b>v0.6.136</b> (2022.12.02)
-- [Bug] Hotfix clock speed restriction would not get lifted since v0.6.136
+- [Bug] Hotfix clock speed restriction would not get lifted since v0.6.135
 
 
 <b>v0.6.135</b> (2022.12.02)
