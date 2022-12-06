@@ -1,3 +1,11 @@
+<b>v0.6.138</b> (2022.12.06)
+- [Balance] Disallow flying when part of the ship is in the no build zone
+- [UI/UX] Allow tools to operate closer to map bounds
+- [Bug] Fix Storage Capsule and Stasis Pod would not land properly since v0.6.137
+- [Bug] Fix winching sections of the ship could crush thrusters into walls
+- [Bug] Fix clicking on the tile would sometimes select an object (plant, pile) nearby instead of the tile
+
+
 <b>v0.6.137</b> (2022.12.05)
 - [Balance] Humans will have to be more tired to be reluctant to take non critical work tasks
 - [Performance] Reimplement being and object motion to remain smooth at performance intensive situations
