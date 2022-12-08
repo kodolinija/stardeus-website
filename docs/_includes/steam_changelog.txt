@@ -1,3 +1,20 @@
+<b>v0.6.140</b> (2022.12.08)
+- [Balance] Jukebox will require less skill than Treadmill
+- [UI/UX] Move Lit Glass Floor to the right category in the Build Menu
+- [UI/UX] Add 3 modes for viewing electricity grid overlay (Auto, Connectors Only and All)
+- [Graphics] Fix damage cracks size would depend on map size
+- [Graphics] Fix name texts would jitter when beings are moving around
+- [Graphics] Fix being sprites could start jittering when they were going diagonally
+- [Graphics] Make Weapons stick to the being body instead of moving on their own
+- [Graphics] Improve drone hover and robot body animations
+- [Performance] Improve performance with extreme amount of beings and objects
+- [Performance] Improve inventory system performance with excessive amount of materials in the map
+- [Audio] Change Sentry select sound
+- [Audio] Change Cleaning Bot select sound
+- [Bug] Fix Breach Capsules, Storage Capsules and Stasis Pods would spin forever if they missed the landing spot
+- [Bug] Fix Capsules and Pods could miss the ship during Defragmentation sequence
+
+
 <b>v0.6.139</b> (2022.12.07)
 - [Tech] Make it easier to attach a debugger for modders
 - [Bug] Fix a memory leak and inconsistency when electricity grid would keep attempting to include removed connectors into the grid
