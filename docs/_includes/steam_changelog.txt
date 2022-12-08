@@ -1,3 +1,10 @@
+<b>v0.6.139</b> (2022.12.07)
+- [Tech] Make it easier to attach a debugger for modders
+- [Bug] Fix a memory leak and inconsistency when electricity grid would keep attempting to include removed connectors into the grid
+- [Bug] Fix electricity grid rebuilds could get stuck in a loop when removing connectors from a huge grid (thousands of devices)
+- [Bug] Fix electricity grid overlay would not refresh connection visuals when devices were deconstructed
+
+
 <b>v0.6.138</b> (2022.12.06)
 - [Balance] Disallow flying when part of the ship is in the no build zone
 - [UI/UX] Allow tools to operate closer to map bounds
