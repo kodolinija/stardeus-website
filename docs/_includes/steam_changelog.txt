@@ -1,3 +1,10 @@
+<b>v0.6.141</b> (2022.12.09)
+- [Bug] Fix object drift speed in space too slow after motion rework
+- [Bug] Fix Stasis Pods wouldn't lift off the ship since motion rework
+- [Bug] Fix Breach Capsules would get stuck when detaching since motion rework
+- [Bug] Fix switching clock speed between 10x and 1x would change the entity speed with a delay
+
+
 <b>v0.6.140</b> (2022.12.08)
 - [Balance] Jukebox will require less skill than Treadmill
 - [UI/UX] Move Lit Glass Floor to the right category in the Build Menu
