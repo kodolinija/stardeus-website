@@ -1,3 +1,14 @@
+<b>v0.6.142</b> (2022.12.14)
+- [Feature] Generate more interesting ship designs in all scenarios
+- [Balance] Split Furniture research into more subacategories
+- [UI/UX] Reduce the number of clock speed options
+- [UI/UX] Prompt to quit tutorial when pressing ESC
+- [Bug] Fix winching would not move Emergency Siren particles
+- [Bug] Fix winching would move some particles incompletely
+- [Bug] Fix colonizing a planet could fail if there were no wallet contents (i.e. in sandbox mode)
+- [Bug] Fix console command history would not get restored in the expected order when pressing up / down arrows
+
+
 <b>v0.6.141</b> (2022.12.09)
 - [Bug] Fix object drift speed in space too slow after motion rework
 - [Bug] Fix Stasis Pods wouldn't lift off the ship since motion rework
