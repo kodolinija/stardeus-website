@@ -1,3 +1,12 @@
+<b>v0.6.143</b> (2022.12.16)
+- [Feature] Generate starting ship loot dynamically
+- [Feature] Improve procedural ship destruction phase
+- [Balance] Tractor Beam research will now be Tier 4 (was 3)
+- [UI/UX] When multiple objects are on top of each other in Starmap, hovering the context menu entry for the object will bring it forward
+- [Tech] Make "translations reload" console command functional again
+- [Bug] Fix grounded robot could be spawned on the outer edge of the ship thus unable to go anywhere
+
+
 <b>v0.6.142</b> (2022.12.14)
 - [Feature] Generate more interesting ship designs in all scenarios
 - [Balance] Split Furniture research into more subacategories
