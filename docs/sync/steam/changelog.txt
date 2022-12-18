@@ -1,3 +1,9 @@
+<b>v0.6.144</b> (2022.12.18)
+- [Tech] Improve unit to unit reachability tests during combat
+- [Bug] Hotfix save would fail during combat since v0.6.143
+- [Bug] Fix an edge case with pathfinding that could get a worker stuck in a complex map
+
+
 <b>v0.6.143</b> (2022.12.16)
 - [Feature] Generate starting ship loot dynamically
 - [Feature] Improve procedural ship destruction phase
