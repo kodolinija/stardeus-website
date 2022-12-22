@@ -1,3 +1,39 @@
+<b>v0.6.146</b> (2022.12.22)
+- [Feature] Biological beings will now eat raw food if cooked food is not available
+- [Balance] Reorganize the Research Tree
+- [Balance] Research Energy, Memory and Disk cost will be driven by equations
+- [Balance] Research Energy, Memory and Disk cost will vary depending on difficulty level
+- [Balance] Manufacturing Upgrades will always require a human
+- [Balance] Overhaul Quest rewards
+- [Balance] Give more Microchips and some Carbon Fiber in Wrecked scenario start
+- [Balance] Pet Bowl will not allow certain illogical food options (i.e. Coffee Beans or Flour)
+- [Balance] Raw food can now be stored in Refrigerator
+- [UI/UX] Remove existing item count from Radial Menu, as it was confusing
+- [UI/UX] Expose built-in CPU, Memory and Disk in Ship Computer UI
+- [Bug] Fix floating apart the wreckage would lose some of protected zone parts
+- [Bug] Fix pressing "Find" in inventory on a material with count 0 will not find anything (used to find an incorrect storage)
+- [Bug] Fix player faction name would not refresh after exiting to main menu and starting a new game
+- [Bug] Fix Winching would disconnect shorter range connectors that were connected to the longer range ones
+- [Bug] Fix combat could freeze if any of the units have not analyzed their situation
+- [Bug] Fix "Disconnect All" in Energy overlay graph details would not refresh the grid immediately
+
+
+<b>v0.6.145</b> (2022.12.20)
+- [Feature] Grounded fighters can now be carried to unreachable parts of the ship by flying squad members
+- [Balance] Make sure Breach Capsule raids will never have more attackers than defenders
+- [Balance] Refrigerator and Beverage Cooler will require electricity for worker to be able to haul food there
+- [UI/UX] Closing any panel with X button in the Main Menu will open News
+- [UI/UX] Do not show "No Research" event during the tutorial, as it may be confusing
+- [Performance] Allow clock tick to be locked for up to 60 seconds to allow extremely large energy grid rebuilds
+- [Tech] Improve Wrecked scenario starting area generation phase to require less retries
+- [Graphics] Don't show trail particles when someone is carrying a Robot or a Drone
+- [Graphics] Switched off workers will not show hover / jitter animations
+- [Bug] Fix big pile hauling task would not get cancelled if there was no compatible storage
+- [Bug] Fix pressing ESC to close UI during the tutorial would also prompt to end the tutorial
+- [Bug] Fix material pile could get into a state with negative stack size, causing issues
+- [Bug] Fix floating apart the wreckage would not move the protected zones, that could lead to destruction of protected entities and areas
+
+
 <b>v0.6.144</b> (2022.12.18)
 - [Tech] Improve unit to unit reachability tests during combat
 - [Bug] Hotfix save would fail during combat since v0.6.143
