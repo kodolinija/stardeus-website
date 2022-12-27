@@ -1,3 +1,38 @@
+<b>v0.6.149</b> (2022.12.27)
+- [Feature] Show informational icons in the the Starmap next to identified and visited space objects
+- [Tech] Add a console command that can change the difficulty mid game
+- [UI/UX] Add more colors to in-game console output
+- [UI/UX] Player's ship, shuttles and probes will have constant size in the Starmap
+- [UI/UX] Don't display Energy Graphs with just the Ship Computer in it
+- [Bug] Fix chair in work spot mood effect would be inverse
+
+
+<b>v0.6.148</b> (2022.12.24)
+- [Feature] Add Freezer research node and device for storing food and raw ingredients
+- [Feature] Add Quantum Ship Computer device (Advanced 3x3 Ship Computer version)
+- [Feature] Add Ship Computer Research that will unlock the Ship Computer and allow having 2 Ship Computers
+- [Feature] Self Replication Research will increase the Ship Computer cap to 4
+- [Feature] Add High Availability Research that will increase the Ship Computer cap to 16
+- [Feature] Add Quantum Cloud Research that will increase the Ship Computer cap to 64
+- [Balance] Refrigerator will have 200 capacity and consume 5kW + 0.025kW per item stored
+- [Balance] Teleporters will cost exponentially more when their count increases
+- [Balance] Change duration and electricity cost of drone / robot production
+- [Bug] Fix Idle Warning setting not copied over in configurable crafters (i.e. Furnace)
+
+
+<b>v0.6.147</b> (2022.12.22)
+- [Feature] Unlocking Economy research will show Merchant price markup in the tooltip when hovering merchant's name in the trade UI
+- [Performance] Fix framerate would sometimes get locked to 60FPS on higher refresh rate displays
+- [Balance] When a grounded worker fails to gather materials, tasks will not get marked as failed
+- [Balance] Adjust some price multipliers for Merchants
+- [Balance] Heaters will be producing heat even in open space
+- [UI/UX] Hovering Merchant buttons in Merchant Beacon menu will show tooltips with their traded items
+- [UI/UX] Newly started games will have Priority Up/Down in the Hotbar instead of Priority tool root
+- [UI/UX] Pressing a tool key binding multiple times will toggle between Free Select and the tool
+- [UI/UX] Opening the build menu (or any other tool submenu) via key binding and pressing RMB will close the Radial Menu instead of going up into the list of tools
+- [Bug] Fix flying ship would move loose objects in the opposite direction
+
+
 <b>v0.6.146</b> (2022.12.22)
 - [Feature] Biological beings will now eat raw food if cooked food is not available
 - [Balance] Reorganize the Research Tree
