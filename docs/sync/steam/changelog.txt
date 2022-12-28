@@ -1,3 +1,13 @@
+<b>v0.6.150</b> (2022.12.28)
+- [Balance] Planets will have much more material amounts, but much less variety
+- [Balance] Mining skill will level up slower
+- [Balance] Mining will happen slower
+- [Balance] Shuttles will move slower in space
+- [UI/UX] Clicking on a "Probe scanned X" event notification icon will remove the notification
+- [Bug] Fix opening Research Tree while Build tool was active could leave a ghost sprite behind
+- [Bug] Fix a few internal edge case errors
+
+
 <b>v0.6.149</b> (2022.12.27)
 - [Feature] Show informational icons in the the Starmap next to identified and visited space objects
 - [Tech] Add a console command that can change the difficulty mid game
