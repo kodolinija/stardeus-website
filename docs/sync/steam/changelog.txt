@@ -1,3 +1,11 @@
+<b>v0.6.151</b> (2022.12.29)
+- [Feature] Add Rubber Tree that can produce natural rubber (Caoutchouc)
+- [Feature] Add Caoutchouc material that can be processed into Rubber
+- [Feature] Add Pantry for storing inedible food ingredients like Coffee Beans and Flour
+- [UI/UX] Remove "Inefficient Research" notification
+- [UI/UX] "Stop Growing" plant through context menu on a planter will switch to planet selection list immediately
+
+
 <b>v0.6.150</b> (2022.12.28)
 - [Balance] Planets will have much more material amounts, but much less variety
 - [Balance] Mining skill will level up slower
