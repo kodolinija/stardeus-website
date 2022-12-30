@@ -1,3 +1,11 @@
+<b>v0.6.152</b> (2022.12.30)
+- [UI/UX] UI for selected tiles and beings will now always be sorted in the same predictable way
+- [UI/UX] Add common action to multi-selected tiles: Build A Copy
+- [Bug] Fix a notification about non existent "Unreachable Area" could appear for a split second
+- [Bug] Fix pets would get stuck while trying to find food if regular food wasn't available
+- [Bug] Fix logs wouldn't get attached to bug reports on OSX and Linux
+
+
 <b>v0.6.151</b> (2022.12.29)
 - [Feature] Add Rubber Tree that can produce natural rubber (Caoutchouc)
 - [Feature] Add Caoutchouc material that can be processed into Rubber
