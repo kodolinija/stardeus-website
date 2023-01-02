@@ -1,4 +1,16 @@
-<b>v0.6.152</b> (2022.12.30)
+<b>v0.6.153</b> (2023.01.01)
+- [Feature] Add Large Pantry with capacity of 800
+- [Balance] Increase Pantry capacity from 100 to 200
+- [Balance] Light Block will not require Plastic anymore
+- [UI/UX] Add "How it works" button to the Research Tree UI (a shortcut to Codex > Operations Manual > Research)
+- [UI/UX] Quick Search will show results from Codex > Operations Manual
+- [UI/UX] Quick Search will allow executing console commands (if console was opened at least once)
+- [Graphics] Make FTL drive particles non-cosmetic (won't get disabled through video settings)
+- [Bug] Fix having just one Grinder and getting Coal to appear in that Grinder from Rock would prevent the Coal from being reinserted back into the Grinder to produce Carbon
+- [Bug] Fix landed Storage Capsules would display their former trajectory when selected
+
+
+<b>v0.6.152</b> (2022.12.31)
 - [UI/UX] UI for selected tiles and beings will now always be sorted in the same predictable way
 - [UI/UX] Add common action to multi-selected tiles: Build A Copy
 - [Bug] Fix a notification about non existent "Unreachable Area" could appear for a split second
