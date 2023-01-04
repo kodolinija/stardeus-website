@@ -1,3 +1,90 @@
+<b>v0.6.154</b> (2023.01.03)
+- [Feature] Allow changing favorite color for brainwashed human colonists
+- [Feature] People waking up from stasis in Elysium mode will all have very serious side effects
+- [Feature] People waking up from stasis when Stasis Array cryostability is low may have serious side effects
+- [Balance] Prevent anyone from waking up from stasis while the tutorial is running
+- [Balance] Add a long cooldown period between heavy disaster events
+- [Balance] Add a cooldown period between raid events
+- [Balance] Stasis Array will produce 5kW per contained being in Elysium mode;
+- [Balance] Reorganize the Research Tree to be less tangled
+- [UI/UX] Improve the end credits scroll
+- [Bug] Fix hunger notifications would show up for beings that don't belong to player's faction
+- [Bug] Fix destroying a floor underneath an object that is pending relocation would keep the object in pending relocation state
+
+
+<b>v0.6.153</b> (2023.01.01)
+- [Feature] Add Large Pantry with capacity of 800
+- [Balance] Increase Pantry capacity from 100 to 200
+- [Balance] Light Block will not require Plastic anymore
+- [UI/UX] Add "How it works" button to the Research Tree UI (a shortcut to Codex > Operations Manual > Research)
+- [UI/UX] Quick Search will show results from Codex > Operations Manual
+- [UI/UX] Quick Search will allow executing console commands (if console was opened at least once)
+- [Graphics] Make FTL drive particles non-cosmetic (won't get disabled through video settings)
+- [Bug] Fix having just one Grinder and getting Coal to appear in that Grinder from Rock would prevent the Coal from being reinserted back into the Grinder to produce Carbon
+- [Bug] Fix landed Storage Capsules would display their former trajectory when selected
+
+
+<b>v0.6.152</b> (2022.12.31)
+- [UI/UX] UI for selected tiles and beings will now always be sorted in the same predictable way
+- [UI/UX] Add common action to multi-selected tiles: Build A Copy
+- [Bug] Fix a notification about non existent "Unreachable Area" could appear for a split second
+- [Bug] Fix pets would get stuck while trying to find food if regular food wasn't available
+- [Bug] Fix logs wouldn't get attached to bug reports on OSX and Linux
+
+
+<b>v0.6.151</b> (2022.12.29)
+- [Feature] Add Rubber Tree that can produce natural rubber (Caoutchouc)
+- [Feature] Add Caoutchouc material that can be processed into Rubber
+- [Feature] Add Pantry for storing inedible food ingredients like Coffee Beans and Flour
+- [UI/UX] Remove "Inefficient Research" notification
+- [UI/UX] "Stop Growing" plant through context menu on a planter will switch to planet selection list immediately
+
+
+<b>v0.6.150</b> (2022.12.28)
+- [Balance] Planets will have much more material amounts, but much less variety
+- [Balance] Mining skill will level up slower
+- [Balance] Mining will happen slower
+- [Balance] Shuttles will move slower in space
+- [UI/UX] Clicking on a "Probe scanned X" event notification icon will remove the notification
+- [Bug] Fix opening Research Tree while Build tool was active could leave a ghost sprite behind
+- [Bug] Fix a few internal edge case errors
+
+
+<b>v0.6.149</b> (2022.12.27)
+- [Feature] Show informational icons in the the Starmap next to identified and visited space objects
+- [Tech] Add a console command that can change the difficulty mid game
+- [UI/UX] Add more colors to in-game console output
+- [UI/UX] Player's ship, shuttles and probes will have constant size in the Starmap
+- [UI/UX] Don't display Energy Graphs with just the Ship Computer in it
+- [Bug] Fix chair in work spot mood effect would be inverse
+
+
+<b>v0.6.148</b> (2022.12.24)
+- [Feature] Add Freezer research node and device for storing food and raw ingredients
+- [Feature] Add Quantum Ship Computer device (Advanced 3x3 Ship Computer version)
+- [Feature] Add Ship Computer Research that will unlock the Ship Computer and allow having 2 Ship Computers
+- [Feature] Self Replication Research will increase the Ship Computer cap to 4
+- [Feature] Add High Availability Research that will increase the Ship Computer cap to 16
+- [Feature] Add Quantum Cloud Research that will increase the Ship Computer cap to 64
+- [Balance] Refrigerator will have 200 capacity and consume 5kW + 0.025kW per item stored
+- [Balance] Teleporters will cost exponentially more when their count increases
+- [Balance] Change duration and electricity cost of drone / robot production
+- [Bug] Fix Idle Warning setting not copied over in configurable crafters (i.e. Furnace)
+
+
+<b>v0.6.147</b> (2022.12.22)
+- [Feature] Unlocking Economy research will show Merchant price markup in the tooltip when hovering merchant's name in the trade UI
+- [Performance] Fix framerate would sometimes get locked to 60FPS on higher refresh rate displays
+- [Balance] When a grounded worker fails to gather materials, tasks will not get marked as failed
+- [Balance] Adjust some price multipliers for Merchants
+- [Balance] Heaters will be producing heat even in open space
+- [UI/UX] Hovering Merchant buttons in Merchant Beacon menu will show tooltips with their traded items
+- [UI/UX] Newly started games will have Priority Up/Down in the Hotbar instead of Priority tool root
+- [UI/UX] Pressing a tool key binding multiple times will toggle between Free Select and the tool
+- [UI/UX] Opening the build menu (or any other tool submenu) via key binding and pressing RMB will close the Radial Menu instead of going up into the list of tools
+- [Bug] Fix flying ship would move loose objects in the opposite direction
+
+
 <b>v0.6.146</b> (2022.12.22)
 - [Feature] Biological beings will now eat raw food if cooked food is not available
 - [Balance] Reorganize the Research Tree

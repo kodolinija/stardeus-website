@@ -1,3 +1,17 @@
+<b>v0.6.154</b> (2023.01.03)
+- [Feature] Allow changing favorite color for brainwashed human colonists
+- [Feature] People waking up from stasis in Elysium mode will all have very serious side effects
+- [Feature] People waking up from stasis when Stasis Array cryostability is low may have serious side effects
+- [Balance] Prevent anyone from waking up from stasis while the tutorial is running
+- [Balance] Add a long cooldown period between heavy disaster events
+- [Balance] Add a cooldown period between raid events
+- [Balance] Stasis Array will produce 5kW per contained being in Elysium mode;
+- [Balance] Reorganize the Research Tree to be less tangled
+- [UI/UX] Improve the end credits scroll
+- [Bug] Fix hunger notifications would show up for beings that don't belong to player's faction
+- [Bug] Fix destroying a floor underneath an object that is pending relocation would keep the object in pending relocation state
+
+
 <b>v0.6.153</b> (2023.01.01)
 - [Feature] Add Large Pantry with capacity of 800
 - [Balance] Increase Pantry capacity from 100 to 200
