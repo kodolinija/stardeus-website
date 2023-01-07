@@ -1,3 +1,10 @@
+<b>v0.6.155</b> (2023.01.06)
+- [Balance] Devices that produce heat will produce it even outside
+- [UI/UX] Overhaul the UI
+- [UI/UX] Add a goal to scan the system for a resource when the Radar is active
+- [Bug] Fix breakdown notifications would not go away when beings died during a breakdown
+
+
 <b>v0.6.154</b> (2023.01.03)
 - [Feature] Allow changing favorite color for brainwashed human colonists
 - [Feature] People waking up from stasis in Elysium mode will all have very serious side effects
