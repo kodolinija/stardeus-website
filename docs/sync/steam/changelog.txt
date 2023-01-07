@@ -1,3 +1,12 @@
+<b>v0.6.156</b> (2023.01.07)
+- [Tech] Add "quest restore" console command for situations when quest progress data is lost
+- [UI/UX] Make X icons dim until hovered in event list
+- [UI/UX] Make header icons dimmer until hovered
+- [UI/UX] Make header tooltip show up only when hovering the actionable icon
+- [UI/UX] Remove the rectangle hover overlay from header and event close icons
+- [Bug] Fix Codex UI wouldn't close using the X button if it was opened from non-codex overlay
+
+
 <b>v0.6.155</b> (2023.01.06)
 - [Balance] Devices that produce heat will produce it even outside
 - [UI/UX] Overhaul the UI
