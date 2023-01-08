@@ -1,3 +1,11 @@
+<b>v0.6.157</b> (2023.01.08)
+- [Feature] Add Orbotron bot type (unlockable through Elysium tech, WIP)
+- [Feature] Add Scanning feature to the Starmap when a Radar is available
+- [UI/UX] All environment overlays will show full environment information tooltip
+- [UI/UX] Holding ALT in Free Select mode will display the environment information tooltip
+- [Bug] Fix info panel details header would disappear after rebuilding the UI list
+
+
 <b>v0.6.156</b> (2023.01.07)
 - [Tech] Add "quest restore" console command for situations when quest progress data is lost
 - [UI/UX] Make X icons dim until hovered in event list
