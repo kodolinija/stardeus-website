@@ -1,3 +1,10 @@
+<b>v0.6.158</b> (2023.01.09)
+- [Feature] Establishing a temporary connection will allow controlling all the devices in the affected energy grid
+- [Balance] Humans will not equip the Space Helmet before they have a Space Suit
+- [Balance] Damaged storages will not be valid auto haul targets
+- [UI/UX] Add an arrow indicator to mark which UI elements have a submenu in the Info Panel
+
+
 <b>v0.6.157</b> (2023.01.08)
 - [Feature] Add Orbotron bot type (unlockable through Elysium tech, WIP)
 - [Feature] Add Scanning feature to the Starmap when a Radar is available
