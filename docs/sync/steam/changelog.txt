@@ -1,3 +1,12 @@
+<b>v0.6.159</b> (2023.01.11)
+- [Feature] Hauling tasks of same type will now be executed more efficiently
+- [Feature] Add "impossible" difficulty level (500%)
+- [UI/UX] Show overall difficulty percentage next to difficulty selection modifier values
+- [UI/UX] Add UI element about carry capacity and currently carried item to Worker UI
+- [UI/UX] Add missing submenu marker for Starcreds mining upgrade on Ship Computer
+- [UI/UX] Show colonist mood in expedition crew selection tooltips
+
+
 <b>v0.6.158</b> (2023.01.09)
 - [Feature] Establishing a temporary connection will allow controlling all the devices in the affected energy grid
 - [Balance] Humans will not equip the Space Helmet before they have a Space Suit
