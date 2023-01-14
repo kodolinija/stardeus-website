@@ -1,3 +1,9 @@
+<b>v0.6.160</b> (2023.01.13)
+- [Balance] Major rewrite of Story Generator / pacing / difficulty
+- [Bug] Fix humans on expedition would be considered as candidates for mental breakdowns
+- [Bug] Fix opening a storage capsule with a hostile being would interrupt the open task and retry it again later
+
+
 <b>v0.6.159</b> (2023.01.11)
 - [Feature] Hauling tasks of same type will now be executed more efficiently
 - [Feature] Add "impossible" difficulty level (500%)
