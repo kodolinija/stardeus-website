@@ -1,3 +1,24 @@
+<b>v0.6.161</b> (2023.01.15)
+- [Feature] Add new Quest: Explore a planet
+- [Feature] Add new Quest: Visit another system
+- [Balance] Adjust balance for multiple story events
+- [Balance] Remove Repair skill
+- [Balance] Change how Stasis Pod story events are invoked
+- [Balance] Improve balance of engine failure event severity
+- [Balance] Make fire spread more interesting
+- [Balance] Explosions will set things on fire in their radius
+- [Balance] Make Matter Reactor Malfunction less probable
+- [UI/UX] Show a progress bar until open when a Stasis Pod lands
+- [UI/UX] Version info text will be below UI in the game view
+- [Bug] Fix stacked popup notifications could capture mouse clicks incorrectly
+
+
+<b>v0.6.160</b> (2023.01.13)
+- [Balance] Major rewrite of Story Generator / pacing / difficulty
+- [Bug] Fix humans on expedition would be considered as candidates for mental breakdowns
+- [Bug] Fix opening a storage capsule with a hostile being would interrupt the open task and retry it again later
+
+
 <b>v0.6.159</b> (2023.01.11)
 - [Feature] Hauling tasks of same type will now be executed more efficiently
 - [Feature] Add "impossible" difficulty level (500%)
