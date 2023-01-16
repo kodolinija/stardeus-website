@@ -1,3 +1,10 @@
+<b>v0.6.162</b> (2023.01.16)
+- [Feature] Add initial implementation of "Auto Rebuild"
+- [Balance] Adjust balance of matter reactor explosions
+- [Balance] Adjust balance of engine failure events
+- [Bug] Fix popups could show up behind main menu UI since stacking fix
+
+
 <b>v0.6.161</b> (2023.01.15)
 - [Feature] Add new Quest: Explore a planet
 - [Feature] Add new Quest: Visit another system
