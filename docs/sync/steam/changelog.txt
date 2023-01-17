@@ -1,3 +1,10 @@
+<b>v0.6.163</b> (2023.01.17)
+- [Tech] In-game bug reports will include a recent auto save for making it easier to reproduce the issue
+- [Bug] Fix carrying a meal through an airlock could mark the meal as in unsafe area
+- [Bug] Fix quest could remain incomplete if all steps were completed prior to receiving the quest
+- [Bug] Fix mods that introduced worker with an obsolete "Repair" skill would break the game
+
+
 <b>v0.6.162</b> (2023.01.16)
 - [Feature] Add initial implementation of "Auto Rebuild"
 - [Balance] Adjust balance of matter reactor explosions
