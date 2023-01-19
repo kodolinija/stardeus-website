@@ -1,3 +1,14 @@
+<b>v0.6.164</b> (2023.01.19)
+- [Balance] Add constraints to winching to prevent moving ship sections into unbuilt areas
+- [Balance] Increase the tension recovery time for late game
+- [Balance] Tune micro meteor shower story event to have a chance to end sooner if it takes too long
+- [UI/UX] Show event notifications when a device that produces heat warms up the surroundings above 100C
+- [UI/UX] Improve Beings (F7) overlay to allow selecting workers without focusing the camera on them
+- [UI/UX] Show tooltips about task details for multi-selected task priority increase / decrease / cancel actions
+- [Tech] Make the game more resilient to mod removal
+- [Bug] Fix electricity grid rebuild could potentially get stuck if something was destroyed in mid-rebuild
+
+
 <b>v0.6.163</b> (2023.01.17)
 - [Tech] In-game bug reports will include a recent auto save for making it easier to reproduce the issue
 - [Bug] Fix carrying a meal through an airlock could mark the meal as in unsafe area
@@ -9,6 +20,7 @@
 - [Feature] Add initial implementation of "Auto Rebuild"
 - [Balance] Adjust balance of matter reactor explosions
 - [Balance] Adjust balance of engine failure events
+- [UI/UX] Allow ordering building walls and objects on top of unbuilt floors
 - [Bug] Fix popups could show up behind main menu UI since stacking fix
 
 
