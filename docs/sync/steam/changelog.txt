@@ -1,3 +1,14 @@
+<b>v0.6.165</b> (2023.01.20)
+- [Balance] Add a minimum engine power requirement in order to move the ship in space
+- [Balance] Adjust interplanetary, intersystem and intergalactic ship flight speeds
+- [Tech] Improve Auto Connect algorithm
+- [UI/UX] Improve Ship Controls overlay
+- [UI/UX] Add sorting controls for storage UI
+- [Bug] Fix "Disconnected Devices" list would not close when X is clicked
+- [Bug] Fix starting neural network defragmentation with starmap or research open would have a graphics glitch after defragmentation is done
+- [Bug] Fix colonists hatching crawlers could produce an event description where colonist name was blank
+
+
 <b>v0.6.164</b> (2023.01.19)
 - [Balance] Add constraints to winching to prevent moving ship sections into unbuilt areas
 - [Balance] Increase the tension recovery time for late game
@@ -685,9 +696,9 @@
 
 
 <b>v0.6.109</b> (2022.10.21)
-- [Balance] Make story generator event frequency less predictable
 - [Feature] Add Auto Pilot Upgrade that removes the need of having a human operator for Bridge Controls
 - [Feature] Add reinforced versions of Vent and Wall Socket
+- [Balance] Make story generator event frequency less predictable
 - [Misc] Rework the Feedback submission form to encourage use of Steam Forums and include Player.log
 - [Tech] Remove default implementation of IsConsumerActive from IEnergyConsumer interface so mods can use it with older .NET target
 - [Tech] Disable code stripping to encourage modding
