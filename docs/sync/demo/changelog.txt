@@ -1,3 +1,40 @@
+<b>v0.7.0</b> (2023.01.23)
+- [Feature] Add Derelict Ships
+- [Feature] Generate a Derelict Ship near the player at the beginning of Wrecked scenario
+- [Feature] Add "Approach the Derelict Ship" quest
+- [Feature] Add Local Maneuvering research node
+- [Feature] Add Precision Thruster device
+- [Feature] Allow pushing ship around in the local map using Precision Thrusters
+- [Feature] Allow abandoning disconnected sections of the ship
+- [Feature] Add System Scanning research node
+- [Feature] Add System Scanner device
+- [Feature] Add 3x3 Quantum Ship Computer
+- [Feature] Mining a planet owned by a faction will have consequences
+- [Feature] Add more Scan options to Starmap when System Scanning is unlocked
+- [Feature] Add Leather material (made by processing biological beings in the Nutrient Extractor)
+- [Feature] Add Sofa and Armchair
+- [Feature] Generate plan for the original ship when starting the Wrecked scenario
+- [Balance] Stock market will move 50% faster
+- [Balance] Add "Peaceful" difficulty level (10%)
+- [Balance] Construction disaster will have less chance to end with explosion
+- [Balance] Construction disaster will not happen for workers with high skill level
+- [Balance] Reduce chances of reactor explosions when they are destroyed
+- [UI/UX] Show ship preview in new game panel
+- [Bug] Fix relocating a device could have triggered a "Construction Failure" event for it
+- [Bug] Fix Cleaning Bot would dock at a disconnected Dock
+
+
+<b>v0.6.165</b> (2023.01.20)
+- [Balance] Add a minimum engine power requirement in order to move the ship in space
+- [Balance] Adjust interplanetary, intersystem and intergalactic ship flight speeds
+- [Tech] Improve Auto Connect algorithm
+- [UI/UX] Improve Ship Controls overlay
+- [UI/UX] Add sorting controls for storage UI
+- [Bug] Fix "Disconnected Devices" list would not close when X is clicked
+- [Bug] Fix starting neural network defragmentation with starmap or research open would have a graphics glitch after defragmentation is done
+- [Bug] Fix colonists hatching crawlers could produce an event description where colonist name was blank
+
+
 <b>v0.6.164</b> (2023.01.19)
 - [Balance] Add constraints to winching to prevent moving ship sections into unbuilt areas
 - [Balance] Increase the tension recovery time for late game
@@ -685,9 +722,9 @@
 
 
 <b>v0.6.109</b> (2022.10.21)
-- [Balance] Make story generator event frequency less predictable
 - [Feature] Add Auto Pilot Upgrade that removes the need of having a human operator for Bridge Controls
 - [Feature] Add reinforced versions of Vent and Wall Socket
+- [Balance] Make story generator event frequency less predictable
 - [Misc] Rework the Feedback submission form to encourage use of Steam Forums and include Player.log
 - [Tech] Remove default implementation of IsConsumerActive from IEnergyConsumer interface so mods can use it with older .NET target
 - [Tech] Disable code stripping to encourage modding

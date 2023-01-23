@@ -1,3 +1,29 @@
+<b>v0.7.0</b> (2023.01.23)
+- [Feature] Add Derelict Ships
+- [Feature] Generate a Derelict Ship near the player at the beginning of Wrecked scenario
+- [Feature] Add "Approach the Derelict Ship" quest
+- [Feature] Add Local Maneuvering research node
+- [Feature] Add Precision Thruster device
+- [Feature] Allow pushing ship around in the local map using Precision Thrusters
+- [Feature] Allow abandoning disconnected sections of the ship
+- [Feature] Add System Scanning research node
+- [Feature] Add System Scanner device
+- [Feature] Add 3x3 Quantum Ship Computer
+- [Feature] Mining a planet owned by a faction will have consequences
+- [Feature] Add more Scan options to Starmap when System Scanning is unlocked
+- [Feature] Add Leather material (made by processing biological beings in the Nutrient Extractor)
+- [Feature] Add Sofa and Armchair
+- [Feature] Generate plan for the original ship when starting the Wrecked scenario
+- [Balance] Stock market will move 50% faster
+- [Balance] Add "Peaceful" difficulty level (10%)
+- [Balance] Construction disaster will have less chance to end with explosion
+- [Balance] Construction disaster will not happen for workers with high skill level
+- [Balance] Reduce chances of reactor explosions when they are destroyed
+- [UI/UX] Show ship preview in new game panel
+- [Bug] Fix relocating a device could have triggered a "Construction Failure" event for it
+- [Bug] Fix Cleaning Bot would dock at a disconnected Dock
+
+
 <b>v0.6.165</b> (2023.01.20)
 - [Balance] Add a minimum engine power requirement in order to move the ship in space
 - [Balance] Adjust interplanetary, intersystem and intergalactic ship flight speeds

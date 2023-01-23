@@ -1,13 +1,9 @@
-Roadmap Vote Results: Round 1
-https://steamcommunity.com/games/1380910/announcements/detail/3484125695455269869 See Voting Results
-2022-11-22
+Major Update #1: Derelict Ships
+https://store.steampowered.com/news/app/1380910/view/3645135089485772793 Full Announcement
+2023-01-23
 
 Greetings, Space Traveler!
 
-Thank you for casting your votes on the [url=https://kodolinija.github.io/stardeus-graphs/roadmap-3d/]Feature Roadmap[/url]!
+We're happy to announce the first major Stardeus update since launch to Early Access. Although it's centered around Derelict Ships, there's much more to it.
 
-Space and Base Building were the dominant categories, and I already started work on technical changes required for Derelict Ships. If you missed the opportunity to vote, don't worry, there will be more voting rounds!
-
-Please be my guest when I'm working on Stardeus live on [url=https://twitch.tv/dev_spajus]twitch.tv/dev_spajus[/url] - I will be happy to answer any questions.
-
-Spajus
+Existing saves will work, but may feel off-balance. So if you haven't played for a while or got to the late game, it's a great time to start a brand new Wrecked scenario and experience the refreshed and rebalanced version of the gameplay.
