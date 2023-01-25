@@ -1,3 +1,14 @@
+<b>v0.7.1</b> (2023.01.24)
+- [Feature] Add suggestion to get more CPU when there is a shortage
+- [Balance] Make "Radar Found Derelict Ship" story event less frequent
+- [UI/UX] Research Queue will refresh itself immediately when displayed
+- [UI/UX] Hovering being traits in the UI list will show trait description tooltips
+- [UI/UX] Hovering the first UI element in selected being / loose object info panel will show a codex tooltip
+- [UI/UX] Show tooltips explaining worker CPU shutdowns in relevant UI elements
+- [UI/UX] Add tooltip for showing the pagination shortcut when hovering page buttons
+- [Bug] Fix heat producers would not update the "Too Hot" notification if the device was not connected / running
+
+
 <b>v0.7.0</b> (2023.01.23)
 - [Feature] Add Derelict Ships
 - [Feature] Generate a Derelict Ship near the player at the beginning of Wrecked scenario
