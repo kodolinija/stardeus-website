@@ -1,3 +1,11 @@
+<b>v0.7.2</b> (2023.01.30)
+- [Performance] Rewrite room / section detection algorithm to run 500-1000x faster
+- [Tech] Fix slow memory leak happening when switching between main menu and the game scene
+- [Bug] Fix "disable device wear" modifier wouldn't work since one of the recent updates
+- [Bug] Fix floors under large objects could catch on fire, resulting in firefighters unable to reach it
+- [Bug] Fix ship flight readiness check would not get restored immediately after save / load
+
+
 <b>v0.7.1</b> (2023.01.24)
 - [Feature] Add suggestion to get more CPU when there is a shortage
 - [Balance] Make "Radar Found Derelict Ship" story event less frequent
