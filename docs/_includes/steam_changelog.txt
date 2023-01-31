@@ -1,3 +1,10 @@
+<b>v0.7.5</b> (2023.01.31)
+- [Balance] Building a Switch will no longer require Plastic
+- [Bug] Fix turrets would not move their nozzle position when winch / section push happens
+- [Bug] Fix "Try Advanced System Scanner" suggestion would show up more than once
+- [Bug] Fix winching / moving section would result in incorrect plant offset in large planters
+
+
 <b>v0.7.4</b> (2023.01.31)
 - [Tech] Show a warning popup if Steam fails to connect
 - [Bug] Fix new area detection system would not consistently update light boundary data
