@@ -1,3 +1,15 @@
+<b>v0.7.4</b> (2023.01.31)
+- [Tech] Show a warning popup if Steam fails to connect
+- [Bug] Fix new area detection system would not consistently update light boundary data
+
+
+<b>v0.7.3</b> (2023.01.30)
+- [UI/UX] Overhaul custom light controls to use Hue, Saturation and Luminosity instead of RGB
+- [UI/UX] Show light color preview in custom light controls
+- [Bug] Fix Crawlers detached from humans would get excluded from combat
+- [Bug] Fix Stasis Pod relocation blueprint would trigger story events
+
+
 <b>v0.7.2</b> (2023.01.30)
 - [Performance] Rewrite room / section detection algorithm to run 500-1000x faster
 - [Tech] Fix slow memory leak happening when switching between main menu and the game scene
