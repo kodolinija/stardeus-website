@@ -1,3 +1,10 @@
+<b>v0.7.6</b> (2023.02.01)
+- [Balance] Reduce the chance of stasis pods and capsule drops smashing into objects from 20% to 5% (multiplied by difficulty)
+- [Performance] Optimize unreachable area detection algorithm
+- [Graphics] Make Dust Storm particles more subtle, don't show them in enclosed areas
+- [UI/UX] Reduce the fade in time for menu panels from 1 sec to 150ms
+
+
 <b>v0.7.5</b> (2023.01.31)
 - [Balance] Building a Switch will no longer require Plastic
 - [Bug] Fix turrets would not move their nozzle position when winch / section push happens
