@@ -1,3 +1,9 @@
+<b>v0.7.7</b> (2023.02.02)
+- [Balance] Auto-rebuild will not create build tasks in the no-build zone
+- [Bug] Fix new unreachable area detection algorithm would mark some reachable areas as unreachable
+- [Bug] Fix derelict ship generation would remove floors in unreachable areas of the main ship
+
+
 <b>v0.7.6</b> (2023.02.01)
 - [Balance] Reduce the chance of stasis pods and capsule drops smashing into objects from 20% to 5% (multiplied by difficulty)
 - [Performance] Optimize unreachable area detection algorithm
