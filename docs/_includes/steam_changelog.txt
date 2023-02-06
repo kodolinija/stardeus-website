@@ -1,3 +1,12 @@
+<b>v0.7.8</b> (2023.02.06)
+- [Balance] Limit the number of crawlers that can spawn from a human to 20
+- [Balance] Human colonists will not ask robots for a lift into a combat zone
+- [UI/UX] Display a sticky event notification when combat is in progress
+- [UI/UX] Group active siren notifications
+- [Bug] Fix turret nozzle not updating after local motion (proper)
+- [Bug] Fix beings with urgent needs would have a higher combat priority to search for enemy rather than enter "high alert" state
+
+
 <b>v0.7.7</b> (2023.02.02)
 - [Balance] Auto-rebuild will not create build tasks in the no-build zone
 - [Bug] Fix new unreachable area detection algorithm would mark some reachable areas as unreachable
