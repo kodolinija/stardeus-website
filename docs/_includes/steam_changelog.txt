@@ -1,3 +1,12 @@
+<b>v0.7.9</b> (2023.02.12)
+- [Performance] Full rewrite of the pathfinding system (up to 1000x speedup)
+- [Feature] Add "Bots consume CPU" modifier and current game setting
+- [Balance] Double the emergency recharge rate speed
+- [Bug] Fix abandoning a derelict ship with enemies would not end the combat
+- [Bug] Fix crawlers could spawn on your ship from a colonist who was on an expedition
+- [Bug] Fix a ton of bugs and edge cases related to pathfinding and AI behaviors
+
+
 <b>v0.7.8</b> (2023.02.06)
 - [Balance] Limit the number of crawlers that can spawn from a human to 20
 - [Balance] Human colonists will not ask robots for a lift into a combat zone
