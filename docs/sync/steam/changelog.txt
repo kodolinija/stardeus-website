@@ -1,3 +1,13 @@
+<b>v0.7.10</b> (2023.02.14)
+- [Balance] Incoming Stasis Pods and Storage Capsules will only land on areas exposed to open space
+- [Balance] Incoming Breach Capsules will come from any direction and will pick their target differently
+- [Balance] Workers in ML Booth will ignore combat and fires
+- [UI/UX] Add a warning if there is the landing zone (area exposed to the outside) is too small
+- [Bug] Fix disabling a teleporter would allow beings to go through if their path was calculated while teleporter was still active
+- [Bug] Fix an airlock could get generated on an outer wall behind an engine
+- [Bug] Repairing a damaged electrical device will auto-connect it to the grid if Auto Connect Upgrade is installed
+
+
 <b>v0.7.9</b> (2023.02.12)
 - [Performance] Full rewrite of the pathfinding system (up to 1000x speedup)
 - [Feature] Add "Bots consume CPU" modifier and current game setting
