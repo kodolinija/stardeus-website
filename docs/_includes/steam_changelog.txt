@@ -1,8 +1,20 @@
+<b>v0.7.12</b> (2023.02.16)
+- [Balance] Allow building anything in the corner squares where the derelict spawns
+- [Balance] Allow local maneuvering into the corner squares where the derelict spawns
+- [Balance] Increase Winch Hook range from 50 to 100
+- [UI/UX] Change the loading spinner icon
+- [UI/UX] Precision thrusters will only allow targeting moves that can actually be performed near the edge of the map
+- [Bug] Fix approached derelict ship count would not get saved, leading to inconsistency with a related quest
+- [Bug] Fix Linux scroll direction flipped after upgrading Unity
+- [Bug] Fix double doors would cause false positives for unreachable area detection algorithm
+- [Bug] Fix door on a 90 degree angle corridor corner would be marked as blocked
+
+
 <b>v0.7.11</b> (2023.02.15)
 - [Tech] Update Unity to 2021.3.18f1
 - [Balance] Pets won't come out of Stasis Pods (since they now only land outside)
 - [AI] Improve human behavior when Emergency Siren is active
-- [UI/UX] Rooms and Sections overlays will show room colors
+- [UI/UX] Rooms and Sections overlays will show room / section colors
 - [UI/UX] Rooms overlay will show tooltips with contents of each room
 - [Bug] Fix moving a ship section with teleporters would make beings teleport in an incorrect state
 
