@@ -1,3 +1,7 @@
+<b>v0.7.14</b> (2023.02.21)
+- [Graphics] Revert floor lights would be blocked by devices and furniture above them (walls will still block)
+
+
 <b>v0.7.13</b> (2023.02.20)
 - [Feature] Replace darker inner wall with thin version
 - [Feature] Add thin versions of vent, door, wall socket and window
