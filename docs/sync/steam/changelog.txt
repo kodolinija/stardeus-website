@@ -1,3 +1,10 @@
+<b>v0.7.13</b> (2023.02.20)
+- [Feature] Replace darker inner wall with thin version
+- [Feature] Add thin versions of vent, door, wall socket and window
+- [Graphics] Make lights look better in between walls
+- [UI/UX] Change circle mode (Shift+click+drag) to alternate between odd and even circle while dragging the circle in tools that support it (thanks to JDPlays)
+
+
 <b>v0.7.12</b> (2023.02.16)
 - [Balance] Allow building anything in the corner squares where the derelict spawns
 - [Balance] Allow local maneuvering into the corner squares where the derelict spawns
