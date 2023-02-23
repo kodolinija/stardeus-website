@@ -1,3 +1,11 @@
+<b>v0.7.15</b> (2023.02.22)
+- [Balance] Some materials will be consumed upon construction (i.e. Petroleum)
+- [Bug] Fix an edge case where an area would be falsely considered as unreachable
+- [Bug] Fix friendly beings would fail to spawn from the Stasis Pod since v0.7.11
+- [Bug] Fix potential situations when AI action would not go through cleanup, leaving stray particle effects, etc
+- [Bug] Fix removing a mod that introduced a new material would break the electricity grid if the material was configured to be used as fuel for a matter reactor
+
+
 <b>v0.7.14</b> (2023.02.21)
 - [Graphics] Revert floor lights would be blocked by devices and furniture above them (walls will still block)
 
