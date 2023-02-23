@@ -1,3 +1,8 @@
+<b>v0.7.16</b> (2023.02.23)
+- [Feature] Add new plants: Poppy and Cornflower
+- [Feature] Add new materials: Poppy Heads, Poppy Petals and Cornflower Petals
+
+
 <b>v0.7.15</b> (2023.02.22)
 - [Balance] Some materials will be consumed upon construction (i.e. Petroleum)
 - [Bug] Fix an edge case where an area would be falsely considered as unreachable
