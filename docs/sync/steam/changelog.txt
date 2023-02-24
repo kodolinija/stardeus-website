@@ -1,3 +1,15 @@
+<b>v0.7.17</b> (2023.02.24)
+- [Feature] Add move mode to the Plan tool. While in Plan tool, Ctrl + Alt + Shift then click + drag will move the plan.
+- [Feature] Pets will now be able to sleep in Armchairs
+- [Balance] Precision Thrusters will not act as regular ship engines
+- [UI/UX] Deconstruct tool will order deconstruction of both floors and walls if an area is dragged
+- [UI/UX] Display guidelines in more tools (Plan, Deconstruct)
+- [UI/UX] Replace popups with tooltips in the Stock Market UI
+- [UI/UX] Add additional info tooltips to the Stock Market UI
+- [UI/UX] Always show Buy / Sell buttons in Stock Market Item UI
+- [Bug] Fix weird human and pet sleep positions on the Sofa
+
+
 <b>v0.7.16</b> (2023.02.23)
 - [Feature] Add new plants: Poppy and Cornflower
 - [Feature] Add new materials: Poppy Heads, Poppy Petals and Cornflower Petals
