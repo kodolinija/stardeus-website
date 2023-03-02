@@ -1,3 +1,100 @@
+<b>v0.7.18</b> (2023.03.02)
+- [Graphics] Complete rewrite of the light rendering system
+- [Graphics] Reduce default light range for floor lights and light blocks (produces nicer light mix)
+- [Balance] Lights and vents will cost 0.25kW (was 0.1kW)
+- [UI/UX] Add range controls for all configurable light sources (tied to energy usage)
+- [UI/UX] Add lights system performance / quality controls to Video settings panel
+- [Performance] Lights system will have less performance overhead penalty with smaller amount of light sources
+- [Performance] Lights system will have better performance with higher-end GPUs at extreme numbers of light sources
+- [Bug] Fix texts disappearing after incorrectly saved settings file with ui / font scale set to 0
+- [Bug] Fix stasis pods could fail to lift off while ship was flying
+
+
+<b>v0.7.17</b> (2023.02.24)
+- [Feature] Add move mode to the Plan tool. While in Plan tool, Ctrl + Alt + Shift then click + drag will move the plan.
+- [Feature] Pets will now be able to sleep in Armchairs
+- [Balance] Precision Thrusters will not act as regular ship engines
+- [UI/UX] Deconstruct tool will order deconstruction of both floors and walls if an area is dragged
+- [UI/UX] Display guidelines in more tools (Plan, Deconstruct)
+- [UI/UX] Replace popups with tooltips in the Stock Market UI
+- [UI/UX] Add additional info tooltips to the Stock Market UI
+- [UI/UX] Always show Buy / Sell buttons in Stock Market Item UI
+- [Bug] Fix weird human and pet sleep positions on the Sofa
+
+
+<b>v0.7.16</b> (2023.02.23)
+- [Feature] Add new plants: Poppy and Cornflower
+- [Feature] Add new materials: Poppy Heads, Poppy Petals and Cornflower Petals
+
+
+<b>v0.7.15</b> (2023.02.22)
+- [Balance] Some materials will be consumed upon construction (i.e. Petroleum)
+- [Bug] Fix an edge case where an area would be falsely considered as unreachable
+- [Bug] Fix friendly beings would fail to spawn from the Stasis Pod since v0.7.11
+- [Bug] Fix potential situations when AI action would not go through cleanup, leaving stray particle effects, etc
+- [Bug] Fix removing a mod that introduced a new material would break the electricity grid if the material was configured to be used as fuel for a matter reactor
+
+
+<b>v0.7.14</b> (2023.02.21)
+- [Graphics] Revert floor lights would be blocked by devices and furniture above them (walls will still block)
+
+
+<b>v0.7.13</b> (2023.02.20)
+- [Feature] Replace darker inner wall with thin version
+- [Feature] Add thin versions of vent, door, wall socket and window
+- [Graphics] Make lights look better in between walls
+- [UI/UX] Change circle mode (Shift+click+drag) to alternate between odd and even circle while dragging the circle in tools that support it (thanks to JDPlays)
+
+
+<b>v0.7.12</b> (2023.02.16)
+- [Balance] Allow building anything in the corner squares where the derelict spawns
+- [Balance] Allow local maneuvering into the corner squares where the derelict spawns
+- [Balance] Increase Winch Hook range from 50 to 100
+- [UI/UX] Change the loading spinner icon
+- [UI/UX] Precision thrusters will only allow targeting moves that can actually be performed near the edge of the map
+- [Bug] Fix approached derelict ship count would not get saved, leading to inconsistency with a related quest
+- [Bug] Fix Linux scroll direction flipped after upgrading Unity
+- [Bug] Fix double doors would cause false positives for unreachable area detection algorithm
+- [Bug] Fix door on a 90 degree angle corridor corner would be marked as blocked
+
+
+<b>v0.7.11</b> (2023.02.15)
+- [Tech] Update Unity to 2021.3.18f1
+- [Balance] Pets won't come out of Stasis Pods (since they now only land outside)
+- [AI] Improve human behavior when Emergency Siren is active
+- [UI/UX] Rooms and Sections overlays will show room / section colors
+- [UI/UX] Rooms overlay will show tooltips with contents of each room
+- [Bug] Fix moving a ship section with teleporters would make beings teleport in an incorrect state
+
+
+<b>v0.7.10</b> (2023.02.14)
+- [Balance] Incoming Stasis Pods and Storage Capsules will only land on areas exposed to open space
+- [Balance] Incoming Breach Capsules will come from any direction and will pick their target differently
+- [Balance] Workers in ML Booth will ignore combat and fires
+- [UI/UX] Add a warning if there is the landing zone (area exposed to the outside) is too small
+- [Bug] Fix disabling a teleporter would allow beings to go through if their path was calculated while teleporter was still active
+- [Bug] Fix an airlock could get generated on an outer wall behind an engine
+- [Bug] Repairing a damaged electrical device will auto-connect it to the grid if Auto Connect Upgrade is installed
+
+
+<b>v0.7.9</b> (2023.02.12)
+- [Performance] Full rewrite of the pathfinding system (up to 1000x speedup)
+- [Feature] Add "Bots consume CPU" modifier and current game setting
+- [Balance] Double the emergency recharge rate speed
+- [Bug] Fix abandoning a derelict ship with enemies would not end the combat
+- [Bug] Fix crawlers could spawn on your ship from a colonist who was on an expedition
+- [Bug] Fix a ton of bugs and edge cases related to pathfinding and AI behaviors
+
+
+<b>v0.7.8</b> (2023.02.06)
+- [Balance] Limit the number of crawlers that can spawn from a human to 20
+- [Balance] Human colonists will not ask robots for a lift into a combat zone
+- [UI/UX] Display a sticky event notification when combat is in progress
+- [UI/UX] Group active siren notifications
+- [Bug] Fix turret nozzle not updating after local motion (proper)
+- [Bug] Fix beings with urgent needs would have a higher combat priority to search for enemy rather than enter "high alert" state
+
+
 <b>v0.7.7</b> (2023.02.02)
 - [Balance] Auto-rebuild will not create build tasks in the no-build zone
 - [Bug] Fix new unreachable area detection algorithm would mark some reachable areas as unreachable

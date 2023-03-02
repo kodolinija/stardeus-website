@@ -1,3 +1,15 @@
+<b>v0.7.18</b> (2023.03.02)
+- [Graphics] Complete rewrite of the light rendering system
+- [Graphics] Reduce default light range for floor lights and light blocks (produces nicer light mix)
+- [Balance] Lights and vents will cost 0.25kW (was 0.1kW)
+- [UI/UX] Add range controls for all configurable light sources (tied to energy usage)
+- [UI/UX] Add lights system performance / quality controls to Video settings panel
+- [Performance] Lights system will have less performance overhead penalty with smaller amount of light sources
+- [Performance] Lights system will have better performance with higher-end GPUs at extreme numbers of light sources
+- [Bug] Fix texts disappearing after incorrectly saved settings file with ui / font scale set to 0
+- [Bug] Fix stasis pods could fail to lift off while ship was flying
+
+
 <b>v0.7.17</b> (2023.02.24)
 - [Feature] Add move mode to the Plan tool. While in Plan tool, Ctrl + Alt + Shift then click + drag will move the plan.
 - [Feature] Pets will now be able to sleep in Armchairs
