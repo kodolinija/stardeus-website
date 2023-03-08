@@ -1,3 +1,20 @@
+<b>v0.7.19</b> (2023.03.07)
+- [Feature] Ship will have to rotate towards the target in space before flying
+- [Feature] Add "Ignore Combat" toggle in Managed Worker settings
+- [Balance] Adjust Starmap distances, scales and travel speeds across different layers of space
+- [UI/UX] Display player's ship rotation marker in the Starmap
+- [Graphics] Add an optimized version of the realtime nebula (new default)
+- [Graphics] Add FTL drive visual effect when flying in Universe layer
+- [Graphics] Add Pixel Art and Low Budget Pixel Art modes to Texture Quality
+- [Tech] Make Nebula graphics moddable
+- [Tech] Update Unity to 2021.3.20f1 LTS
+- [Tech] Add a console command to manage story events mid-game. "story <list|find|disable|enable|trigger>"
+- [Bug] Fix Crawler faction could own planets
+- [Bug] Fix engine flame could wrap around the map and burn the ship from the other side if placed too close to the edge
+- [Bug] Fix combat AI could sometimes get stuck in Find Enemy state
+- [Bug] Add a workaround for new Unity bug that makes the game crash when a custom .gif texture is loaded. (Gifs will be skipped in emblems / mod graphics)
+
+
 <b>v0.7.18</b> (2023.03.02)
 - [Graphics] Complete rewrite of the light rendering system
 - [Graphics] Reduce default light range for floor lights and light blocks (produces nicer light mix)
@@ -2337,7 +2354,7 @@
 
 <b>v0.5.265</b> (2022.04.23)
 - [Balance] Generate more inhabitants in Stasis Array
-- [Feature] Add Modifiers system for starting new game with a set of challenges (modable)
+- [Feature] Add Modifiers system for starting new game with a set of challenges (moddable)
 - [Feature] Add "No Pause" modifier
 - [Feature] Add "Resource Multiplier" modifier
 - [UI/UX] Move "Map Size" and "Ship Size" into modifiers
@@ -2941,7 +2958,7 @@
 <b>v0.5.204</b> (2022.01.26)
 - [Feature] ML Booth will also recharge the trainee
 - [UI/UX] Add more detail to UI
-- [UI/UX] Make most of UI modable (WIP)
+- [UI/UX] Make most of UI moddable (WIP)
 - [Bug] Fix ML Booth not hailing trainee correctly
 - [Bug] Fix debris not moving in the right direction when ship is flying
 - [Bug] Fix clicking on an unbuilt blueprint with build tool selected was not cancelling the build task (broken recently)
@@ -3317,7 +3334,7 @@
 <b>v0.5.159</b> (2021.11.20)
 - [Balance] Generate extra devices and objects in Wrecked (Main) scenario
 - [Balance] Generate more Copper Plates in Wrecked scenario
-- [Balance] Add 3 initial difficulty levels (modable)
+- [Balance] Add 3 initial difficulty levels (moddable)
 - [UI/UX] Close stock market view / expedition view with RMB
 - [UI/UX] Don't show "unconfigured" event notification for the pet bowl
 - [Bug] Fix relocation tool not exiting build mode after relocation order (dupe exploit)
@@ -3807,7 +3824,7 @@
 - [Bug] Fix cancelling relocation with deconstruct tool would leave the relocatable item in a broken state
 - [Bug] Fix material names missing in occasional UI elements
 - [UI/UX] Add "Contribute a Translation" button to the Language settings menu
-- [UI/UX] Make bottom menu tool order modable
+- [UI/UX] Make bottom menu tool order moddable
 
 
 <b>v0.5.109</b> (2021.08.29)
