@@ -1,3 +1,16 @@
+<b>v0.7.20</b> (2023.03.10)
+- [Feature] Add Explosion Bias modifier
+- [Balance] Make Reactors less prone to explosions when they malfunction
+- [UI/UX] Allow tweaking most modifiers in game (Settings > Current Game Settings)
+- [UI/UX] Scroll pagination of list UIs will now work in Research Tree and Starmap
+- [UI/UX] Copying light source component configuration will also copy the light range
+- [Tech] Disabling story events through console command "story disable <event_id>" will not block achievements
+- [Graphics] Fix camera motion not being smooth on Steam Deck since lights rework
+- [Bug] Fix disabling story events through new game modifiers would not disable them
+- [Bug] Fix potential electricity grid crash
+- [Bug] Fix several auto-reported internal edge case errors
+
+
 <b>v0.7.19</b> (2023.03.07)
 - [Feature] Ship will have to rotate towards the target in space before flying
 - [Feature] Add "Ignore Combat" toggle in Managed Worker settings
