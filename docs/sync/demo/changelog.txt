@@ -1,3 +1,17 @@
+<b>v0.7.22</b> (2023.03.11)
+- [UI/UX] Display a warning icon on lost shuttles
+- [Bug] Fix roaming beings would often end up standing in doorways
+- [Bug] Fix pathfinding could return a path with missing last step if the goal was near a corner wall
+- [Bug] Fix region system would consider doorways as legitimate random adjacent positions
+- [Bug] Fix some story events wouldn't save themselves correctly
+- [Bug] Fix lost shuttle would now allow desconstruction
+- [Bug] Fix lost shuttle would reappear as visible after save / load
+
+
+<b>v0.7.21</b> (2023.03.10)
+- [Bug] Fix ship stopping distance would get calculated incorrectly, sometimes resulting in overshooting
+
+
 <b>v0.7.20</b> (2023.03.10)
 - [Feature] Add Explosion Bias modifier
 - [Balance] Make Reactors less prone to explosions when they malfunction
