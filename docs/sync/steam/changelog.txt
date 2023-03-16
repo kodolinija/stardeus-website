@@ -1,3 +1,11 @@
+<b>v0.7.23</b> (2023.03.15)
+- [Balance] Do extra checks to avoid incoming stasis pods from crashing into anything if possible
+- [UI/UX] Allow changing refillable storage target levels by increments of 1 (hold ctrl or shift for 10)
+- [UI/UX] Change the obsolete "Show hints after load" game settings into "Show hints" that will allow disabling all hints
+- [Tech] Improve autocomplete behavior for some console commands
+- [Tech] Make O2 and heat loss in space tunable in Config/Tunable/Atmosphere.json
+
+
 <b>v0.7.22</b> (2023.03.11)
 - [UI/UX] Display a warning icon on lost shuttles
 - [Bug] Fix roaming beings would often end up standing in doorways
