@@ -1,3 +1,14 @@
+<b>v0.7.24</b> (2023.03.20)
+- [AI] Beings will not stay still in one place while evaluating tasks they cannot execute
+- [Performance] Improve atmosphere simulation performance by ~30%
+- [Tech] Update Unity to 2021.3.21f
+- [Bug] Fix beings would take significantly different amount of time to move the same distance at different clock speeds, leading to other bugs and serious side effects (i.e. death from hunger or cold)
+- [Bug] Fix operating a device with a workspot near a wall could place the worker inside a wall after task was done
+- [Bug] Fix processing a large pile of resource would only create one task per pile
+- [Bug] Fix crawlers would be able to remain non-hostile if bought or cloned
+- [Bug] Fix beings could occasionally wait for doors that they already passed through
+
+
 <b>v0.7.23</b> (2023.03.15)
 - [Balance] Do extra checks to avoid incoming stasis pods from crashing into anything if possible
 - [UI/UX] Allow changing refillable storage target levels by increments of 1 (hold ctrl or shift for 10)
