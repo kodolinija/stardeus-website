@@ -1,3 +1,9 @@
+<b>v0.7.25</b> (2023.03.22)
+- [AI] Adjust task age related priority to prevent some older tasks from getting neglected
+- [Bug] Fix workers would haul only one item at a time since the last update
+- [Tech] Adjust electricity grid async rebuild to run faster
+
+
 <b>v0.7.24</b> (2023.03.20)
 - [AI] Beings will not stay still in one place while evaluating tasks they cannot execute
 - [Performance] Improve atmosphere simulation performance by ~30%
