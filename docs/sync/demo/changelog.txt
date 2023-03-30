@@ -1,3 +1,48 @@
+<b>v0.7.27</b> (2023.03.30)
+- [Balance] Adjust tension limits
+- [Bug] Fix fighters could start gathering in doorways during combat
+- [Bug] Fix latest save version could get detected incorrectly, leading to some save migrations getting applied without necessity
+
+
+<b>v0.7.26</b> (2023.03.29)
+- [Balance] Generate ships with closed doors
+- [Balance] Allow relocating biological beings on demand
+- [UI/UX] Pressing CTRL will hide the build and hover info tooltip
+- [UI/UX] Add an overlay button for Quick Search
+- [UI/UX] Improve Quick Search to work properly in Research and Starmap
+- [UI/UX] Show less buttons in player feedback form on Steam Deck
+- [Bug] Fix storage haul priority would get ignored by workers
+- [Bug] Fix rooms overlay would not show up if there were over 128 rooms on the ship
+- [Bug] Fix tension could grow to extreme numbers, preventing the story generator from dealing bad events ever again
+- [Bug] Fix Merchant ships would display a cryptic name in the Starmap
+- [Bug] Fix Electricity Grid rebuild could get stuck if some energy nodes were destroyed at the wrong moment
+
+
+<b>v0.7.25</b> (2023.03.22)
+- [AI] Adjust task age related priority to prevent some older tasks from getting neglected
+- [Bug] Fix workers would haul only one item at a time since the last update
+- [Tech] Adjust electricity grid async rebuild to run faster
+
+
+<b>v0.7.24</b> (2023.03.20)
+- [AI] Beings will not stay still in one place while evaluating tasks they cannot execute
+- [Performance] Improve atmosphere simulation performance by ~30%
+- [Tech] Update Unity to 2021.3.21f
+- [Bug] Fix beings would take significantly different amount of time to move the same distance at different clock speeds, leading to other bugs and serious side effects (i.e. death from hunger or cold)
+- [Bug] Fix operating a device with a workspot near a wall could place the worker inside a wall after task was done
+- [Bug] Fix processing a large pile of resource would only create one task per pile
+- [Bug] Fix crawlers would be able to remain non-hostile if bought or cloned
+- [Bug] Fix beings could occasionally wait for doors that they already passed through
+
+
+<b>v0.7.23</b> (2023.03.15)
+- [Balance] Do extra checks to avoid incoming stasis pods from crashing into anything if possible
+- [UI/UX] Allow changing refillable storage target levels by increments of 1 (hold ctrl or shift for 10)
+- [UI/UX] Change the obsolete "Show hints after load" game settings into "Show hints" that will allow disabling all hints
+- [Tech] Improve autocomplete behavior for some console commands
+- [Tech] Make O2 and heat loss in space tunable in Config/Tunable/Atmosphere.json
+
+
 <b>v0.7.22</b> (2023.03.11)
 - [UI/UX] Display a warning icon on lost shuttles
 - [Bug] Fix roaming beings would often end up standing in doorways

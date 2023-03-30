@@ -1,3 +1,9 @@
+<b>v0.7.27</b> (2023.03.30)
+- [Balance] Adjust tension limits
+- [Bug] Fix fighters could start gathering in doorways during combat
+- [Bug] Fix latest save version could get detected incorrectly, leading to some save migrations getting applied without necessity
+
+
 <b>v0.7.26</b> (2023.03.29)
 - [Balance] Generate ships with closed doors
 - [Balance] Allow relocating biological beings on demand
