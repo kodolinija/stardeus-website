@@ -1,3 +1,9 @@
+<b>v0.7.29</b> (2023.04.03)
+- [UI/UX] Add Defenses category to Codex to cover Tractor Beams and Quantum Barriers
+- [UI/UX] Add "How It Works" buttons to Tractor Beam, Tractor Beam Target and Quantum Barrier UI
+- [Bug] Fix beings who had an uninterruptable task would not drop that task on death, preventing them from being carried
+
+
 <b>v0.7.28</b> (2023.03.31)
 - [Bug] Fix "Relocate" action missing for turned off workers and dead beings
 - [Bug] Fix Starmap scopes broken since last update
