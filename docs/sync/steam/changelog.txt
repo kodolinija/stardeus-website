@@ -1,3 +1,10 @@
+<b>v0.7.30</b> (2023.04.05)
+- [Tech] Upgrade Unity to 2021.3.22f1
+- [Graphics] Tune planet looks generation to look better for certain planet types
+- [Bug] Fix beings with a mental breakdown would not allow themselves getting carried even if they were stuck in open space
+- [Bug] Fix Ship Computer could get destroyed when creating a new Wrecked scenario with certain seeds
+
+
 <b>v0.7.29</b> (2023.04.03)
 - [UI/UX] Add Defenses category to Codex to cover Tractor Beams and Quantum Barriers
 - [UI/UX] Add "How It Works" buttons to Tractor Beam, Tractor Beam Target and Quantum Barrier UI
