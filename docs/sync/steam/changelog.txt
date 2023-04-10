@@ -1,3 +1,7 @@
+<b>v0.7.32</b> (2023.04.10)
+- [Balance] Ensure that "Crawler pickup" events won't repeat too often
+
+
 <b>v0.7.31</b> (2023.04.10)
 - [Balance] Make "Crawler pickup" event more common
 - [Balance] Increase Shuttle automatic return distance
