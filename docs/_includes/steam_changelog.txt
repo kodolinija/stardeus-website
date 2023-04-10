@@ -1,3 +1,13 @@
+<b>v0.7.31</b> (2023.04.10)
+- [Balance] Make "Crawler pickup" event more common
+- [Balance] Increase Shuttle automatic return distance
+- [Graphics] Add "Rebuild Graphics Cache" button to Settings > Video
+- [UI/UX] Improve expedition list UI
+- [UI/UX] Show your standing with the faction when hovering faction tooltip on owned space objects
+- [Bug] Fix loose objects floating in wrong direction when ship is moving
+- [Bug] Fix tile graphics would not get removed if the tile was destroyed while renderer was not fully initialized (i.e. right after load)
+
+
 <b>v0.7.30</b> (2023.04.05)
 - [Tech] Upgrade Unity to 2021.3.22f1
 - [Graphics] Tune planet looks generation to look better for certain planet types
