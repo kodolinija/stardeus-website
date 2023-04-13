@@ -1,3 +1,9 @@
+<b>v0.7.34</b> (2023.04.13)
+- [Tech] Add extra diagnostics to debug possible causes of several rare internal errors
+- [Bug] Fix multi-selected items that were destroyed while multi-action UI was open could produce unexpected effects if player clicked the multi-action execute button
+- [Bug] Fix several automatically reported internal edge-case exceptions
+
+
 <b>v0.7.33</b> (2023.04.12)
 - [UI/UX] Remove "Load Game" button from pause panel. Exiting to main menu is required to correctly clear the game state.
 - [Tech] Resolve memory leaks that happened when loading game save files over and over
