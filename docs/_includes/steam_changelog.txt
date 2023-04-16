@@ -1,3 +1,11 @@
+<b>v0.7.35</b> (2023.04.16)
+- [Tech] Upgrade Unity to 2021.3.23f1
+- [Tech] Automatically switch VSync from OFF to recommended setting unless VSync OFF was confirmed in Video settings
+- [UI/UX] Add warnings about negative impact of VSync OFF to simulation speed
+- [Bug] Fix Expedition would remain locked in "Waiting For Base" phase if shuttle space object was not found
+- [Bug] Fix several internal cases where same action would be executed twice on button click
+
+
 <b>v0.7.34</b> (2023.04.13)
 - [Tech] Add extra diagnostics to debug possible causes of several rare internal errors
 - [Bug] Fix multi-selected items that were destroyed while multi-action UI was open could produce unexpected effects if player clicked the multi-action execute button
