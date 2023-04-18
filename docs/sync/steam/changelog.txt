@@ -1,3 +1,9 @@
+<b>v0.7.36</b> (2023.04.18)
+- [Bug] Fix Asteroids and Meteors could sometimes hit the ship through the Quantum Barriers
+- [Bug] Fix changing clock speeds or loading the game could make Asteroids and Meteors reaching insane velocities
+- [Bug] Fix Derelict Ship generation could get stuck if a piece of debris would get pushed out of map bounds
+
+
 <b>v0.7.35</b> (2023.04.16)
 - [Tech] Upgrade Unity to 2021.3.23f1
 - [Tech] Automatically switch VSync from OFF to recommended setting unless VSync OFF was confirmed in Video settings
