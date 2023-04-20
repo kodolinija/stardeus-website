@@ -1,3 +1,13 @@
+<b>v0.7.37</b> (2023.04.20)
+- [Feature] Jumping through a Black Hole will escape pending Meteors, Asteroids and Raids
+- [Balance] Allow changing Starmap scope even when there are pending space events like Meteors, Asteroids or Raids
+- [AI] Tweak "High Alert" combat state logic to join the combat if the worker has no tasks to perform
+- [UI/UX] Quick Search will now work properly on Steam Deck and Big Picture Mode with a gamepad
+- [UI/UX] Add better explanations of why tasks can't be performed when holding CTRL while hovering a task with worker selected
+- [UI/UX] Remove "Crew member failed to reach the shuttle" warning - expedition will launch if at least 1 member has reached the shuttle
+- [Bug] Fix Common Action UI buttons would not release their cache in between games, causing internal errors
+
+
 <b>v0.7.36</b> (2023.04.18)
 - [Bug] Fix Asteroids and Meteors could sometimes hit the ship through the Quantum Barriers
 - [Bug] Fix changing clock speeds or loading the game could make Asteroids and Meteors reaching insane velocities
