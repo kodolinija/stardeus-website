@@ -1,3 +1,54 @@
+<b>v0.7.37</b> (2023.04.20)
+- [Feature] Jumping through a Black Hole will escape pending Meteors, Asteroids and Raids
+- [Balance] Allow changing Starmap scope even when there are pending space events like Meteors, Asteroids or Raids
+- [AI] Tweak "High Alert" combat state logic to join the combat if the worker has no tasks to perform
+- [UI/UX] Quick Search will now work properly on Steam Deck and Big Picture Mode with a gamepad
+- [UI/UX] Add better explanations of why tasks can't be performed when holding CTRL while hovering a task with worker selected
+- [UI/UX] Remove "Crew member failed to reach the shuttle" warning - expedition will launch if at least 1 member has reached the shuttle
+- [Bug] Fix Common Action UI buttons would not release their cache in between games, causing internal errors
+
+
+<b>v0.7.36</b> (2023.04.18)
+- [Bug] Fix Asteroids and Meteors could sometimes hit the ship through the Quantum Barriers
+- [Bug] Fix changing clock speeds or loading the game could make Asteroids and Meteors reaching insane velocities
+- [Bug] Fix Derelict Ship generation could get stuck if a piece of debris would get pushed out of map bounds
+
+
+<b>v0.7.35</b> (2023.04.16)
+- [Tech] Upgrade Unity to 2021.3.23f1
+- [Tech] Automatically switch VSync from OFF to recommended setting unless VSync OFF was confirmed in Video settings
+- [UI/UX] Add warnings about negative impact of VSync OFF to simulation speed
+- [Bug] Fix Expedition would remain locked in "Waiting For Base" phase if shuttle space object was not found
+- [Bug] Fix several internal cases where same action would be executed twice on button click
+
+
+<b>v0.7.34</b> (2023.04.13)
+- [Tech] Add extra diagnostics to debug possible causes of several rare internal errors
+- [Bug] Fix multi-selected items that were destroyed while multi-action UI was open could produce unexpected effects if player clicked the multi-action execute button
+- [Bug] Fix several automatically reported internal edge-case exceptions
+
+
+<b>v0.7.33</b> (2023.04.12)
+- [UI/UX] Remove "Load Game" button from pause panel. Exiting to main menu is required to correctly clear the game state.
+- [Tech] Resolve memory leaks that happened when loading game save files over and over
+- [Bug] Fix loading a save could fail if an AI task was cancelled during the load
+- [Bug] Fix expedition phase "waiting for base" could crash the expeditions system if the shuttle was lost
+
+
+<b>v0.7.32</b> (2023.04.10)
+- [Balance] Ensure that "Crawler pickup" events won't repeat too often
+
+
+<b>v0.7.31</b> (2023.04.10)
+- [Balance] Make "Crawler pickup" event more common
+- [Balance] Increase Shuttle automatic return distance
+- [Graphics] Add "Rebuild Graphics Cache" button to Settings > Video
+- [UI/UX] Improve expedition list UI
+- [UI/UX] Show your standing with the faction when hovering faction tooltip on owned space objects
+- [Bug] Fix loose objects floating in wrong direction when ship is moving
+- [Bug] Fix tile graphics would not get removed if the tile was destroyed while renderer was not fully initialized (i.e. right after load)
+
+
 <b>v0.7.30</b> (2023.04.05)
 - [Tech] Upgrade Unity to 2021.3.22f1
 - [Graphics] Tune planet looks generation to look better for certain planet types
