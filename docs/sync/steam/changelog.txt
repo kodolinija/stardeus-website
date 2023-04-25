@@ -1,3 +1,9 @@
+<b>v0.7.38</b> (2023.04.25)
+- [UI/UX] Electricity will not display deficit notifications for grids that don't have direct connection to a Ship Computer
+- [UI/UX] Electricity statistics and charts will not include data from sub-grids that are not connected to a Ship Computer
+- [Graphics] Fix pulsating light colors would lerp incorrectly, producing a wrong color in between
+
+
 <b>v0.7.37</b> (2023.04.20)
 - [Feature] Jumping through a Black Hole will escape pending Meteors, Asteroids and Raids
 - [Balance] Allow changing Starmap scope even when there are pending space events like Meteors, Asteroids or Raids
