@@ -1,3 +1,9 @@
+<b>v0.7.39</b> (2023.04.26)
+- [Tech] Make save files slightly smaller by not saving the materials of constructed tiles
+- [Bug] Fix light range modifications would not get applied correctly when copying light source configuration
+- [Bug] Fix Tractor Beam particle effects not updating their position when ship sections are moving in local map
+
+
 <b>v0.7.38</b> (2023.04.25)
 - [UI/UX] Electricity will not display deficit notifications for grids that don't have direct connection to a Ship Computer
 - [UI/UX] Electricity statistics and charts will not include data from sub-grids that are not connected to a Ship Computer
