@@ -1,3 +1,8 @@
+<b>v0.7.40</b> (2023.04.27)
+- [Bug] Hotfix breaking down tiles would not spawn materials since the last update
+- [Bug] Hotfix construction could get stuck since due to no missing materials since the last update
+
+
 <b>v0.7.39</b> (2023.04.26)
 - [Tech] Make save files slightly smaller by not saving the materials of constructed tiles
 - [Bug] Fix light range modifications would not get applied correctly when copying light source configuration
