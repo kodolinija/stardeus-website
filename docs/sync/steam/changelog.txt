@@ -1,3 +1,12 @@
+<b>v0.7.43</b> (2023.04.30)
+- [UI/UX] Automatically group some UI elements to make UI more compact (configurable in Video settings)
+- [UI/UX] Some tooltips will expand to show more data when CTRL is pressed
+- [Graphics] Improve teleportation visuals: hide the carried item and move the thought bubble only after teleportation ended
+- [Graphics] Dust Storm visuals will gradually phase out when the storm is over
+- [Bug] Fix "Make Ship Flight Ready" quest would only complete after the player has opened the Ship Controls overlay
+- [Bug] Attempt to fix oxygen / heat occasionally getting lost when doing local maneuvering in a large ship
+
+
 <b>v0.7.42</b> (2023.04.29)
 - [Balance] Starting a new Wrecked scenario will always produce the same initial set of available devices
 - [Balance] Adjust the formula that caps active orders to have a non-linear dependency on memory size
