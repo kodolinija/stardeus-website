@@ -1,3 +1,9 @@
+<b>v0.7.45</b> (2023.05.02)
+- [Graphics] Make being strafe and punch animations smoother
+- [UI/UX] Automatic UI grouping will condense only adjacent elements (to minimize UI element jumping)
+- [Bug] Fix info icons would not update correctly since last build
+
+
 <b>v0.7.44</b> (2023.05.02)
 - [Balance] Increase the operational angle of Directional Turret from 30 to 90 degrees
 - [Balance] Increase initial active orders limit from 64 to 128
@@ -8,7 +14,7 @@
 - [UI/UX] Mass action UI items will show a warning tooltip when the task limit would be exceeded
 - [Graphics] Increase the amount of marked tiles (i.e. turret range) that can be displayed at the same time (2048->8192)
 - [Graphics] Fix selecting multiple items with different range color would show only one range color
-- [Bug] Fix destroying a flying Breach Capsule would not longer spawn any loot
+- [Bug] Fix destroying a flying Breach Capsule would no longer spawn any loot
 
 
 <b>v0.7.43</b> (2023.04.30)

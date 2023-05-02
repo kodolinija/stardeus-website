@@ -1,3 +1,80 @@
+<b>v0.7.45</b> (2023.05.02)
+- [Graphics] Make being strafe and punch animations smoother
+- [UI/UX] Automatic UI grouping will condense only adjacent elements (to minimize UI element jumping)
+- [Bug] Fix info icons would not update correctly since last build
+
+
+<b>v0.7.44</b> (2023.05.02)
+- [Balance] Increase the operational angle of Directional Turret from 30 to 90 degrees
+- [Balance] Increase initial active orders limit from 64 to 128
+- [Balance] Story events that randomly damage electrical devices will not target important devices, and devices with low wear
+- [Balance] Disabling device wear will automatically disable all story events where random accidents happen for electrical devices
+- [Balance] Reduce chance of picking up crawlers during expeditions
+- [UI/UX] Disable automatic UI grouping in certain lists (i.e. processor queue)
+- [UI/UX] Mass action UI items will show a warning tooltip when the task limit would be exceeded
+- [Graphics] Increase the amount of marked tiles (i.e. turret range) that can be displayed at the same time (2048->8192)
+- [Graphics] Fix selecting multiple items with different range color would show only one range color
+- [Bug] Fix destroying a flying Breach Capsule would no longer spawn any loot
+
+
+<b>v0.7.43</b> (2023.04.30)
+- [UI/UX] Automatically group some UI elements to make UI more compact (configurable in Video settings)
+- [UI/UX] Some tooltips will expand to show more data when CTRL is pressed
+- [Graphics] Improve teleportation visuals: hide the carried item and move the thought bubble only after teleportation ended
+- [Graphics] Dust Storm visuals will gradually phase out when the storm is over
+- [Bug] Fix "Make Ship Flight Ready" quest would only complete after the player has opened the Ship Controls overlay
+- [Bug] Attempt to fix oxygen / heat occasionally getting lost when doing local maneuvering in a large ship
+
+
+<b>v0.7.42</b> (2023.04.29)
+- [Balance] Starting a new Wrecked scenario will always produce the same initial set of available devices
+- [Balance] Adjust the formula that caps active orders to have a non-linear dependency on memory size
+- [Balance] Cleaning OCD trait will no longer interrupt sleep, eating or other need based tasks
+- [Balance] Cleaning OCD trait will only target dirt in the same room where the being is at
+- [UI/UX] Fix minor misalignment of some UI event notification text
+- [UI/UX] Fix "No Research" notification would not show up in a newly started game if Research Tree was never opened
+- [UI/UX] Replace a few more popups with tooltips
+- [UI/UX] Fix zero or negative values would not show up in UI progress bars
+- [UI/UX] Ship preview in New Game screen will update immediately when input value changes
+- [UI/UX] Improve Particle Collector UI
+- [UI/UX] Automatically hide "Dust Storm Ended" notification after 4h in game time
+- [Bug] Fix selected being navigation UI element would show false data
+- [Bug] Fix "Approach Derelict" suggestion could be displayed before the "Approach Derelict" quest has been received
+- [Bug] Fix Battery could get destroyed with certain game seeds in Wrecked scenario, resulting in broken tutorial
+- [Bug] Fix ordering processing a dead body would cancel the processing task if the processor queue was full
+- [Bug] Fix room overlay would not show contents of each room in tooltips
+- [Bug] Fix skull icon was not showing up on dead beings
+- [Bug] Fix skull icon would not get restored after a dead body was moved
+
+
+<b>v0.7.41</b> (2023.04.28)
+- [Tech] Upgrade Unity to 2021.3.24f1
+- [Tech] Add tighter validation for material correctness in mods
+- [Balance] Common actions will adhere to the task limit restrictions
+- [UI/UX] Enclosed Areas overlay will disable the color overlay over the areas hovered in the UI list
+- [UI/UX] After booting the game, show a popup with a list of broken mods if there are any
+- [UI/UX] Hovering an object with Haul tool will show "No Storage Unit" tooltip if the object can't be stored
+- [Bug] Fix cancelling upgrade installation would not clear the upgrade deficit notifications
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.7.40</b> (2023.04.27)
+- [Bug] Hotfix breaking down tiles would not spawn materials since the last update
+- [Bug] Hotfix construction could get stuck due to no missing materials since the last update
+
+
+<b>v0.7.39</b> (2023.04.26)
+- [Tech] Make save files slightly smaller by not saving the materials of constructed tiles
+- [Bug] Fix light range modifications would not get applied correctly when copying light source configuration
+- [Bug] Fix Tractor Beam particle effects not updating their position when ship sections are moving in local map
+
+
+<b>v0.7.38</b> (2023.04.25)
+- [UI/UX] Electricity will not display deficit notifications for grids that don't have direct connection to a Ship Computer
+- [UI/UX] Electricity statistics and charts will not include data from sub-grids that are not connected to a Ship Computer
+- [Graphics] Fix pulsating light colors would lerp incorrectly, producing a wrong color in between
+
+
 <b>v0.7.37</b> (2023.04.20)
 - [Feature] Jumping through a Black Hole will escape pending Meteors, Asteroids and Raids
 - [Balance] Allow changing Starmap scope even when there are pending space events like Meteors, Asteroids or Raids
