@@ -1,3 +1,16 @@
+<b>v0.7.44</b> (2023.05.02)
+- [Balance] Increase the operational angle of Directional Turret from 30 to 90 degrees
+- [Balance] Increase initial active orders limit from 64 to 128
+- [Balance] Story events that randomly damage electrical devices will not target important devices, and devices with low wear
+- [Balance] Disabling device wear will automatically disable all story events where random accidents happen for electrical devices
+- [Balance] Reduce chance of picking up crawlers during expeditions
+- [UI/UX] Disable automatic UI grouping in certain lists (i.e. processor queue)
+- [UI/UX] Mass action UI items will show a warning tooltip when the task limit would be exceeded
+- [Graphics] Increase the amount of marked tiles (i.e. turret range) that can be displayed at the same time (2048->8192)
+- [Graphics] Fix selecting multiple items with different range color would show only one range color
+- [Bug] Fix destroying a flying Breach Capsule would not longer spawn any loot
+
+
 <b>v0.7.43</b> (2023.04.30)
 - [UI/UX] Automatically group some UI elements to make UI more compact (configurable in Video settings)
 - [UI/UX] Some tooltips will expand to show more data when CTRL is pressed
