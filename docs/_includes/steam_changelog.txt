@@ -1,3 +1,21 @@
+<b>v0.7.46</b> (2023.05.03)
+- [Balance] Merchant cash will be generated accordingly to player's cash rather than net worth
+- [Balance] Merchants will have smaller inventories
+- [Balance] Random merchant ships will arrive less frequently
+- [Balance] Space Diarrhea will have a negative effect on mood
+- [UI/UX] Fix zooming the Research Tree would resize some objects in the Starmap
+- [UI/UX] Expedition shuttle storage item counts will update in realtime in expedition controls view
+- [UI/UX] Repair tool will show red tooltip when hovering a worn out device
+- [UI/UX] Improve automatic UI element grouping logic
+- [Graphics] Fix planets would not appear in the background right after loading the save
+- [Graphics] Flying space objects will remain the same size as they move around
+- [Graphics] Reduce max ship visual tilt angle from 5 to 2 degrees when the ship is rotating in space
+- [Graphics] Fix ship would visually tilt in the wrong direction when rotating in space
+- [Graphics] Fix Shuttle would fly too quickly in the map
+- [Graphics] Fix some particles simulating at wrong rate when game speed was >1x
+- [Bug] Fix smoke trails visual effect not initializing since a recent update
+
+
 <b>v0.7.45</b> (2023.05.02)
 - [Graphics] Make being strafe and punch animations smoother
 - [UI/UX] Automatic UI grouping will condense only adjacent elements (to minimize UI element jumping)
