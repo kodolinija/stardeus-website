@@ -1,3 +1,37 @@
+<b>v0.8.0</b> (2023.05.11)
+- [Feature] Planets can now be entered and will have a local map with points of interest, moons, etc
+- [Feature] Overhaul the concept of Mining Expeditions
+- [Feature] Add Labels and Labeling research (enables room names)
+- [Feature] Shuttles, Probes, Radars, Quantum Barriers, Stasis Pods, Tractor Beams and their targets will require outdoors area
+- [Feature] Add Xenodetection research and Xenodetector to detect alien life forms
+- [Feature] Starmap Scanner will be able to search for presence of other factions
+- [Feature] Add Enriched Uranium and a Centrifuge device for enriching it
+- [Feature] Storage Capsules will now be processable in a Disassembler
+- [Balance] Reduce the number of workers available in the beginning of the game
+- [Balance] Significantly reduce the rate of human colonists waking up from stasis
+- [Balance] Reduce the amount of starting resources in Wrecked scenario
+- [Balance] Derelict Ships will yield less resources in the wreckage
+- [Balance] Adjust movement speeds
+- [Balance] Raw Uranium will be burnable in Matter Reactor
+- [Balance] Nuclear Reactor will require Enriched Uranium instead of raw one
+- [Balance] More advanced robotic workers will require a Nuclear Cell
+- [Balance] The first Derelict Ship you encounter will always be of a specific type
+- [Balance] Adjust amount of work required to extinguish fires
+- [Balance] Adjust amount of work required to construct most structure and devices
+- [Balance] Adjust construction cost of most structure (floors / walls)
+- [Balance] Increase market prices for beings and nuclear elements
+- [Balance] Storage Capsule will not spawn unreasonable amounts of expensive items in early game anymore
+- [Balance] Dozens of various other balance changes
+- [UI/UX] When a device with a range is being placed, show ranges of same type of devices around it
+- [UI/UX] Add Hull Enclosure (roof) view to Rooms overlay (F9)
+- [UI/UX] Show warnings when objects that are supposed to be outdoors are enclosed
+- [UI/UX] Add mass-action to order deconstruction of multiple selected items
+- [UI/UX] Dozens of various other UI/UX improvements and changes
+- [Bug] Fix Derelict Ship destruction phase would do much less harm to the ships than it was supposed to
+- [Bug] Fix Cleaning skill would not level up
+- [Bug] Dozens of other small fixes
+
+
 <b>v0.7.46</b> (2023.05.03)
 - [Balance] Merchant cash will be generated accordingly to player's cash rather than net worth
 - [Balance] Merchants will have smaller inventories
