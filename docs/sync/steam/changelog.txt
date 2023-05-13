@@ -1,3 +1,13 @@
+<b>v0.8.1</b> (2023.05.13)
+- [Balance] Some unstored material piles will no longer be indestructible and may catch on fire or explode when taking damage
+- [Tech] Update Unity to 2021.3.25f1
+- [Tech] Add an internal obsolete mod list to prevent loading of unsupported mods
+- [Tech] Improve automatic detection of corrupted game installation
+- [UI/UX] Make plan mirror lines thin and independent on zoom level
+- [Bug] Fix exiting to the main menu in the middle of the tutorial could cause an internal error
+- [Bug] Fix several auto-reported internal edge case exceptions
+
+
 <b>v0.8.0</b> (2023.05.11)
 - [Feature] Planets can now be entered and will have a local map with points of interest, moons, etc
 - [Feature] Overhaul the concept of Mining Expeditions
