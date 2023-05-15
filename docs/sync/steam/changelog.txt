@@ -1,3 +1,20 @@
+<b>v0.8.3</b> (2023.05.14)
+- [Feature] Add modifiers for changing the number of starting workers and survivors
+- [Feature] Deconstructing an object can automatically create low priority hauling tasks for yielded materials (optional, configurable in current game settings)
+- [UI/UX] Display completeness of the locale in the Language settings dropdown
+- [Bug] Fix load game tooltips would not display correct values of some modifiers
+
+
+<b>v0.8.2</b> (2023.05.13)
+- [Feature] Shuttle will now have some mining power (same as level 3 mining skill)
+- [Feature] Add "Shuttle Drill Upgrade" that will add +3 mining power
+- [Feature] Add "Thruster Upgrade" that will extra power to Thrusters and extra distance to Maneuvering Thrusters
+- [Feature] Scanning progress will now be saved for each star system and resumed when you return to its view
+- [Balance] Upgraded thrusters will have a small chance of explosion event even if wear is disabled or they are not worn out
+- [UI/UX] Add "Require Full Crew" toggle to the expedition creation UI
+- [Bug] Fix race condition when ordering a large number of floors / walls right before autosave started would corrupt the save process and mark the game state as invalid
+
+
 <b>v0.8.1</b> (2023.05.13)
 - [Balance] Some unstored material piles will no longer be indestructible and may catch on fire or explode when taking damage
 - [Tech] Update Unity to 2021.3.25f1
