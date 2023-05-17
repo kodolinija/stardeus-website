@@ -1,3 +1,18 @@
+<b>v0.8.4</b> (2023.05.16)
+- [Feature] Add "Prevent Malfunctions" option for the Stasis Array
+- [Balance] Centrifuge will now produce heat while operating
+- [Balance] Allow executing trades with a Merchant even when the Merchant does not have enough cash to settle the transaction
+- [Misc] Rename "Precision Thruster" to "Maneuvering Controller" to avoid ambiguity with "Thruster"
+- [UI/UX] Add "Ignore" option to the list of threats in Security system
+- [UI/UX] Add more information about what engine types are required for flight in current starmap scope
+- [Tech] Pause the simulation completely for the duration of the save process to prevent rare save race conditions
+- [Bug] Fix Device Wear UI element would display inverse percentage (90% for a device with 10% wear)
+- [Bug] Fix jumping through a black hole would prevent new Asteroids, Meteoroids and Breach Capsule events from executing properly
+- [Bug] Fix attempting to order a device replacement (upgrade) more than once would set incorrect skill checks for the hauling part of the task
+- [Bug] Fix several auto-reported edge case internal exceptions
+- [Bug] Automatically park Copters hovering without a mission when loading the game (temporary fix)
+
+
 <b>v0.8.3</b> (2023.05.14)
 - [Feature] Add modifiers for changing the number of starting workers and survivors
 - [Feature] Deconstructing an object can automatically create low priority hauling tasks for yielded materials (optional, configurable in current game settings)
