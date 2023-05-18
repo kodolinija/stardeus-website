@@ -1,3 +1,55 @@
+<b>v0.8.6</b> (2023.05.18)
+- [Misc] Update official Spanish and Chinese translations
+
+
+<b>v0.8.5</b> (2023.05.17)
+- [Balance] Adjust mining difficulty increase rates (esp. for manual mining)
+- [Balance] Reduce initial Uranium mining difficulty for newly found deposits
+- [Bug] Fix combat could get stuck if fighters would stop in doorways
+
+
+<b>v0.8.4</b> (2023.05.16)
+- [Feature] Add "Prevent Malfunctions" option for the Stasis Array
+- [Balance] Centrifuge will now produce heat while operating
+- [Balance] Allow executing trades with a Merchant even when the Merchant does not have enough cash to settle the transaction
+- [Misc] Rename "Precision Thruster" to "Maneuvering Controller" to avoid ambiguity with "Thruster"
+- [UI/UX] Add "Ignore" option to the list of threats in Security system
+- [UI/UX] Add more information about what engine types are required for flight in current starmap scope
+- [Tech] Pause the simulation completely for the duration of the save process to prevent rare save race conditions
+- [Bug] Fix Device Wear UI element would display inverse percentage (90% for a device with 10% wear)
+- [Bug] Fix jumping through a black hole would prevent new Asteroids, Meteoroids and Breach Capsule events from executing properly
+- [Bug] Fix attempting to order a device replacement (upgrade) more than once would set incorrect skill checks for the hauling part of the task
+- [Bug] Fix several auto-reported edge case internal exceptions
+- [Bug] Automatically park Copters hovering without a mission when loading the game (temporary fix)
+
+
+<b>v0.8.3</b> (2023.05.14)
+- [Feature] Add modifiers for changing the number of starting workers and survivors
+- [Feature] Deconstructing an object can automatically create low priority hauling tasks for yielded materials (optional, configurable in current game settings)
+- [UI/UX] Display completeness of the locale in the Language settings dropdown
+- [Bug] Fix load game tooltips would not display correct values of some modifiers
+
+
+<b>v0.8.2</b> (2023.05.13)
+- [Feature] Shuttle will now have some mining power (same as level 3 mining skill)
+- [Feature] Add "Shuttle Drill Upgrade" that will add +3 mining power
+- [Feature] Add "Thruster Upgrade" that will extra power to Thrusters and extra distance to Maneuvering Thrusters
+- [Feature] Scanning progress will now be saved for each star system and resumed when you return to its view
+- [Balance] Upgraded thrusters will have a small chance of explosion event even if wear is disabled or they are not worn out
+- [UI/UX] Add "Require Full Crew" toggle to the expedition creation UI
+- [Bug] Fix race condition when ordering a large number of floors / walls right before autosave started would corrupt the save process and mark the game state as invalid
+
+
+<b>v0.8.1</b> (2023.05.13)
+- [Balance] Some unstored material piles will no longer be indestructible and may catch on fire or explode when taking damage
+- [Tech] Update Unity to 2021.3.25f1
+- [Tech] Add an internal obsolete mod list to prevent loading of unsupported mods
+- [Tech] Improve automatic detection of corrupted game installation
+- [UI/UX] Make plan mirror lines thin and independent on zoom level
+- [Bug] Fix exiting to the main menu in the middle of the tutorial could cause an internal error
+- [Bug] Fix several auto-reported internal edge case exceptions
+
+
 <b>v0.8.0</b> (2023.05.11)
 - [Feature] Planets can now be entered and will have a local map with points of interest, moons, etc
 - [Feature] Overhaul the concept of Mining Expeditions

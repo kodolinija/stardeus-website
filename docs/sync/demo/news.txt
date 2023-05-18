@@ -1,13 +1,9 @@
-Major Update #2: Complex Planets
-https://store.steampowered.com/news/app/1380910/view/3722831692207775366 Full Announcement
-2023-05-11
+Major Update #1: Derelict Ships
+https://store.steampowered.com/news/app/1380910/view/3645135089485772793 Full Announcement
+2023-01-23
 
 Greetings, Space Traveler!
 
-The second major update is now in your hands! There are tons of new features, mechanics and balance changes. The old saves will work, but it is recommended to start a brand new run of the Wrecked scenario.
+We're happy to announce the first major Stardeus update since launch to Early Access. Although it's centered around Derelict Ships, there's much more to it.
 
-<b>Warning</b>! The difficulty has increased, the Wrecked scenario will feel more resource constrained and you will have to find creative ways to survive and expand in a controlled way.
-
-If you want a more relaxed ship building experience, visit the Modifiers to change the Difficulty or give yourself more resources when starting a new game.
-
-There is a [url=https://www.youtube.com/watch?v=pX6_TiVtJsw]YouTube video[/url] of the developer showcasing the highlights of this update.
+Existing saves will work, but may feel off-balance. So if you haven't played for a while or got to the late game, it's a great time to start a brand new Wrecked scenario and experience the refreshed and rebalanced version of the gameplay.
