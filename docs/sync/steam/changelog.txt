@@ -1,3 +1,9 @@
+<b>v0.8.5</b> (2023.05.17)
+- [Balance] Adjust mining difficulty increase rates (esp. for manual mining)
+- [Balance] Reduce initial Uranium mining difficulty for newly found deposits
+- [Bug] Fix combat could get stuck if fighters would stop in doorways
+
+
 <b>v0.8.4</b> (2023.05.16)
 - [Feature] Add "Prevent Malfunctions" option for the Stasis Array
 - [Balance] Centrifuge will now produce heat while operating
