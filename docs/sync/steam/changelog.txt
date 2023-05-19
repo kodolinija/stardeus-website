@@ -1,3 +1,8 @@
+<b>v0.8.7</b> (2023.05.18)
+- [Bug] Fix shuttle could end up in the wrong starmap layer if it was leaving the ship when the Starmap scope was changed
+- [Bug] Fix enabling Advanced Life Support / Prevent Malfunctions on the Stasis Array would prevent those options from being disabled due to array controls lost because of newly created electricity deficit
+
+
 <b>v0.8.6</b> (2023.05.18)
 - [Misc] Update official Spanish and Chinese translations
 
