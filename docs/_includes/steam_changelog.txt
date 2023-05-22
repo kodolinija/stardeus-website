@@ -1,3 +1,15 @@
+<b>v0.8.8</b> (2023.05.21)
+- [Feature] Add "Use as Room Name" and "Always Show" togglers to Label component controls
+- [Balance] Increase mining level up rate
+- [UI/UX] Display device labels in Electricity grid lists
+- [UI/UX] Don't show Environment tooltip when Alt is not the only modifier key that is pressed
+- [UI/UX] Update electricity grid display when clicking on the items in the grid list
+- [Bug] Fix Winching / Moving the ship would not update the device ambient sound positions
+- [Bug] Fix Winching / Moving the ship section with Charge Station or Repair Station would prevent those devices from being used until they were disconnected and reconnected to electricity
+- [Bug] Fix failing to retrieve an artifact from the expedition would always kill the crew member even if the damage was supposed to be non-lethal
+- [Bug] Fix Auto Compact UI would sometimes fail to show the last groupable element (usually Details button on some of the selected entities)
+
+
 <b>v0.8.7</b> (2023.05.18)
 - [Bug] Fix shuttle could end up in the wrong starmap layer if it was leaving the ship when the Starmap scope was changed
 - [Bug] Fix enabling Advanced Life Support / Prevent Malfunctions on the Stasis Array would prevent those options from being disabled due to array controls lost because of newly created electricity deficit
