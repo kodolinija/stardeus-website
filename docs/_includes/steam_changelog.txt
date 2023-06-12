@@ -1,3 +1,30 @@
+<b>v0.9.0</b> (2023.06.12)
+- [Feature] Add GPU modules
+- [Feature] Mining starcreds will scale by adding more GPU modules
+- [Feature] Add "Try Auto Connect" button to Electricity overlay
+- [Balance] Prevent Robot from spawning in a different area than the Ship Computer during scenario setup
+- [Balance] Ensure that newly joined colonists would have positive initial mood
+- [Balance] Significantly increase max charge of Nuclear Battery
+- [Balance] Prevent market prices from going down too low
+- [Balance] Adjust science cost for installing some of the upgrades
+- [Mods] Validate mods more strictly when initializing the game
+- [Mods] Warn when loading a save that depends on missing / broken mods
+- [Tech] Full rewrite of the Electricity grid system
+- [Tech] Upgrade Unity to 2022.3 LTS
+- [UI/UX] Add "Teleporters" link display option to electricity overlay
+- [Graphics] Remove static nebula option from Video Settings (it was hacky)
+- [Graphics] Use full quality textures by default for hardware with over 4GB of VRAM
+- [Graphics] Fix visual glitch where info bubbles or health bars would change their position when game was paused / unpaused
+- [Performance] Major performance improvements related to electricity grid simulation
+- [Balance] Only some of the humans that come from alien eggs will be infected
+- [Bug] Fix multiple bugs related to the old electricity system
+- [Bug] Fix unbuilt tiles could take environmental damage, resulting in damaged objects after construction is completed
+- [Bug] Fix solid floor tile could replaced by a frame when it was holding an object or structure
+- [Bug] Fix terraforming materials would sell for a higher price than they could be bought for
+- [Bug] Fix special markers missing in Starmap until the galaxy / system that contains a terraformable planet was visited
+- [Bug] Fix safety check would show false "object in unsafe area" message in UI when the check was disabled for the device
+
+
 <b>v0.8.8</b> (2023.05.21)
 - [Feature] Add "Use as Room Name" and "Always Show" togglers to Label component controls
 - [Balance] Increase mining level up rate
