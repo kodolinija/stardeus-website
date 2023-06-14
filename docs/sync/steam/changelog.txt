@@ -1,3 +1,10 @@
+<b>v0.9.1</b> (2023.06.14)
+- [Tech] Update Unity to 2022.3.1f
+- [Tech] Temporarily disable Starfield vfx on Mac OS X to prevent crash due to bug in Unity 2022.3 LTS
+- [Tech] Make new electricity system more resilient to errors in device implementation
+- [Bug] Fix several most severe bugs with new electricity system (freezing clock, looping errors)
+
+
 <b>v0.9.0</b> (2023.06.12)
 - [Feature] Add GPU modules
 - [Feature] Mining starcreds will scale by adding more GPU modules
@@ -7,6 +14,7 @@
 - [Balance] Significantly increase max charge of Nuclear Battery
 - [Balance] Prevent market prices from going down too low
 - [Balance] Adjust science cost for installing some of the upgrades
+- [Balance] Only some of the humans that come from alien eggs will be infected
 - [Mods] Validate mods more strictly when initializing the game
 - [Mods] Warn when loading a save that depends on missing / broken mods
 - [Tech] Full rewrite of the Electricity grid system
@@ -16,7 +24,6 @@
 - [Graphics] Use full quality textures by default for hardware with over 4GB of VRAM
 - [Graphics] Fix visual glitch where info bubbles or health bars would change their position when game was paused / unpaused
 - [Performance] Major performance improvements related to electricity grid simulation
-- [Balance] Only some of the humans that come from alien eggs will be infected
 - [Bug] Fix multiple bugs related to the old electricity system
 - [Bug] Fix unbuilt tiles could take environmental damage, resulting in damaged objects after construction is completed
 - [Bug] Fix solid floor tile could replaced by a frame when it was holding an object or structure
