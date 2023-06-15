@@ -1,3 +1,14 @@
+<b>v0.9.3</b> (2023.06.15)
+- [Feature] Automatically pause the game clock on emergencies (raids, fire, asteroids)
+- [UI/UX] Using "Auto Connect" on a connector will only connect the devices that have 0 connections
+- [UI/UX] Add "Try Auto Connect" and "Disconnect All" actions for mass-selected devices
+- [Bug] Fix an edge case where electricity system could lock the game clock and never unlock it on huge ships
+- [Bug] Fix soundtrack system was not reacting to game mood changes
+- [Bug] Fix opening a relocated Storage Capsule would spawn the loot visuals below the capsule
+- [Bug] Fix entering traded item amount via text input would not update the slider value
+- [Bug] Fix light system would stop recycling light slots correctly after the max light limit (10240) was reached
+
+
 <b>v0.9.2</b> (2023.06.14)
 - [Tech] Update Unity to 2022.3.2f
 - [Bug] Fix several more new electricity system bugs
