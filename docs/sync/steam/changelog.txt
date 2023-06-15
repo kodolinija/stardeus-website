@@ -1,3 +1,12 @@
+<b>v0.9.4</b> (2023.06.15)
+- [Balance] System scanner will continue working when the player is in near a planet
+- [UI/UX] Add a toggle to disable clock speed restriction during disasters
+- [UI/UX] Reduce disaster clock speed restriction duration by 33%
+- [Bug] Fix system scanner would fail to find anything after Complex Planets update
+- [Bug] Fix managing an electric device through a worker would not work properly if the device had 0 connections
+- [Bug] Fix several auto reported internal errors
+
+
 <b>v0.9.3</b> (2023.06.15)
 - [Feature] Automatically pause the game clock on emergencies (raids, fire, asteroids)
 - [UI/UX] Using "Auto Connect" on a connector will only connect the devices that have 0 connections

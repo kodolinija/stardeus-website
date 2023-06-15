@@ -1,3 +1,79 @@
+<b>v0.9.4</b> (2023.06.15)
+- [Balance] System scanner will continue working when the player is in near a planet
+- [UI/UX] Add a toggle to disable clock speed restriction during disasters
+- [UI/UX] Reduce disaster clock speed restriction duration by 33%
+- [Bug] Fix system scanner would fail to find anything after Complex Planets update
+- [Bug] Fix managing an electric device through a worker would not work properly if the device had 0 connections
+- [Bug] Fix several auto reported internal errors
+
+
+<b>v0.9.3</b> (2023.06.15)
+- [Feature] Automatically pause the game clock on emergencies (raids, fire, asteroids)
+- [UI/UX] Using "Auto Connect" on a connector will only connect the devices that have 0 connections
+- [UI/UX] Add "Try Auto Connect" and "Disconnect All" actions for mass-selected devices
+- [Bug] Fix an edge case where electricity system could lock the game clock and never unlock it on huge ships
+- [Bug] Fix soundtrack system was not reacting to game mood changes
+- [Bug] Fix opening a relocated Storage Capsule would spawn the loot visuals below the capsule
+- [Bug] Fix entering traded item amount via text input would not update the slider value
+- [Bug] Fix light system would stop recycling light slots correctly after the max light limit (10240) was reached
+
+
+<b>v0.9.2</b> (2023.06.14)
+- [Tech] Update Unity to 2022.3.2f
+- [Bug] Fix several more new electricity system bugs
+
+
+<b>v0.9.1</b> (2023.06.14)
+- [Tech] Update Unity to 2022.3.1f
+- [Tech] Temporarily disable Starfield vfx on Mac OS X to prevent crash due to bug in Unity 2022.3 LTS
+- [Tech] Make new electricity system more resilient to errors in device implementation
+- [Bug] Fix several most severe bugs with new electricity system (freezing clock, looping errors)
+
+
+<b>v0.9.0</b> (2023.06.12)
+- [Feature] Add GPU modules
+- [Feature] Mining starcreds will scale by adding more GPU modules
+- [Feature] Add "Try Auto Connect" button to Electricity overlay
+- [Balance] Prevent Robot from spawning in a different area than the Ship Computer during scenario setup
+- [Balance] Ensure that newly joined colonists would have positive initial mood
+- [Balance] Significantly increase max charge of Nuclear Battery
+- [Balance] Prevent market prices from going down too low
+- [Balance] Adjust science cost for installing some of the upgrades
+- [Balance] Only some of the humans that come from alien eggs will be infected
+- [Mods] Validate mods more strictly when initializing the game
+- [Mods] Warn when loading a save that depends on missing / broken mods
+- [Tech] Full rewrite of the Electricity grid system
+- [Tech] Upgrade Unity to 2022.3 LTS
+- [UI/UX] Add "Teleporters" link display option to electricity overlay
+- [Graphics] Remove static nebula option from Video Settings (it was hacky)
+- [Graphics] Use full quality textures by default for hardware with over 4GB of VRAM
+- [Graphics] Fix visual glitch where info bubbles or health bars would change their position when game was paused / unpaused
+- [Performance] Major performance improvements related to electricity grid simulation
+- [Bug] Fix multiple bugs related to the old electricity system
+- [Bug] Fix unbuilt tiles could take environmental damage, resulting in damaged objects after construction is completed
+- [Bug] Fix solid floor tile could replaced by a frame when it was holding an object or structure
+- [Bug] Fix terraforming materials would sell for a higher price than they could be bought for
+- [Bug] Fix special markers missing in Starmap until the galaxy / system that contains a terraformable planet was visited
+- [Bug] Fix safety check would show false "object in unsafe area" message in UI when the check was disabled for the device
+
+
+<b>v0.8.8</b> (2023.05.21)
+- [Feature] Add "Use as Room Name" and "Always Show" togglers to Label component controls
+- [Balance] Increase mining level up rate
+- [UI/UX] Display device labels in Electricity grid lists
+- [UI/UX] Don't show Environment tooltip when Alt is not the only modifier key that is pressed
+- [UI/UX] Update electricity grid display when clicking on the items in the grid list
+- [Bug] Fix Winching / Moving the ship would not update the device ambient sound positions
+- [Bug] Fix Winching / Moving the ship section with Charge Station or Repair Station would prevent those devices from being used until they were disconnected and reconnected to electricity
+- [Bug] Fix failing to retrieve an artifact from the expedition would always kill the crew member even if the damage was supposed to be non-lethal
+- [Bug] Fix Auto Compact UI would sometimes fail to show the last groupable element (usually Details button on some of the selected entities)
+
+
+<b>v0.8.7</b> (2023.05.18)
+- [Bug] Fix shuttle could end up in the wrong starmap layer if it was leaving the ship when the Starmap scope was changed
+- [Bug] Fix enabling Advanced Life Support / Prevent Malfunctions on the Stasis Array would prevent those options from being disabled due to array controls lost because of newly created electricity deficit
+
+
 <b>v0.8.6</b> (2023.05.18)
 - [Misc] Update official Spanish and Chinese translations
 
