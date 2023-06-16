@@ -1,3 +1,10 @@
+<b>v0.9.5</b> (2023.06.16)
+- [UI/UX] Improve new electricity node connection management sub-ui
+- [Bug] Fix currently running research item would not display the lack of resources properly
+- [Bug] Fix UI Hover sounds audio setting override would not get applied after game start
+- [Bug] Fix launching a copter mission and leaving the planet would spawn the copter very far away from the ore deposit
+
+
 <b>v0.9.4</b> (2023.06.15)
 - [Balance] System scanner will continue working when the player is in near a planet
 - [UI/UX] Add a toggle to disable clock speed restriction during disasters
