@@ -1,3 +1,14 @@
+<b>v0.9.6</b> (2023.06.18)
+- [Balance] Building a large GPU module will require 5 science instead of 6
+- [Balance] Nuclear Battery will not require Uranium to be built (it requires Nuclear Cell already)
+- [UI/UX] UI Overhaul: Reorganize the Info Panel
+- [UI/UX] UI Overhaul: Reorganize mass select actions
+- [UI/UX] Restrict the clock speed for a short while when combat starts
+- [Bug] Fix installing disk compression upgrades would disproportionally increase electricity consumption
+- [Bug] Fix unconstructed devices would show electricity node UI element
+- [Bug] Fix auto connect would connect to any connector instead of one with most free slots
+
+
 <b>v0.9.5</b> (2023.06.16)
 - [UI/UX] Improve new electricity node connection management sub-ui
 - [Bug] Fix currently running research item would not display the lack of resources properly
