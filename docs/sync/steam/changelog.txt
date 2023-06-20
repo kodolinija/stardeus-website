@@ -1,3 +1,7 @@
+<b>v0.9.8</b> (2023.06.20)
+- [Bug] Fix components that didn't have a UI group assigned would not show up in the UI (i.e. unconfigured planter)
+
+
 <b>v0.9.7</b> (2023.06.19)
 - [UI/UX] UI Overhaul: Split and reorganize overlay buttons
 - [Bug] Fix ctrl+clicking multiple large devices would sometimes not include the first device in the mass action list
