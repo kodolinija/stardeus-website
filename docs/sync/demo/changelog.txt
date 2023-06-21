@@ -1,3 +1,30 @@
+<b>v0.9.10</b> (2023.06.21)
+- [UI/UX] Restore the missing task item in the Info Panel
+- [UI/UX] Show the amount of electricity deficit in the log
+
+
+<b>v0.9.9</b> (2023.06.21)
+- [Balance] Attached crawlers will detach themselves after 12-24hours
+- [Balance] Adjust duration of some mental breakdown story events
+- [Balance] Adjust delay between melee and weapon hits in combat
+- [Balance] Adjust delay between shots for turrets and fluid cannons
+- [UI/UX] UI Overhaul: Add big notification for important events
+- [UI/UX] UI Overhaul: Add log panel
+- [UI/UX] UI Overhaul: Move some less important events into the log (work in progress)
+- [UI/UX] Add option for current game settings: "Focus on items after trade"
+
+
+<b>v0.9.8</b> (2023.06.20)
+- [Bug] Fix components that didn't have a UI group assigned would not show up in the UI (i.e. unconfigured planter)
+
+
+<b>v0.9.7</b> (2023.06.19)
+- [UI/UX] UI Overhaul: Split and reorganize overlay buttons
+- [Bug] Fix ctrl+clicking multiple large devices would sometimes not include the first device in the mass action list
+- [Bug] Fix a few internal errors related to UI overhaul
+- [Bug] Fix entering a galaxy with terraformable planet in one of the systems would not display the system marker until the system was visited
+
+
 <b>v0.9.6</b> (2023.06.18)
 - [Balance] Building a large GPU module will require 5 science instead of 6
 - [Balance] Nuclear Battery will not require Uranium to be built (it requires Nuclear Cell already)
