@@ -1,3 +1,10 @@
+<b>v0.9.11</b> (2023.06.22)
+- [Balance] Increase Directional Turret rate of fire
+- [Balance] Some Breach Capsules will fly faster then others
+- [Bug] Fix some mods would fail to show management UI buttons
+- [Bug] Fix several minor internal edge case exceptions
+
+
 <b>v0.9.10</b> (2023.06.21)
 - [UI/UX] Restore the missing task item in the Info Panel
 - [UI/UX] Show the amount of electricity deficit in the log
