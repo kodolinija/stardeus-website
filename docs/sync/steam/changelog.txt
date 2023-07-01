@@ -1,3 +1,19 @@
+<b>v0.9.12</b> (2023.07.01)
+- [Balance] Sandbox mode will allow managing devices without a connection to Ship Computer
+- [Balance] It will not be possible to switch off connectors anymore (this introduces some nasty edge cases)
+- [Tech] Update Unity to 2022.3.4f1
+- [UI/UX] Remove "Disconnect All" ui element from grids that do not have a Ship Computer
+- [Misc] Improve initial electricity grid connection generation in the Random Ship scenario
+- [Bug] Fix game crash during recalculation of the electricity grid if there was a connection between a switched off unreachable connector and a device
+- [Bug] Fix auto connect upgrade could connect newly built devices to unreachable connectors
+- [Bug] Fix opening Research Tree or Starmap while displaying guidelines would not remove the guidelines
+- [Bug] Fix scanning for derelict ships while close to the planet would find the derelict near a planet instead of the star system, resulting in too many dereclits per system
+- [Bug] Fix Tutorial would get stuck if it was saved / loaded during the Energy research phase
+- [Bug] Fix grids without batteries would display battery charge level as "NaN"
+- [Bug] Fix an edge case when winching operation would fail without showing an obstacle warning
+- [Bug] Fix biological beings would fail to move out of a wall and eventually die if they got trapped inside one
+
+
 <b>v0.9.11</b> (2023.06.22)
 - [Balance] Increase Directional Turret rate of fire
 - [Balance] Some Breach Capsules will fly faster then others
@@ -913,7 +929,7 @@
 <b>v0.6.139</b> (2022.12.07)
 - [Tech] Make it easier to attach a debugger for modders
 - [Bug] Fix a memory leak and inconsistency when electricity grid would keep attempting to include removed connectors into the grid
-- [Bug] Fix electricity grid rebuilds could get stuck in a loop when removing connectors from a huge grid (thousands of devices)
+- [Bug] Fix electricity grid rebuilds could get stuck in a loop when removing s from a huge grid (thousands of devices)
 - [Bug] Fix electricity grid overlay would not refresh connection visuals when devices were deconstructed
 
 
