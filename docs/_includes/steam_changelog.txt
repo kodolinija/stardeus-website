@@ -1,3 +1,14 @@
+<b>v0.9.13</b> (2023.07.02)
+- [Feature] Add Advanced Oxygen Production and Advanced Heat Production research nodes
+- [Feature] Add OxyMatic Floor and HeatMatic Floor
+- [Balance] Increase Mini Heater heat production rate
+- [UI/UX] Log when workers fail to find a Charge Station or a Repair Station
+- [UI/UX] Fix resizing the game window or changing the UI scale could result in some lists becoming too long to fit the screen
+- [Bug] Fix electricity grid lines would flicker whenever the cursor changed position after hovering a teleporter at least once
+- [Bug] Fix doors would not auto-close when a temporary worker connection was established
+- [Bug] Fix derelict ships would still spawn in the same starmap layer as the player instead of current system
+
+
 <b>v0.9.12</b> (2023.07.01)
 - [Balance] Sandbox mode will allow managing devices without a connection to Ship Computer
 - [Balance] It will not be possible to switch off connectors anymore (this introduces some nasty edge cases)
