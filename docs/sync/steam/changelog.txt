@@ -1,3 +1,7 @@
+<b>v0.9.16</b> (2023.07.03)
+- [UI/UX] Improve the new Trade UI
+
+
 <b>v0.9.15</b> (2023.07.03)
 - [Feature] Add Advanced Cooling research node
 - [Feature] Add CoolMatic Floor
