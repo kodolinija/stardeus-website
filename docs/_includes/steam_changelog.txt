@@ -1,3 +1,8 @@
+<b>v0.9.14</b> (2023.07.03)
+- [UI/UX] Overhaul Trade UI
+- [Bug] Fix disconnected Planters and Vase would not grow plants
+
+
 <b>v0.9.13</b> (2023.07.02)
 - [Feature] Add Advanced Oxygen Production and Advanced Heat Production research nodes
 - [Feature] Add OxyMatic Floor and HeatMatic Floor
