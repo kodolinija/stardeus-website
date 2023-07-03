@@ -1,3 +1,26 @@
+<b>v0.9.15</b> (2023.07.03)
+- [Feature] Add Advanced Cooling research node
+- [Feature] Add CoolMatic Floor
+- [Balance] Adjust construction skill requirements for building new X-Matic Floors
+- [Bug] Fix a rare situation when a being would not be able to go through doors if a walk was aborted while being was waiting for a door to open
+
+
+<b>v0.9.14</b> (2023.07.03)
+- [UI/UX] Overhaul Trade UI
+- [Bug] Fix disconnected Planters and Vase would not grow plants
+
+
+<b>v0.9.13</b> (2023.07.02)
+- [Feature] Add Advanced Oxygen Production and Advanced Heat Production research nodes
+- [Feature] Add OxyMatic Floor and HeatMatic Floor
+- [Balance] Increase Mini Heater heat production rate
+- [UI/UX] Log when workers fail to find a Charge Station or a Repair Station
+- [UI/UX] Fix resizing the game window or changing the UI scale could result in some lists becoming too long to fit the screen
+- [Bug] Fix electricity grid lines would flicker whenever the cursor changed position after hovering a teleporter at least once
+- [Bug] Fix doors would not auto-close when a temporary worker connection was established
+- [Bug] Fix derelict ships would still spawn in the same starmap layer as the player instead of current system
+
+
 <b>v0.9.12</b> (2023.07.01)
 - [Balance] Sandbox mode will allow managing devices without a connection to Ship Computer
 - [Balance] It will not be possible to switch off connectors anymore (this introduces some nasty edge cases)
@@ -7,7 +30,7 @@
 - [Bug] Fix game crash during recalculation of the electricity grid if there was a connection between a switched off unreachable connector and a device
 - [Bug] Fix auto connect upgrade could connect newly built devices to unreachable connectors
 - [Bug] Fix opening Research Tree or Starmap while displaying guidelines would not remove the guidelines
-- [Bug] Fix scanning for derelict ships while close to the planet would find the derelict near a planet instead of the star system, resulting in too many dereclits per system
+- [Bug] Fix scanning for derelict ships while close to the planet would find the derelict near a planet instead of the star system, resulting in too many derelicts per system
 - [Bug] Fix Tutorial would get stuck if it was saved / loaded during the Energy research phase
 - [Bug] Fix grids without batteries would display battery charge level as "NaN"
 - [Bug] Fix an edge case when winching operation would fail without showing an obstacle warning

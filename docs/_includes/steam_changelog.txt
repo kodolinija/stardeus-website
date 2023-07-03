@@ -1,3 +1,10 @@
+<b>v0.9.15</b> (2023.07.03)
+- [Feature] Add Advanced Cooling research node
+- [Feature] Add CoolMatic Floor
+- [Balance] Adjust construction skill requirements for building new X-Matic Floors
+- [Bug] Fix a rare situation when a being would not be able to go through doors if a walk was aborted while being was waiting for a door to open
+
+
 <b>v0.9.14</b> (2023.07.03)
 - [UI/UX] Overhaul Trade UI
 - [Bug] Fix disconnected Planters and Vase would not grow plants
@@ -23,7 +30,7 @@
 - [Bug] Fix game crash during recalculation of the electricity grid if there was a connection between a switched off unreachable connector and a device
 - [Bug] Fix auto connect upgrade could connect newly built devices to unreachable connectors
 - [Bug] Fix opening Research Tree or Starmap while displaying guidelines would not remove the guidelines
-- [Bug] Fix scanning for derelict ships while close to the planet would find the derelict near a planet instead of the star system, resulting in too many dereclits per system
+- [Bug] Fix scanning for derelict ships while close to the planet would find the derelict near a planet instead of the star system, resulting in too many derelicts per system
 - [Bug] Fix Tutorial would get stuck if it was saved / loaded during the Energy research phase
 - [Bug] Fix grids without batteries would display battery charge level as "NaN"
 - [Bug] Fix an edge case when winching operation would fail without showing an obstacle warning
