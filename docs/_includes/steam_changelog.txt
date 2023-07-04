@@ -1,3 +1,8 @@
+<b>v0.9.17</b> (2023.07.04)
+- [Bug] Fix some issues with the new Trade UI
+- [Bug] Fix crafting devices that did not need electricity (mods only) would not be able to copy/paste configuration
+
+
 <b>v0.9.16</b> (2023.07.03)
 - [UI/UX] Improve the new Trade UI
 
