@@ -1,3 +1,23 @@
+<b>v0.9.19</b> (2023.07.05)
+- [Balance] Relocating colonists to unsafe environment or open space will violate Asimov's law
+- [UI/UX] Improve list pagination controls
+- [UI/UX] Mouse wheel will flip pages in the Main Menu
+- [UI/UX] Improve automatic resizing of Info Panel to fit better in small screens (i.e. Steam Deck)
+- [UI/UX] Improve Crafting configuration UI
+- [Bug] Fix double-clicking a dead body would also select alive beings and vice versa
+- [Bug] Fix combat units could be unable to find enemy when there was a large number of beings and very few enemies
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.9.18</b> (2023.07.04)
+- [Feature] All merchants will belong to one of the factions and all trades will affect the faction standing
+- [Feature] Merchant markup will be affected by the faction standing
+- [UI/UX] Improve Inventory UI
+- [UI/UX] Improve Electricity UI
+- [UI/UX] Improve Stock Market UI
+- [Bug] Fix Stock Market would always limit certain items to a very low price (i.e. Titanium)
+
+
 <b>v0.9.17</b> (2023.07.04)
 - [Bug] Fix some issues with the new Trade UI
 - [Bug] Fix crafting devices that did not need electricity (mods only) would not be able to copy/paste configuration
