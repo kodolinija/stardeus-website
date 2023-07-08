@@ -1,3 +1,13 @@
+<b>v0.9.20</b> (2023.07.07)
+- [Balance] Research Tree will require to unlock at least 25% of tech from lower tiers to unlock higher tiers
+- [Balance] Shuffle the Research Tree to redistribute tiers more evenly
+- [UI/UX] Group research nodes by tiers in the Research Tree view
+- [UI/UX] Add alternative Research Tree layout option
+- [UI/UX] Add "Except Beings" filter option to the new Trade UI
+- [Bug] Fix toggling "Always Display" on a tile label would not work correctly
+- [Bug] Fix selecting a multi-tile device would only show its label if the root tile was selected
+
+
 <b>v0.9.19</b> (2023.07.05)
 - [Balance] Relocating colonists to unsafe environment or open space will violate Asimov's law
 - [UI/UX] Improve list pagination controls
