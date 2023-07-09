@@ -1,3 +1,8 @@
+<b>v0.9.22</b> (2023.07.09)
+- [Bug] Fix Breach Capsules, Stasis Pods would remain in unremovable state after combat
+- [Bug] Fix dead bodies would not be relocatable to empty space
+
+
 <b>v0.9.21</b> (2023.07.09)
 - [Feature] Eggs will produce Alien Egg Shell when they hatch or get destroyed
 - [Balance] Eggs will only hatch after they have been for a certain amount on the ship
