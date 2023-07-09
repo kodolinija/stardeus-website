@@ -1,3 +1,16 @@
+<b>v0.9.21</b> (2023.07.09)
+- [Feature] Eggs will produce Alien Egg Shell when they hatch or get destroyed
+- [Balance] Eggs will only hatch after they have been for a certain amount on the ship
+- [Balance] Eggs will only hatch if they are in a warm environment (at least 0 celsius)
+- [UI/UX] Automatically remove leading zeros from trade amount input fields
+- [UI/UX] Log when friendly being fails to move due to safety issue
+- [UI/UX] Quick Search will allow jumping to coordinates (Type "120 145" or "128:123" or "[12:145]")
+- [Mods] Mark "More Beverages" 1.0.7 as incompatible (breaks sleep action)
+- [Bug] Fix empty Stasis Array could spawn colonists in certain conditions
+- [Bug] Fix some events could still trigger combat even when it was disabled
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.9.20</b> (2023.07.07)
 - [Balance] Research Tree will require to unlock at least 25% of tech from lower tiers to unlock higher tiers
 - [Balance] Shuffle the Research Tree to redistribute tiers more evenly
