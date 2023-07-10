@@ -1,3 +1,10 @@
+<b>v0.9.23</b> (2023.07.10)
+- [Feature] Add a "Split" function for material piles
+- [UI/UX] When ejecting from storage, holding Ctrl will eject 50%, Alt: 10%, Shift: 1
+- [Bug] Fix research tier markers may not update if something was unlocked while tree was not open
+- [Bug] Fix several internal edge case errors
+
+
 <b>v0.9.22</b> (2023.07.09)
 - [Bug] Fix Breach Capsules, Stasis Pods would remain in unremovable state after combat
 - [Bug] Fix dead bodies would not be relocatable to empty space
