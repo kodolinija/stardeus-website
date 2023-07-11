@@ -1,3 +1,15 @@
+<b>v0.9.25</b> (2023.07.11)
+- [UI/UX] Improve "Known Resource Deposits" UI
+- [UI/UX] Improve "Local Maneuvering" UI
+- [Bug] Add protection against a possible race condition that could cause losing heat / oxygen while moving a ship section
+- [Bug] Fix executing a trade when a selected item was no longer available wouldn't allow completing the trade and would remove selected items without paying for them
+
+
+<b>v0.9.24</b> (2023.07.10)
+- [Bug] Fix Egg Shell would be treated as an egg and could hatch stuff
+- [Bug] Fix a breach capsule raid could begin mid-save, leading to internal errors
+
+
 <b>v0.9.23</b> (2023.07.10)
 - [Feature] Add a "Split" function for material piles
 - [UI/UX] When ejecting from storage, holding Ctrl will eject 50%, Alt: 10%, Shift: 1
