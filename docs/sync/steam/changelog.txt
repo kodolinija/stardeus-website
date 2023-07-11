@@ -1,3 +1,8 @@
+<b>v0.9.26</b> (2023.07.11)
+- [Misc] Add more safety checks for preventing potential bugs while moving ship sections
+- [Bug] Fix linked and switched off teleporters would break pathfinding after moving ship sections
+
+
 <b>v0.9.25</b> (2023.07.11)
 - [UI/UX] Improve "Known Resource Deposits" UI
 - [UI/UX] Improve "Local Maneuvering" UI
