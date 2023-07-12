@@ -1,3 +1,8 @@
+<b>v0.9.27</b> (2023.07.12)
+- [Audio] Ambience and sound effect volume will fade out slower when camera zooms out
+- [Bug] Fix slider UI widget could set an incorrect value during UI element initialization
+
+
 <b>v0.9.26</b> (2023.07.11)
 - [Misc] Add more safety checks for preventing potential bugs while moving ship sections
 - [Bug] Fix linked and switched off teleporters would break pathfinding after moving ship sections
