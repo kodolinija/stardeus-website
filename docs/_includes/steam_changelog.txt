@@ -1,3 +1,7 @@
+<b>v0.9.28</b> (2023.07.14)
+- [Bug] Fix Demo panel would block the bottom left UI buttons
+
+
 <b>v0.9.27</b> (2023.07.12)
 - [Audio] Ambience and sound effect volume will fade out slower when camera zooms out
 - [Bug] Fix slider UI widget could set an incorrect value during UI element initialization

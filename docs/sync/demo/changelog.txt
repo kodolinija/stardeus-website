@@ -1,3 +1,64 @@
+<b>v0.9.28</b> (2023.07.14)
+- [Bug] Fix Demo panel would block the bottom left UI buttons
+
+
+<b>v0.9.27</b> (2023.07.12)
+- [Audio] Ambience and sound effect volume will fade out slower when camera zooms out
+- [Bug] Fix slider UI widget could set an incorrect value during UI element initialization
+
+
+<b>v0.9.26</b> (2023.07.11)
+- [Misc] Add more safety checks for preventing potential bugs while moving ship sections
+- [Bug] Fix linked and switched off teleporters would break pathfinding after moving ship sections
+
+
+<b>v0.9.25</b> (2023.07.11)
+- [UI/UX] Improve "Known Resource Deposits" UI
+- [UI/UX] Improve "Local Maneuvering" UI
+- [Bug] Add protection against a possible race condition that could cause losing heat / oxygen while moving a ship section
+- [Bug] Fix executing a trade when a selected item was no longer available wouldn't allow completing the trade and would remove selected items without paying for them
+
+
+<b>v0.9.24</b> (2023.07.10)
+- [Bug] Fix Egg Shell would be treated as an egg and could hatch stuff
+- [Bug] Fix a breach capsule raid could begin mid-save, leading to internal errors
+
+
+<b>v0.9.23</b> (2023.07.10)
+- [Feature] Add a "Split" function for material piles
+- [UI/UX] When ejecting from storage, holding Ctrl will eject 50%, Alt: 10%, Shift: 1
+- [Bug] Fix research tier markers may not update if something was unlocked while tree was not open
+- [Bug] Fix several internal edge case errors
+
+
+<b>v0.9.22</b> (2023.07.09)
+- [Bug] Fix Breach Capsules, Stasis Pods would remain in unremovable state after combat
+- [Bug] Fix dead bodies would not be relocatable to empty space
+
+
+<b>v0.9.21</b> (2023.07.09)
+- [Feature] Eggs will produce Alien Egg Shell when they hatch or get destroyed
+- [Balance] Eggs will only hatch after they have been for a certain amount on the ship
+- [Balance] Eggs will only hatch if they are in a warm environment (at least 0 celsius)
+- [UI/UX] Automatically remove leading zeros from trade amount input fields
+- [UI/UX] Log when friendly being fails to move due to safety issue
+- [UI/UX] Quick Search will allow jumping to coordinates (Type "120 145" or "128:123" or "[12:145]")
+- [Mods] Mark "More Beverages" 1.0.7 as incompatible (breaks sleep action)
+- [Bug] Fix empty Stasis Array could spawn colonists in certain conditions
+- [Bug] Fix some events could still trigger combat even when it was disabled
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.9.20</b> (2023.07.07)
+- [Balance] Research Tree will require to unlock at least 25% of tech from lower tiers to unlock higher tiers
+- [Balance] Shuffle the Research Tree to redistribute tiers more evenly
+- [UI/UX] Group research nodes by tiers in the Research Tree view
+- [UI/UX] Add alternative Research Tree layout option
+- [UI/UX] Add "Except Beings" filter option to the new Trade UI
+- [Bug] Fix toggling "Always Display" on a tile label would not work correctly
+- [Bug] Fix selecting a multi-tile device would only show its label if the root tile was selected
+
+
 <b>v0.9.19</b> (2023.07.05)
 - [Balance] Relocating colonists to unsafe environment or open space will violate Asimov's law
 - [UI/UX] Improve list pagination controls
