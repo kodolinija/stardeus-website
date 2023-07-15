@@ -1,3 +1,13 @@
+<b>v0.9.28</b> (2023.07.15)
+- [Graphics] Optimize space nebula background to reduce GPU consumption
+- [Graphics] Make space nebula colors more vivid
+- [UI/UX] Add "Walking Difficulty" visual overlay
+- [UI/UX] Change space nebula option settings dropdown into an on/off toggle
+- [Bug] Fix Demo panel would block the bottom left UI buttons
+- [Bug] Fix click+dragging a teleporter link would not work if the end teleporter was on top of an electric floor tile
+- [Bug] Fix moving a section when a force field was up would not move the force field visuals
+
+
 <b>v0.9.27</b> (2023.07.12)
 - [Audio] Ambience and sound effect volume will fade out slower when camera zooms out
 - [Bug] Fix slider UI widget could set an incorrect value during UI element initialization
