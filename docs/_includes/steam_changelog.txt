@@ -1,3 +1,9 @@
+<b>v0.9.29</b> (2023.07.15)
+- [UI/UX] Suggest what to do if you can't fly due to a derelict ship present in your map
+- [Bug] Fix entering item amount in the trade view through the input field would display 0 if page was changed
+- [Bug] Add additional resiliency logic for recovering from inconsistent electricity system state when loading a save file
+
+
 <b>v0.9.28</b> (2023.07.15)
 - [Graphics] Optimize space nebula background to reduce GPU consumption
 - [Graphics] Make space nebula colors more vivid
