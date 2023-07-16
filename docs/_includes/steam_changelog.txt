@@ -1,3 +1,9 @@
+<b>v0.9.30</b> (2023.07.16)
+- [Balance] Reduce initial mining difficulty for Iron, Titanium and Rock
+- [Balance] Story generator won't spawn new eggs if you have 3+ already
+- [Bug] Fix Egg Shells would not be sellable / stackable / storable
+
+
 <b>v0.9.29</b> (2023.07.15)
 - [UI/UX] Suggest what to do if you can't fly due to a derelict ship present in your map
 - [Bug] Fix entering item amount in the trade view through the input field would display 0 if page was changed
