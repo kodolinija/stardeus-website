@@ -1,3 +1,10 @@
+<b>v0.9.31</b> (2023.07.17)
+- [Bug] Fix graphics glitch in Crawler animation when texture quality was set to "Half"
+- [Bug] Fix when weapon was equipped mid combat the fighter would still be doing melee until next combat or save / load
+- [Bug] Fix crafters would not always show "check" status icon when they have reached their production goal
+- [Bug] Fix new trade UI would produce a closing sound whenever a new game was started
+
+
 <b>v0.9.30</b> (2023.07.16)
 - [Balance] Reduce initial mining difficulty for Iron, Titanium and Rock
 - [Balance] Story generator won't spawn new eggs if you have 3+ already
