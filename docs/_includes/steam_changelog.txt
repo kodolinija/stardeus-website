@@ -1,3 +1,10 @@
+<b>v0.9.32</b> (2023.07.17)
+- [Balance] Disallow launching multiple shuttle expeditions to same location
+- [UI/UX] Show compatible storages in material descriptions
+- [Bug] Fix trying to sell a reserved material would fail abort the trade
+- [Bug] Fix trade aborting and not paying for removed items when some item fails to get removed
+
+
 <b>v0.9.31</b> (2023.07.17)
 - [Bug] Fix graphics glitch in Crawler animation when texture quality was set to "Half"
 - [Bug] Fix when weapon was equipped mid combat the fighter would still be doing melee until next combat or save / load
