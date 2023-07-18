@@ -1,3 +1,12 @@
+<b>v0.9.34</b> (2023.07.18)
+- [Balance] Merchants will have ~10x more money in early game
+- [Balance] Make "Device broke down" event much more rare and never appear in early game
+- [Bug] Fix objects that must be outdoors would temporarily have an incorrect initial state after load, potentially causing explosions
+- [Bug] Fix newly constructed electric devices would not display their power metrics until save / load
+- [Bug] Fix relocating a damaged device would remove the damage
+- [Bug] Fix saving / loading with active Stasis Pod Merchant would not reactivate the trade after load
+
+
 <b>v0.9.33</b> (2023.07.18)
 - [Tech] Update Unity to 2022.3.5f1
 - [Tech] Improve electricity grid state validation to prevent inconsistent connection states
