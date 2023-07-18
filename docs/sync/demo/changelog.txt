@@ -1,3 +1,21 @@
+<b>v0.9.33</b> (2023.07.18)
+- [Tech] Update Unity to 2022.3.5f1
+- [Tech] Improve electricity grid state validation to prevent inconsistent connection states
+- [Tech] Improve electricity grid state recovery on loading a save with inconsistent electricity state
+- [UI/UX] "Disassemble Breach Capsule" suggestion will have a "Show" button to focus on the capsule
+- [Bug] Fix inconsistent electricity connection state could lead to a hard crash
+- [Bug] Fix some actions (i.e. use treadmill) would not release the reservation if there was a failure to reach the spot
+- [Bug] Fix Light Block would not initialize correctly after construction
+- [Bug] Fix newly generated wrecked scenario could have a hole in the wall of the survivor area
+
+
+<b>v0.9.32</b> (2023.07.17)
+- [Balance] Disallow launching multiple shuttle expeditions to same location
+- [UI/UX] Show compatible storages in material descriptions
+- [Bug] Fix trying to sell a reserved material would fail the trade
+- [Bug] Fix trade aborting and not paying for removed items when some item fails to get removed
+
+
 <b>v0.9.31</b> (2023.07.17)
 - [Bug] Fix graphics glitch in Crawler animation when texture quality was set to "Half"
 - [Bug] Fix when weapon was equipped mid combat the fighter would still be doing melee until next combat or save / load
