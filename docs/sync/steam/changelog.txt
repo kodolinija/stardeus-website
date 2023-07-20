@@ -1,3 +1,17 @@
+<b>v0.9.36</b> (2023.07.20)
+- [Graphics] Tone down the saturation of space nebula
+- [Bug] Fix turning off starfield nebula would break the game
+- [Bug] Fix loading a game with a communicator that had a pending merchant request would fail to restore the "Arriving soon" notification
+- [Bug] Remove the option to launch a probe to a planet moon, as it did nothing
+
+
+<b>v0.9.35</b> (2023.07.19)
+- [Balance] Sentry and Orbotron units will be relentless and never go into "High Alert" state during combat
+- [Balance] Robotic workers that have a weapon equipped will have much less chance to go into "High Alert" state during combat
+- [Graphics] Add new "Pitch Black" ambient light option to Video settings
+- [Bug] Fix replacing a multi-tile device with another one would create a set of invisible child tiles that would lead to inconsistent state if upgrade was cancelled / device relocated
+
+
 <b>v0.9.34</b> (2023.07.18)
 - [Balance] Merchants will have ~10x more money in early game
 - [Balance] Make "Device broke down" event much more rare and never appear in early game
