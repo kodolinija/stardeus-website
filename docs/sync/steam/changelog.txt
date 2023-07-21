@@ -1,3 +1,14 @@
+<b>v0.9.37</b> (2023.07.21)
+- [Feature] Add new story event: Stasis Pod Dead Traveler
+- [Feature] Add new story event: Damaged Structure Collapse
+- [Feature] Add new story event: Damaged Device Explosion
+- [Feature] Add new story event: Damaged Device Fire
+- [Balance] Limit the frequency with which you can be visited by random traders
+- [Balance] Beings hatched from alien eggs will have correct age
+- [Balance] Reduce the number of cats that could hatch from an egg
+- [Bug] Fix unbuilt / unrelocated planters or vases would display "unconfigured" icon, that would not go away after relocation was finished
+
+
 <b>v0.9.36</b> (2023.07.20)
 - [Graphics] Tone down the saturation of space nebula
 - [Bug] Fix turning off starfield nebula would break the game
