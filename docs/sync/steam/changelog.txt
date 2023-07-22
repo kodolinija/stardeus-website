@@ -1,3 +1,13 @@
+<b>v0.9.38</b> (2023.07.22)
+- [Feature] Add new story event: Food Poisoning
+- [Balance] Damaged devices will require higher level of damage to go on fire / explode (for new story events)
+- [Balance] Damaged devices will not go on fire on their own if there is no oxygen around them (for new story event)
+- [Balance] Some devices will never explode (stuff that has no high energy / combustible parts, like solar panels or planters)
+- [Balance] FTL drives will almost never spawn on derelict ships
+- [Balance] Colonists with urgent needs will ignore the Emergency Siren
+- [UI/UX] Show crafting / processing time and energy cost in extended details of materials
+
+
 <b>v0.9.37</b> (2023.07.21)
 - [Feature] Add new story event: Stasis Pod Dead Traveler
 - [Feature] Add new story event: Damaged Structure Collapse
