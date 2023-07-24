@@ -1,3 +1,20 @@
+<b>v0.9.39</b> (2023.07.24)
+- [Balance] Engines that spawn on derelict ships will never be ones that you don't have yourself
+- [Balance] Reduce the frequency of random story events
+- [Balance] Add customizable delay for how frequently any story event can repeat
+- [Graphics] Remove automatic ramp up of the ambient light if there were too few main lights
+- [UI/UX] Right clicking unselected materials and beings will select them and show the context menu
+- [UI/UX] Left click will no longer drag the starmap view
+- [UI/UX] Right clicking objects in starmap will now show the object context menu
+- [UI/UX] Add multi-select action for all crafting devices (Assemblers, Fabricators, Cooking Stations, etc)
+- [UI/UX] Ordering crafting of an item in any crafting device will dynamically determine the wanted amount increment depending on current inventory
+- [Bug] Fix Communicator would not get back to consuming 5kW after used
+- [Bug] Fix Stasis Pod / Storage Capsule affected by a Tractor Beam could land too far away from the contact point
+- [Bug] Fix impossible to click-select a tile if there was multiple free entities above it (i.e. a planter with a plant and some plant fiber above it)
+- [Bug] Fix crawler faction could own a space port
+- [Bug] Fix worker under direct control would not go to an adjacent tile when ctrl+clicked
+
+
 <b>v0.9.38</b> (2023.07.22)
 - [Feature] Add new story event: Food Poisoning
 - [Balance] Damaged devices will require higher level of damage to go on fire / explode (for new story events)
