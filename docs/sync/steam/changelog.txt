@@ -1,3 +1,8 @@
+<b>v0.9.40</b> (2023.07.25)
+- [Feature] Add new story event: Storage Capsule Hostile Being
+- [Bug] Fix signal events would stop working if all types of events were seen recently
+
+
 <b>v0.9.39</b> (2023.07.24)
 - [Balance] Engines that spawn on derelict ships will never be ones that you don't have yourself
 - [Balance] Reduce the frequency of random story events
