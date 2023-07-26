@@ -1,3 +1,12 @@
+<b>v0.9.41</b> (2023.07.26)
+- [Balance] There will be 20% chance to get a story event with an opposite effect when story generator wants certain kind of tension
+- [Balance] Reduce time between energy rifle shots
+- [Tech] Add more diagnostics and logs for more effective in-game bug reporting
+- [Tech] Prevent periodic auto-save from running when menu panel or feedback form is displayed
+- [Bug] Fix ML Booth would not stop using electricity if the training task was interrupted
+- [Bug] Fix exhausting all possible Signal events of certain positivity type would not produce a fallback option
+
+
 <b>v0.9.40</b> (2023.07.25)
 - [Feature] Add new story event: Storage Capsule Hostile Being
 - [Bug] Fix signal events would stop working if all types of events were seen recently
