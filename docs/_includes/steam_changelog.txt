@@ -1,3 +1,10 @@
+<b>v0.9.42</b> (2023.07.26)
+- [Feature] Add more dynamic loot types for expedition story events
+- [Bug] Fix story event last seen logic working in reverse (seen events would repeat)
+- [Bug] Fix multi-selected refillable storage (reactor, fluid cannon, etc) would fail to eject the fuel
+- [Bug] Fix more story events types could get exhausted and produce nothing (capsules, expeditions)
+
+
 <b>v0.9.41</b> (2023.07.26)
 - [Balance] There will be 20% chance to get a story event with an opposite effect when story generator wants certain kind of tension
 - [Balance] Reduce time between energy rifle shots
