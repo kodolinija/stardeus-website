@@ -1,3 +1,9 @@
+<b>v0.9.43</b> (2023.07.28)
+- [Balance] Directional Turrets will not hit ship engines and other objects attached in space
+- [UI/UX] Prevent some types of messages from repeating in the log view
+- [Bug] Fix spawning a derelict ship that had a stasis array would change the used chambers of existing stasis arrays
+
+
 <b>v0.9.42</b> (2023.07.26)
 - [Feature] Add more dynamic loot types for expedition story events
 - [Bug] Fix story event last seen logic working in reverse (seen events would repeat)
