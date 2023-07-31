@@ -1,3 +1,15 @@
+<b>v0.9.45</b> (2023.07.31)
+- [Balance] Plants will be ready to harvest at 95% growth (was 90%)
+- [Balance] Expedition and signal extortion events will require immediate response
+- [Balance] Reinforced walls will have higher insulation level compared to regular walls
+- [UI/UX] Track Money in Event Log > Situation charts
+- [UI/UX] Show insulation percentage with fractions in Hull Integrity view
+- [UI/UX] Selecting enemy workers will not produce robot interaction sounds
+- [Bug] Fix hostile beings coming from a storage capsule would show a false "joined your colony" notification
+- [Bug] Fix a suggestion to disassemble a Breach Capsule could show up even if a disassembly task was already created
+- [Bug] Pets that have a petting task assigned would show a heart icon on them
+
+
 <b>v0.9.44</b> (2023.07.29)
 - [Balance] Request wake-up in Stasis Array advanced life support controls will work 10x faster
 - [Bug] Fix animal petting tasks would not get executed if a free worker wasn't available when the task was created
