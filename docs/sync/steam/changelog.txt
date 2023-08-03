@@ -1,3 +1,7 @@
+<b>v0.9.46</b> (2023.08.03)
+- [UI/UX] Fix auto scale / rescale related UI auto-resize problems
+
+
 <b>v0.9.45</b> (2023.07.31)
 - [Balance] Plants will be ready to harvest at 95% growth (was 90%)
 - [Balance] Expedition and signal extortion events will require immediate response
