@@ -1,3 +1,118 @@
+<b>v0.9.47</b> (2023.08.08)
+- [Tech] Update Unity to 2022.3.6f1
+- [Bug] Fix main menu pagination not working correctly since a recent UI update
+- [Bug] Fix Vents would not update their surroundings positions after winch / local maneuvering, resulting in ghost oxygen / heat leaks
+
+
+<b>v0.9.46</b> (2023.08.03)
+- [UI/UX] Fix auto scale / rescale related UI auto-resize problems
+
+
+<b>v0.9.45</b> (2023.07.31)
+- [Balance] Plants will be ready to harvest at 95% growth (was 90%)
+- [Balance] Expedition and signal extortion events will require immediate response
+- [Balance] Reinforced walls will have higher insulation level compared to regular walls
+- [UI/UX] Track Money in Event Log > Situation charts
+- [UI/UX] Show insulation percentage with fractions in Hull Integrity view
+- [UI/UX] Selecting enemy workers will not produce robot interaction sounds
+- [Bug] Fix hostile beings coming from a storage capsule would show a false "joined your colony" notification
+- [Bug] Fix a suggestion to disassemble a Breach Capsule could show up even if a disassembly task was already created
+- [Bug] Pets that have a petting task assigned would show a heart icon on them
+
+
+<b>v0.9.44</b> (2023.07.29)
+- [Balance] Request wake-up in Stasis Array advanced life support controls will work 10x faster
+- [Bug] Fix animal petting tasks would not get executed if a free worker wasn't available when the task was created
+
+
+<b>v0.9.43</b> (2023.07.28)
+- [Balance] Directional Turrets will not hit ship engines and other objects attached in space
+- [UI/UX] Prevent some types of messages from repeating in the log view
+- [Bug] Fix spawning a derelict ship that had a stasis array would change the used chambers of existing stasis arrays
+
+
+<b>v0.9.42</b> (2023.07.26)
+- [Feature] Add more dynamic loot types for expedition story events
+- [Bug] Fix story event last seen logic working in reverse (seen events would repeat)
+- [Bug] Fix multi-selected refillable storage (reactor, fluid cannon, etc) would fail to eject the fuel
+- [Bug] Fix more story events types could get exhausted and produce nothing (capsules, expeditions)
+
+
+<b>v0.9.41</b> (2023.07.26)
+- [Balance] There will be 20% chance to get a story event with an opposite effect when story generator wants certain kind of tension
+- [Balance] Reduce time between energy rifle shots
+- [Tech] Add more diagnostics and logs for more effective in-game bug reporting
+- [Tech] Prevent periodic auto-save from running when menu panel or feedback form is displayed
+- [Bug] Fix ML Booth would not stop using electricity if the training task was interrupted
+- [Bug] Fix exhausting all possible Signal events of certain positivity type would not produce a fallback option
+
+
+<b>v0.9.40</b> (2023.07.25)
+- [Feature] Add new story event: Storage Capsule Hostile Being
+- [Bug] Fix signal events would stop working if all types of events were seen recently
+
+
+<b>v0.9.39</b> (2023.07.24)
+- [Balance] Engines that spawn on derelict ships will never be ones that you don't have yourself
+- [Balance] Reduce the frequency of random story events
+- [Balance] Add customizable delay for how frequently any story event can repeat
+- [Graphics] Remove automatic ramp up of the ambient light if there were too few main lights
+- [UI/UX] Right clicking unselected materials and beings will select them and show the context menu
+- [UI/UX] Left click will no longer drag the starmap view
+- [UI/UX] Right clicking objects in starmap will now show the object context menu
+- [UI/UX] Add multi-select action for all crafting devices (Assemblers, Fabricators, Cooking Stations, etc)
+- [UI/UX] Ordering crafting of an item in any crafting device will dynamically determine the wanted amount increment depending on current inventory
+- [Bug] Fix Communicator would not get back to consuming 5kW after used
+- [Bug] Fix Stasis Pod / Storage Capsule affected by a Tractor Beam could land too far away from the contact point
+- [Bug] Fix impossible to click-select a tile if there was multiple free entities above it (i.e. a planter with a plant and some plant fiber above it)
+- [Bug] Fix crawler faction could own a space port
+- [Bug] Fix worker under direct control would not go to an adjacent tile when ctrl+clicked
+
+
+<b>v0.9.38</b> (2023.07.22)
+- [Feature] Add new story event: Food Poisoning
+- [Balance] Damaged devices will require higher level of damage to go on fire / explode (for new story events)
+- [Balance] Damaged devices will not go on fire on their own if there is no oxygen around them (for new story event)
+- [Balance] Some devices will never explode (stuff that has no high energy / combustible parts, like solar panels or planters)
+- [Balance] FTL drives will almost never spawn on derelict ships
+- [Balance] Colonists with urgent needs will ignore the Emergency Siren
+- [UI/UX] Show crafting / processing time and energy cost in extended details of materials
+
+
+<b>v0.9.37</b> (2023.07.21)
+- [Feature] Add new story event: Stasis Pod Dead Traveler
+- [Feature] Add new story event: Damaged Structure Collapse
+- [Feature] Add new story event: Damaged Device Explosion
+- [Feature] Add new story event: Damaged Device Fire
+- [Balance] Limit the frequency with which you can be visited by random traders
+- [Balance] Beings hatched from alien eggs will have correct age
+- [Balance] Reduce the number of cats that could hatch from an egg
+- [Bug] Fix unbuilt / unrelocated planters or vases would display "unconfigured" icon, that would not go away after relocation was finished
+
+
+<b>v0.9.36</b> (2023.07.20)
+- [Graphics] Tone down the saturation of space nebula
+- [Bug] Fix turning off starfield nebula would break the game
+- [Bug] Fix loading a game with a communicator that had a pending merchant request would fail to restore the "Arriving soon" notification
+- [Bug] Remove the option to launch a probe to a planet moon, as it did nothing
+
+
+<b>v0.9.35</b> (2023.07.19)
+- [Balance] Sentry and Orbotron units will be relentless and never go into "High Alert" state during combat
+- [Balance] Robotic workers that have a weapon equipped will have much less chance to go into "High Alert" state during combat
+- [Graphics] Add new "Pitch Black" ambient light option to Video settings
+- [Bug] Fix replacing a multi-tile device with another one would create a set of invisible child tiles that would lead to inconsistent state if upgrade was cancelled / device relocated
+
+
+<b>v0.9.34</b> (2023.07.18)
+- [Balance] Merchants will have ~10x more money in early game
+- [Balance] Make "Device broke down" event much more rare and never appear in early game
+- [Bug] Fix objects that must be outdoors would temporarily have an incorrect initial state after load, potentially causing explosions
+- [Bug] Fix newly constructed electric devices would not display their power metrics until save / load
+- [Bug] Fix relocating a damaged device would remove the damage
+- [Bug] Fix saving / loading with active Stasis Pod Merchant would not reactivate the trade after load
+
+
 <b>v0.9.33</b> (2023.07.18)
 - [Tech] Update Unity to 2022.3.5f1
 - [Tech] Improve electricity grid state validation to prevent inconsistent connection states

@@ -1,3 +1,9 @@
+<b>v0.9.47</b> (2023.08.08)
+- [Tech] Update Unity to 2022.3.6f1
+- [Bug] Fix main menu pagination not working correctly since a recent UI update
+- [Bug] Fix Vents would not update their surroundings positions after winch / local maneuvering, resulting in ghost oxygen / heat leaks
+
+
 <b>v0.9.46</b> (2023.08.03)
 - [UI/UX] Fix auto scale / rescale related UI auto-resize problems
 
