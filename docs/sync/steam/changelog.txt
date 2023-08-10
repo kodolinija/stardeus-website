@@ -1,3 +1,11 @@
+<b>v0.9.48</b> (2023.08.10)
+- [UI/UX] Log copter mission failures
+- [Tech] Make copter missions much more resilient to edge case failures
+- [AI] Improve "seek safety" algorithm for biological beings
+- [Bug] Fix copters getting stuck if more than one miner deployment mission was launched at the same time
+- [Bug] Fix copter mission would fail if more than one mission would get started while the game was paused
+
+
 <b>v0.9.47</b> (2023.08.08)
 - [Tech] Update Unity to 2022.3.6f1
 - [Bug] Fix main menu pagination not working correctly since a recent UI update
