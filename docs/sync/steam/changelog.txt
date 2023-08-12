@@ -1,3 +1,9 @@
+<b>v0.9.49</b> (2023.08.12)
+- [Balance] Damaged Structure Collapsed story event will only happen in sections of significant size
+- [Balance] Damaged Structure Collapsed story event will collapse larger areas
+- [Misc] Add Italian community translation by AndyD
+
+
 <b>v0.9.48</b> (2023.08.10)
 - [UI/UX] Log copter mission failures
 - [Tech] Make copter missions much more resilient to edge case failures
