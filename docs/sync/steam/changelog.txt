@@ -1,3 +1,13 @@
+<b>v0.9.50</b> (2023.08.19)
+- [Tech] Update Unity to 2022.3.7f1
+- [Balance] Ablutophobic trait will no longer give negative mood for "Feeling clean"
+- [Graphics] Device ranges will still be displayed when cosmetic particles are disabled
+- [Graphics] Tone down space nebula brightness
+- [Bug] Fix using Enter Amount input in crafting device UI would not update the amount
+- [Bug] Fix label would get removed when relocating a device
+- [Bug] Fix storage settings would get reset when relocating a device
+
+
 <b>v0.9.49</b> (2023.08.12)
 - [Balance] Damaged Structure Collapsed story event will only happen in sections of significant size
 - [Balance] Damaged Structure Collapsed story event will collapse larger areas
