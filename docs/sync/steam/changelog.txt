@@ -1,3 +1,8 @@
+<b>v0.9.53</b> (2023.08.22)
+- [Graphics] Improve door / vent / window / wall socket auto-rotation when the adjacent walls are not only North-South or East-West
+- [Bug] Fix beings could end their path half a tile short, finishing the walk too far away from the target (i.e. in a doorway)
+
+
 <b>v0.9.52</b> (2023.08.22)
 - [Balance] Adjust human needs change rates to make them more eager to work
 - [Balance] Refresh space port merchant inventory once in 3-7 weeks
