@@ -1,3 +1,14 @@
+<b>v0.9.52</b> (2023.08.22)
+- [Balance] Adjust human needs change rates to make them more eager to work
+- [Balance] Refresh space port merchant inventory once in 3-7 weeks
+- [Balance] Whenever a raid happens, reduce the faction relationship with the raiders
+- [UI/UX] Codex > Factions will display the faction standing
+- [Bug] Fix electricity deficit on a repair station would put a worker in limbo
+- [Bug] Fix humans on expedition would catch Space Diarrhea while not exposed to other colonists on the ship
+- [Bug] Fix entering / exiting planet with a faction would keep modifying the faction standing
+- [Bug] Faction encounters are going to be tracked more accurately
+
+
 <b>v0.9.51</b> (2023.08.20)
 - [UI/UX] Electricity chart will not contain data from unreachable grids
 - [Bug] Fix Electricity chart would not always show battery levels correctly for multiple grids
