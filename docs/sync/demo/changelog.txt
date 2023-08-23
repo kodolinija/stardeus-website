@@ -1,3 +1,33 @@
+<b>v0.9.54</b> (2023.08.23)
+- [AI] Grounded beings will be more careful about removing floors around / under them
+- [AI] Humans will be taking floor removal tasks if they are not inside enclosed areas
+- [Misc] Add Vietnamese alphabet support
+- [Bug] Fix renaming / moving a device with a label would not update the room names in Rooms overlay view
+- [Bug] Fix Pet Bowl would display "Fuel Burn Rate" in the UI
+- [Bug] Fix building a floor underneath a grounded worker that needed rescue would not cancel the rescue task
+
+
+<b>v0.9.53</b> (2023.08.22)
+- [Graphics] Improve door / vent / window / wall socket auto-rotation when the adjacent walls are not only North-South or East-West
+- [Bug] Fix beings could end their path half a tile short, finishing the walk too far away from the target (i.e. in a doorway)
+
+
+<b>v0.9.52</b> (2023.08.22)
+- [Balance] Adjust human needs change rates to make them more eager to work
+- [Balance] Refresh space port merchant inventory once in 3-7 weeks
+- [Balance] Whenever a raid happens, reduce the faction relationship with the raiders
+- [UI/UX] Codex > Factions will display the faction standing
+- [Bug] Fix electricity deficit on a repair station would put a worker in limbo
+- [Bug] Fix humans on expedition would catch Space Diarrhea while not exposed to other colonists on the ship
+- [Bug] Fix entering / exiting planet with a faction would keep modifying the faction standing
+- [Bug] Faction encounters are going to be tracked more accurately
+
+
+<b>v0.9.51</b> (2023.08.20)
+- [UI/UX] Electricity chart will not contain data from unreachable grids
+- [Bug] Fix Electricity chart would not always show battery levels correctly for multiple grids
+
+
 <b>v0.9.50</b> (2023.08.19)
 - [Tech] Update Unity to 2022.3.7f1
 - [Balance] Ablutophobic trait will no longer give negative mood for "Feeling clean"

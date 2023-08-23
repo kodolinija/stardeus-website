@@ -1,3 +1,12 @@
+<b>v0.9.54</b> (2023.08.23)
+- [AI] Grounded beings will be more careful about removing floors around / under them
+- [AI] Humans will be taking floor removal tasks if they are not inside enclosed areas
+- [Misc] Add Vietnamese alphabet support
+- [Bug] Fix renaming / moving a device with a label would not update the room names in Rooms overlay view
+- [Bug] Fix Pet Bowl would display "Fuel Burn Rate" in the UI
+- [Bug] Fix building a floor underneath a grounded worker that needed rescue would not cancel the rescue task
+
+
 <b>v0.9.53</b> (2023.08.22)
 - [Graphics] Improve door / vent / window / wall socket auto-rotation when the adjacent walls are not only North-South or East-West
 - [Bug] Fix beings could end their path half a tile short, finishing the walk too far away from the target (i.e. in a doorway)
