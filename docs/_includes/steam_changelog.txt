@@ -1,3 +1,10 @@
+<b>v0.9.55</b> (2023.08.27)
+- [Tech] Update Unity to 2022.3.8f1
+- [Balance] Significantly reduce Probe speed
+- [UI/UX] Display storage capacity in expedition shuttle choice tooltips
+- [Misc] Add Portuguese Brazil "Classic" translation
+
+
 <b>v0.9.54</b> (2023.08.23)
 - [AI] Grounded beings will be more careful about removing floors around / under them
 - [AI] Humans will be taking floor removal tasks if they are not inside enclosed areas
