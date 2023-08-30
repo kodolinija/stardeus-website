@@ -1,7 +1,17 @@
+<b>v0.9.56</b> (2023.08.30)
+- [Balance] Allow entering space objects while the ship is moving
+- [UI/UX] Show planet resource list in tooltip when hovering a planet in Starmap
+- [UI/UX] Improve Starmap object selection logic when hovering multiple objects
+- [UI/UX] Deconstruct tool will support special tool modes (line, circle, pencil, bucket fill)
+- [Bug] Fix planter would not allow moving / rotating above itself while growing a plant
+- [Bug] Fix relocating a planter in sandbox mode would set plant growth to 0%
+
+
 <b>v0.9.55</b> (2023.08.27)
 - [Tech] Update Unity to 2022.3.8f1
 - [Balance] Significantly reduce Probe speed
 - [UI/UX] Display storage capacity in expedition shuttle choice tooltips
+- [UI/UX] Disallow renaming beings that don't belong to player's faction
 - [Misc] Add Portuguese Brazil "Classic" translation
 
 
