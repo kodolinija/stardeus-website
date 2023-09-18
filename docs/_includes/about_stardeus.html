@@ -62,7 +62,7 @@
             <p>
                 Each AI agent in Stardeus has a free will to pick their next actions based on their needs. For example,
                 all robotic workers have a "purpose" need that drives them to do something useful, otherwise they
-                wouldn’t feel like building that wall you just ordered. However, a slightly discharged drone will choose
+                wouldn't feel like building that wall you just ordered. However, a slightly discharged drone will choose
                 to build the solar panels first, because it knows that solar panels will provide electricity, and that
                 is necessary for survival.
             </p>
@@ -119,8 +119,7 @@
             <ul>
                 <li>
                     <b>Processor</b> - turns an object into one or more different resources (i.e. a
-                    Disassembler can break down a dead robot into raw components (microchip, steel, copper, batteries,
-                    etc.)).
+                    Disassembler can break down a dead robot into raw components - microchips, titanium plates, copper wire, gears, batteries).
 
                 </li>
                 <li>
@@ -166,7 +165,7 @@
                 map. Each tile has properties like insulation and airtightness that can change in real time (i.e.
                 depending on the size of the gap of an open door while it is opening or closing, or the amount of damage
                 a wall has received). In a default 320x320 map this exchange happens in over 100000 tiles at the same
-                time. It is also quick and efficient, as the simulation runs on the GPU.
+                time. It is also quick and efficient, as like many other internal systems, this simulation is highly optimized and utilizes cutting edge techniques to get the most ouf of modern multi-threaded CPUs.
             </p>
 
             <p>
@@ -194,7 +193,7 @@
                 have a variety of goods, a robot merchant that will buy or sell only worker bots, etc.
             </p>
             <p>
-                You can both buy and sell goods when trading with merchants, so if you’re very short on copper plates,
+                You can both buy and sell goods when trading with merchants, so if you're very short on copper plates,
                 but have a ton of titanium ones, you can stumble upon a merchant that will be happy to exchange them for
                 you. For a little markup, of course.
             </p>
@@ -223,12 +222,12 @@
         <div class="unit whole">
             <h2>Story Generator</h2>
             <p>
-                Simply building your base in an idyllic environment could get boring pretty quickly, that’s why the
+                Simply building your base in an idyllic environment could get boring pretty quickly, that's why the
                 story generator will analyze the state of the simulation and find potential hook points where emergent
                 storytelling can happen.
             </p>
             <p>
-                Imagine the following chain of events. John wants to eat his meal at a table, but you didn’t build one.
+                Imagine the following chain of events. John wants to eat his meal at a table, but you didn't build one.
                 John decides
                 to eat his meal off an Oxygen Pump, since it has a flat surface. After eating a better half of his meal,
                 John walks
@@ -331,7 +330,7 @@
                 parallel universe.
             </p>
             <p>
-                Don’t want to risk it with wormholes? Invent an FTL drive that will let you hyperjump astronomical
+                Don't want to risk it with wormholes? Invent an FTL drive that will let you hyperjump astronomical
                 distances in a relatively safe but more energy intensive way.
             </p>
         </div>
@@ -368,14 +367,11 @@
         </div>
 
         <div class="unit half">
-            <h2>Research Tree</h2>
+            <h2>Research System</h2>
             <p>
-                To unlock construction blueprints, various abilities, perks and upgrades, your Ship Computer will have
-                to run
-                research. Research takes time and uses multiple resources, like Electricity, Memory (RAM) and Disk
-                Storage. You
-                will need to build and expand your own data center and ensure the adequate production of electricity.
-
+                Use the Research Tree to unlock construction blueprints, various abilities, perks and upgrades. Unlocking research requires specialized resources called Datoids. You will have
+                to acquire necessary resources and produce the ingredients required
+                for creating the Datoids. Once you have enough Datoids of the right type, you can consume them to unlock something in the Research Tree.
             </p>
             <p>
                 The Research Tree will have hidden technologies that you will only be able to research if you discover
@@ -384,11 +380,6 @@
                 research
                 data for a technology you have never seen before.
 
-            </p>
-            <p>
-                The research architecture is highly moddable and easy to expand. The goal is to be able to have hundreds
-                of
-                research nodes.
             </p>
             <p>
                 You can explore this <a href="https://kodolinija.github.io/stardeus-graphs/research-3d/">interactive 3D
@@ -617,7 +608,7 @@
         <div class="unit half">
             <h2>Procedural Generation Framework</h2>
             <p>
-                Good procedural generation is difficult to achieve, that’s why I spent a few months of development
+                Good procedural generation is difficult to achieve, that's why I spent a few months of development
                 focused
                 solely on making a modular procedural generation framework that can produce very different, diverse
                 spaceships
@@ -653,7 +644,7 @@
         <div class="unit half">
             <h2>Built in Feedback Form</h2>
             <p>
-                A great game cannot be made without listening to what the players have to say. That’s why there is a
+                A great game cannot be made without listening to what the players have to say. That's why there is a
                 built-in feedback form that includes your save file, a screenshot, along with your message to the
                 developer.
             </p>
