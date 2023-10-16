@@ -1,3 +1,52 @@
+<b>v0.10.0</b> (2023.10.16)
+- [Feature] New Research mechanics based on resource production
+- [Feature] New Fire and Explosions system
+- [Feature] New Universe generation algorithm with Biomes that affect resource and faction distribution
+- [Feature] Reorganize the Research Tree
+- [Feature] Replace the Wrecked scenario tutorial with 6 standalone tutorials
+- [Feature] Add several new devices and materials
+- [Feature] CPU will now be used to limit the size of the grid that you can control
+- [Feature] Bot cap is now research based
+- [Feature] Most devices that produce materials will be configured in the same way.
+- [Feature] Remove Process tool
+- [Feature] Add Door Permissions system
+- [Feature] Add Speed Upgrade, installable to both workers and most devices
+- [Feature] Add Energy Efficiency Upgrade, installable to both workers and most devices
+- [Feature] Add Armored Walls
+- [Feature] Add a Trap Floor device
+- [Feature] Add ability to retrieve deployed AutoDrill Rigs from planets
+- [Feature] Resource deposits will have depth that increases with mining
+- [Feature] Shuttles and Autodrill Rigs will have max mining depth
+- [Feature] Derelict ships can be generated with any rotation
+- [Balance] Ship Computer will no longer produce electricity
+- [Balance] Hundreds of small balance adjustments in many aspects of the game
+- [Balance] Humans will get tired during shuttle expeditions
+- [Balance] Tired humans cannot be sent to shuttle expeditions
+- [Balance] Reduce production time for a large number of items
+- [Balance] Increase cash owned by merchants
+- [Balance] Change stock market simulation algorithm to be less aggressive
+- [Graphics] Objects sitting in open space will slowly hover
+- [Graphics] Improve visuals of fire and explosions
+- [Mods] Make the game more difficult to break with incompatible mods
+- [UI/UX] Add search field for Inventory, Stock Market, Trade View and more
+- [UI/UX] Add Grid Menu as an alternative to the Radial Menu
+- [UI/UX] Add batch size configuration for crafting devices to reduce material hauling tasks
+- [UI/UX] Starmap will display planet trajectory rings
+- [UI/UX] Improve Quests UI and allow progressing multiple quests in parallel
+- [UI/UX] You have to fly outside the outer ring to exit a space object in Starmap
+- [UI/UX] Charts will be have a grid with units displayed on axes
+- [UI/UX] Charts will be clearable and have a toggle view between 0-max and min-max
+- [UI/UX] Electricity chart will display renewable energy
+- [UI/UX] Group Idle, Material Deficit and Unconfigured device notifications
+- [UI/UX] Add group management UI for devices that are Idle, Unconfigured, or with Material Deficit
+- [UI/UX] Ship Controls overlay will have Local Maneuvering section that will give convenient access to all Maneuvering Controllers
+- [UI/UX] Hundreds of small enhancements touching various aspects of UI
+
+
+<b>v0.9.57</b> (2023.09.04)
+- [Bug] Fix electricity grid could falsely mark some connectors as unreachable when they were connected to a turned off switch
+
+
 <b>v0.9.56</b> (2023.08.30)
 - [Balance] Allow entering space objects while the ship is moving
 - [UI/UX] Show planet resource list in tooltip when hovering a planet in Starmap
@@ -89,6 +138,11 @@
 - [Bug] Fix hostile beings coming from a storage capsule would show a false "joined your colony" notification
 - [Bug] Fix a suggestion to disassemble a Breach Capsule could show up even if a disassembly task was already created
 - [Bug] Pets that have a petting task assigned would show a heart icon on them
+
+
+<b>v0.9.44</b> (2023.07.29)
+- [Balance] Change plant harvesting
+- [Balance] Certain expedition and signal events will require immediate choice
 
 
 <b>v0.9.44</b> (2023.07.29)

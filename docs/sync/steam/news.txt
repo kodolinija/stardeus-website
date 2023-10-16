@@ -1,13 +1,18 @@
-Electricity System Rewrite
-https://store.steampowered.com/news/app/1380910/view/3689057865493248775 Full Announcement
-2023-06-12
+One Year of Early Access
+https://store.steampowered.com/news/app/1380910/view/6642304827660326736 Full Announcement
+2023-10-16
 
 Greetings, Space Traveler!
 
-The electricity system was recently rewritten from the ground up. Large ships with thousands of electric devices will now be able to simulate the electricity flow much faster! Unfortunately, <color=#FF4040FF>most mods that interacted with the electricity system are no longer compatible with v0.9</color>.
+Stardeus has come a long way in the year since its Early Access launch. This update is the largest to date, featuring:
 
-If you choose to load a save file that relied on an obsolete mod, you may expect the following:
-- New electric devices added by the mod will disappear
-- Electricity grid connections added by mod that extends the connector range / capacity will be removed, so you may have to rewire your ship.
+- A brand new research system
+- New tutorials
+- New content
+- Numerous UI enhancements
+- Hundreds of balance adjustments
+- Reworked systems and mechanics
 
-There is also a way to continue playing the older v0.8 - read the full announcement to find out how.
+Old save files are compatible, but we recommend taking the new tutorials and starting a fresh game.
+
+For more details, read the full announcement on Steam or [url=https://www.youtube.com/watch?v=iDS32EMmohw]watch this video[/url].

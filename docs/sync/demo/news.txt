@@ -1,13 +1,18 @@
-Major Update #2: Complex Planets
-https://store.steampowered.com/news/app/1380910/view/3722831692207775366 Full Announcement
-2023-05-11
+One Year of Early Access
+https://store.steampowered.com/news/app/1380910/view/6642304827660326736 Full Announcement
+2023-10-16
 
 Greetings, Space Traveler!
 
-The second major update is now in your hands! There are tons of new features, mechanics and balance changes. The old saves will work, but it is recommended to start a brand new run of the Wrecked scenario.
+Stardeus has come a long way in the year since its Early Access launch. This update is the largest to date, featuring:
 
-<b>Warning</b>! The difficulty has increased, the Wrecked scenario will feel more resource constrained and you will have to find creative ways to survive and expand in a controlled way.
+- A brand new research system
+- New tutorials
+- New content
+- Numerous UI enhancements
+- Hundreds of balance adjustments
+- Reworked systems and mechanics
 
-If you want a more relaxed ship building experience, visit the Modifiers to change the Difficulty or give yourself more resources when starting a new game.
+Old save files are compatible, but we recommend taking the new tutorials and starting a fresh game.
 
-There is a [url=https://www.youtube.com/watch?v=pX6_TiVtJsw]YouTube video[/url] of the developer showcasing the highlights of this update.
+For more details, read the full announcement on Steam or [url=https://www.youtube.com/watch?v=iDS32EMmohw]watch this video[/url].
