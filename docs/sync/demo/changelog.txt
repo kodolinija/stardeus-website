@@ -1,3 +1,10 @@
+<b>v0.10.1</b> (2023.10.16)
+- [UI/UX] Auto-close the prompt to open the Starmap when the Starmap was opened through a shortcut
+- [Bug] Fix some newly built devices would not have VFX until save / load
+- [Bug] Fix relocating a loaded crafting device would not relocate the ingredients
+- [Bug] Fix having a teleporter near a wall could cause raiders to spawn on the other side of the wall
+
+
 <b>v0.10.0</b> (2023.10.16)
 - [Feature] New Research mechanics based on resource production
 - [Feature] New Fire and Explosions system
