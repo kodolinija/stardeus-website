@@ -1,3 +1,13 @@
+<b>v0.10.2</b> (2023.10.17)
+- [Misc] When the ship rotates to adjust the flight direction, the rotation will affect the trajectories of some of the incoming space bodies
+- [Bug] Fix beings would retry delivery of unreachable materials without a proper delay
+- [Bug] Fix beings would fail to find paths between interconnected areas that were unreachable from the outside
+- [Bug] Fix a few cases when prompt to open the Starmap would not auto-close when Starmap was opened through a shortcut
+- [Bug] Fix copy configuration option would still be available during the electricity grid CPU deficit
+- [Bug] Fix expedition ending before shuttle had left the ship would apply extreme mood penalty to human crew members
+- [Bug] Fix rescue operation could repeatedly fail under certain ship configurations
+
+
 <b>v0.10.1</b> (2023.10.16)
 - [UI/UX] Auto-close the prompt to open the Starmap when the Starmap was opened through a shortcut
 - [Bug] Fix some newly built devices would not have VFX until save / load
