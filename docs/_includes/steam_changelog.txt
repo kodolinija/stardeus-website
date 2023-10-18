@@ -1,3 +1,19 @@
+<b>v0.10.3</b> (2023.10.18)
+- [Tech] Update Unity to 2022.3.11f1
+- [Balance] Adjust resource distribution in biomes generation to produce more mineral deposits
+- [Feature] Objects deconstructed by a colonist with mental breakdown will be auto rebuilt
+- [UI/UX] Add a list of favorite material counts in top left
+- [UI/UX] Ctrl + click in the Inventory material list will add / remove it from favorites
+- [UI/UX] Create log entry when a colonist deconstructs an object during a mental breakdown
+- [UI/UX] Sort Datoid costs in Research Tree by datoid type instead of by quantity
+- [Misc] Add "space scan_*" console commands for debugging resource generation
+- [Bug] Fix micro meteoroid strike could have a false hit if it completely missed the ship
+- [Bug] Fix expedition members could catch on fire and receive fire damage while on expedition
+- [Bug] Fix Relocating refillable storages (Reactors, Fluid Cannons, etc) would reset configuration and eject the fuel
+- [Bug] Fix collecting floating materials by winching ship sections would not stop collected materials from hovering
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.10.2</b> (2023.10.17)
 - [Misc] When the ship rotates to adjust the flight direction, the rotation will affect the trajectories of some of the incoming space bodies
 - [Bug] Fix beings would retry delivery of unreachable materials without a proper delay
