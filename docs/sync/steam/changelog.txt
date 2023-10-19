@@ -1,3 +1,14 @@
+<b>v0.10.4</b> (2023.10.19)
+- [Misc] Make tutorials more difficult to break by going off-script
+- [UI/UX] Group materials with variations in the Inventory view
+- [UI/UX] Make favorite materials have highlighted names across all UI
+- [UI/UX] Ctrl + click material ui should toggle favorite status in almost every UI element that shows a material
+- [UI/UX] Show where you would emerge when going through a black hole, if such information is known
+- [UI/UX] Add inline search in more UI lists (codex materials, blueprints)
+- [UI/UX] Rearrange the order of Basic Controls tutorial steps to make it less intimidating
+- [Bug] Fix Trade View would allow to sell both generic clothing items and their variations at the same time, potentially leading to a sale error
+
+
 <b>v0.10.3</b> (2023.10.18)
 - [Tech] Update Unity to 2022.3.11f1
 - [Balance] Adjust resource distribution in biomes generation to produce more mineral deposits
