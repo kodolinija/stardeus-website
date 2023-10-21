@@ -1,3 +1,13 @@
+<b>v0.10.6</b> (2023.10.21)
+- [Misc] Add developer tools to manipulate temperature / oxygen
+- [UI/UX] Explain why AutoDrill Rig cannot be deployed to resources owned by another faction
+- [UI/UX] Restore last used Mining Orders settings when launching a new Expedition
+- [Tech] Use the new fire system in a safer way to prevent potential crashes
+- [Bug] Fix spawning a derelict ship too close to the map edge could have resulted in generation failure
+- [Bug] Fix relocation was allowed for a device that was undergoing deconstruction due to a mental breakdown
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.10.5</b> (2023.10.20)
 - [UI/UX] Restore "Owned: X" tooltips for material UI elements that have no count display
 - [Bug] Fix inventory list would keep resetting to page 1 if clock was running
