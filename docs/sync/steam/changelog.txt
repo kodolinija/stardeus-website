@@ -1,3 +1,10 @@
+<b>v0.10.7</b> (2023.10.22)
+- [Bug] Fix "Deploy Resource Miner" would not work since the last build
+- [Bug] Fix Electricity tutorial could get stuck on building a bridge if build mode was cancelled too early
+- [Bug] Fix an internal state bug in the new fire system
+- [Bug] Fix a couple of auto-reported internal errors
+
+
 <b>v0.10.6</b> (2023.10.21)
 - [Misc] Add developer tools to manipulate temperature / oxygen
 - [UI/UX] Explain why AutoDrill Rig cannot be deployed to resources owned by another faction
