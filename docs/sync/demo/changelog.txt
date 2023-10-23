@@ -1,3 +1,17 @@
+<b>v0.10.9</b> (2023.10.23)
+- [Balance] Make shuttle mining expeditions 25% more efficient
+- [Balance] Increase mining depth 25% slower
+- [Balance] Reduce Copper mining difficulty by ~20%
+- [Bug] Fix grounded beings would not attempt to build floors even if they could reach the spot
+- [Bug] Fix firefighters could start ignoring fires after firefighting for some time
+
+
+<b>v0.10.8</b> (2023.10.22)
+- [AI] Beings who can firefight will try to extinguish themselves if they catch on fire
+- [Bug] Fix "Moving Ship Sections" tutorial could get stuck in the build a bridge step if build tool was cancelled too early
+- [Bug] Fix multiple concurrent explosions could have caused some edge case internal errors
+
+
 <b>v0.10.7</b> (2023.10.22)
 - [Bug] Fix "Deploy Resource Miner" would not work since the last build
 - [Bug] Fix Electricity tutorial could get stuck on building a bridge if build mode was cancelled too early
