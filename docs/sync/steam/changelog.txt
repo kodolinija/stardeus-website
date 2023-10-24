@@ -1,3 +1,10 @@
+<b>v0.10.10</b> (2023.10.24)
+- [Balance] Increase Rock -> Uranium conversion material cost from 25 to 50 Rock per 1 Uranium
+- [Balance] Increase Rock -> Uranium conversion electricity cost from 30 to 60kW
+- [Tech] Add validation and self-correction logic for the Teleporter network
+- [Bug] Fix grounded beings would not evaluate repair tasks for floor tiles
+
+
 <b>v0.10.9</b> (2023.10.23)
 - [Balance] Make shuttle mining expeditions 25% more efficient
 - [Balance] Increase mining depth 25% slower
