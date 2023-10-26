@@ -1,3 +1,12 @@
+<b>v0.10.11</b> (2023.10.26)
+- [UI/UX] Add building size information to codex details
+- [Misc] Add translation keys for overriding "Locked" / "Unlocked" / "Unlock" in Research for some languages
+- [Bug] Fix teleporter self-correction logic could fail to rebuild the teleporter map
+- [Bug] Fix Crawlers would unsuccessfully attempt to attach to Cats during combat
+- [Bug] Fix several auto reported internal errors
+- [Bug] Fix InfoPanel UI would keep rebuilding when looking at certain devices, preventing some tooltips from showing up
+
+
 <b>v0.10.10</b> (2023.10.24)
 - [Balance] Increase Rock -> Uranium conversion material cost from 25 to 50 Rock per 1 Uranium
 - [Balance] Increase Rock -> Uranium conversion electricity cost from 30 to 60kW
