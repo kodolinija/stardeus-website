@@ -1,3 +1,34 @@
+<b>v0.10.12</b> (2023.10.27)
+- [Feature] Eggs will sometimes spawn Crawler Goo
+- [Balance] Eggs will be able to hatch in any conditions (slower when cold, faster when warm)
+- [Balance] Eggs won't spawn more than 15 crawlers at a time
+- [Balance] Sentry will have max mining skill of 5 (was 3)
+- [Balance] Orbotron will be able to do Demolition and Repairs
+- [Balance] Orbotron will now have a mining skill (max 7)
+- [Balance] Orbotron will be cheaper to unlock in Research Tree
+- [Misc] Deleting the last known save file will not delete the save folder if the folder is not completely empty
+- [UI/UX] Eggs will show their hatch progress
+- [UI/UX] Show a hint about Void Ripper spawning Dark Matter when going through a Black Hole for the first time
+- [Bug] Fix relocating larger devices on top of themselves or in sandbox mode would not update the walkability map correctly
+- [Bug] Fix deleting the current save would not refresh the Continue button
+
+
+<b>v0.10.11</b> (2023.10.26)
+- [UI/UX] Add building size information to codex details
+- [Misc] Add translation keys for overriding "Locked" / "Unlocked" / "Unlock" in Research for some languages
+- [Bug] Fix teleporter self-correction logic could fail to rebuild the teleporter map
+- [Bug] Fix Crawlers would unsuccessfully attempt to attach to Cats during combat
+- [Bug] Fix several auto reported internal errors
+- [Bug] Fix InfoPanel UI would keep rebuilding when looking at certain devices, preventing some tooltips from showing up
+
+
+<b>v0.10.10</b> (2023.10.24)
+- [Balance] Increase Rock -> Uranium conversion material cost from 25 to 50 Rock per 1 Uranium
+- [Balance] Increase Rock -> Uranium conversion electricity cost from 30 to 60kW
+- [Tech] Add validation and self-correction logic for the Teleporter network
+- [Bug] Fix grounded beings would not evaluate repair tasks for floor tiles
+
+
 <b>v0.10.9</b> (2023.10.23)
 - [Balance] Make shuttle mining expeditions 25% more efficient
 - [Balance] Increase mining depth 25% slower
