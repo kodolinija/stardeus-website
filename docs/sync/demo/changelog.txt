@@ -1,3 +1,9 @@
+<b>v0.10.13</b> (2023.10.28)
+- [Balance] Remove micrometeoroid penetration prevention debuff from walls that were not adjacent to unenclosed areas
+- [Bug] Hotfix game could freeze after winching a section with active teleporters
+- [Bug] Fix winching could cause beings to move between some teleporters as if it was a normal path, receiving environmental damage in result
+
+
 <b>v0.10.12</b> (2023.10.27)
 - [Feature] Eggs will sometimes spawn Crawler Goo
 - [Balance] Eggs will be able to hatch in any conditions (slower when cold, faster when warm)
