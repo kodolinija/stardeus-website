@@ -1,3 +1,9 @@
+<b>v0.10.14</b> (2023.10.30)
+- [Tech] Update Unity to 2022.3.12f1
+- [Balance] Auto-unlock the required Robot Cap to support the number of starting bots if game modifiers were used
+- [Bug] Fix telescope could find a terraformable planet that belonged to another faction
+
+
 <b>v0.10.13</b> (2023.10.28)
 - [Balance] Remove micrometeoroid penetration prevention debuff from walls that were not adjacent to unenclosed areas
 - [Bug] Hotfix game could freeze after winching a section with active teleporters
