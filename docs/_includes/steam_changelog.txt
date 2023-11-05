@@ -1,3 +1,22 @@
+<b>v0.10.15</b> (2023.11.05)
+- [Feature] Add Auto-select projectile option for Tractor Beams. On by default.
+- [Balance] Double the pull strength of Tractor Beam
+- [Balance] Each fully charged Void Ripper will spawn Dark Matter after jumping through a black hole
+- [Balance] Having a functional Radar will automatically identify planet resource types when your ship gets close
+- [Balance] Increase Shuttle speed in the Starmap by 5x
+- [Balance] Increase Copter speed in the Starmap by 20x
+- [Balance] Increase Copter speed on ship by 3x
+- [Balance] Make robotic workers more common in merchant inventory in earlier game stages
+- [Balance] Make Asimov Override Upgrade easier to find through merchants
+- [Balance] Increase move speed and acceleration for all beings except Crawlers
+- [Balance] Increase base construction speed by 2.5x
+- [Balance] Increase deconstruction speed by 2x
+- [Balance] Increase repair speed by 2x
+- [UI/UX] List unconfigured Tractor Beams among other unconfigured devices
+- [Bug] Fix interrupting a material delivery task would not always cancel material reservations
+- [Bug] Fix current being speed was displayed incorrectly when inspecting it in the UI
+
+
 <b>v0.10.14</b> (2023.10.30)
 - [Tech] Update Unity to 2022.3.12f1
 - [Balance] Auto-unlock the required Robot Cap to support the number of starting bots if game modifiers were used
