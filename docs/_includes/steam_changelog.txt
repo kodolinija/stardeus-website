@@ -1,3 +1,9 @@
+<b>v0.10.16</b> (2023.11.08)
+- [UI/UX] Always show Datoid names when hovering requirements in the Research Tree
+- [Bug] Fix Tractor Beams would ignore Auto Target Off setting for incoming threats
+- [Bug] Fix a few issues with Tractor Beam targeting logic
+
+
 <b>v0.10.15</b> (2023.11.05)
 - [Feature] Add Auto-select projectile option for Tractor Beams. On by default.
 - [Balance] Double the pull strength of Tractor Beam
