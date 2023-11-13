@@ -1,3 +1,13 @@
+<b>v0.10.17</b> (2023.11.13)
+- [Tech] Update Unity to 2022.3.13f1
+- [Balance] Generate more common resource deposits on newly discovered planets
+- [Balance] "Travel To" option will pick a position much closer to the object in Planet layer
+- [QOL] Retry delivering materials to devices with deficit immediately after purchasing items from a merchant
+- [Misc] Update Russian and Ukrainian translations
+- [Bug] Fix "Explore Planet" quest could get into a state where the ship had to fly back and return to progress
+- [Bug] Fix a couple of auto-reported internal edge case errors
+
+
 <b>v0.10.16</b> (2023.11.08)
 - [UI/UX] Always show Datoid names when hovering requirements in the Research Tree
 - [Bug] Fix Tractor Beams would ignore Auto Target Off setting for incoming threats
