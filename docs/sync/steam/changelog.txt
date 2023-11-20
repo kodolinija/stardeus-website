@@ -1,3 +1,15 @@
+<b>v0.10.18</b> (2023.11.20)
+- [Balance] Eggs will spawn more frequently
+- [Balance] Reduce cost of collecting Dark Matter via Particle Collector to 5MW
+- [Balance] Increase Matter Reactor output from 50kW to 150kW
+- [Balance] Increase GPU module electricity consumption by ~2x
+- [Balance] Reduce unlock cost of the Local Maneuvering research node
+- [Balance] Having objects (including other engines) in path of the engine flame will have consequences
+- [UI/UX] Toilets / showers will show "Dirty" warning at 85% full instead of 50%
+- [UI/UX] Local Maneuvering menu in Ship Controls will not focus on the thrusters when selecting them
+- [UI/UX] Make drag inertia act more predictably across different frame rates
+
+
 <b>v0.10.17</b> (2023.11.13)
 - [Tech] Update Unity to 2022.3.13f1
 - [Balance] Generate more common resource deposits on newly discovered planets
