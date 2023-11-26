@@ -1,3 +1,16 @@
+<b>v0.10.19</b> (2023.11.26)
+- [Balance] Make Battery Discharge / Overload events occur less frequently
+- [Balance] Battery Overload event will pick the target from Carrier Drones in addition to Construction Drones
+- [Balance] Battery discharge / overload events will never affect robots that are less than 1 month old
+- [Balance] Adjust construction cost of CPU module (reduce required Transistor count 10 -> 5)
+- [UI/UX] Make Starmap object labels interactive
+- [UI/UX] Highlight the label when hovering an object in the Starmap
+- [UI/UX] Starting an expedition will auto-fill either the last used or currently selected Shuttle
+- [Misc] Add extra checks to prevent launching an expedition with invalid state
+- [Misc] Disallow selecting workers under direct control as expedition members
+- [Bug] Fix large Matter Reactor still showing 50kW in the device title
+
+
 <b>v0.10.18</b> (2023.11.20)
 - [Balance] Eggs will spawn more frequently
 - [Balance] Reduce cost of collecting Dark Matter via Particle Collector to 5MW
