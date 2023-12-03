@@ -1,3 +1,8 @@
+<b>v0.10.21</b> (2023.12.03)
+- [Balance] Objects in space will be stopping materials from floating away (i.e. soil on solar panels)
+- [Balance] Improve firefighter retargeting speed
+
+
 <b>v0.10.20</b> (2023.12.03)
 - [Tech] Update Unity to 2022.3.14f1
 - [Balance] Construction tasks for devices attached in space will require presence of constructed adjacent structure
