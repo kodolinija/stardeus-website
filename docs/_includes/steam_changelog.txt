@@ -1,3 +1,17 @@
+<b>v0.10.20</b> (2023.12.03)
+- [Tech] Update Unity to 2022.3.14f1
+- [Balance] Construction tasks for devices attached in space will require presence of constructed adjacent structure
+- [Balance] Improve firefighter distribution when extinguishing flames
+- [UI/UX] Show Aesthetics in Codex entries
+- [UI/UX] Show information about recovered loot after expedition ends
+- [UI/UX] Crafting devices will show color coded electricity consumption of the product
+- [UI/UX] Rename "Nuclear Battery" research node to "Nuclear Cell"
+- [Bug] Fix losing a shuttle mid expedition would still show a message about the shuttle returning
+- [Bug] Fix cleaning dirty large solar panels would only yield one piece of soil per whole panel
+- [Bug] Fix possibility of eternal flame in certain rare conditions
+- [Bug] Fix freeze / crash when showing a chart that contained extremely large numbers
+
+
 <b>v0.10.19</b> (2023.11.26)
 - [Balance] Make Battery Discharge / Overload events occur less frequently
 - [Balance] Battery Overload event will pick the target from Carrier Drones in addition to Construction Drones

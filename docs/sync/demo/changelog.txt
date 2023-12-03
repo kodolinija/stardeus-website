@@ -1,3 +1,58 @@
+<b>v0.10.20</b> (2023.12.03)
+- [Tech] Update Unity to 2022.3.14f1
+- [Balance] Construction tasks for devices attached in space will require presence of constructed adjacent structure
+- [Balance] Improve firefighter distribution when extinguishing flames
+- [UI/UX] Show Aesthetics in Codex entries
+- [UI/UX] Show information about recovered loot after expedition ends
+- [UI/UX] Crafting devices will show color coded electricity consumption of the product
+- [UI/UX] Rename "Nuclear Battery" research node to "Nuclear Cell"
+- [Bug] Fix losing a shuttle mid expedition would still show a message about the shuttle returning
+- [Bug] Fix cleaning dirty large solar panels would only yield one piece of soil per whole panel
+- [Bug] Fix possibility of eternal flame in certain rare conditions
+- [Bug] Fix freeze / crash when showing a chart that contained extremely large numbers
+
+
+<b>v0.10.19</b> (2023.11.26)
+- [Balance] Make Battery Discharge / Overload events occur less frequently
+- [Balance] Battery Overload event will pick the target from Carrier Drones in addition to Construction Drones
+- [Balance] Battery discharge / overload events will never affect robots that are less than 1 month old
+- [Balance] Adjust construction cost of CPU module (reduce required Transistor count 10 -> 5)
+- [UI/UX] Make Starmap object labels interactive
+- [UI/UX] Highlight the label when hovering an object in the Starmap
+- [UI/UX] Starting an expedition will auto-fill either the last used or currently selected Shuttle
+- [Misc] Add extra checks to prevent launching an expedition with invalid state
+- [Misc] Disallow selecting workers under direct control as expedition members
+- [Bug] Fix large Matter Reactor still showing 50kW in the device title
+
+
+<b>v0.10.18</b> (2023.11.20)
+- [Balance] Eggs will spawn more frequently
+- [Balance] Reduce cost of collecting Dark Matter via Particle Collector to 5MW
+- [Balance] Increase Matter Reactor output from 50kW to 150kW
+- [Balance] Increase GPU module electricity consumption by ~2x
+- [Balance] Reduce unlock cost of the Local Maneuvering research node
+- [Balance] Having objects (including other engines) in path of the engine flame will have consequences
+- [UI/UX] Toilets / showers will show "Dirty" warning at 85% full instead of 50%
+- [UI/UX] Local Maneuvering menu in Ship Controls will not focus on the thrusters when selecting them
+- [UI/UX] Make drag inertia act more predictably across different frame rates
+
+
+<b>v0.10.17</b> (2023.11.13)
+- [Tech] Update Unity to 2022.3.13f1
+- [Balance] Generate more common resource deposits on newly discovered planets
+- [Balance] "Travel To" option will pick a position much closer to the object in Planet layer
+- [QOL] Retry delivering materials to devices with deficit immediately after purchasing items from a merchant
+- [Misc] Update Russian and Ukrainian translations
+- [Bug] Fix "Explore Planet" quest could get into a state where the ship had to fly back and return to progress
+- [Bug] Fix a couple of auto-reported internal edge case errors
+
+
+<b>v0.10.16</b> (2023.11.08)
+- [UI/UX] Always show Datoid names when hovering requirements in the Research Tree
+- [Bug] Fix Tractor Beams would ignore Auto Target Off setting for incoming threats
+- [Bug] Fix a few issues with Tractor Beam targeting logic
+
+
 <b>v0.10.15</b> (2023.11.05)
 - [Feature] Add Auto-select projectile option for Tractor Beams. On by default.
 - [Balance] Double the pull strength of Tractor Beam
