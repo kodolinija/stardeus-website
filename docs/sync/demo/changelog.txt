@@ -1,3 +1,37 @@
+<b>v0.10.23</b> (2023.12.17)
+- [Feature] Add a game modifier to disable Neural Network Fragmentation
+- [Balance] Stasis Pods, Breach Capsules, Meteoroids and other space bodies will not appear while the ship is traveling at FTL speeds between Galaxies
+- [UI/UX] Display resource deposit depth when starting a shuttle expedition
+- [UI/UX] Disallow launching a shuttle expedition to a resource deposit if it is too deep to mine manually
+- [AI] Workers will immediately drop material hauling tasks if target material was destroyed
+- [Bug] Fix resource production tutorial not highlighting crafter options
+- [Bug] Fix relocating an object over an unbuilt floor could complete the relocation before the floor was built
+- [Bug] Fix Mutiny event would get logged even if there were no mutineers
+- [Bug] Fix installing an upgrade on a robot that was inside an ML Booth would not complete
+- [Bug] Fix temperature resistent objects could catch on fire
+- [Bug] Fix crafting devices would lose track of the global inventory count
+
+
+<b>v0.10.22</b> (2023.12.09)
+- [Balance] Allow enabling / disabling force fields instantly without waiting for current shield transition to end
+- [UI/UX] Add a "Backer Edition" tag for owners of The Journey DLC (clicking it opens the Extras folder)
+- [Bug] Fix shuttles would keep items looted by raiders if the raid was over, showing those items as expedition loot later
+- [Bug] Fix raiders could select a shuttle that was out on an expedition as an escape option
+- [Bug] Fix expedition member would fail to enter the shuttle if the member was standing on the shuttle work spot when the expedition was starting
+- [Bug] Fix failing to launch an expedition would not remove the configuration event, allowing to continue configuring an expedition with a bad state
+- [Bug] Fix shuttle expedition returning with an empty storage could cause an internal error
+- [Bug] Fix returning from an expedition with no loot would show "Expedition Loot" popup with no contents
+- [Bug] Fix a trade with a space port would not abort if the ship moved too far away
+- [Bug] Fix starmap decoration labels would be clickable and interactive
+- [Bug] Fix attempting to view a codex entry for non-researchable devices (e.g. Stasis Pod) would cause an error
+- [Bug] Fix local maneuvering with force fields enabled could leave a ghost force field vfx
+
+
+<b>v0.10.21</b> (2023.12.03)
+- [Balance] Objects in space will be stopping materials from floating away (i.e. soil on solar panels)
+- [Balance] Improve firefighter retargeting speed
+
+
 <b>v0.10.20</b> (2023.12.03)
 - [Tech] Update Unity to 2022.3.14f1
 - [Balance] Construction tasks for devices attached in space will require presence of constructed adjacent structure
