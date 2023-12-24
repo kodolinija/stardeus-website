@@ -1,3 +1,16 @@
+<b>v0.10.24</b> (2023.12.24)
+- [Balance] Adjust research unlock costs to reduce grind by making higher tiers cheaper
+- [Balance] Move Terraform Controls research node closer to other terraforming tech
+- [Balance] Make Mining Automation research relatively more expensive
+- [Balance] Make Asimov Override and Starcreds Mining upgrades show up more frequently in merchant inventories
+- [Balance] Increase the price of Starcreds Mining upgrade
+- [Balance] Reduce negative Faction standing impact done by raids
+- [Tech] Temporarily prevent VSync from being OFF until the 10x speed degradation is resolved
+- [Bug] Fix movable devices would still show "Relocate" option in the context menu even if relocation was forbidden
+- [Bug] Fix placing a multi-tile in sandbox mode would not update the walking difficulty map correctly
+- [Bug] Fix resource deposits that were not supposed to have depth would still track depth internally and forbid extracting the resource after a while
+
+
 <b>v0.10.23</b> (2023.12.17)
 - [Feature] Add a game modifier to disable Neural Network Fragmentation
 - [Balance] Stasis Pods, Breach Capsules, Meteoroids and other space bodies will not appear while the ship is traveling at FTL speeds between Galaxies
