@@ -1,3 +1,8 @@
+<b>v0.10.25</b> (2023.12.25)
+- [Balance] Disabling Neural Network Fragmentation will not disable achievements
+- [Bug] Fix shuttle expeditions to resource deposits without depth would keep mining without results
+
+
 <b>v0.10.24</b> (2023.12.24)
 - [Balance] Adjust research unlock costs to reduce grind by making higher tiers cheaper
 - [Balance] Move Terraform Controls research node closer to other terraforming tech
