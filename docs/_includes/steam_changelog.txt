@@ -1,3 +1,7 @@
+<b>v0.10.26</b> (2023.12.25)
+- [Bug] Fix raid event could make the game stuck and would fail to load the save afterwards
+
+
 <b>v0.10.25</b> (2023.12.25)
 - [Balance] Disabling Neural Network Fragmentation will not disable achievements
 - [Bug] Fix shuttle expeditions to resource deposits without depth would keep mining without results
