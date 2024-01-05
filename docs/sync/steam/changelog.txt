@@ -1,3 +1,11 @@
+<b>v0.10.27</b> (2024.01.05)
+- [Balance] Genetic Engineering (Cloning Pod) research will not require Alien datoids
+- [Balance] Cloning Pod will be able to clone Eggs
+- [Misc] Generate Vents that match the surrounding wall type when generating ships
+- [Bug] Fix a new Connector would create more than one initial connection when Auto Connect Upgrade was installed
+- [Bug] Fix deconstructing a disconnected Ship Computer would trigger a false Not Enough CPU warning
+
+
 <b>v0.10.26</b> (2023.12.25)
 - [Bug] Fix raid event could make the game stuck and would fail to load the save afterwards
 
