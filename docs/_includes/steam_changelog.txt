@@ -1,3 +1,16 @@
+<b>v0.10.28</b> (2024.01.13)
+- [Balance] Double the maximum possible ship speed in the Starmap
+- [Balance] Allow installing Thruster Upgrade into all engines except Maneuvering Controllers
+- [Tech] Update Unity to 2022.3.17f1
+- [AI] Backport a few minor AI improvements from new AI logic changes
+- [UI/UX] Add Pause Frame option in Video Settings (on by default)
+- [UI/UX] Improve stock market UI tooltips
+- [UI/UX] Add "Focus on launched Probe" game setting
+- [UI/UX] Improve the description of the Thruster Upgrade
+- [Bug] Fix owned stock average price wouldn't get displayed in the chart after 3 years of game time
+- [Bug] Fix upgraded thrusters would still show non-upgraded power values in UI
+
+
 <b>v0.10.27</b> (2024.01.05)
 - [Balance] Genetic Engineering (Cloning Pod) research will not require Alien datoids
 - [Balance] Cloning Pod will be able to clone Eggs
