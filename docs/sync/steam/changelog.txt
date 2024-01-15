@@ -1,3 +1,8 @@
+<b>v0.10.29</b> (2024.01.15)
+- [Tech] Improve game assets load speed
+- [UI/UX] Tone down the pause frame
+
+
 <b>v0.10.28</b> (2024.01.13)
 - [Balance] Double the maximum possible ship speed in the Starmap
 - [Balance] Allow installing Thruster Upgrade into all engines except Maneuvering Controllers
