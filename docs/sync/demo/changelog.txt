@@ -1,3 +1,7 @@
+<b>v0.10.30</b> (2024.01.15)
+- [Bug] Fix Stock Market UI wouldn't open since a recent update if portfolio was empty
+
+
 <b>v0.10.29</b> (2024.01.15)
 - [Tech] Improve game assets load speed
 - [UI/UX] Tone down the pause frame
