@@ -1,3 +1,16 @@
+<b>v0.10.31</b> (2024.01.20)
+- [Balance] Scale research datoid cost by difficulty level (peaceful = 50%, relaxing = 75%, balanced = 100%, challenging = 125%, impossible = 150%)
+- [Balance] Reduce research datoid costs for higher tiers (before applying difficulty scale)
+- [Balance] Significantly reduce merchant price markups
+- [UI/UX] Add missing "Planetary Flight" element in engine UI details
+- [Bug] Fix Space Port Merchants would regenerate a random name and faction after save / load
+- [Bug] Fix Merchant ships would regenerate the merchant completely after save / load
+- [Bug] Fix Orbotrons would not go on expeditions
+- [Bug] Fix inability to launch an expedition if the ship was further away from the target
+- [Bug] Fix memory leak in lights system when game window would get resized during gameplay
+- [Bug] Fix removing the last Ship Computer would not cause a Game Over under certain conditions
+
+
 <b>v0.10.30</b> (2024.01.15)
 - [Bug] Fix Stock Market UI wouldn't open since a recent update if portfolio was empty
 
