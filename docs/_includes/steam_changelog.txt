@@ -1,3 +1,9 @@
+<b>v0.10.32</b> (2024.01.24)
+- [Mods] Mark More Beverages v1.0.10 mod as not compatible
+- [Bug] Prevent edge cases where a game over could happen while still having a ship computer
+- [Bug] Handle a rare case when moving a section could produce an internal error
+
+
 <b>v0.10.31</b> (2024.01.20)
 - [Balance] Scale research datoid cost by difficulty level (peaceful = 50%, relaxing = 75%, balanced = 100%, challenging = 125%, impossible = 150%)
 - [Balance] Reduce research datoid costs for higher tiers (before applying difficulty scale)
