@@ -1,3 +1,33 @@
+<b>v0.10.33</b> (2024.02.03)
+- [Tech] Update Unity to 2022.3.19f1
+- [Feature] Allow replacing interior walls
+- [Feature] Copy the configuration of replaced objects (Door Permissions, etc.)
+- [Balance] Jumping through a Black Hole will discharge all Void Rippers that produce a piece of Dark Matter
+- [UI/UX] Add help for material favorites
+- [Bug] Fix Signal that would spawn raiders would not check if the teleporter designated for trade was removed / disabled
+- [Bug] Fix Fluid Cannon would not try to extinguish burning objects in space (solar panels, engines, etc)
+- [Bug] Fix Fluid Cannon would eject Biofuel when trying to shoot at enemies
+
+
+<b>v0.10.32</b> (2024.01.24)
+- [Mods] Mark More Beverages v1.0.10 mod as not compatible
+- [Bug] Prevent edge cases where a game over could happen while still having a ship computer
+- [Bug] Handle a rare case when moving a section could produce an internal error
+
+
+<b>v0.10.31</b> (2024.01.20)
+- [Balance] Scale research datoid cost by difficulty level (peaceful = 50%, relaxing = 75%, balanced = 100%, challenging = 125%, impossible = 150%)
+- [Balance] Reduce research datoid costs for higher tiers (before applying difficulty scale)
+- [Balance] Significantly reduce merchant price markups
+- [UI/UX] Add missing "Planetary Flight" element in engine UI details
+- [Bug] Fix Space Port Merchants would regenerate a random name and faction after save / load
+- [Bug] Fix Merchant ships would regenerate the merchant completely after save / load
+- [Bug] Fix Orbotrons would not go on expeditions
+- [Bug] Fix inability to launch an expedition if the ship was further away from the target
+- [Bug] Fix memory leak in lights system when game window would get resized during gameplay
+- [Bug] Fix removing the last Ship Computer would not cause a Game Over under certain conditions
+
+
 <b>v0.10.30</b> (2024.01.15)
 - [Bug] Fix Stock Market UI wouldn't open since a recent update if portfolio was empty
 
