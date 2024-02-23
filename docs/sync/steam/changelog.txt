@@ -1,3 +1,10 @@
+<b>v0.10.34</b> (2024.02.23)
+- [Balance] Scale minimum micro meteoroid severity together with colony size
+- [Performance] Improve performance of the Dust Storm visual effect
+- [Bug] Fix encountering a derelict ship with damaged Beta Waves Transceiver would reset Beta Waves Synchronization to zero
+- [Bug] Fix beings could get stuck in "Fighting" state and not taking any tasks even after combat was over
+
+
 <b>v0.10.33</b> (2024.02.03)
 - [Tech] Update Unity to 2022.3.19f1
 - [Feature] Allow replacing interior walls
