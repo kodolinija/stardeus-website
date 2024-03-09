@@ -1,3 +1,14 @@
+<b>v0.10.35</b> (2024.03.09)
+- [Tech] Update Unity to 2022.3.21f1
+- [Balance] Move Coffee research from Tier 3 to Tier 2
+- [UI/UX] Improve expedition status notification
+- [UI/UX] Reorder the tutorials to put simpler tutorials before more complicated ones
+- [UI/UX] Warn when leaving a planet with an ongoing expedition or copter mission
+- [Bug] Fix (2/0) showing up near deposits in some planet tooltips
+- [Bug] Fix Tool Menu not always rebuilding correctly after unlocking new research
+- [Bug] Fix planet factions would be revealed in the tooltip without needing to scan the planet
+
+
 <b>v0.10.34</b> (2024.02.23)
 - [Balance] Scale minimum micro meteoroid severity together with colony size
 - [Performance] Improve performance of the Dust Storm visual effect
