@@ -1,3 +1,7 @@
+<b>v0.10.36</b> (2024.03.10)
+- [Bug] Fix potential race condition that could lead to a crash when loading sprites
+
+
 <b>v0.10.35</b> (2024.03.09)
 - [Tech] Update Unity to 2022.3.21f1
 - [Balance] Move Coffee research from Tier 3 to Tier 2
