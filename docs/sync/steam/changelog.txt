@@ -1,3 +1,14 @@
+<b>v0.10.37</b> (2024.04.07)
+- [Note] This update marks the code freeze of v0.10
+- [Tech] Update Unity to 2022.3.23f1
+- [Balance] Reduce Xenodetector energy cost from 250kW to 50kW
+- [Misc] Update Hungarian and Portuguese Brazil (Classic) translations
+- [Bug] Fix build menu pagination would reset the internal state to page 1 while showing page 2+ after an item in page 2+ was selected
+- [Bug] Fix translation issue with device relocation tutorial step
+- [Bug] Fix a couple of minor auto-reported internal errors
+- [Bug] Remove class name debug text showing up in expedition status notification tooltip
+
+
 <b>v0.10.36</b> (2024.03.10)
 - [Bug] Fix potential race condition that could lead to a crash when loading sprites
 
