@@ -1,3 +1,112 @@
+<b>v0.11.0</b> (2024.07.23)
+- [Major] Rewrite the AI system from scratch to use GOAP
+- [Major] Rewrite the Combat system from scratch
+- [Major] Add body parts system with replaceable and harvestable organs and body parts
+- [Major] Add new Health system based on body parts and stats
+- [Major] Rewrite the Needs system to use the new AI, stats, body parts, conditions and abilities
+- [Major] Add new Stats system with base stats and modifiers to drive the being behaviors
+- [Major] Add Abilities system that enables beings to perform tasks based on abilities provided by body parts
+- [Major] Add new Conditions system that drives various health and mental conditions of beings
+- [Major] Add Cover system integrated with Pathfinding and Combat systems
+- [Major] Add new Jobs system with more intuitive skill levels and priority management
+- [Major] Rewrite the Traits system to use the Stats system to modify being stats through traits
+- [Major] Add new Experience system that generates backstories and job skills for crew members
+- [Major] Replace the Mood system with Sanity system that controls mental breakdowns
+- [Major] Add new Trade system that will govern merchant inventories and prices
+- [Major] Add new scenario: Cargo Ship
+- [Major] Add scenario configuration screen and a possibility to change the starting crew
+- [Major] Complete re-balancing with adjustments to Story pacing, stasis wake-ups, costs, durations, speeds, etc.
+- [Major] Add official Twitch integration
+- [Feature] Add nearly a hundred various body parts for robots, humans and animals
+- [Feature] Add nearly a hundred backstory items for the Experience system
+- [Feature] Require producing or acquiring all body parts in order to assemble a working robot
+- [Feature] Add new devices for performing body parts replacement, removal and storage
+- [Feature] Player will have to choose one of three colonists when someone wakes up from stasis
+- [Feature] Add dozens of various stats that each being will have
+- [Feature] Add AI Alignment stat that gives ability to control humans on their own will
+- [Feature] Detach timing of mental breakdowns and Crawler hatching from the Story Generator
+- [Feature] Add several new ores and materials (Silver, Gold, Platinum, Ingots, etc)
+- [Feature] Weapons will have more stats (DPS, Charge time, Cooldown, Accuracy, Range, etc)
+- [Feature] Reimplement Energy Rifle to be more railgun-like
+- [Feature] Water will be required for growing plants, producing oxygen and cooking food
+- [Feature] Allow building the ship to some extent while in mid-flight
+- [Feature] Add Pig species
+- [Feature] Add Replicator device and Mind Transfers feature
+- [Feature] Add Karaoke Machine device
+- [Feature] Add Rubber Duck and Wooden Rocket Sculpture cosmetics
+- [Feature] Add ability for beings to admire nice things
+- [Feature] Add Ice resource
+- [Feature] Add new lower tier weapons: Knife and Handgun
+- [Feature] Rewrite the Free Select tool to make it more modular
+- [Feature] Improve object hover tooltips to add more information
+- [Feature] Make weapons and explosives storable in Weapons Locker
+- [Feature] Tune the Stock Market implementation to produce more realistic movements
+- [Feature] Add Stock Market Prediction research that exposes internal workings of the price movements in the UI
+- [Feature] Pre-simulate the Stock Market when starting a new game to get different starting prices in every run
+- [Feature] Add Black Market research that opens up organ trading
+- [Feature] Add Equity instruments (company stocks) to the Stock Market
+- [Feature] Add Space Stations with traders all over the universe
+- [Feature] Terraforming the planet will have visual transformation effects on the planet itself
+- [Feature] Colonizing a planet will establish a Space Port and a Space Station belonging to your faction
+- [Feature] Player trades will have effect on the merchant's future prices
+- [Feature] Player trades with merchants will have an effect on the global stock market
+- [Feature] Introduce resource abundance / scarcity adjustments across star systems
+- [Feature] Resource abundance / scarcity will affect local trader prices
+- [Feature] Add multiple new body types, hairstyles and clothing items
+- [Feature] Light will affect sight, move speed and mental health of most biological beings
+- [Feature] All clothing items will fit multiple body types
+- [Feature] Add Jet Suit that will give the wearer the ability to fly
+- [Feature] Change the mechanics of Nutrient Extractor and Disassembler to work with the body parts system
+- [Feature] Add nutrition amounts to food options
+- [Feature] Add assignable Bot Docks
+- [Feature] Beds will now be assignable to colonists
+- [Feature] Add Stem Cells material that will be required for cloning / growing body parts
+- [Feature] Add Silicon Wafer material to be used instead of Silicon directly
+- [Feature] Crawlers will infect Stomach and Intestines with eggs
+- [Feature] Crawlers can detach themselves from a prey without dying
+- [Feature] Improve ship generation algorithms to produce more detailed ship designs
+- [Feature] Add Fog of War mode that makes unlit objects completely invisible (check Settings > Video > Ambient Light)
+- [Feature] Radiators built near the Ship Computer will also act as Heat Sinks
+- [Feature] Add Morgue and Mechuary devices for storing dead bodies and bots
+- [Feature] Add Story Pace and Stasis Wake Up Rate modifiers
+- [Feature] Auto pilot upgrade can now be installed on Shuttles to allow unmanned mining expeditions
+- [Feature] Allow buying resource deposits that belong to another faction
+- [Feature] Add mental breakdown: cleaning spree
+- [Balance] Adjust durations and speeds of many aspects of the simulation to significantly reduce wait times and grind
+- [Balance] Adjust story pacing to significantly increase the density of story events
+- [Balance] Review and adjust all prices and market groups in the Stock Market
+- [Balance] Review and adjust all construction costs
+- [Balance] Review and adjust all crafting costs
+- [Balance] Make space travel much faster
+- [Balance] Change how Defragmentation mechanic works (allow speed up, disable pause)
+- [Balance] Canceling trade will no longer impact the faction standing
+- [Balance] Remove Construction Speed research
+- [Balance] Remove Bot Cap research and bot limits
+- [Balance] Remove limit of active tasks that used to require Memory
+- [Balance] Remove internal storages from all crafting devices
+- [Balance] Remove Beta Waves Transceiver device
+- [Balance] Remove the ability to hail a merchant through the Communicator
+- [Balance] Remove the ability to buy or sell beings
+- [Balance] Remove skill level requirements from construction tasks
+- [Balance] Remove Device Wear mechanic
+- [Balance] Remove Aesthetics system
+- [Balance] Remove carbon buildup from matter reactors
+- [Balance] Remove Oxygen / Heat production capabilities from the Stasis Array
+- [UI/UX] Make input and controls more in line with the leaders of genre
+- [UI/UX] Polish / improve many UI screens and elements
+- [UI/UX] Icons displaying beings will show their actual looks
+- [UI/UX] Disabling screen shake will also disable ship rotation tilt
+- [UI/UX] Trying to haul objects without compatible storage will list compatible storages in the popup
+- [Tech] Rewrite multiple core systems for increased performance and stability
+- [Tech] Increase default texture quality to High on most GPUs
+- [Tech] Improve rendering of moving objects to reduce GPU load
+- [Tech] Add Harmony (v2.2) modding support
+- [Tech] Add multiple game version support for mods
+- [Tech] Add // comments support to Stardeus JSON files
+- [Bug] Fix hundreds of bugs that existed in v0.10
+- [Bug] Unintentionally introduce hundreds of new bugs. Please use the in-game Feedback form to report them
+
+
 <b>v0.10.37</b> (2024.04.07)
 - [Note] This update marks the code freeze of v0.10
 - [Tech] Update Unity to 2022.3.23f1
