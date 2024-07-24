@@ -1,3 +1,12 @@
+<b>v0.11.1</b> (2024.07.24)
+- [UI/UX] Disabling animated space background will also disable main menu screen animation
+- [Misc] Update the description of Nutrient Extractor
+- [Misc] Remove some abandoned community translations
+- [Bug] Fix Basic Controls tutorial failing to load with some community translations
+- [Bug] Fix plants could show wrong reason of stalled growth when hovered
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.11.0</b> (2024.07.23)
 - [Major] Rewrite the AI system from scratch to use GOAP
 - [Major] Rewrite the Combat system from scratch

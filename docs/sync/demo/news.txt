@@ -1,18 +1,19 @@
-One Year of Early Access
-https://store.steampowered.com/news/app/1380910/view/6642304827660326736 Full Announcement
-2023-10-16
+Stardeus v0.11 Major Update
+https://steamcommunity.com/games/1380910/announcements/detail/4217134728153497437 Full Announcement
+2024-07-23
 
 Greetings, Space Traveler!
 
-Stardeus has come a long way in the year since its Early Access launch. This update is the largest to date, featuring:
+The <b>Bioverse Update</b> is a large collection of system rewrites, new content, mechanics and balance updates that bring the overall simulation depth to the level like never before.
 
-- A brand new research system
-- New tutorials
-- New content
-- Numerous UI enhancements
+Noteworthy Highlights:
+- New AI and Combat systems based on GOAP
+- New Body Parts, Health, Needs and Conditions systems
+- New Trade System and Space Stations
+- Scenario configuration screen
+- New scenario: Cargo Ship
+- Twitch integration
 - Hundreds of balance adjustments
-- Reworked systems and mechanics
+- Hundreds of other changes
 
-Old save files are compatible, but we recommend taking the new tutorials and starting a fresh game.
-
-For more details, read the full announcement on Steam or [url=https://www.youtube.com/watch?v=iDS32EMmohw]watch this video[/url].
+For more details, read the full announcement on Steam or [url=https://www.youtube.com/watch?v=Ev8ux4AznHs]watch this video[/url].
