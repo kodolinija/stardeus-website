@@ -1,3 +1,11 @@
+<b>v0.11.2</b> (2024.07.25)
+- [UI/UX] Replace bottom pagination with scrollbar
+- [Balance] Shuttles will be able to fly any distance within the current starmap layer
+- [Bug] Fix suggestion to get more Titanium (ore) to suggest Titanium Plates instead
+- [Bug] Fix Electricity tutorial would not be passable if "Build connectors on drag release" setting was disabled
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.11.1</b> (2024.07.24)
 - [UI/UX] Disabling animated space background will also disable main menu screen animation
 - [Misc] Update the description of Nutrient Extractor
