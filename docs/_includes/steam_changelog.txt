@@ -1,3 +1,12 @@
+<b>v0.11.3</b> (2024.07.26)
+- [Balance] Reduce Jukebox / Karaoke Machine income from $100 to $15 per use
+- [Balance] Animals will be able to force-open disconnected doors
+- [Bug] Fix human colonists out on expedition would be hidden in the group UI list until they returned
+- [Bug] Fix Twitch Overlay would ignore "Enable Twitch Integration" setting
+- [Bug] Fix storing a pile larger than available storage would fail
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.11.2</b> (2024.07.25)
 - [UI/UX] Replace bottom pagination with scrollbar
 - [Balance] Shuttles will be able to fly any distance within the current starmap layer
