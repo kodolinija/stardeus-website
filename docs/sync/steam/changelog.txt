@@ -1,3 +1,13 @@
+<b>v0.11.4</b> (2024.07.27)
+- [Feature] Add !affordable Twitch command to show commands affordable for the viewer
+- [Balance] Show a message when an egg appears on the ship (if difficulty <= 100%)
+- [Balance] Animals will be able to sleep in noisy environments without mood debuff
+- [UI/UX] Show "Restart Required" notification after changing the difficulty level mid-game
+- [UI/UX] Improve UI scroll behavior with lists of very unevenly sized items
+- [Bug] Fix danger music playing forever if an Asteroid missed the ship
+- [Bug] Fix rebuild not working on tiles that had previous rebuild task canceled
+
+
 <b>v0.11.3</b> (2024.07.26)
 - [Balance] Reduce Jukebox / Karaoke Machine income from $100 to $15 per use
 - [Balance] Animals will be able to force-open disconnected doors
