@@ -1,3 +1,16 @@
+<b>v0.11.5</b> (2024.07.28)
+- [UI/UX] Prevent scrollable UI lists displaying too many items per page in certain situations
+- [UI/UX] Allow relocating beings and objects to less than 2 tiles away from themselves
+- [Balance] Reduce rate of cleaning incident story event
+- [Balance] Beings infected with alien parasites will have this condition visible in the UI
+- [Balance] Water will have 95% chance to appear in trader inventory
+- [Balance] Survival Meal will have 75% chance to appear in trader inventory
+- [Bug] Fix upgraded shuttle would lose upgrades if game was saved / loaded while the shuttle was out on an expedition
+- [Bug] Fix Battery Malfunction story event would not discharge the bot battery when it should
+- [Bug] Fix scrollbar would not react to scroll wheel when mouse was over it
+- [Bug] Fix bots ejected from Mechuary after save / load would not repair when relocated on top of a Charge Station
+
+
 <b>v0.11.4</b> (2024.07.27)
 - [Feature] Add !affordable Twitch command to show commands affordable for the viewer
 - [Balance] Show a message when an egg appears on the ship (if difficulty <= 100%)
