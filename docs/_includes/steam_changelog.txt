@@ -1,3 +1,9 @@
+<b>v0.11.7</b> (2024.07.29)
+- [Tech] Reduce GPU resource consumption on Apple Macs to prevent potential freezes
+- [Tech] Show warning when starting the game with < 500MB available disk space
+- [Bug] Fix several auto reported internal errors
+
+
 <b>v0.11.6</b> (2024.07.29)
 - [Tech] Upgrade Unity to latest stable (2022.3.39f1)
 - [Bug] Fix generating translation validity report would not restore the translation state correctly
