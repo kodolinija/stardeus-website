@@ -1,3 +1,16 @@
+<b>v0.11.6</b> (2024.07.29)
+- [Tech] Upgrade Unity to latest stable (2022.3.39f1)
+- [Bug] Fix generating translation validity report would not restore the translation state correctly
+- [Bug] Fix clicking on item name in Trade UI would reset the selected item count
+- [Bug] Fix incapacitated crawlers would show up in the Tired list in expedition crew choice
+- [Bug] Fix UI guidelines not hiding after selecting or removing an expedition crew member
+- [Bug] Fix "Require All Crew" in expedition options would still launch the expedition without complete crew
+- [Bug] Fix pressing "Abort" button in expedition controls and the wrong moment would put the shuttle into inconsistent state
+- [Bug] Fix expedition members could make the rest of the crew wait for them forever if they failed to reach the shuttle once
+- [Bug] Fix locking a door right before the being goes through it would paralyze the being in current position until door was unlocked or removed
+- [Bug] Fix workers would not take reachable tasks in adjacent areas that were considered unreachable from outside
+
+
 <b>v0.11.5</b> (2024.07.28)
 - [UI/UX] Prevent scrollable UI lists displaying too many items per page in certain situations
 - [UI/UX] Allow relocating beings and objects to less than 2 tiles away from themselves
