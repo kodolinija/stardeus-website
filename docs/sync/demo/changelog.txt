@@ -1,3 +1,59 @@
+<b>v0.11.8</b> (2024.07.30)
+- [Feature] Twitch streamer will be able to remove viewers from queue via in-game UI
+- [Balance] Allow attacking a friendly colonist if they are having a mental breakdown
+- [Balance] Allow a robot to attack a friendly colonist if Asimov's Override is installed
+- [UI/UX] Remove "disturbed by noise" messages from the log (not important enough, too noisy)
+- [UI/UX] Close expanded being list when opening a full screen widget (starmap, research tree)
+- [UI/UX] Improve scrollable UI list behavior when scrolling with inertia
+- [UI/UX] Improve Twitch !queue and !me command output to reflect the chosen queue mode
+- [UI/UX] Show Twitch Integration shortcut in the top right of the Main Menu screen
+- [UI/UX] Show a popup about Twitch UI when loading a game with Twitch activated
+- [Bug] Fix scrollable UI lists could hide the last element since a recent update
+- [Bug] Fix purchased item quality would not match the one advertised by the trader
+
+
+<b>v0.11.7</b> (2024.07.29)
+- [Tech] Reduce GPU resource consumption on Apple Macs to prevent potential freezes
+- [Tech] Show warning when starting the game with < 500MB available disk space
+- [Bug] Fix several auto reported internal errors
+
+
+<b>v0.11.6</b> (2024.07.29)
+- [Tech] Upgrade Unity to latest stable (2022.3.39f1)
+- [Bug] Fix generating translation validity report would not restore the translation state correctly
+- [Bug] Fix clicking on item name in Trade UI would reset the selected item count
+- [Bug] Fix incapacitated crawlers would show up in the Tired list in expedition crew choice
+- [Bug] Fix UI guidelines not hiding after selecting or removing an expedition crew member
+- [Bug] Fix "Require All Crew" in expedition options would still launch the expedition without complete crew
+- [Bug] Fix pressing "Abort" button in expedition controls and the wrong moment would put the shuttle into inconsistent state
+- [Bug] Fix expedition members could make the rest of the crew wait for them forever if they failed to reach the shuttle once
+- [Bug] Fix locking a door right before the being goes through it would paralyze the being in current position until door was unlocked or removed
+- [Bug] Fix workers would not take reachable tasks in adjacent areas that were considered unreachable from outside
+
+
+<b>v0.11.5</b> (2024.07.28)
+- [UI/UX] Prevent scrollable UI lists displaying too many items per page in certain situations
+- [UI/UX] Allow relocating beings and objects to less than 2 tiles away from themselves
+- [Balance] Reduce rate of cleaning incident story event
+- [Balance] Beings infected with alien parasites will have this condition visible in the UI
+- [Balance] Water will have 95% chance to appear in trader inventory
+- [Balance] Survival Meal will have 75% chance to appear in trader inventory
+- [Bug] Fix upgraded shuttle would lose upgrades if game was saved / loaded while the shuttle was out on an expedition
+- [Bug] Fix Battery Malfunction story event would not discharge the bot battery when it should
+- [Bug] Fix scrollbar would not react to scroll wheel when mouse was over it
+- [Bug] Fix bots ejected from Mechuary after save / load would not repair when relocated on top of a Charge Station
+
+
+<b>v0.11.4</b> (2024.07.27)
+- [Feature] Add !affordable Twitch command to show commands affordable for the viewer
+- [Balance] Show a message when an egg appears on the ship (if difficulty <= 100%)
+- [Balance] Animals will be able to sleep in noisy environments without mood debuff
+- [UI/UX] Show "Restart Required" notification after changing the difficulty level mid-game
+- [UI/UX] Improve UI scroll behavior with lists of very unevenly sized items
+- [Bug] Fix danger music playing forever if an Asteroid missed the ship
+- [Bug] Fix rebuild not working on tiles that had previous rebuild task canceled
+
+
 <b>v0.11.3</b> (2024.07.26)
 - [Balance] Reduce Jukebox / Karaoke Machine income from $100 to $15 per use
 - [Balance] Animals will be able to force-open disconnected doors
