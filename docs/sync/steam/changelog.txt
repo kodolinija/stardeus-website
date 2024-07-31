@@ -1,3 +1,22 @@
+<b>v0.11.9</b> (2024.07.31)
+- [Tech] Update Unity to latest stable (2022.3.40f1)
+- [Tech] Make quest system more resilient to losing data if an error happens on save / load
+- [UI/UX] Remove "Select All" buttons from worker list in Tasks UI (redundant function)
+- [UI/UX] Right clicking an entity and clicking the main UI element in the context menu will select the entity
+- [UI/UX] Build tool shortcut (Q) will exit active build mode before showing the build menu again
+- [UI/UX] Esc will close popups if they do not involve active choice
+- [UI/UX] Clicking a selectable tile below multiple objects will eventually select it
+- [UI/UX] Cancelling a haul task on material will forbid auto hauling
+- [UI/UX] Cancelling piloting task on Bridge Controls will cancel the flight
+- [UI/UX] Show event notification when batteries are actively discharging
+- [UI/UX] In-game scrollable lists will adhere to UI scroll speed setting
+- [Bug] Fix "Morning Cup" achievement not unlocking anymore
+- [Bug] Fix "Meet another faction" achievement would get triggered by fighting crawlers or colonists with lost faith
+- [Bug] Fix two column panel would be ignoring the Auto compact UI setting
+- [Bug] Fix activating "Prevent Malfunctions" on a Stasis Array would also prevent custom "Request Wake-Up"
+- [Bug] Fix bots with depression would fail to use the Exit Booth, but show a message that they used it
+
+
 <b>v0.11.8</b> (2024.07.30)
 - [Feature] Twitch streamer will be able to remove viewers from queue via in-game UI
 - [Balance] Allow attacking a friendly colonist if they are having a mental breakdown
