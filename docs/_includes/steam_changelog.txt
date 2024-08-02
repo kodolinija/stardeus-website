@@ -1,3 +1,21 @@
+<b>v0.11.12</b> (2024.08.02)
+- [Tech] Downgrade Unity to 2022.3.39f1 to prevent Radeon GPU crash on Linux
+- [Performance] Optimize pathfinding to find direct routes much faster (downside: teleporters will often be ignored unless there is no alternative route)
+- [Bug] Fix saving / loading in Sandbox scenario would disable Sandbox mode
+- [Bug] Fix inconsistent state when being with healthy body could get marked as dead
+
+
+<b>v0.11.11</b> (2024.08.02)
+- [Tech] Automatically re-add beings to the game map when they were incorrectly marked as out on expedition
+- [Bug] Fix closing Job matrix view by pressing X in UI would keep the bottom left icon highlighted
+- [Bug] Fix saving / loading with an expedition in preparation phase could abort the expedition and leave some crew members hidden
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.11.10</b> (2024.08.01)
+- [Feature] Add Job Matrix view (icon in bottom left, shortcut J)
+
+
 <b>v0.11.9</b> (2024.07.31)
 - [Tech] Update Unity to latest stable (2022.3.40f1)
 - [Tech] Make quest system more resilient to losing data if an error happens on save / load
