@@ -1,3 +1,50 @@
+<b>v0.11.14</b> (2024.08.03)
+- [Bug] Fix Signal request could change requested or rewarded money / item amount over time based on stock market fluctuations
+- [Bug] Fix Signal request would fail to get fulfilled if the requested object was not a stackable material
+- [Bug] Fix "Not that kind of birth" achievement wouldn't get rewarded
+
+
+<b>v0.11.13</b> (2024.08.02)
+- [Tech] Disable default hardware cursor override to prevent graphics issues with some GPUs
+
+
+<b>v0.11.12</b> (2024.08.02)
+- [Tech] Downgrade Unity to 2022.3.39f1 to prevent Radeon GPU crash on Linux
+- [Performance] Optimize pathfinding to find direct routes much faster (downside: teleporters will often be ignored unless there is no alternative route)
+- [Bug] Fix saving / loading in Sandbox scenario would disable Sandbox mode
+- [Bug] Fix inconsistent state when being with healthy body could get marked as dead
+
+
+<b>v0.11.11</b> (2024.08.02)
+- [Tech] Automatically re-add beings to the game map when they were incorrectly marked as out on expedition
+- [Bug] Fix closing Job matrix view by pressing X in UI would keep the bottom left icon highlighted
+- [Bug] Fix saving / loading with an expedition in preparation phase could abort the expedition and leave some crew members hidden
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.11.10</b> (2024.08.01)
+- [Feature] Add Job Matrix view (icon in bottom left, shortcut J)
+
+
+<b>v0.11.9</b> (2024.07.31)
+- [Tech] Update Unity to latest stable (2022.3.40f1)
+- [Tech] Make quest system more resilient to losing data if an error happens on save / load
+- [UI/UX] Remove "Select All" buttons from worker list in Tasks UI (redundant function)
+- [UI/UX] Right clicking an entity and clicking the main UI element in the context menu will select the entity
+- [UI/UX] Build tool shortcut (Q) will exit active build mode before showing the build menu again
+- [UI/UX] Esc will close popups if they do not involve active choice
+- [UI/UX] Clicking a selectable tile below multiple objects will eventually select it
+- [UI/UX] Cancelling a haul task on material will forbid auto hauling
+- [UI/UX] Cancelling piloting task on Bridge Controls will cancel the flight
+- [UI/UX] Show event notification when batteries are actively discharging
+- [UI/UX] In-game scrollable lists will adhere to UI scroll speed setting
+- [Bug] Fix "Morning Cup" achievement not unlocking anymore
+- [Bug] Fix "Meet another faction" achievement would get triggered by fighting crawlers or colonists with lost faith
+- [Bug] Fix two column panel would be ignoring the Auto compact UI setting
+- [Bug] Fix activating "Prevent Malfunctions" on a Stasis Array would also prevent custom "Request Wake-Up"
+- [Bug] Fix bots with depression would fail to use the Exit Booth, but show a message that they used it
+
+
 <b>v0.11.8</b> (2024.07.30)
 - [Feature] Twitch streamer will be able to remove viewers from queue via in-game UI
 - [Balance] Allow attacking a friendly colonist if they are having a mental breakdown
