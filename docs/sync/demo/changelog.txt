@@ -1,3 +1,7 @@
+<b>v0.11.15</b> (2024.08.06)
+- [Bug] Hotfix saving a game with a hauling task in a specific rare state could prevent the save file from loading
+
+
 <b>v0.11.14</b> (2024.08.03)
 - [Bug] Fix Signal request could change requested or rewarded money / item amount over time based on stock market fluctuations
 - [Bug] Fix Signal request would fail to get fulfilled if the requested object was not a stackable material
