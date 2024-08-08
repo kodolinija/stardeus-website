@@ -1,3 +1,14 @@
+<b>v0.11.16</b> (2024.08.08)
+- [Performance] Optimize reachability lookups in large maps
+- [UI/UX] Show the product name and target amount in "Production goal reached" tooltips
+- [UI/UX] Show more details about body parts and inventory items in codex and tooltips
+- [Bug] Fix Tractor Beam would not stop working when switched off
+- [Bug] Fix Replicator consuming Platinum Ingots while switched off
+- [Bug] Fix idle beings could block work spots and teleporters
+- [Bug] Fix Rebreather would simulate a full space suit instead of modifying oxygen values
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.11.15</b> (2024.08.06)
 - [Bug] Hotfix saving a game with a hauling task in a specific rare state could prevent the save file from loading
 
