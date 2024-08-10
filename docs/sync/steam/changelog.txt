@@ -1,3 +1,9 @@
+<b>v0.11.17</b> (2024.08.10)
+- [Bug] Fix beings would fail to execute tasks if the task required them to end their walk in a doorway
+- [Bug] Fix same name could appear more than once in the same stasis wake-up batch
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.11.16</b> (2024.08.08)
 - [Performance] Optimize reachability lookups in large maps
 - [UI/UX] Show the product name and target amount in "Production goal reached" tooltips
