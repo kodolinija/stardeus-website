@@ -1,3 +1,15 @@
+<b>v0.11.18</b> (2024.08.14)
+- [Translations] Update Japanese to 100%
+- [Balance] Remove "Equip Item" ability to let anyone equip items if they have an inventory
+- [UI/UX] Add data about provided abilities, needs and stats to Brain and Core body part tooltips
+- [UI/UX] Hide internal abilities (Eat, AnimalEat) from UI
+- [UI/UX] Show "Compatible Parts: Empty" when examining a body part that has no replacement options
+- [Bug] Fix ordering body part replacement was possible even without having a required device
+- [Bug] Fix Signal selection logic would reject most event candidates at high difficulty levels
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix human in cat's or pig's body would die from starvation
+
+
 <b>v0.11.17</b> (2024.08.10)
 - [Bug] Fix beings would fail to execute tasks if the task required them to end their walk in a doorway
 - [Bug] Fix same name could appear more than once in the same stasis wake-up batch

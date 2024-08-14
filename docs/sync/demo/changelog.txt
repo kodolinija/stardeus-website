@@ -1,3 +1,32 @@
+<b>v0.11.18</b> (2024.08.14)
+- [Translations] Update Japanese to 100%
+- [Balance] Remove "Equip Item" ability to let anyone equip items if they have an inventory
+- [UI/UX] Add data about provided abilities, needs and stats to Brain and Core body part tooltips
+- [UI/UX] Hide internal abilities (Eat, AnimalEat) from UI
+- [UI/UX] Show "Compatible Parts: Empty" when examining a body part that has no replacement options
+- [Bug] Fix ordering body part replacement was possible even without having a required device
+- [Bug] Fix Signal selection logic would reject most event candidates at high difficulty levels
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix human in cat's or pig's body would die from starvation
+
+
+<b>v0.11.17</b> (2024.08.10)
+- [Bug] Fix beings would fail to execute tasks if the task required them to end their walk in a doorway
+- [Bug] Fix same name could appear more than once in the same stasis wake-up batch
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.11.16</b> (2024.08.08)
+- [Performance] Optimize reachability lookups in large maps
+- [UI/UX] Show the product name and target amount in "Production goal reached" tooltips
+- [UI/UX] Show more details about body parts and inventory items in codex and tooltips
+- [Bug] Fix Tractor Beam would not stop working when switched off
+- [Bug] Fix Replicator consuming Platinum Ingots while switched off
+- [Bug] Fix idle beings could block work spots and teleporters
+- [Bug] Fix Rebreather would simulate a full space suit instead of modifying oxygen values
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.11.15</b> (2024.08.06)
 - [Bug] Hotfix saving a game with a hauling task in a specific rare state could prevent the save file from loading
 
