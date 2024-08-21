@@ -1,3 +1,19 @@
+<b>v0.11.19</b> (2024.08.21)
+- [Performance] Split pathfinding algorithm to support both fast pathfinding and accurate teleporter use
+- [Performance] Add "Optimize Pathfinding for Teleporters" setting in "Current Game Settings" (on by default)
+- [UI/UX] Show suggestion to build a Repair Station when one is not available
+- [Bug] Fix workers could block work spots for others while doing certain tasks
+- [Bug] Fix damaged workers silently dropping tasks when Repair Station was not available
+- [Bug] Fix fast pathfinding could find a longer path if a teleporter was along the direct route to goal
+- [Bug] Fix fast pathfinding could fail to find the path if excessive amounts of iterations were required
+- [Bug] Fix Trade UI could execute the trade with inconsistent item quantities if search filter was used and cleared mid adjustment
+- [Bug] Fix Cleaning Bots would start cleaning floors mid combat
+- [Bug] Fix Cleaning Bots unable to use attack methods provided by equipped weapons
+- [Bug] Fix relocating ML Booth or Replicator would destroy loaded brains / cores
+- [Bug] Fix entering skill levels with keyboard in ML Booth would not apply the value
+- [Bug] Fix robots in biological bodies unable to use beds, toilets, showers
+
+
 <b>v0.11.18</b> (2024.08.14)
 - [Translations] Update Japanese to 100%
 - [Balance] Remove "Equip Item" ability to let anyone equip items if they have an inventory
