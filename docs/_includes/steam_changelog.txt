@@ -1,6 +1,11 @@
+<b>v0.11.21</b> (2024.09.02)
+- [Bug] Fix Japanese/Chinese/Korean thin UI labels not displaying any text
+- [Bug] Fix planet closeup visuals could be slightly different compared to star system view
+
+
 <b>v0.11.20</b> (2024.08.29)
 - [Tech] Upgrade Unity to latest stable (2022.3.44f1)
-- [Tech] Remove Mac OSX workarounds to see if newer Unity version will longer crashes
+- [Tech] Remove Mac OSX workarounds to see if newer Unity version no longer crashes
 - [Balance] Adjust "Body Slam" damage for most bot frames
 - [Balance] Derelict Ship that has a Stasis Array will have a higher probability of appearing
 - [Bug] Fix attacking beings inside devices like assembly hub was a possibility

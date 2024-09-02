@@ -1,3 +1,23 @@
+<b>v0.11.21</b> (2024.09.02)
+- [Bug] Fix Japanese/Chinese/Korean thin UI labels not displaying any text
+- [Bug] Fix planet closeup visuals could be slightly different compared to star system view
+
+
+<b>v0.11.20</b> (2024.08.29)
+- [Tech] Upgrade Unity to latest stable (2022.3.44f1)
+- [Tech] Remove Mac OSX workarounds to see if newer Unity version no longer crashes
+- [Balance] Adjust "Body Slam" damage for most bot frames
+- [Balance] Derelict Ship that has a Stasis Array will have a higher probability of appearing
+- [Bug] Fix attacking beings inside devices like assembly hub was a possibility
+- [Bug] Fix relocation of bots loaded into assembly hubs wasn't forbidden
+- [Bug] Fix body parts purchased from traders would have different quality than advertised
+- [Bug] Fix beings who left the ship after colonizing a planet were visible in Job Matrix
+- [Bug] Fix colonists who left the ship after colonizing a planet would keep bed assignments
+- [Bug] Fix beings who are missing but not dead would produce birthday notifications in the log
+- [Bug] Fix unbuilt floor with an unbuilt wall above it would never get built if floor task priority was set to 0
+- [Bug] Fix beings with enemy brain and Obey Chip would not be able to go through doors that disallow enemies
+
+
 <b>v0.11.19</b> (2024.08.21)
 - [Performance] Split pathfinding algorithm to support both fast pathfinding and accurate teleporter use
 - [Performance] Add "Optimize Pathfinding for Teleporters" setting in "Current Game Settings" (on by default)
