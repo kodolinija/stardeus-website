@@ -1,3 +1,22 @@
+<b>v0.11.22</b> (2024.09.19)
+- [Feature] Auto-rebuilding a destroyed device will restore its configuration
+- [Feature] Automatically dispose irreparable body parts instead of storing them
+- [Balance] Reduce Grain to Flour output multiplier from 5 to 1
+- [Balance] Colonists with Pacifist trait will never mutiny
+- [Balance] Reduce stock market volatility for ores (to reduce drastic price changes)
+- [UI/UX] Add "story disabled" console command to list disabled story events
+- [UI/UX] Mark disabled story events in "story list" console command output
+- [UI/UX] Display age of the brain if it doesn't match age of the body.
+- [Bug] Fix Asteroids would not be able to destroy floors underneath unbuilt objects
+- [Bug] Fix AI task safety check would not check the work spot position if one was available
+- [Bug] Fix items equipped by missing beings would still remain registered in the inventory system
+- [Bug] Fix same crew could be launched on multiple expeditions
+- [Bug] Fix Ship Computer was not producing heat when it was supposed to
+- [Bug] Fix animals in human body getting "used planter as a toilet" mood debuff
+- [Bug] Fix animals in human body getting "saw a dead body" mood debuff
+- [Bug] Fix Platinum, Silver and Gold ingots could become cheaper than ore
+
+
 <b>v0.11.21</b> (2024.09.02)
 - [Bug] Fix Japanese/Chinese/Korean thin UI labels not displaying any text
 - [Bug] Fix planet closeup visuals could be slightly different compared to star system view
