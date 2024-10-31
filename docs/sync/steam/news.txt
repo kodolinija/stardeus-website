@@ -1,19 +1,9 @@
-Stardeus v0.11 Major Update
-https://steamcommunity.com/games/1380910/announcements/detail/4217134728153497437 Full Announcement
-2024-07-23
+Halloween Update
+https://steamcommunity.com/games/1380910/announcements Full Announcement
+2024-10-30
 
-Greetings, Space Traveler!
+Greetings, Space Traveler,
 
-The <b>Bioverse Update</b> is a large collection of system rewrites, new content, mechanics and balance updates that bring the overall simulation depth to the level like never before.
+It's that time of year when the void between stars gets just a little spookier! Our latest update brings you the most essential research in intergalactic history: Halloween Decorations. Outfit your colony with jack-o'-lanterns, decorative skulls, ghostly statues, and enough tombstones to spook even the bravest space explorer. Oh, and don't forget the decorative coffins - because nothing says "home" like a stylish final resting place.
 
-Noteworthy Highlights:
-- New AI and Combat systems based on GOAP
-- New Body Parts, Health, Needs and Conditions systems
-- New Trade System and Space Stations
-- Scenario configuration screen
-- New scenario: Cargo Ship
-- Twitch integration
-- Hundreds of balance adjustments
-- Hundreds of other changes
-
-For more details, read the full announcement on Steam or [url=https://www.youtube.com/watch?v=Ev8ux4AznHs]watch this video[/url].
+For our botanically inclined captains, we've added pumpkins for your planters and a new culinary delight: Pumpkin Soup! Serve it to your crew to keep their bones warm while they wander through your ghostly halls...
