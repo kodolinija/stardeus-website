@@ -10,22 +10,7 @@ twitter:
 logo: "/img/stardeus-logo.png"
 google_analytics_id: UA-203669382-2
 google_site_verification: google-site-verification=j6oAVRZpFG8wLabJ_KaDDyowkVXhgZ9WtlLLNL2NI-w
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  posts:
-    permalink: "/news/:year/:month/:day/:title/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
 defaults:
-- scope:
-    path: _posts
-    type: posts
-  values:
-    layout: news_item
 - scope:
     path: ''
   values:
@@ -39,9 +24,6 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
-feed:
-  categories:
-  - release
 kramdown:
   syntax_highlighter_opts:
     default_lang: plaintext
