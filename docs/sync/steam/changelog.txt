@@ -1,3 +1,154 @@
+<b>v0.12.0</b> (2025.01.23)
+- [Major] Add support for Diseases and Immunity
+- [Major] Change the structure of the Universe to use a graph of Space Regions and Sectors
+- [Major] Change the space flight mechanics to use fuel and hyperjumps to travel between locations
+- [Major] Some space Sectors will have permanent Space Effects (Dust Storm, Asteroids, etc)
+- [Major] Add nanobots that can perform simple tasks like construction, demolition, repairs
+- [Major] Allow creating multiple orders for most production devices
+- [Major] Add Steam Workshop integration for sharing space ships
+- [Major] Allow starting a new game with a ship from any save file
+- [Feature] Add consumable Fuse upgrade to prevent device malfunction side effects like fire or explosions
+- [Feature] Add support for separate Work Spot, Input Port and Output Port for all devices
+- [Feature] Allow rotating ship sections an derelicts clockwise / counterclockwise with help of Maneuvering Controllers
+- [Feature] Add Mini Turret device
+- [Feature] Add Auto Repair research node
+- [Feature] Replace large Stasis Arrays with several smaller ones
+- [Feature] Add Online Shop to allow ordering delivery of basic materials in any location
+- [Feature] Allow building / relocating objects above debris and dead bodies (auto-move them away)
+- [Feature] Add 10 new quests
+- [Feature] Add new scan target: Space Station
+- [Feature] Add "Deep Scan" that can detect new resources in sectors with planets and asteroid fields
+- [Feature] Add story event: Cooking Accident
+- [Feature] Add story event: Fight
+- [Feature] Add story event: Hacked
+- [Feature] Add story event: Hyperdrive Failure
+- [Feature] Add space event: Artillery Fungus
+- [Feature] Add disease: Space Diarrhea
+- [Feature] Add food poisoning mechanics
+- [Feature] Add new scenario: No Robots (difficult!)
+- [Feature] Add Tutorial: Space Travel
+- [Feature] Add Tutorial: Body Parts
+- [Feature] Add Tutorial: Combat Tactics
+- [Feature] Add ability to install Speed Upgrade into Repair Station
+- [Feature] Add smaller storage unit (2x2)
+- [Feature] Add new materials: Phasium, Edenium, Aerolith, Hydronium, Terranite
+- [Feature] Add new craftables: Fusion Cell, Heavy Fusion Cell
+- [Feature] Add a mysterious Dark Portal
+- [Feature] Colonists will be able to enjoy the view through glass floors
+- [Feature] Attempt to restore device connections after repairing / rebuilding a connector or a device
+- [Feature] Add dedicated Trade Portal
+- [Feature] Add "Mining Output" modifier (new game + in-game)
+- [Feature] Add Extended Scanning research (Tier 5)
+- [Feature] Obey Chip can now be found in Anomaly locations (after day 120)
+- [Feature] Add "Recenter Ship" button to Ship Controls
+- [Feature] Automatically recenter the ship when attempting to do a hyperjump or fly when ship is in no-fly zone
+- [Feature] Add Remote Mining research node (Tier 3)
+- [Feature] Add Beam Drill device that can mine resource deposits from your ship
+- [Feature] Add Chaos story generator
+- [Feature] Add "Basic Tech" new game modifier that allows locking / randomizing basic tech
+- [Balance] Space events (Asteroids, Raids, Capsules etc) will only happen when entering specific sectors
+- [Balance] Add multiple big enhancements to Combat AI
+- [Balance] Adjust severity and frequency of many story events
+- [Balance] Remove ship computer neural network fragmentation / defragmentation mechanic
+- [Balance] Start with less colonists in Stasis Arrays
+- [Balance] Accessing the Starmap will not require functional Bridge Controls
+- [Balance] Reduce storage capacity for many storages (materials will not be as abundant)
+- [Balance] Adjust starting resource amounts
+- [Balance] Starting ships will not generate with high tier reinforced floors / walls
+- [Balance] Generate smaller starting ships
+- [Balance] Ship engines will not heat up empty vacuum
+- [Balance] Move Teleporter to higher tier
+- [Balance] Crafting a Handgun will no longer require Platinum Ingot
+- [Balance] Fire will self-extinguish 3x faster without oxygen
+- [Balance] Explosions will have less chemical fuel to feed the fire
+- [Balance] Construction failure in unoxygenated environment will not cause fire (except through explosion)
+- [Balance] Reduce trader stock amounts to encourage mining and production on ship
+- [Balance] Move Memory Modules into higher research tiers
+- [Balance] Change trading supply / demand impact on player's trades to prevent money exploits
+- [Balance] Damaged floor collapse will only affect current area (unless the floor supports a wall)
+- [Balance] Increase Elysium electricity production from 5kW to 25kW per colonist
+- [Balance] Dark Matter will now be a rare mineable resource
+- [Balance] Ice deposits will no longer have depth and won't get exhausted
+- [Balance] Remove Probes
+- [Balance] Pre-unlock most of Tier 1 tech in all scenarios, including Wrecked
+- [Balance] Increase Ship Computer built-in disk storage from 32 to 64 Exabytes
+- [Balance] Increase Quantum Ship Computer built-in disk storage from 64 to 96 Exabytes
+- [Balance] Add new game modifier: "Research Cost"
+- [Balance] Losing one essential organ / body part when there is a backup will not incapacitate the being
+- [Balance] Increase output of plates when smelting most raw ores
+- [Balance] Make ambush / extortion signals and expedition events less frequent
+- [Balance] Make extortion ransom less expensive
+- [Balance] Make Random story generator less random / brutal
+- [Balance] Increase combat stats for Orbotron
+- [Balance] Crawlers won't burst from infected colonists upon their death in Peaceful difficulty level
+- [Balance] Inflicting moderate or greater wounds on body parts will reduce their quality
+- [Balance] Inner doors will have low oxygen / heat exchange resistance even when closed
+- [Balance] Inner walls will have low heat exchange resistance
+- [Balance] Large planter will have 4 makeshift toilet slots instead of 1
+- [Balance] When Wrecked scenario is started without robots, ensure one full space suit spawns near humans
+- [Balance] Colonists without a space suit will not attempt to equip a space helmet unless ordered
+- [Balance] Adjust starting resources in all scenarios
+- [Balance] Reduce electricity cost for enabling Advanced Life Support in Stasis Arrays
+- [Balance] Increase delay between possibility of repeating "Construction Disaster" event by 2x
+- [Balance] Increase Biowaste to Water output from 1:1 to 1:2
+- [Balance] Small Solar Panel and many other lower tier devices will not require Plastic
+- [Balance] Increase Petroleum output from Crude Oil from 1 to 2
+- [Balance] Removing infected organs from biological beings will drop their quality 0%
+- [Balance] Allow increasing Heater output up to 70 degrees Celsius, 200 degrees with Asimov's Override
+- [UI/UX] Add information about landing zone size expectations
+- [UI/UX] Overhaul Codex UI and contents
+- [UI/UX] Add images to some Codex > Operations Manual entries
+- [UI/UX] Warn about micro meteoroids before the first strike hits
+- [UI/UX] Warn about unstable stasis arrays
+- [UI/UX] Make device, being, object names clickable in Log and Fanfare messages
+- [UI/UX] Make [123:234] coordinates clickable in Log and in Fanfare messages
+- [UI/UX] Flash new event notifications
+- [UI/UX] Don't show new quest dialog popups until quest is accepted through notification or quests UI
+- [UI/UX] Show more data about a fire when hovering a burning object
+- [UI/UX] Update multiple outdated descriptions and codex entries
+- [UI/UX] Show external link icon next to all buttons that open a browser page when clicked
+- [UI/UX] Organize load game panel to reduce clutter
+- [UI/UX] Add shortcut to toggle Direct Control for selected beings (G)
+- [UI/UX] Make space object icons behind the ship in game view interactive
+- [UI/UX] ESC will close dialogs without choice
+- [UI/UX] Add compatibility information to body part tooltips
+- [UI/UX] Clicking a Datoid in Research node cost will focus on the node that unlocks that Datoid
+- [UI/UX] Make Fanfare messages easier to read
+- [UI/UX] Improve tutorial guidelines readability by showing non-actionable guidelines as grey
+- [UI/UX] Split Basic Controls tutorial into 3 smaller ones
+- [UI/UX] Improve scrollable UI behavior
+- [UI/UX] Improve expedition crew choice view
+- [UI/UX] Copy configuration will now work with heaters / coolers
+- [UI/UX] Add list of all research items to the Research Tree
+- [UI/UX] When a device explodes after taking damage, log the device name and location
+- [UI/UX] Display object cover values in codex entries
+- [UI/UX] Always show Cover values in the Environment (Alt) tooltip
+- [UI/UX] Sort body parts by Quality instead of Condition * Quality
+- [UI/UX] Warn about abandoning derelict ship upon flight
+- [UI/UX] Improve scroll speed in dropdown menus
+- [UI/UX] Automatically resize dropdown menus to utilize available space
+- [UI/UX] Mark infected organs with green skull
+- [UI/UX] Add infected label to tooltips of infected organs
+- [Tech] Improve auto save logic
+- [Tech] Make being animations smoother at displays with > 100FPS (with option)
+- [Tech] Improve small ship (especially derelict) generation algorithm
+- [Tech] Add way to change in-game and global settings via "settings" console command
+- [Tech] Add hidden global setting to allow loading incompatible saves: "settings set_global allow.old.saves true"
+- [Performance] Reduce max allowed map size for new games from 640x640 to 448x448
+- [Performance] Eliminate stutter caused by tasks in unreachable areas
+- [Performance] Optimize AI performance
+- [Graphics] Make planets look more detailed
+- [Graphics] Add gentle vignette effect
+- [Bug] Fix multiple AI (both regular and combat) behavior bugs
+- [Bug] Fix relocating a storage on top of itself or in sandbox mode would eject all contents
+- [Bug] Fix destroying a locked door or a door with custom permissions would apply door effects for an auto-rebuild ghost
+- [Bug] Fix cloned body parts would show incorrect quality until stored or used
+- [Bug] Fix electricity deficit would be applied to all devices instead of only ones that failed to draw power
+- [Bug] Fix Stasis Pod landing could result in graphics glitches
+- [Bug] Fix active teleporter could teleport into a switched off teleporter
+- [Bug] Fix ship generation could end up failing to ensure presence of important objects (Shuttle, Particle Collector, etc.)
+
+
 <b>v0.11.23</b> (2024.10.30)
 - [Content] Add Research: Halloween Decorations
 - [Content] Add item: Jack-o'-lantern (4 versions)

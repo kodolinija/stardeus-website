@@ -1,19 +1,17 @@
-Stardeus v0.11 Major Update
-https://steamcommunity.com/games/1380910/announcements/detail/4217134728153497437 Full Announcement
-2024-07-23
+Hyperspace Major Update (v0.12)
+https://steamcommunity.com/games/1380910/announcements/ All Announcements
+2025-01-23
 
 Greetings, Space Traveler!
 
-The <b>Bioverse Update</b> is a large collection of system rewrites, new content, mechanics and balance updates that bring the overall simulation depth to the level like never before.
+Welcome to Stardeus Hyperspace Major Update. What to expect:
 
-Noteworthy Highlights:
-- New AI and Combat systems based on GOAP
-- New Body Parts, Health, Needs and Conditions systems
-- New Trade System and Space Stations
-- Scenario configuration screen
-- New scenario: Cargo Ship
-- Twitch integration
-- Hundreds of balance adjustments
-- Hundreds of other changes
+- New Space Travel mechanics
+- Multi-Queue Crafting Devices
+- Nanobots performing simple tasks
+- Ship Sharing on Steam Workshop
+- Auto-Repair
+- New Content
+- Many balance, QOL and gameplay changes
 
-For more details, read the full announcement on Steam or [url=https://www.youtube.com/watch?v=Ev8ux4AznHs]watch this video[/url].
+Please use the in-game bug report system to report bugs, then discuss them on [url=https://steamcommunity.com/app/1380910/discussions/]Steam Forums[/url] or [url=https://discord.com/invite/89amEwP]Discord[/url].

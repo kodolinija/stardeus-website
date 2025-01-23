@@ -1,9 +1,17 @@
-Halloween Update
-https://steamcommunity.com/games/1380910/announcements Full Announcement
-2024-10-30
+Hyperspace Major Update (v0.12)
+https://steamcommunity.com/games/1380910/announcements/ All Announcements
+2025-01-23
 
-Greetings, Space Traveler,
+Greetings, Space Traveler!
 
-It's that time of year when the void between stars gets just a little spookier! Our latest update brings you the most essential research in intergalactic history: Halloween Decorations. Outfit your colony with jack-o'-lanterns, decorative skulls, ghostly statues, and enough tombstones to spook even the bravest space explorer. Oh, and don't forget the decorative coffins - because nothing says "home" like a stylish final resting place.
+Welcome to Stardeus Hyperspace Major Update. What to expect:
 
-For our botanically inclined captains, we've added pumpkins for your planters and a new culinary delight: Pumpkin Soup! Serve it to your crew to keep their bones warm while they wander through your ghostly halls...
+- New Space Travel mechanics
+- Multi-Queue Crafting Devices
+- Nanobots performing simple tasks
+- Ship Sharing on Steam Workshop
+- Auto-Repair
+- New Content
+- Many balance, QOL and gameplay changes
+
+Please use the in-game bug report system to report bugs, then discuss them on [url=https://steamcommunity.com/app/1380910/discussions/]Steam Forums[/url] or [url=https://discord.com/invite/89amEwP]Discord[/url].
