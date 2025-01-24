@@ -1,3 +1,11 @@
+<b>v0.12.1</b> (2025.01.24)
+- [Feature] Ship Forward Direction will auto-update to reflect engine rotations
+- [Balance] Only colonists with sanity below 50% will start fights
+- [Balance] Increase min delay between possible colonist fights from 5 to 10 days
+- [Mods] Auto-fix misconfigured modded material market item groups (Chromanite mod)
+- [Bug] Fix going through a Black Hole with Starmap closed would show old location next time the Starmap was opened
+
+
 <b>v0.12.0</b> (2025.01.23)
 - [Major] Add support for Diseases and Immunity
 - [Major] Change the structure of the Universe to use a graph of Space Regions and Sectors
