@@ -1,3 +1,7 @@
+<b>v0.12.2</b> (2025.01.26)
+- [Translations] Update Russian and Ukrainian translations
+
+
 <b>v0.12.1</b> (2025.01.24)
 - [Feature] Ship Forward Direction will auto-update to reflect engine rotations
 - [Balance] Only colonists with sanity below 50% will start fights
