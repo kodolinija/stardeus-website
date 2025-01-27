@@ -1,3 +1,8 @@
+<b>v0.12.4</b> (2025.01.27)
+- [Bug] Fix switching off a radar would not reduce the scan strength
+- [Bug] Fix scanning for the same resource more than once would always return the same result
+
+
 <b>v0.12.3</b> (2025.01.27)
 - [Balance] Limit friendly fight wound severity to "Moderate"
 - [Balance] Limit friendly fight duration to max 12 hours
