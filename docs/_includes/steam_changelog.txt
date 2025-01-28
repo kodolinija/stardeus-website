@@ -1,3 +1,12 @@
+<b>v0.12.5</b> (2025.01.28)
+- [Balance] Black Market Virus traders in hard regions will always have Asimov Override and Obey Chip for sale
+- [Balance] Space sectors that have alien bacteria present (space diarrhea) will infect colonists at a much slower rate
+- [Balance] Reduce disease transmission probability upon colonist contact
+- [Bug] Fix scanning for anomaly / derelict ship / space station etc would always return the same result
+- [Bug] Fix changing colonist's favorite color when starting a game would not refresh the UI
+- [Bug] Fix some space effects would only show a warning notification when encountering this event once per play session
+
+
 <b>v0.12.4</b> (2025.01.27)
 - [Bug] Fix switching off a radar would not reduce the scan strength
 - [Bug] Fix scanning for the same resource more than once would always return the same result
