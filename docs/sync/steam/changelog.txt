@@ -1,3 +1,16 @@
+<b>v0.12.6</b> (2025.01.30)
+- [UI/UX] Add a suggestion to accept a quest if player has any available quests
+- [Tech] Switch to a different Twitch OAuth token generator service
+- [Tech] Expose MaxAutoSaves tunable in Config/Tunable/System.json
+- [Bug] Fix suggestion to upgrade a Matter Reactor could show up too early
+- [Bug] Fix material deficits for unconstructed objects would not always show up
+- [Bug] Fix some achievements could still get unlocked when loading a save that had achievements disabled
+- [Bug] Fix context menu popup would sometimes spawn too small and with a scrollbar
+- [Bug] Fix ordering AutoDrill Rig deployment was possible when no Cargo Copters were built
+- [Bug] Fix a copter mission could stay in "waiting for available copter" forever and prevent hyperjumps if copter wasn't built
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.12.5</b> (2025.01.28)
 - [Balance] Black Market Virus traders in hard regions will always have Asimov Override and Obey Chip for sale
 - [Balance] Space sectors that have alien bacteria present (space diarrhea) will infect colonists at a much slower rate
