@@ -1,3 +1,8 @@
+<b>v0.12.7</b> (2025.02.01)
+- [Mods] Auto-fix issues with mods that don't define input/output ports for v0.12
+- [Mods] Make it possible to create a ship engine that is capable of both hyper and local travel
+
+
 <b>v0.12.6</b> (2025.01.30)
 - [UI/UX] Add a suggestion to accept a quest if player has any available quests
 - [Tech] Switch to a different Twitch OAuth token generator service
