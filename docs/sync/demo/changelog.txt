@@ -1,3 +1,27 @@
+<b>v0.12.9</b> (2025.02.04)
+- [Balance] Make story events that cause explosions much less frequent
+- [UI/UX] Show current quest steps inside the active quest notification
+- [UI/UX] Auto-hide some event notifications faster
+- [UI/UX] Update the misleading "Upgrade Matter Reactor" suggestion text
+- [UI/UX] Show "Connection Lost" event notification if last Ship Computer gets disconnected
+- [Bug] Fix connecting a vent while clock was paused would not allow to toggle the open/closed state immediately
+- [Bug] Fix accepting a quest while clock was paused would not check for completed steps immediately
+- [Bug] Fix One Piece achievement was unlockable only by winching sections
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.12.8</b> (2025.02.03)
+- [Balance] Crafting devices will skip orders with material deficit without delay
+- [Bug] Fix loading the game would not restore "material deficit" notifications correctly
+- [Bug] Fix approaching a terraformable planet would sometimes not start terraforming it unless game was reloaded
+- [Bug] Fix "Accept a Quest" suggestion would show up even if there were no quests available
+
+
+<b>v0.12.7</b> (2025.02.01)
+- [Mods] Auto-fix issues with mods that don't define input/output ports for v0.12
+- [Mods] Make it possible to create a ship engine that is capable of both hyper and local travel
+
+
 <b>v0.12.6</b> (2025.01.30)
 - [UI/UX] Add a suggestion to accept a quest if player has any available quests
 - [Tech] Switch to a different Twitch OAuth token generator service
