@@ -1,3 +1,16 @@
+<b>v0.12.11</b> (2025.02.06)
+- [UI/UX] Improve Research Tree UI
+- [UI/UX] Add Management block with delete viewers and reset reputation actions to Twitch in-game settings
+
+
+<b>v0.12.10</b> (2025.02.05)
+- [UI/UX] Add "Contents" list for the currently displayed layer in Starmap
+- [Bug] Fix scanner wouldn't find resources on planets that were previously visited
+- [Bug] Fix relocating a device that was switched off would switch it back on
+- [Bug] Fix trader inventory would get regenerated after save / load
+- [Bug] Fix starting a new expedition while another expedition setup was ongoing would not update the expedition target
+
+
 <b>v0.12.9</b> (2025.02.04)
 - [Balance] Make story events that cause explosions much less frequent
 - [UI/UX] Show current quest steps inside the active quest notification
