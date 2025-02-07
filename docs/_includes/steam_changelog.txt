@@ -1,3 +1,7 @@
+<b>v0.12.13</b> (2025.02.07)
+- [Bug] Hotfix: a connected ship computer would always show "Lost Connection" in v0.12.12
+
+
 <b>v0.12.12</b> (2025.02.07)
 - [UI/UX] Make locked research nodes easier to read
 - [QoL] Automatically order repairs when Breach Capsule port gets deconstructed
