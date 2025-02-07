@@ -1,3 +1,9 @@
+<b>v0.12.12</b> (2025.02.07)
+- [UI/UX] Make locked research nodes easier to read
+- [QoL] Automatically order repairs when Breach Capsule port gets deconstructed
+- [Bug] Fix game would fail to load if there was an unbuilt ship computer
+
+
 <b>v0.12.11</b> (2025.02.06)
 - [UI/UX] Improve Research Tree UI
 - [UI/UX] Add Management block with delete viewers and reset reputation actions to Twitch in-game settings
