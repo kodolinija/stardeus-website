@@ -1,3 +1,13 @@
+<b>v0.12.14</b> (2025.02.11)
+- [Balance] Increase the chance of traders having a mini core in their inventory
+- [Mods] Package C# reference source code within Core mod
+- [UI/UX] Add a Translation button to the top-right corner of the Main Menu for easy access
+- [Translations] Switch to dedicated, higher resolution fonts for Chinese, Japanese and Korean instead of a unified CJK font
+- [Translations] Fix several incorrect Chinese translations
+- [Bug] Fix some texts in Chinese/Japanese/Korean language would overflow in the UI
+- [Bug] Fix a Cleaning Bot with Cat brain would ride itself
+
+
 <b>v0.12.13</b> (2025.02.07)
 - [Bug] Hotfix: a connected ship computer would always show "Lost Connection" in v0.12.12
 
