@@ -1,3 +1,8 @@
+<b>v0.12.15</b> (2025.02.12)
+- [Translations] Update French translation to 100%
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.12.14</b> (2025.02.11)
 - [Balance] Increase the chance of traders having a mini core in their inventory
 - [Mods] Package C# reference source code within Core mod
