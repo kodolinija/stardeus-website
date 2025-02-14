@@ -1,3 +1,7 @@
+<b>v0.12.16</b> (2025.02.14)
+- [Bug] Fix a task with no target would make the AI freeze in an error loop
+
+
 <b>v0.12.15</b> (2025.02.12)
 - [Translations] Update French translation to 100%
 - [Bug] Fix several auto-reported internal errors
