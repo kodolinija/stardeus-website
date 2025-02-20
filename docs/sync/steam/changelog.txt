@@ -1,3 +1,15 @@
+<b>v0.12.18</b> (2025.02.20)
+- [Balance] Make Dark Matter deposits easier to mine
+- [Balance] Crawlers and raiders on fire won't get extinguished
+- [Balance] Most negative story events will never happen in "Peaceful [10%]" difficulty
+- [UI/UX] Codex entries will contain clickable links that open popups to related codex entries
+- [UI/UX] Holding SHIFT will lock active popup in place to make it possible to click links
+- [UI/UX] Show "too deep" warning when Beam Drill cannot mine the deposit
+- [UI/UX] Show deposit depth in starmap tooltips
+- [UI/UX] Show more information in tooltips for objects behind the ship in game view
+- [UI/UX] Console command "help" will list commands in alphabetic order
+
+
 <b>v0.12.17</b> (2025.02.17)
 - [Mods] Add JSON patching support
 - [Mods] Load the Main Menu after mods have finished loading
