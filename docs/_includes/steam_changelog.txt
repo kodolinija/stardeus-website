@@ -1,3 +1,10 @@
+<b>v0.12.19</b> (2025.03.04)
+- [Mods] Declaring mod dependencies will not require including workshop item id
+- [Mods] Include "Game.Constants" into ReferenceSourceCode
+- [Mods] Automatically remove .git/, .vscode/, obj/, etc when uploading mods
+- [Bug] Fix some text links could get clicked through another UI element
+
+
 <b>v0.12.18</b> (2025.02.20)
 - [Balance] Make Dark Matter deposits easier to mine
 - [Balance] Crawlers and raiders on fire won't get extinguished
