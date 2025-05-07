@@ -1,16 +1,13 @@
-Hyperspace Major Update (v0.12)
+Ship Combat Major Update (v0.13)
 https://steamcommunity.com/games/1380910/announcements/ All Announcements
-2025-01-23
+2025-05-07
 
 Greetings, Space Traveler!
 
-Welcome to Stardeus Hyperspace Major Update. What to expect:
+Welcome to Stardeus Ship Combat Major Update. What to expect:
 
-- New Space Travel mechanics
-- Multi-Queue Crafting Devices
-- Nanobots performing simple tasks
-- Ship Sharing on Steam Workshop
-- Auto-Repair
+- NPC Ships living their lives in the universe
+- Ship to Ship Combat
 - New Content
 - Many balance, QOL and gameplay changes
 

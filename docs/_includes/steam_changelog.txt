@@ -1,3 +1,143 @@
+<b>v0.13.0</b> (2025.05.07)
+- [Major] Populate the universe with NPC ships of other factions
+- [Major] Add Ship to Ship Combat
+- [Major] Add various interactions between ships (NPC <-> Player and NPC <-> NPC)
+- [Feature] Add tutorial: Ship Combat
+- [Feature] Add Quest: Make Ship Combat Ready
+- [Feature] Add Ship Weapon: Shredder Cannon (Ballistic type)
+- [Feature] Add Ship Weapon: Heavy Laser (Laser type)
+- [Feature] Add Ship Weapon: Rocket Pod (Missile type)
+- [Feature] Add Ship Weapon: Gauss Striker (Plasma type)
+- [Feature] Add Ship Weapon: Interceptor Turret (Point Defense type)
+- [Feature] Add Shield Emitter device for ship shields
+- [Feature] Add Flux Capacitor device that increases ship flux capacity
+- [Feature] Make ship weapons attack meteoroids, asteroids and breach capsule
+- [Feature] Make ship shields defend from micro meteoroids
+- [Feature] Turn Space Stations into Ship type for them to have ship to ship interactions
+- [Feature] Add Space Story Event: Pirate Ship Attack
+- [Feature] Add space story event: Pirate Ship Extortion
+- [Feature] Add Space Story Event: Law Enforcement Raid
+- [Feature] Add Space Story Event: Ship Duel
+- [Feature] Add Space Story Event: Ship asking for fuel
+- [Feature] Deep Scan will run passively and automatically all the time when available
+- [Feature] Communicator will require an operator for communicating with other ships
+- [Feature] Add Winch Range Upgrade that allows reeling in derelicts from any distance
+- [Feature] Add "Find Resource" suggestion that point out scanning research and functionality
+- [Feature] Add Return Beacon device, research and Starmap UI for fast-travel to visited locations
+- [Feature] Destroying a Void Ripper will warp the ship to a random location in the universe
+- [Feature] Destroying a Void Ripper will spawn 3 Dark Matter
+- [Feature] Change faction attitude for the victim against the attacker after victim is defeated
+- [Feature] Change faction attitude for observer NPC ships when a ship is defeated
+- [Feature] Add Warp Drive research (Tier 4)
+- [Feature] Add Local Warp Drive that can jump to any sector within the region
+- [Feature] Add Alien Warp Drive research (Tier 6)
+- [Feature] Add Horizon Warp Drive that can jump to any distant region
+- [Feature] Add Notes overlay with a scratchpad for taking in-game notes
+- [Feature] Add two types of wooden floor tiles
+- [Feature] Mining an owned resource deposit will make owner's ships in the sector attack the player
+- [Feature] Space Port will spawn ships to attack the player if there is a need and no ships are around
+- [Feature] Add Storage Capsule loot types: Mini Core, Obey Chip
+- [Feature] Allow toggling Nanobots compatible job types in Job Matrix UI
+- [Feature] Add Firewall Chip implant that prevents Hacking and adds Energy Resistance
+- [Feature] Make Crawler Goo craftable
+- [Feature] Trap Floors will automatically destroy Eggs when they are placed above them
+- [Feature] Add "Crawler Combat Alert" toggle in Current Game Settings to ignore crawler combat when farming them
+- [Balance] Going through a Black Hole will discharge only one Void Ripper
+- [Balance] Going through a Black Hole will deal some structural damage to the Void Ripper
+- [Balance] Limit max deep scans per location to 3
+- [Balance] Move Extended Scanning to Tier 4 before Telescope
+- [Balance] Make scanning strength increase linearly (used to be square root)
+- [Balance] Limit maximum scanning strength to 10
+- [Balance] Hyperjump drives will have to charge up before use when in ship to ship combat
+- [Balance] Radar will not be required to reveal resource deposits when entering a sector
+- [Balance] Gold and Platinum will be easier to find
+- [Balance] Deep Scan will allow finding more rare materials in easier difficulty sectors
+- [Balance] Deep Scan speed will depend on sector difficulty
+- [Balance] Deep Scan will run much faster for subsequent scans (still limited to max 3)
+- [Balance] Magnetic storm will increase dust accumulation and particle collector output by 2x
+- [Balance] Connector Malfunction story event will only happen on Impossible difficulty
+- [Balance] Increase electric devices per 1Thz CPU from 20 to 25 and make the value tunable
+- [Balance] Most electronic components will be destroyed if a device containing them gets destroyed
+- [Balance] Part Storage will be unlocked with Assembly Hub, not Disassembler
+- [Balance] Reduce frequency of Cooking Incident and Cleaning Incident story events
+- [Balance] Repairing a damaged device will never take less than 15 minutes of game time
+- [Balance] Slow down meteoroids by 25-50% when they are part of a larger shower
+- [Balance] Make meteoroids move 5x faster
+- [Balance] Reduce Coffee Tree water consumption by 2x
+- [Balance] Unlock Radar as part of basic tech
+- [Balance] Refinery, Fabricator, Grinder, Flux Capacitor and Warp Drives will generate heat while operating
+- [Balance] Destroying a Breach Capsule with ship weapons will spawn the wounded raiders
+- [Balance] Allow deploying AutoDrill Rigs to deposits without depth
+- [Balance] Reduce amount of Glass provided at the beginning of Wrecked and Leaving Earth scenarios
+- [Balance] Resources found via Deep Scan in an owned sector will have 50% chance of being owned
+- [Balance] Mining a deposit belonging to another faction will have more diverse consequences (breach capsules + ship attacks)
+- [Balance] Adjust incoming breach capsule speeds
+- [Balance] Reorganize Space Travel research tree
+- [Balance] Selling ship sections will be more profitable
+- [Balance] Biological beings with Obey Chip will be prone to Hacking
+- [Balance] Don't spawn living grounded raiders when breach capsule is destroyed in space
+- [Balance] Adjust outcomes of Hacked event
+- [Balance] Battery Overload event won't happen for bots that are docked, charging or undergoing repairs
+- [UI/UX] Suggest disabling crawler combat alerts when choosing to clone crawler or egg once per session
+- [UI/UX] Add "Load Game" menu item to Pause Panel
+- [UI/UX] Display a warning if no worker is capable of certain task type
+- [UI/UX] Make research tree paths clickable in tooltips and UI
+- [UI/UX] Warn if Trade Portal is not available when trying to trade with a hailed ship
+- [UI/UX] Add link to Trade Portal codex entry in "Trade portal not available" messages
+- [UI/UX] Add clickable links to space objects when tooltips or popup mention them
+- [UI/UX] Display class points cost in codex entries of all ship devices
+- [UI/UX] Shift-clicking devices while a connector is selected will ignore click-drags
+- [UI/UX] Improve crafting device context menu popup behavior
+- [UI/UX] Warn about building too many scanners
+- [UI/UX] Show Scan Strength in Radar / System Scanner codex entries
+- [UI/UX] Change order of scenario configuration screens to allow modifiers to get configured before space map
+- [UI/UX] Show Black Hole information when hovering Regions and Sectors in the Starmap
+- [UI/UX] Make some space object names in tooltips clickable (will focus on the object in the starmap)
+- [UI/UX] Improve UI panel focus on click behavior
+- [UI/UX] List incompatible Brains / Cores in Replicator / ML Booth
+- [UI/UX] Show warning tooltip when trying to load incompatible item into Replicator / ML Booth
+- [UI/UX] Add more details to Needs stat tooltips
+- [UI/UX] Add links to entities in entity / being task tooltips
+- [UI/UX] Mental health effects will track the location of the event
+- [UI/UX] Show hand cursor when hovering clickable items
+- [UI/UX] Remove text highlights when hovering clickable text links in favor of hand cursor
+- [UI/UX] Improve storable being component UI
+- [UI/UX] Improve disposable component UI
+- [UI/UX] List sections that will be abandoned when doing a hyperjump
+- [UI/UX] Display links to objects when hovering clickable texts anywhere in the UI
+- [UI/UX] Improve camera auto move speed / smoothness when focusing on distant objects
+- [UI/UX] Enhance Available Tasks UI with better tooltips
+- [UI/UX] Split Structure category into Floors, Walls and Doors in Build Menu
+- [UI/UX] Don't show more than 3 tasks in the tooltip when hovering a location with multiple tasks
+- [UI/UX] Don't show more than 10 items in the tooltip when hovering a location with multiple objects
+- [UI/UX] Improve Codex > Factions UI to show relationships between NPC factions
+- [UI/UX] Add "Eject All" button to all storages
+- [Tech] Upgrade Unity to 6000.0.48f1
+- [Tech] Loud sounds (explosions, ship weapons) will affect music volume
+- [Mods] Add more checks and diagnostics for validating mod upload issues
+- [Mods] Add mod_debug prepare <modId> and mod_debug upload_prepared <modId> console commands
+- [Mods] Fix race condition that would prevent mods from uploading on lower latency network connections
+- [Misc] Remove Quantum Barrier device and related research
+- [Misc] Remove Directional Turret device and related research
+- [Misc] Remove Security Controls device and related research
+- [Misc] Remove Security overlay
+- [Bug] Fix workers would try hauling objects to storage when storage was full
+- [Bug] Fix workers would try hauling dead bodies to surgery / assembly hub while hub was occupied
+- [Bug] Fix beings would take deadly unsafe paths if the destination was safer (usually warmer) than the start
+- [Bug] Fix unlocking last research item would not hide the "Research available" notification
+- [Bug] Fix unloading research would visually corrupt the unloaded research UI element
+- [Bug] Fix Mining Orders popup could change the orders of the wrong expedition when multiple expeditions were configured
+- [Bug] Fix space effects would not reset state between different game sessions, causing bugs on save / load
+- [Bug] Fix changing equipment would not immediately update DPS values in Combat Controls UI
+- [Bug] Fix enemy combat units could get stuck in outer areas without entrance to the rest of the ship
+- [Bug] Fix enemies would try to break in through doors that lead to nowhere interesting
+- [Bug] Fix workers could get stuck for 2 in-game hours waiting for path evaluation when there was no path
+- [Bug] Fix pressing R would not rotate a tile blueprint if the mouse was moving
+- [Bug] Fix mass-ordering installing upgrades would not create an upgrade task for devices that had another task pending (e.g. reactor refill)
+- [Bug] Fix Xenodetectors would be scanning even when switched off
+- [Bug] Fix grounded beings with "Fight" combat reaction would keep dropping their work if there were unreachable enemy units
+
+
 <b>v0.12.19</b> (2025.03.04)
 - [Mods] Declaring mod dependencies will not require including workshop item id
 - [Mods] Include "Game.Constants" into ReferenceSourceCode
