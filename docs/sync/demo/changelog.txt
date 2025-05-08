@@ -1,3 +1,10 @@
+<b>v0.13.1</b> (2025.05.08)
+- [Bug] Fix K shortcut wouldn't work if player's ship intersected with map corner margin
+- [Bug] K shortcut would not work in Basic Controls tutorial due to the bug above
+- [Bug] Fix tutorial steps involving configuring crafting devices would get stuck
+- [Bug] Fix several auto reported internal errors
+
+
 <b>v0.13.0</b> (2025.05.07)
 - [Major] Populate the universe with NPC ships of other factions
 - [Major] Add Ship to Ship Combat
