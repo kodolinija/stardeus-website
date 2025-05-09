@@ -1,3 +1,12 @@
+<b>v0.13.2</b> (2025.05.09)
+- [Feature] Support keeping communications channel open with a ship even if the dialog is closed
+- [Feature] Support holding open comms with multiple NPC ships at the same time
+- [Balance] Adjust NPC ship combat tactics
+- [Balance] Increase Flux Bonus for higher ship classes
+- [UI/UX] Improve ship hail UI
+- [UI/UX] Improve ship context menus in Starmap
+
+
 <b>v0.13.1</b> (2025.05.08)
 - [Bug] Fix K shortcut wouldn't work if player's ship intersected with map corner margin
 - [Bug] K shortcut would not work in Basic Controls tutorial due to the bug above
