@@ -1,3 +1,7 @@
+<b>v0.13.3</b> (2025.05.09)
+- [Bug] Hotfix for ship hail ui not closing under certain conditions
+
+
 <b>v0.13.2</b> (2025.05.09)
 - [Feature] Support keeping communications channel open with a ship even if the dialog is closed
 - [Feature] Support holding open comms with multiple NPC ships at the same time
