@@ -1,3 +1,16 @@
+<b>v0.13.4</b> (2025.05.10)
+- [UI/UX] Improve "Trade Portal Not Available" warning
+- [UI/UX] Show warning about failing to build a copy of items that are locked in research
+- [UI/UX] Show warning about Advanced Relocation research when attempting to relocate an advanced device
+- [Bug] Fix turrets would not work in Combat Tactics tutorial
+- [Bug] Fix save/load could make NPC ship stuck in "trading" state without initiating the trade
+- [Bug] Fix infinite gifts loophole
+- [Bug] Fix NPC ships would keep comms channel open when jumping into hyperspace
+- [Bug] Fix Soft Flux Vent Rate would be 0 before first venting happened
+- [Bug] Fix ship damage numbers wouldn't be visible outside PIP camera
+- [Bug] Fix engaging a ship in combat wouldn't end an ongoing trade with that ship
+
+
 <b>v0.13.3</b> (2025.05.09)
 - [Bug] Hotfix for ship hail ui not closing under certain conditions
 
