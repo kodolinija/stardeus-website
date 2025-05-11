@@ -1,3 +1,17 @@
+<b>v0.13.5</b> (2025.05.11)
+- [Balance] Reduce chance of ship extorting another ship if the faction relationships aren't negative
+- [Balance] 5% of Law Enforcement Officers will be corrupt (will extort other ships)
+- [Balance] Shield Emitter electricity consumption will scale with ship size
+- [UI/UX] Disabling Crawler Combat Alert will also disable the "Egg Hatched Crawlers" notification and warning sound
+- [UI/UX] Show tooltips when hovering seed inputs in game setup
+- [Bug] Fix ship weapons would stop rotating after attacking a non-ship target outside ship combat
+- [Bug] Fix enemies with Obey Chip would still be registered as threats, causing some logic errors for other systems
+- [Bug] Fix shields would not remain active while staying in a sector with ongoing meteoroid shower
+- [Bug] Fix NPC ship would not end ongoing hail if player jumped into hyperspace
+- [Bug] Fix Law Enforcement Officers could randomly attack players
+- [Bug] Fix Ctrl + Click would order attacking friendly beings if Asimov Override Upgrade was installed
+
+
 <b>v0.13.4</b> (2025.05.10)
 - [UI/UX] Improve "Trade Portal Not Available" warning
 - [UI/UX] Show warning about failing to build a copy of items that are locked in research
