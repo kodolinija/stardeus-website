@@ -1,3 +1,13 @@
+<b>v0.13.7</b> (2025.05.12)
+- [Balance] Newly initialized Orbotron bots will be capable of Robotics jobs
+- [Balance] Stagger shots when multiple weapons try to shoot all at once
+- [Balance] Weapon projectiles mid flight will be deactivated if negotiations are ongoing
+- [UI/UX] Show normal rather than smiling face for NPC positive responses with rude tone
+- [UI/UX] Sort Build Menu categories by logic instead of alphabet order
+- [UI/UX] Show larger version of Build Menu on Full HD and higher resolution displays
+- [UI/UX] Allow resizing Build Menu
+
+
 <b>v0.13.6</b> (2025.05.12)
 - [Balance] Adjust ship to ship reactions to increase the amount of NPC-initiated interactions
 - [Balance] Make "Insult" hail option unavailable for some time after NPC ship surrenders to the player
