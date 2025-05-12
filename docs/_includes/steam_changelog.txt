@@ -1,3 +1,11 @@
+<b>v0.13.6</b> (2025.05.12)
+- [Balance] Adjust ship to ship reactions to increase the amount of NPC-initiated interactions
+- [Balance] Make "Insult" hail option unavailable for some time after NPC ship surrenders to the player
+- [UI/UX] Don't show notifications about eggs hatching crawler goo if Crawler Combat Alert is disabled in settings
+- [Bug] Fix NPC ships could react to other ships while in hyperspace
+- [Bug] Fix derelict ships would be able to hyperjump
+
+
 <b>v0.13.5</b> (2025.05.11)
 - [Balance] Reduce chance of ship extorting another ship if the faction relationships aren't negative
 - [Balance] 5% of Law Enforcement Officers will be corrupt (will extort other ships)
