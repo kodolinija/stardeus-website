@@ -1,3 +1,13 @@
+<b>v0.13.8</b> (2025.05.13)
+- [Feature] Allow forcing an operator to be always present on all operatable devices
+- [Balance] Generate more Flux Capacitors for NPC ships
+- [Balance] Ensure engaging in ship combat will deteriorate faction relations when appropriate
+- [Misc] Add Developer Menu -> Create Situation panel for creating various situations
+- [UI/UX] Improve Ship Combat UI
+- [UI/UX] Improve Advanced Controls tutorial
+- [Bug] Fix cats and other beings riding a cleaning bot would not update the name / thought bubble position
+
+
 <b>v0.13.7</b> (2025.05.12)
 - [Balance] Newly initialized Orbotron bots will be capable of Robotics jobs
 - [Balance] Stagger shots when multiple weapons try to shoot all at once
