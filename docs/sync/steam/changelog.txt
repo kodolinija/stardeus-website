@@ -1,3 +1,22 @@
+<b>v0.13.9</b> (2025.05.14)
+- [Feature] NPC ships will sometimes try to hyperjump away from combat
+- [Balance] Prevent the same NPC ship from repeatedly hailing the player too often
+- [Balance] Increase delay between repeated ship to ship interactions for all ships
+- [Balance] Attacking or insulting a ship may cause other ships from the same faction to retaliate
+- [Graphics] Adjust visual size of ship devices on NPC ships in combat
+- [Performance] Optimize being rendering performance
+- [UI/UX] Show more information about why deploying a resource miner is not possible
+- [UI/UX] Improve ship combat UI weapon tooltips
+- [UI/UX] Allow Ctrl + Clicking ready ship weapons in ship combat UI to shoot them
+- [Bug] Remove "Load" button from pause menu since loading while in-game causes bugs
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix teleporting to anther space location while having a shuttle expedition ongoing would make hyperjumps impossible
+- [Bug] Fix "Find Resource" suggestions wouldn't go away
+- [Bug] Fix call pickup sound could keep repeating if two ongoing calls were in progress while operator just picked up
+- [Bug] Fix player's shield would never visually shake
+- [Bug] Fix enemy projectiles wouldn't hit player's shield correctly
+
+
 <b>v0.13.8</b> (2025.05.13)
 - [Feature] Allow forcing an operator to be always present on all operatable devices
 - [Balance] Generate more Flux Capacitors for NPC ships
