@@ -1,3 +1,13 @@
+<b>v0.13.10</b> (2025.05.16)
+- [Balance] Move Kitchen Storage research from Tier 2 to Tier 1
+- [Balance] Move Improved Kitchen Storage research from Tier 3 to Tier 2
+- [AI] Melee units under direct control will follow the enemy that player sets as target
+- [AI] Units under direct control will take shortest paths ignoring cover
+- [UI/UX] Show list of locked blueprints in all crafter UI
+- [UI/UX] Fix Electricity UI would pop up above grid details UI when grid change was triggered
+- [Translations] Update Portuguese Brasil (Brasileiro) translation to 100%
+
+
 <b>v0.13.9</b> (2025.05.14)
 - [Feature] NPC ships will sometimes try to hyperjump away from combat
 - [Balance] Prevent the same NPC ship from repeatedly hailing the player too often
@@ -871,7 +881,7 @@
 - [Note] This update marks the code freeze of v0.10
 - [Tech] Update Unity to 2022.3.23f1
 - [Balance] Reduce Xenodetector energy cost from 250kW to 50kW
-- [Misc] Update Hungarian and Portuguese Brazil (Classic) translations
+- [Misc] Update Hungarian and Portuguese Brasil (Classic) translations
 - [Bug] Fix build menu pagination would reset the internal state to page 1 while showing page 2+ after an item in page 2+ was selected
 - [Bug] Fix translation issue with device relocation tutorial step
 - [Bug] Fix a couple of minor auto-reported internal errors
@@ -1277,7 +1287,7 @@
 - [Balance] Significantly reduce Probe speed
 - [UI/UX] Display storage capacity in expedition shuttle choice tooltips
 - [UI/UX] Disallow renaming beings that don't belong to player's faction
-- [Misc] Add Portuguese Brazil "Classic" translation
+- [Misc] Add Portuguese Brasil "Classic" translation
 
 
 <b>v0.9.54</b> (2023.08.23)
@@ -5642,7 +5652,7 @@
 - [Balance] Rebalance the research tree
 - [Graphics] Fix floor seams
 - [Misc] require repair skill for repair tasks
-- [Misc] Add Portuguese (Brazil) translation by UNG_God
+- [Misc] Add Portuguese (Brasil) translation by UNG_God
 - [UI/UX] Switch to energy connect tool when dragging between a connector and adjacent energy enabled tile (used to need a longer drag)
 - [UI/UX] Hide Dev tooling if instant build mode is disabled
 - [UI/UX] Show more details in item codex popup
