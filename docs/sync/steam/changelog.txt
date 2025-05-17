@@ -1,3 +1,16 @@
+<b>v0.13.11</b> (2025.05.17)
+- [Balance] Unlocking FTL Propulsion will not require Quantum Datoids (dark matter)
+- [Balance] Reduce heat production rate for both Warp Drives
+- [UI/UX] Improve Starmap Scan UI
+- [UI/UX] Show info about locked scanning targets in Starmap Scan UI when selecting resources
+- [Translations] Update German translation to 100%
+- [Translations] Translations validation will work better with aliased translations
+- [Bug] Fix input rebind widget would appear behind other UI
+- [Bug] Fix some particles showing up at 0:0 coordinate
+- [Bug] Fix some devices not showing their particles (Radar, Servers)
+- [Bug] Fix being names showing up at zero coordinate after load until clock was resumed
+
+
 <b>v0.13.10</b> (2025.05.16)
 - [Balance] Move Kitchen Storage research from Tier 2 to Tier 1
 - [Balance] Move Improved Kitchen Storage research from Tier 3 to Tier 2
