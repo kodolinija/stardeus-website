@@ -1,3 +1,104 @@
+<b>v0.13.11</b> (2025.05.17)
+- [Balance] Unlocking FTL Propulsion will not require Quantum Datoids (dark matter)
+- [Balance] Reduce heat production rate for both Warp Drives
+- [UI/UX] Improve Starmap Scan UI
+- [UI/UX] Show info about locked scanning targets in Starmap Scan UI when selecting resources
+- [Translations] Update German translation to 100%
+- [Translations] Translations validation will work better with aliased translations
+- [Bug] Fix input rebind widget would appear behind other UI
+- [Bug] Fix some particles showing up at 0:0 coordinate
+- [Bug] Fix some devices not showing their particles (Radar, Servers)
+- [Bug] Fix being names showing up at zero coordinate after load until clock was resumed
+
+
+<b>v0.13.10</b> (2025.05.16)
+- [Balance] Move Kitchen Storage research from Tier 2 to Tier 1
+- [Balance] Move Improved Kitchen Storage research from Tier 3 to Tier 2
+- [AI] Melee units under direct control will follow the enemy that player sets as target
+- [AI] Units under direct control will take shortest paths ignoring cover
+- [UI/UX] Show list of locked blueprints in all crafter UI
+- [UI/UX] Fix Electricity UI would pop up above grid details UI when grid change was triggered
+- [Translations] Update Portuguese Brasil (Brasileiro) translation to 100%
+
+
+<b>v0.13.9</b> (2025.05.14)
+- [Feature] NPC ships will sometimes try to hyperjump away from combat
+- [Balance] Prevent the same NPC ship from repeatedly hailing the player too often
+- [Balance] Increase delay between repeated ship to ship interactions for all ships
+- [Balance] Attacking or insulting a ship may cause other ships from the same faction to retaliate
+- [Graphics] Adjust visual size of ship devices on NPC ships in combat
+- [Performance] Optimize being rendering performance
+- [UI/UX] Show more information about why deploying a resource miner is not possible
+- [UI/UX] Improve ship combat UI weapon tooltips
+- [UI/UX] Allow Ctrl + Clicking ready ship weapons in ship combat UI to shoot them
+- [Bug] Remove "Load" button from pause menu since loading while in-game causes bugs
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix teleporting to anther space location while having a shuttle expedition ongoing would make hyperjumps impossible
+- [Bug] Fix "Find Resource" suggestions wouldn't go away
+- [Bug] Fix call pickup sound could keep repeating if two ongoing calls were in progress while operator just picked up
+- [Bug] Fix player's shield would never visually shake
+- [Bug] Fix enemy projectiles wouldn't hit player's shield correctly
+
+
+<b>v0.13.8</b> (2025.05.13)
+- [Feature] Allow forcing an operator to be always present on all operatable devices
+- [Balance] Generate more Flux Capacitors for NPC ships
+- [Balance] Ensure engaging in ship combat will deteriorate faction relations when appropriate
+- [Misc] Add Developer Menu -> Create Situation panel for creating various situations
+- [UI/UX] Improve Ship Combat UI
+- [UI/UX] Improve Advanced Controls tutorial
+- [Bug] Fix cats and other beings riding a cleaning bot would not update the name / thought bubble position
+
+
+<b>v0.13.7</b> (2025.05.12)
+- [Balance] Newly initialized Orbotron bots will be capable of Robotics jobs
+- [Balance] Stagger shots when multiple weapons try to shoot all at once
+- [Balance] Weapon projectiles mid flight will be deactivated if negotiations are ongoing
+- [UI/UX] Show normal rather than smiling face for NPC positive responses with rude tone
+- [UI/UX] Sort Build Menu categories by logic instead of alphabet order
+- [UI/UX] Show larger version of Build Menu on Full HD and higher resolution displays
+- [UI/UX] Allow resizing Build Menu
+
+
+<b>v0.13.6</b> (2025.05.12)
+- [Balance] Adjust ship to ship reactions to increase the amount of NPC-initiated interactions
+- [Balance] Make "Insult" hail option unavailable for some time after NPC ship surrenders to the player
+- [UI/UX] Don't show notifications about eggs hatching crawler goo if Crawler Combat Alert is disabled in settings
+- [Bug] Fix NPC ships could react to other ships while in hyperspace
+- [Bug] Fix derelict ships would be able to hyperjump
+
+
+<b>v0.13.5</b> (2025.05.11)
+- [Balance] Reduce chance of ship extorting another ship if the faction relationships aren't negative
+- [Balance] 5% of Law Enforcement Officers will be corrupt (will extort other ships)
+- [Balance] Shield Emitter electricity consumption will scale with ship size
+- [UI/UX] Disabling Crawler Combat Alert will also disable the "Egg Hatched Crawlers" notification and warning sound
+- [UI/UX] Show tooltips when hovering seed inputs in game setup
+- [Bug] Fix ship weapons would stop rotating after attacking a non-ship target outside ship combat
+- [Bug] Fix enemies with Obey Chip would still be registered as threats, causing some logic errors for other systems
+- [Bug] Fix shields would not remain active while staying in a sector with ongoing meteoroid shower
+- [Bug] Fix NPC ship would not end ongoing hail if player jumped into hyperspace
+- [Bug] Fix Law Enforcement Officers could randomly attack players
+- [Bug] Fix Ctrl + Click would order attacking friendly beings if Asimov Override Upgrade was installed
+
+
+<b>v0.13.4</b> (2025.05.10)
+- [UI/UX] Improve "Trade Portal Not Available" warning
+- [UI/UX] Show warning about failing to build a copy of items that are locked in research
+- [UI/UX] Show warning about Advanced Relocation research when attempting to relocate an advanced device
+- [Bug] Fix turrets would not work in Combat Tactics tutorial
+- [Bug] Fix save/load could make NPC ship stuck in "trading" state without initiating the trade
+- [Bug] Fix infinite gifts loophole
+- [Bug] Fix NPC ships would keep comms channel open when jumping into hyperspace
+- [Bug] Fix Soft Flux Vent Rate would be 0 before first venting happened
+- [Bug] Fix ship damage numbers wouldn't be visible outside PIP camera
+- [Bug] Fix engaging a ship in combat wouldn't end an ongoing trade with that ship
+
+
+<b>v0.13.3</b> (2025.05.09)
+- [Bug] Hotfix for ship hail ui not closing under certain conditions
+
+
 <b>v0.13.2</b> (2025.05.09)
 - [Feature] Support keeping communications channel open with a ship even if the dialog is closed
 - [Feature] Support holding open comms with multiple NPC ships at the same time
@@ -793,7 +894,7 @@
 - [Note] This update marks the code freeze of v0.10
 - [Tech] Update Unity to 2022.3.23f1
 - [Balance] Reduce Xenodetector energy cost from 250kW to 50kW
-- [Misc] Update Hungarian and Portuguese Brazil (Classic) translations
+- [Misc] Update Hungarian and Portuguese Brasil (Classic) translations
 - [Bug] Fix build menu pagination would reset the internal state to page 1 while showing page 2+ after an item in page 2+ was selected
 - [Bug] Fix translation issue with device relocation tutorial step
 - [Bug] Fix a couple of minor auto-reported internal errors
@@ -1199,7 +1300,7 @@
 - [Balance] Significantly reduce Probe speed
 - [UI/UX] Display storage capacity in expedition shuttle choice tooltips
 - [UI/UX] Disallow renaming beings that don't belong to player's faction
-- [Misc] Add Portuguese Brazil "Classic" translation
+- [Misc] Add Portuguese Brasil "Classic" translation
 
 
 <b>v0.9.54</b> (2023.08.23)
@@ -5564,7 +5665,7 @@
 - [Balance] Rebalance the research tree
 - [Graphics] Fix floor seams
 - [Misc] require repair skill for repair tasks
-- [Misc] Add Portuguese (Brazil) translation by UNG_God
+- [Misc] Add Portuguese (Brasil) translation by UNG_God
 - [UI/UX] Switch to energy connect tool when dragging between a connector and adjacent energy enabled tile (used to need a longer drag)
 - [UI/UX] Hide Dev tooling if instant build mode is disabled
 - [UI/UX] Show more details in item codex popup
