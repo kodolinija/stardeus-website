@@ -1,3 +1,13 @@
+<b>v0.13.12</b> (2025.05.20)
+- [Feature] Add "Empty" option when offering a gift to an NPC ship
+- [Mods] Prevent broken mods from freezing the new / load game
+- [Mods] Handle reuploads of shared ships and mods that were deleted from the workshop
+- [Mods] Add --load-save <savePath> command line argument support for loading straight into a save file
+- [Translations] Update Ukrainian translation to 100%
+- [Bug] Fix wrong text in last step of Ship Combat tutorial
+- [Bug] Fix unsubscribing a workshop mod that had a local version would delete the local version folder
+
+
 <b>v0.13.11</b> (2025.05.17)
 - [Balance] Unlocking FTL Propulsion will not require Quantum Datoids (dark matter)
 - [Balance] Reduce heat production rate for both Warp Drives
