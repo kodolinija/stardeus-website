@@ -1,3 +1,9 @@
+<b>v0.13.13</b> (2025.05.26)
+- [Bug] Fix several Starmap glitches
+- [Bug] Fix beings killed during expedition could reappear on the ship later
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.13.12</b> (2025.05.20)
 - [Feature] Add "Empty" option when offering a gift to an NPC ship
 - [Mods] Prevent broken mods from freezing the new / load game
