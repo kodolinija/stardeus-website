@@ -1,3 +1,15 @@
+<b>v0.13.14</b> (2025.05.29)
+- [UI/UX] Move Batch Size next to Wanted Amount in crafting order settings UI
+- [UI/UX] Show storage contents in hover tooltips
+- [Bug] Fix Ship Combat Controls failing to load Flux Capacitors when Show is clicked
+- [Bug] Fix rare case where AI agents could steal some ongoing tasks from others, leading to bugs
+- [Bug] Fix Expedition Crew choice UI would hide behind expedition UI when a crew member was selected
+- [Bug] Fix some UI panels wouldn't focus on click / scroll
+- [Bug] Fix telescope finishing scan while in hyperspace would cause an error
+- [Bug] Fix several auto reported internal errors
+- [Bug] Fix removing a mod that contained installable upgrades could break the formerly upgraded device UI
+
+
 <b>v0.13.13</b> (2025.05.26)
 - [Bug] Fix several Starmap glitches
 - [Bug] Fix beings killed during expedition could reappear on the ship later
