@@ -1,3 +1,7 @@
+<b>v0.13.17</b> (2025.05.30)
+- [Bug] Hotfix cancelling construction tasks at hauling stage would not remove the unbuilt tile since last update
+
+
 <b>v0.13.16</b> (2025.05.30)
 - [Feature] Right clicking a dirty floor tile will offer to create a cleaning task
 - [UI/UX] Show tooltip with dirt count when hovering dirty floors
