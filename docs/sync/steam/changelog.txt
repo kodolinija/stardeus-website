@@ -1,3 +1,15 @@
+<b>v0.13.18</b> (2025.05.31)
+- [Feature] Add a way to destroy Return Beacons remotely
+- [UI/UX] Hovering a region that contains a discovered Dark Portal will list it in the tooltip
+- [UI/UX] Remove Details > Codex Entry from info panel (tooltip already has codex entry)
+- [Bug] Fix more starmap issues
+- [Bug] Fix going through a Dark Portal would not clear the Return Beacons list
+- [Bug] Fix Warp Drives would be ignored when trying to jump to a Return Beacon
+- [Bug] Fix NPC ships could hyperjump away from combat with destroyed hyperdrives
+- [Bug] Fix auto connect would overconnect repaired devices that lost connection due to damage
+- [Misc] Add console command "space find <query>"
+
+
 <b>v0.13.17</b> (2025.05.30)
 - [Bug] Hotfix cancelling construction tasks at hauling stage would not remove the unbuilt tile since last update
 
