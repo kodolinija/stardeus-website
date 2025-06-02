@@ -1,3 +1,10 @@
+<b>v0.13.19</b> (2025.06.02)
+- [UI/UX] Show a single "Quest Available" notification for accepting all available quests
+- [UI/UX] Show "Current Quests: X" in the tracked quest notification when more than one quest is in progress
+- [Misc] Don't make auto saves or save backups in permadeath mode
+- [Bug] Fix starmap could still show up blank under certain conditions
+
+
 <b>v0.13.18</b> (2025.05.31)
 - [Feature] Add a way to destroy Return Beacons remotely
 - [UI/UX] Hovering a region that contains a discovered Dark Portal will list it in the tooltip
