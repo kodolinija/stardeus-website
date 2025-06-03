@@ -1,3 +1,10 @@
+<b>v0.13.20</b> (2025.06.03)
+- [UI/UX] Remove "Auto Report Errors" option from Settings > Gameplay
+- [UI/UX] Add Settings > Telemetry to the Main Menu
+- [Bug] Make it impossible to get a blank starmap anymore
+- [Bug] Fix forcibly reassigning a task in progress could teleport the newly assigned worker to the task location
+
+
 <b>v0.13.19</b> (2025.06.02)
 - [UI/UX] Show a single "Quest Available" notification for accepting all available quests
 - [UI/UX] Show "Current Quests: X" in the tracked quest notification when more than one quest is in progress
