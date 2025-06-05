@@ -1,7 +1,14 @@
+<b>v0.13.21</b> (2025.06.05)
+- [UI/UX] Move fanfare message higher to reduce interference with other UI elements
+- [Bug] Prevent starmap widget from spawning a second copy of itself in rare edge cases
+- [Bug] Add more sanity checks and debug logging for blank starmap issue (please report bugs if you see it again!)
+- [Bug] Fix a couple of auto-reported internal errors
+
+
 <b>v0.13.20</b> (2025.06.03)
 - [UI/UX] Remove "Auto Report Errors" option from Settings > Gameplay
 - [UI/UX] Add Settings > Telemetry to the Main Menu
-- [Bug] Make it impossible to get a blank starmap anymore
+- [Bug] Attempt to make it impossible to get a blank starmap anymore
 - [Bug] Fix forcibly reassigning a task in progress could teleport the newly assigned worker to the task location
 
 
