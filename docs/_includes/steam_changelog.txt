@@ -1,3 +1,11 @@
+<b>v0.13.22</b> (2025.06.09)
+- [Bug] Change how starmap is rebuilt in attempt to fix the rare blank starmap bug
+- [Bug] Fix unloading research item would not remove blueprints from build menu > recent
+- [Bug] Fix clicking on sector names in abandon sector popup wouldn't close the starmap
+- [Bug] Fix wrong faction name appearing in codex faction tooltips
+- [Bug] Fix several auto-reported internal errors
+
+
 <b>v0.13.21</b> (2025.06.05)
 - [UI/UX] Move fanfare message higher to reduce interference with other UI elements
 - [Bug] Prevent starmap widget from spawning a second copy of itself in rare edge cases
