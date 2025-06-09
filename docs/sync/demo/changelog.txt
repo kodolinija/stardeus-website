@@ -1,3 +1,90 @@
+<b>v0.13.22</b> (2025.06.09)
+- [Bug] Change how starmap is rebuilt in attempt to fix the rare blank starmap bug
+- [Bug] Fix unloading research item would not remove blueprints from build menu > recent
+- [Bug] Fix clicking on sector names in abandon sector popup wouldn't close the starmap
+- [Bug] Fix wrong faction name appearing in codex faction tooltips
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.13.21</b> (2025.06.05)
+- [UI/UX] Move fanfare message higher to reduce interference with other UI elements
+- [Bug] Prevent starmap widget from spawning a second copy of itself in rare edge cases
+- [Bug] Add more sanity checks and debug logging for blank starmap issue (please report bugs if you see it again!)
+- [Bug] Fix a couple of auto-reported internal errors
+
+
+<b>v0.13.20</b> (2025.06.03)
+- [UI/UX] Remove "Auto Report Errors" option from Settings > Gameplay
+- [UI/UX] Add Settings > Telemetry to the Main Menu
+- [Bug] Attempt to make it impossible to get a blank starmap anymore
+- [Bug] Fix forcibly reassigning a task in progress could teleport the newly assigned worker to the task location
+
+
+<b>v0.13.19</b> (2025.06.02)
+- [UI/UX] Show a single "Quest Available" notification for accepting all available quests
+- [UI/UX] Show "Current Quests: X" in the tracked quest notification when more than one quest is in progress
+- [Misc] Don't make auto saves or save backups in permadeath mode
+- [Bug] Fix starmap could still show up blank under certain conditions
+
+
+<b>v0.13.18</b> (2025.05.31)
+- [Feature] Add a way to destroy Return Beacons remotely
+- [UI/UX] Hovering a region that contains a discovered Dark Portal will list it in the tooltip
+- [UI/UX] Remove Details > Codex Entry from info panel (tooltip already has codex entry)
+- [Bug] Fix more starmap issues
+- [Bug] Fix going through a Dark Portal would not clear the Return Beacons list
+- [Bug] Fix Warp Drives would be ignored when trying to jump to a Return Beacon
+- [Bug] Fix NPC ships could hyperjump away from combat with destroyed hyperdrives
+- [Bug] Fix auto connect would overconnect repaired devices that lost connection due to damage
+- [Misc] Add console command "space find <query>"
+
+
+<b>v0.13.17</b> (2025.05.30)
+- [Bug] Hotfix cancelling construction tasks at hauling stage would not remove the unbuilt tile since last update
+
+
+<b>v0.13.16</b> (2025.05.30)
+- [Feature] Right clicking a dirty floor tile will offer to create a cleaning task
+- [UI/UX] Show tooltip with dirt count when hovering dirty floors
+- [UI/UX] Fanfare message will not time out while pause panel is displaying
+- [UI/UX] Remove category markers from build menu subcategories
+- [UI/UX] Require holding Ctrl+Alt when adding items to hotbar to prevent accidental adds when looking at codex popup
+- [Bug] Pausing while showing Fanfare message could make some pause panel buttons non-interactive
+
+
+<b>v0.13.15</b> (2025.05.30)
+- [Bug] Fix clicking on starmap link while in hyperspace would open blank map view
+- [Bug] Add more validations and sanity checks to prevent starmap issues
+
+
+<b>v0.13.14</b> (2025.05.29)
+- [UI/UX] Move Batch Size next to Wanted Amount in crafting order settings UI
+- [UI/UX] Show storage contents in hover tooltips
+- [Bug] Fix Ship Combat Controls failing to load Flux Capacitors when Show is clicked
+- [Bug] Fix rare case where AI agents could steal some ongoing tasks from others, leading to bugs
+- [Bug] Fix Expedition Crew choice UI would hide behind expedition UI when a crew member was selected
+- [Bug] Fix some UI panels wouldn't focus on click / scroll
+- [Bug] Fix telescope finishing scan while in hyperspace would cause an error
+- [Bug] Fix several auto reported internal errors
+- [Bug] Fix removing a mod that contained installable upgrades could break the formerly upgraded device UI
+
+
+<b>v0.13.13</b> (2025.05.26)
+- [Bug] Fix several Starmap glitches
+- [Bug] Fix beings killed during expedition could reappear on the ship later
+- [Bug] Fix several auto-reported internal errors
+
+
+<b>v0.13.12</b> (2025.05.20)
+- [Feature] Add "Empty" option when offering a gift to an NPC ship
+- [Mods] Prevent broken mods from freezing the new / load game
+- [Mods] Handle reuploads of shared ships and mods that were deleted from the workshop
+- [Mods] Add --load-save <savePath> command line argument support for loading straight into a save file
+- [Translations] Update Ukrainian translation to 100%
+- [Bug] Fix wrong text in last step of Ship Combat tutorial
+- [Bug] Fix unsubscribing a workshop mod that had a local version would delete the local version folder
+
+
 <b>v0.13.11</b> (2025.05.17)
 - [Balance] Unlocking FTL Propulsion will not require Quantum Datoids (dark matter)
 - [Balance] Reduce heat production rate for both Warp Drives
