@@ -1,3 +1,8 @@
+<b>v0.13.23</b> (2025.06.11)
+- [Bug] Fix unconstructed objects and relocation ghosts would increase owned count
+- [Bug] Fix player's point defense weapons wouldn't consume ammo when firing at enemy missiles
+
+
 <b>v0.13.22</b> (2025.06.09)
 - [Bug] Change how starmap is rebuilt in attempt to fix the rare blank starmap bug
 - [Bug] Fix unloading research item would not remove blueprints from build menu > recent
