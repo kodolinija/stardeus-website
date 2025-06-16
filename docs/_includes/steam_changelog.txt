@@ -1,3 +1,19 @@
+<b>v0.13.24</b> (2025.06.16)
+- [Balance] Reduce Rock mining difficulty (32->16)
+- [Balance] Reduce Sleep need drop rate by 90% when a colonist is going to their bed
+- [Balance] Colonists will not soil themselves on their way to a toilet (will hold it in)
+- [Balance] Reduce electricity cost of grinding rock into more valuable materials
+- [UI/UX] Add Pause / Resume button to crafting order settings
+- [UI/UX] Add "Produces Heat" to codex entries of devices that produce heat while operating
+- [UI/UX] Add "Must be outdoors / indoors" to codex entries of devices that must be outdoors / indoors
+- [UI/UX] Show "Produces heat" in build tooltip when building devices that produce heat while operating
+- [UI/UX] Show "Must be outdoors / indoors" in build tooltip when building devices that require to be outdoors / indoors
+- [UI/UX] Show "Must be indoors" for heaters / oxygen pumps when they're outdoors
+- [Bug] Fix NPC ship could repeatedly request fuel / trades / etc too frequently
+- [Bug] Fix colonists who were ordered to clean floors by the player would ignore urgent needs while cleaning
+- [Bug] Fix starmap wouldn't allow switching layer away from Universe while near Hyperjump Relay
+
+
 <b>v0.13.23</b> (2025.06.11)
 - [Bug] Fix unconstructed objects and relocation ghosts would increase owned count
 - [Bug] Fix player's point defense weapons wouldn't consume ammo when firing at enemy missiles
