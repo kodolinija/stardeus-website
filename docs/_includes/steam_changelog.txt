@@ -1,3 +1,17 @@
+<b>v0.13.25</b> (2025.06.23)
+- [Feature] Make Ship Class license purchasable when requirements are met
+- [Balance] Remove upper Ship Class size limit
+- [Balance] Remove Ship Class validation for owned class licenses (except Space Station engine check)
+- [UI/UX] Improve Ship Class choice UI
+- [UI/UX] Display body part value (market price) in replacement lists
+- [Bug] Fix beings with a task assigned to them (petting, rescue, etc) would never do anything until the task was completed or cancelled
+- [Bug] Fix starting a new game from an existing save file would not initialize the new game correctly
+- [Bug] Fix game could freeze when Electricity chart would try to display broken data
+- [Bug] Fix workers taking streamlined tasks adjacent to their location would not skip tasks with 0 priority
+- [Bug] Fix incorrect tooltip when Cargo Copter is not available while trying to deploy a Resource Miner
+- [Bug] Fix body parts could be sorted in an unpredictable way in replacement choice lists
+
+
 <b>v0.13.24</b> (2025.06.16)
 - [Balance] Reduce Rock mining difficulty (32->16)
 - [Balance] Reduce Sleep need drop rate by 90% when a colonist is going to their bed
