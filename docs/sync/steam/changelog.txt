@@ -1,3 +1,16 @@
+<b>v0.13.26</b> (2025.06.24)
+- [UI/UX] TAB will focus on search input in all UI lists
+- [UI/UX] Improve Combat Controls UI behavior
+- [UI/UX] Do not close UI instead of issuing order when pressing RMB with selected being(s) under direct control
+- [UI/UX] Change Ship Controls overlay icon
+- [UI/UX] Do not list dead beings stored in Morgue or Mechuary in being group widgets
+- [UI/UX] Do not show Bed UI element for dead beings who have no bed assigned
+- [UI/UX] Do not show Bot Dock UI element for dead bots who have no dock assigned
+- [UI/UX] Do not show AI Alignment UI element for dead beings
+- [UI/UX] Display money in gift packages in more understandable way
+- [UI/UX] Display "Busy: Assembly Hub / Surgery Hub" instead of "Required Device Not Available" when device is available but busy
+
+
 <b>v0.13.25</b> (2025.06.23)
 - [Feature] Make Ship Class license purchasable when requirements are met
 - [Balance] Remove upper Ship Class size limit
