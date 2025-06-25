@@ -1,3 +1,13 @@
+<b>v0.13.27</b> (2025.06.25)
+- [Balance] Increase Water output from Ice from 3 to 5
+- [Balance] Allow placing input/output ports on frames
+- [UI/UX] Releasing LMB above UI while dragging will cancel the drag operation
+- [UI/UX] Improve ESC behavior while click-dragging
+- [Misc] Make Twitch commands case insensitive
+- [Bug] Fix codex popups could occasionally cache and display wrong information
+- [Bug] Fix inventory search input would not be sticky when the list is scrolled
+
+
 <b>v0.13.26</b> (2025.06.24)
 - [UI/UX] TAB will focus on search input in all UI lists
 - [UI/UX] Improve Combat Controls UI behavior
