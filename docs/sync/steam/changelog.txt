@@ -1,3 +1,10 @@
+<b>v0.13.29</b> (2025.06.27)
+- [Balance] Bots will prefer charging in a Bot Dock if they have one assigned
+- [Balance] Bot Dock will have the same charge rate as Charge Station
+- [Bug] Fix bots would not go for a charge to their assigned Docks if Charge Station was not available
+- [Bug] Fix ordering a bot to dock if docking action was cooling down would fail with "Incapable" error
+
+
 <b>v0.13.28</b> (2025.06.26)
 - [Bug] Fix placing input/output ports on unbuilt floors would not be allowed since last build
 - [Bug] Fix Share Ship UI panel would not react to input
