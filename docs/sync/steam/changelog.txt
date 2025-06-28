@@ -1,3 +1,8 @@
+<b>v0.13.30</b> (2025.06.28)
+- [Balance] Reduce Bot Dock charge rate compared to Charge Station to match the codex description
+- [Bug] Hotfix Bot Dock would never charge bots more than 95%, making bots stuck docked forever since last build
+
+
 <b>v0.13.29</b> (2025.06.27)
 - [Balance] Bots will prefer charging in a Bot Dock if they have one assigned
 - [Balance] Bot Dock will have the same charge rate as Charge Station
