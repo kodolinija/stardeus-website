@@ -1,3 +1,18 @@
+<b>v0.13.32</b> (2025.07.08)
+- [Balance] Forbid inventory equip/unequip actions for immobilized beings
+- [UI/UX] Disable auto-hauling for items that have been relocated by the player
+- [UI/UX] Show icon on objects that have forbidden storing flag
+- [UI/UX] Improve "Produces Heat" UI element to display more meaningful information
+- [UI/UX] Don't show label icon on objects that have visible label text
+- [UI/UX] Add unlock effect icon to Labeling research
+- [UI/UX] Improve ship weapon settings copy / paste behavior
+- [Mods] Make "duplicate component" error message more descriptive
+- [Bug] Fix ML Booth electricity consumption would flap on and off if it was out of fuel
+- [Bug] Fix Warp Drives producing extreme amounts of heat when in hyperspace
+- [Bug] Fix approaching a Derelict Ship would not remove it from the Sector tooltip in the Starmap
+- [Bug] Fix stock market trading would not work after having >$10000B Starcreds
+
+
 <b>v0.13.31</b> (2025.06.30)
 - [Bug] Fix UI partially failing to update (search, hover charts, etc) after certain actions were performed
 

@@ -1,3 +1,97 @@
+<b>v0.13.32</b> (2025.07.08)
+- [Balance] Forbid inventory equip/unequip actions for immobilized beings
+- [UI/UX] Disable auto-hauling for items that have been relocated by the player
+- [UI/UX] Show icon on objects that have forbidden storing flag
+- [UI/UX] Improve "Produces Heat" UI element to display more meaningful information
+- [UI/UX] Don't show label icon on objects that have visible label text
+- [UI/UX] Add unlock effect icon to Labeling research
+- [UI/UX] Improve ship weapon settings copy / paste behavior
+- [Mods] Make "duplicate component" error message more descriptive
+- [Bug] Fix ML Booth electricity consumption would flap on and off if it was out of fuel
+- [Bug] Fix Warp Drives producing extreme amounts of heat when in hyperspace
+- [Bug] Fix approaching a Derelict Ship would not remove it from the Sector tooltip in the Starmap
+- [Bug] Fix stock market trading would not work after having >$10000B Starcreds
+
+
+<b>v0.13.31</b> (2025.06.30)
+- [Bug] Fix UI partially failing to update (search, hover charts, etc) after certain actions were performed
+
+
+<b>v0.13.30</b> (2025.06.28)
+- [Balance] Reduce Bot Dock charge rate compared to Charge Station to match the codex description
+- [Bug] Hotfix Bot Dock would never charge bots more than 95%, making bots stuck docked forever since last build
+
+
+<b>v0.13.29</b> (2025.06.27)
+- [Balance] Bots will prefer charging in a Bot Dock if they have one assigned
+- [Balance] Bot Dock will have the same charge rate as Charge Station
+- [Bug] Fix bots would not go for a charge to their assigned Docks if Charge Station was not available
+- [Bug] Fix ordering a bot to dock if docking action was cooling down would fail with "Incapable" error
+
+
+<b>v0.13.28</b> (2025.06.26)
+- [Bug] Fix placing input/output ports on unbuilt floors would not be allowed since last build
+- [Bug] Fix Share Ship UI panel would not react to input
+
+
+<b>v0.13.27</b> (2025.06.25)
+- [Balance] Increase Water output from Ice from 3 to 5
+- [Balance] Allow placing input/output ports on frames
+- [UI/UX] Releasing LMB above UI while dragging will cancel the drag operation
+- [UI/UX] Improve ESC behavior while click-dragging
+- [Misc] Make Twitch commands case insensitive
+- [Bug] Fix codex popups could occasionally cache and display wrong information
+- [Bug] Fix inventory search input would not be sticky when the list is scrolled
+
+
+<b>v0.13.26</b> (2025.06.24)
+- [UI/UX] TAB will focus on search input in all UI lists
+- [UI/UX] Improve Combat Controls UI behavior
+- [UI/UX] Do not close UI instead of issuing order when pressing RMB with selected being(s) under direct control
+- [UI/UX] Change Ship Controls overlay icon
+- [UI/UX] Do not list dead beings stored in Morgue or Mechuary in being group widgets
+- [UI/UX] Do not show Bed UI element for dead beings who have no bed assigned
+- [UI/UX] Do not show Bot Dock UI element for dead bots who have no dock assigned
+- [UI/UX] Do not show AI Alignment UI element for dead beings
+- [UI/UX] Display money in gift packages in more understandable way
+- [UI/UX] Display "Busy: Assembly Hub / Surgery Hub" instead of "Required Device Not Available" when device is available but busy
+
+
+<b>v0.13.25</b> (2025.06.23)
+- [Feature] Make Ship Class license purchasable when requirements are met
+- [Balance] Remove upper Ship Class size limit
+- [Balance] Remove Ship Class validation for owned class licenses (except Space Station engine check)
+- [UI/UX] Improve Ship Class choice UI
+- [UI/UX] Display body part value (market price) in replacement lists
+- [Bug] Fix beings with a task assigned to them (petting, rescue, etc) would never do anything until the task was completed or cancelled
+- [Bug] Fix starting a new game from an existing save file would not initialize the new game correctly
+- [Bug] Fix game could freeze when Electricity chart would try to display broken data
+- [Bug] Fix workers taking streamlined tasks adjacent to their location would not skip tasks with 0 priority
+- [Bug] Fix incorrect tooltip when Cargo Copter is not available while trying to deploy a Resource Miner
+- [Bug] Fix body parts could be sorted in an unpredictable way in replacement choice lists
+
+
+<b>v0.13.24</b> (2025.06.16)
+- [Balance] Reduce Rock mining difficulty (32->16)
+- [Balance] Reduce Sleep need drop rate by 90% when a colonist is going to their bed
+- [Balance] Colonists will not soil themselves on their way to a toilet (will hold it in)
+- [Balance] Reduce electricity cost of grinding rock into more valuable materials
+- [UI/UX] Add Pause / Resume button to crafting order settings
+- [UI/UX] Add "Produces Heat" to codex entries of devices that produce heat while operating
+- [UI/UX] Add "Must be outdoors / indoors" to codex entries of devices that must be outdoors / indoors
+- [UI/UX] Show "Produces heat" in build tooltip when building devices that produce heat while operating
+- [UI/UX] Show "Must be outdoors / indoors" in build tooltip when building devices that require to be outdoors / indoors
+- [UI/UX] Show "Must be indoors" for heaters / oxygen pumps when they're outdoors
+- [Bug] Fix NPC ship could repeatedly request fuel / trades / etc too frequently
+- [Bug] Fix colonists who were ordered to clean floors by the player would ignore urgent needs while cleaning
+- [Bug] Fix starmap wouldn't allow switching layer away from Universe while near Hyperjump Relay
+
+
+<b>v0.13.23</b> (2025.06.11)
+- [Bug] Fix unconstructed objects and relocation ghosts would increase owned count
+- [Bug] Fix player's point defense weapons wouldn't consume ammo when firing at enemy missiles
+
+
 <b>v0.13.22</b> (2025.06.09)
 - [Bug] Change how starmap is rebuilt in attempt to fix the rare blank starmap bug
 - [Bug] Fix unloading research item would not remove blueprints from build menu > recent
