@@ -1,3 +1,10 @@
+<b>v0.13.33</b> (2025.07.14)
+- [Bug] Fix going through Dark Portal could get the game stuck since last build
+- [Bug] Fix faction relationships would not get reset after going through a Dark Portal
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix Warp Drives engines would affect hyperspace ship forward direction
+
+
 <b>v0.13.32</b> (2025.07.08)
 - [Balance] Forbid inventory equip/unequip actions for immobilized beings
 - [UI/UX] Disable auto-hauling for items that have been relocated by the player
