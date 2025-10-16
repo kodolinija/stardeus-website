@@ -1,14 +1,15 @@
-Ship Combat Major Update (v0.13)
+Story & Drama Major Update (v0.14)
 https://steamcommunity.com/games/1380910/announcements/ All Announcements
-2025-05-07
+2025-10-16
 
 Greetings, Space Traveler!
 
-Welcome to Stardeus Ship Combat Major Update. What to expect:
+Welcome to Stardeus Story & Drama Major Update. What to expect:
 
-- NPC Ships living their lives in the universe
-- Ship to Ship Combat
-- New Content
-- Many balance, QOL and gameplay changes
+- Brand new Story Generation system with new story events
+- Deeper, more sophisticated colonists with interpersonal relationships and social interactions
+- Ashes, Urns and mourning of dead colonists
+- New Hyperjump mechanics and Hyperjump Queueing
+- New content, balance, QOL and gameplay changes
 
 Please use the in-game bug report system to report bugs, then discuss them on [url=https://steamcommunity.com/app/1380910/discussions/]Steam Forums[/url] or [url=https://discord.com/invite/89amEwP]Discord[/url].

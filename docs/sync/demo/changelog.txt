@@ -1,3 +1,374 @@
+<b>v0.14.0</b> (2025.10.16)
+- [Major] Rewrite the Story Generation system
+- [Major] Add Colony Drama System
+- [Major] Human colonists will have unique visible faces
+- [Major] Colonists will form bonds and interpersonal relationships
+- [Major] Reimplement Hyperjump mechanics
+- [Feature] Add Hyperjump Queue
+- [Feature] Add support for queueing multiple surgical operations on the same being
+- [Feature] Remove several annoying story events
+- [Feature] Add Mindjar bot species (nonviolent brain in a jar)
+- [Feature] Add story event: Breach Capsule Stealth Raid
+- [Feature] Add story event and space effect: Comet Shower
+- [Feature] Add story event and space effect: Photon Storm
+- [Feature] Add story event and space effect: Magnetic Storm
+- [Feature] Add story event and space effect: Soft Surge Storm
+- [Feature] Add story event and space effect: Psychic Storm
+- [Feature] Add story event: Inspired colonist
+- [Feature] Add story event: Organ failure
+- [Feature] Add story event: Robot component failure
+- [Feature] Add story event: Wedding
+- [Feature] Add story event: Party
+- [Feature] Add story event: Date
+- [Feature] Add story event: Love Confession
+- [Feature] Add story event: Making Love
+- [Feature] Add story event: Mourn a dead loved one
+- [Feature] Add story event: Prank
+- [Feature] Add story event: Stabbing
+- [Feature] Add story event: Stalking
+- [Feature] Add story event: Save from falling
+- [Feature] Add story event: Mining bond
+- [Feature] Add story event: Mining loot
+- [Feature] Add story event: Expedition fight
+- [Feature] Add story event: Capsule shuttle ingredients
+- [Feature] Add story event: Capsule Crawler
+- [Feature] Add story event: Chase
+- [Feature] Add raid event: Map edge raid
+- [Feature] Add raid event: Hullpiercer raid (3 versions)
+- [Feature] Add raid event: Stealth Breach Capsule raid
+- [Feature] Add raid event: Storage Capsule raid (2 versions)
+- [Feature] Add body part: Lite Core
+- [Feature] Add body part: Dumb Core
+- [Feature] Add being ability: Hear
+- [Feature] Add being ability: Vocalize
+- [Feature] Add implant: Conversation module
+- [Feature] Implement casual chats between nearby colonists
+- [Feature] Implement social opportunity system for bringing colonists together for shared activities
+- [Feature] Track time colonists spent in proximity with others
+- [Feature] Add medical task: Feeding incapacitated / injured colonists in bed
+- [Feature] Generate some beings with modded bodies
+- [Feature] Generate some beings with wounds and scars
+- [Feature] Generate initial relationships between existing colonists on scenario start
+- [Feature] Add many new being backstories and traits
+- [Feature] Add collectible chess pieces that can be found on derelict ships
+- [Feature] Add black and white marble interior floors for chess board
+- [Feature] Add game setting: Skip Colonist Choice
+- [Feature] Add Ashes and Urns for immortalizing dead biological beings
+- [Feature] Ashes and Urns will show an obituary tooltip with more details about the dead being
+- [Feature] Wounds will display what caused the wound
+- [Feature] Remember and show cause of death
+- [Feature] Convert some wounds to scars after they heal
+- [Feature] Add more ways to utilize Stem Cells
+- [Feature] Enable relocation of all wall tiles, including Doors and Airlocks
+- [Feature] Make it possible to process being ashes into other materials
+- [Feature] Add game modifier: Disable Quest Rewards
+- [Feature] NPC ships in combat will send Hullpiercers in addition to Breach Capsules
+- [Feature] Tractor Beams will automatically reconfigure themselves when destroyed Tractor Beam Targets will be rebuilt
+- [Feature] When disposing of beings, Disassembler and Nutrient Extractor will preserve body parts with quality above configured threshold (default 50%)
+- [Feature] Fog of War is now a game modifier that can be turned on when starting a new game
+- [Feature] Xenodetectors will detect Artillery Fungus
+- [Feature] Add hat: Jester's Hat
+- [Feature] Humans will get sanity debuffs for sleeping in rooms with industrial devices
+- [Feature] Humans will get sanity debuffs for sleeping in shared dormatories
+- [Feature] Humans will get sanity debuffs for sleeping in cramped rooms (size < 6)
+- [Feature] Humans will get sanity debuffs for sleeping in overly large rooms (size > 100)
+- [Feature] Humans will get sanity buffs for sleeping in personal quarters
+- [Feature] Humans will get sanity buffs for sleeping in cozy rooms (size: 6-30 + at least 1 admirable object)
+- [Feature] Hyperjump Relays will have tolls you'll pay to the owning faction
+- [Feature] Display relocation ghosts for non-tile objects and beings
+- [Feature] Quick Search will have a built-in calculator
+- [Misc] Remove feature: CPU limits the number of max connected devices
+- [Misc] Put Epic Race 2025 Leaderboard into Credits
+- [Balance] Body part quality will affect the stats that the body part provides
+- [Balance] Body part quality will not affect all stats equally. Example: Lung capacity will be only slightly reduced for low quality lungs.
+- [Balance] Reorganize and compact some of the research tree nodes
+- [Balance] Raids in high difficulty regions will be more difficult (deadly in early game)
+- [Balance] Many undocumented small tweaks and changes according to player feedback
+- [Balance] Increase Organ Storage and Part Storage capacity from 100 to 500
+- [Balance] Incoming space object velocity will be scaled together with game map size
+- [Balance] Delay upcoming raids when friendly beings die
+- [Balance] Make Heavy Laser more powerful (much more damage and flux per shield hit)
+- [Balance] Reduce ship size requirements for most ships
+- [Balance] Point Defense turrets will be much more accurate against incoming space threats
+- [Balance] Adjust most being role skill rewards / penalties
+- [Balance] Reduce research disk cost for all items by ~1
+- [Balance] Adjust some sanity buffs / debuffs
+- [Balance] Friendly biological minds in robotic bodies will not guarantee 100% AI Alignment
+- [Balance] Beings will ignore dead bodies after doing certain kinds of work (e.g. surgery, euthanizing, combat)
+- [Balance] Colonists will wait much longer before trying to risk getting food in unsafe environment when hungry
+- [Balance] Adjust pacing and event difficulty in the new story generator based on selected game difficulty
+- [Balance] Most melee attacks will not be able to kill or damage internal organs
+- [Balance] Eliminate chance of getting attacked or extorted by pirates in easy sectors
+- [Balance] Particle Collector is now a rare device that you can't build, only find on derelict ships
+- [Balance] Friendly fights will be broken up if the fighters lose line of sight and get too far away from each other
+- [Balance] Make Pig Brain and Cat Brain able of dumb labor
+- [Balance] Restrict pets from getting certain traits and job types
+- [Balance] Reduce electricity consumption of Refrigerator and Freezer
+- [Balance] Do not deactivate Tractor Beam Targets that have objects such as Stasis Pod above them
+- [Balance] Allow having Tractor Beam Targets indoors (not recommended)
+- [Balance] Generate more powerful Law Enforcement Officer ships
+- [Balance] Delay first micrometeoroid strike a bit longer and increase delay between strikes
+- [Balance] Total CPU in your electricity grid will affect ML Booth learn speed
+- [Balance] Total CPU in your electricity grid will increase Beam Drill max depth
+- [Balance] Adjust natural (non MB Booth) skill level up rates
+- [Balance] Reduce Beam Drill initial max depth (2km -> 0.5km)
+- [Balance] Significantly increase trader stock for some traders / items
+- [Balance] Reduce trader price markups
+- [Balance] Reduce Online Shop price markup (500% -> 300%)
+- [Balance] Reduce price of Missiles and Interceptor Darts
+- [Balance] Reduce Interceptor Turret windup and charge times (25 -> 15 minutes)
+- [Balance] Building an AutoDoc will require regular Microchip instead of Improved one
+- [Balance] Increase prices of Leather, Wood, Log, Space Suits and Helmets
+- [Balance] Some traders will have better offerings in lower difficulty sectors
+- [Balance] Increase Online Shop stock
+- [Balance] MiniCores will not be craftable
+- [Balance] Beings with mental health and an Obey Chip will suffer a permanent sanity debuff
+- [Balance] Add more items to the Online Shop
+- [Balance] Reduce shuttle speed by 5x
+- [Balance] Block all NPC ship hail interactions that require a Trade Portal if one isn't available
+- [Balance] Make food cheaper
+- [Balance] Make Phasium and Fusion Cells cheaper
+- [Balance] Increase Rock price by 10x
+- [Balance] Allow ordering body part removal for body parts that have other parts attached
+- [Balance] Starcreds Mining Upgrade will no longer be craftable (could be bought / found in anomalies)
+- [Balance] Make Mini Turret a bit more expensive to build
+- [Balance] Adjust skill level up rate so that low level skills will level up much faster
+- [Balance] Interior doors will have even less insulation and airtightness when closed
+- [Balance] Each plant will have a different harvest work amount
+- [Balance] Non-outlaw ships will not retaliate for attacking an outlaw ship of the same faction
+- [UI/UX] Maneuvering controllers will now use visual ship positioning to move in local space
+- [UI/UX] Improve the Trade UI
+- [UI/UX] When possible, show operational errors in the middle of the screen
+- [UI/UX] Add mass action to forget selected being ashes with one click
+- [UI/UX] Merge Storage Settings and Storage UI elements into one block
+- [UI/UX] Auto resize UI left/right text to prevent overlaps
+- [UI/UX] Improve crafting order choice UI
+- [UI/UX] Redo being info panel top block to show large avatar and personal biography
+- [UI/UX] Add low memory warning when running out of RAM
+- [UI/UX] Polish selected beings info panel UI (more tooltips, etc)
+- [UI/UX] Ending drag operation above UI will no longer cancel it
+- [UI/UX] Improve scenario setup being choice UI
+- [UI/UX] Improve stasis wake-up choice UI
+- [UI/UX] Eliminate need for scrolling in several UI widgets on Steam Deck
+- [UI/UX] Improve main menu: auto select first item in the list of submenus
+- [UI/UX] Suggestion popups will not show up any UI is open
+- [UI/UX] Hide option to store beings who are loaded into assembly hubs / surgery hubs
+- [UI/UX] Auto size tool menu button text if it doesn't fit
+- [UI/UX] Improve Flammable block in Full Stats view of devices and objects
+- [UI/UX] Improve story event log UI
+- [UI/UX] Add hint about camera memory when relocating objects from a derelict ship
+- [UI/UX] Add visual notification about saving camera position to memory
+- [UI/UX] Don't show scanning UI until a radar becomes available
+- [UI/UX] Improve body part slot UI
+- [UI/UX] Improve tooltips and codex entries of weapons and equipment to clarify the quality level at which stats are displayed
+- [UI/UX] Remove "Force operator" toggle from all devices except Bridge Controls, Communicator and Terraform Controls
+- [UI/UX] Order space object labels in the starmap so that more important labels are displayed above less important ones
+- [UI/UX] Show a warning notification when a storage unit is unreachable
+- [UI/UX] List all radars and their strength in radar strength warning popup
+- [UI/UX] Improve being body tooltip
+- [UI/UX] Group Left/Right body parts in Body UI
+- [UI/UX] Don't show popups about beings failing to mourn the dead
+- [UI/UX] Set minimum allowed UI font scale to 80% (was 100%)
+- [UI/UX] Don't show "disables achievements" warnings in sandbox game settings
+- [UI/UX] Show notification popups something important is found in a Storage Capsule
+- [UI/UX] Add Codex entry: Electricity > Computer Resources Bonus
+- [UI/UX] Add "Industrial Equipment" and "Industrial Equipment (Noisy)" labels to industrial device codex entries
+- [UI/UX] Improve room and section overlay (tooltips with links, section size)
+- [UI/UX] Show a hint about exiting hyperspace if the player remains in hyperspace for over 8 in-game hours
+- [UI/UX] Don't show "Accept Chance %" in Space Station "Trade" hail action (Space Stations always trade)
+- [UI/UX] Show a tooltip with player's cash when hovering ship class license buy button
+- [UI/UX] Show a tooltip with disposable output when hovering a Dispose button
+- [UI/UX] "Carry to disposer" task fail reasons will contain more details
+- [UI/UX] "Haul to storage" task fail reason will contain more details
+- [UI/UX] Show "Storage is full" red warning label in full storage tooltips
+- [UI/UX] Display a fanfare message and log when a starving colonist attempts to grab food from unsafe area
+- [UI/UX] Don't show wide screen padding settings for non-wide screens
+- [UI/UX] Wide screen padding slider will stop at 16:9 aspect ratio
+- [UI/UX] Add "In Queue" option to the Twitch UI viewer filter
+- [UI/UX] Highlight the most important UI element of the selected entity in the Info Panel
+- [UI/UX] Limit how far the mouse drag-release can flick the game map / starmap / research tree
+- [UI/UX] Make it possible to order installing an upgrade directly from the upgrade object UI
+- [UI/UX] Display a dialog when Asimov Override Upgrade gets installed
+- [UI/UX] Show event notification and add log line when someone levels up
+- [UI/UX] Improve rename being dialog
+- [UI/UX] Improve Particle Collector choice UI
+- [UI/UX] Don't show some hail actions when interacting with space stations at a distance
+- [UI/UX] Include contained raw materials into unbuild tile hover tooltip
+- [UI/UX] Update Demolition icon to look more intuitive
+- [UI/UX] Expose Lock/Unlock buttons on Doors directly in the Info Panel
+- [UI/UX] Hide Stasis Array stability warning after the array gets connected
+- [UI/UX] Add list of devices that contribute to ship's class points in Ship Combat Class Points tooltip
+- [UI/UX] Reorder Tutorials according to importance
+- [UI/UX] Improve Research and Space Travel tutorials to handle going off-script better
+- [UI/UX] Display both X and crutch icon in lists if a being is incapacitated with irreparable damage to its body parts
+- [UI/UX] Group game modifiers and organize the Current Game Settings panel
+- [UI/UX] Disallow launching mining expeditions if estimated mining rate is lower than minimum mining rate in mining orders
+- [UI/UX] Limit mass construct / relocate to 250 tiles per batch (tunable via JSON)
+- [UI/UX] Display map margins when mass relocating / building a copy
+- [UI/UX] Show more information about stat modifiers in stat tooltips
+- [UI/UX] Show warnings when mass selected tiles cannot have their copies built
+- [UI/UX] Show warning messages when trying to build or relocate devices at invalid locations
+- [AI] Improve combat AI behavior
+- [AI] Improve raider break-in mechanic to not target walls when it doesn't make sense
+- [AI] Improve "Admire object" behavior to choose closer objects and fail less often
+- [AI] Workers will not extinguish fires that are not worth extinguishing (fires in space, burning living enemies, etc)
+- [AI] When Nutrient Extractor / Disassembler queue is full, workers will try next available device instead of dropping the item on the floor
+- [AI] Improve self-unstucking logic for grounded beings
+- [Tech] Upgrade Unity to 6.2
+- [Tech] Improve texture atlas packing algorithm to produce more tightly packed graphics cache
+- [Tech] Add crash recovery dialog with suggestion to lower graphics quality if game crashed while building graphics cache
+- [Tech] Prompt sharing a crash report after loading a game post crash
+- [Tech] Automatically upload latest unshared crash report when submitting the feedback form
+- [Misc] Remove "Pause on camera motion" video setting
+- [Misc] Remove "Experimental Features" setting
+- [Misc] Add /space telescope_find console command to set telescope progress to 99.999%
+- [Misc] Change some English phrasing to sound more natural
+- [Performance] Improve performance when hauling thousands of steel plates from deconstructed derelict
+- [Performance] Significantly improve cached graphics load time on higher end GPUs
+- [Performance] Optimize performance in several hot code paths (should reduce mass-desconstruction stutter)
+- [Graphics] Rewrite the rendering system for icons and moving objects
+- [Graphics] Compress all textures in GPU memory
+- [Graphics] Optimize all sprites to take less space on disk
+- [Graphics] Ensure all dynamically created textures are destroyed to reduce GPU memory pressure
+- [Graphics] Add "Settings > Video > Disable Device Animations" setting
+- [Graphics] Change bot visuals and hover behaviors when different mobilizer body parts are installed
+- [Graphics] Make human heads face the camera in certain positions to make face more visible
+- [Graphics] Make interior walls thick to visually connect them with other wall types
+- [Graphics] Reduce dirt and dust storm texture sizes to improve performance
+- [Graphics] Reenable starfield nebula visual effect on Mac OSX
+- [Graphics] Reenable Terrain Generator visual effect on Mac OSX
+- [Graphics] Make Coffee and Water containers visually smaller
+- [Graphics] Add "Settings > Video > Immersive Icons" setting to make status icons react to environmental lighting
+- [Graphics] Make plant seeds and sprouts appear below beings
+- [Graphics] Beings lying on the floor will no longer be rendered below raw materials
+- [Graphics] Auto-disable cursor light when the ambient light setting is "Fog of War"
+- [Graphics] Auto-hide status icons that aren't supposed to be visible when "Fog of War" is enabled
+- [Graphics] Pitch Black ambient light setting will actually be pitch black
+- [Graphics] Make ambient light settings moddable via JSON files
+- [Graphics] Animate Beam Drill
+- [Graphics] Animate Oxygen Pumps
+- [Graphics] Animate Ship Computer
+- [Graphics] Animate Flux Capacitor
+- [Graphics] Animate Grinder and make it 2x2 instead of 3x3
+- [Graphics] Animate Breach Capsule drill bit
+- [Graphics] Animate Centrifuge and make it smaller (2x2 instead of 3x3)
+- [Graphics] Animate Radar and System Scanner
+- [Graphics] Animate Void Ripper
+- [Graphics] Animate Telescope
+- [Graphics] Animate Shield Emitter
+- [Graphics] Animate Crafting Station
+- [Graphics] Animate Cloning Pod
+- [Graphics] Animate Repair Station
+- [Graphics] Animate Quantum Data Harvester
+- [Graphics] Animate Assembler
+- [Graphics] Animate Particle Collector
+- [Graphics] Animate AutoDoc
+- [Graphics] Animate Treadmill
+- [Graphics] Animate OxyMatic Floor
+- [Graphics] Animate Loom and make it 1x1 instead of 2x2
+- [Graphics] Animate Nutrient Extractor and make it smaller (2x2 instead of 3x3)
+- [Graphics] Make System Scanner smaller (2x2 instead of 3x3)
+- [Graphics] Make Research Station Smaller (2x1 instead of 3x2)
+- [Graphics] Make pumpkins visually smaller
+- [Graphics] Add more frames to turret animations to make them smooth
+- [Graphics] Add "Settings > Video > Disable All Visual Effects"
+- [Graphics] Add --uncompressed-textures parameter to Stardeus executable to skip texture compression
+- [Graphics] Fix GPU memory leak in electricity grid visual effect upon returning back to Main Menu from the game session
+- [Graphics] Fix some particle systems (fire, smoke, etc) could become invisible due to unwanted culling
+- [Graphics] Interceptor Turret will appear below beings
+- [Audio] Make Mini Turrets more quiet when they're shooting
+- [Mods] Major updates will maintain separate mod lists
+- [Mods] Show a warning popup when a modded game system fails to initialized
+- [Mods] Appending _DISABLED to a mod folder name will skip loading it
+- [Mods] Have a separate field for mod description in game and on steam in ModInfo
+- [Mods] Don't log every mod class type that gets loaded
+- [Mods] Disallow registering console commands with space in the command name
+- [Mods] Show a warning popup when a mod fails to restore its part of the save data
+- [Mods] Add game version tag to all mods and ships uploaded to Steam Workshop
+- [Mods] Add DescriptionSteam string field in ModInfo to allow maintaining separate mod description for in game and on the Steam Workshop
+- [Mods] Add DoNotUpdateSteamDescription bool field in ModInfo
+- [Mods] Do not update Steam Workshop description for updated shared ships
+- [Mods] Show "Update on Steam Workshop" button for mods / ships that already exist on Steam
+- [Mods] Throw an exception when registering a console command with a duplicate name
+- [Mods] Add --force-png-atlas command line argument for visually debugging texture atlases
+- [Mods] Load the mod DLL files before loading everything else
+- [Mods] Replacing core mod textures no longer requires defining the Atlas in the overriding mod
+- [Mods] Overriding core mod atlases is no longer allowed (can add new atlases for new texture folders only)
+- [Bug] Fix faction attitude towards self wouldn't be 100%
+- [Bug] Fix stripping equipment off a sleeping being would change it's visual offset
+- [Bug] Fix Communicator operator would keep dropping the task if "Operator Required" was on
+- [Bug] Fix colonizing a planet would spawn a space port in empty space
+- [Bug] Fix changing game modifiers after selecting game difficulty / commitment would reset them to defaults
+- [Bug] Fix beings wouldn't try temporary sleeping spots if they can't reach their assigned beds
+- [Bug] Fix language button could get hidden behind news panel on Steam Deck
+- [Bug] Fix some tutorial tooltips could get broken due to non-english keyboard localization
+- [Bug] Fix some materials that were meant to be explosive wouldn't be
+- [Bug] Fix loading a material into storage would fail if the material was adjacent to the storage input port
+- [Bug] Fix crafting devices could show wrong "lacking material" type
+- [Bug] Fix ordering body part operations for beings who are already loaded into assembly hubs / surgery hubs would be allowed
+- [Bug] Fix deep scan would never be available in starting sector
+- [Bug] Fix impossible to answer a ship hail if the communicator was turned off or not built before hail started
+- [Bug] Fix selecting an object or opening object's details panel could show the newly opened panel below other panels
+- [Bug] Fix rescue goals would get created for hostile beings if they got stuck on a 1x1 tile in space
+- [Bug] Fix reenabling disabled melee / shooting jobs would not restore being's ability to fight until save / load
+- [Bug] Fix clicking around Codex UI would reset the scroll position of the left list
+- [Bug] Fix disabling Smooth Drag in input settings would also disable Starmap and Research Tree panning with WASD and gamepad stick
+- [Bug] Fix attempting to use maneuvering controllers on the edge of the map would keep opening Ship Controls overlay and zooming the camera out
+- [Bug] Fix click-dragging wouldn't be allowed if the click started above a background space object
+- [Bug] Fix loading a save file would not put sleeping beings into their beds until clock was resumed
+- [Bug] Fix Stasis Array particles would not update their position after local maneuvering / winching
+- [Bug] Fix changing trade panel search input wouldn't reset the scroll position
+- [Bug] Fix workers would go to the input/output port of an operatable device instead of going to the work spot
+- [Bug] Fix colonists with Obey Chip were able to join a Mutiny
+- [Bug] Fix resizing the game window could result in some UI elements looking broken
+- [Bug] Fix broken Main Menu > Mods pagination
+- [Bug] Fix UI wide screen padding would affect main menu backdrop and panel modal overlay
+- [Bug] Fix not discovered research nodes would show tooltips with their names when minified
+- [Bug] Fix moving a storage while workers were hauling materials to that storage would make hauled materials disappear
+- [Bug] Fix crawler facehugging a human without mental health would cause an internal error
+- [Bug] Automatically recover from inconsistency created by internal errors which prevents a being from relocation / disposal
+- [Bug] Fix material deficits wouldn't get cleared for "completed" crafting orders
+- [Bug] Fix some showers could get clogged but cleaning task would not get created
+- [Bug] Fix beings could get stuck in Surgery / Assembly Hubs if part designated for swap was destroyed
+- [Bug] Fix beings with Obey Chip would become hostile during mental breakdowns
+- [Bug] Fix choosing to "Produce One" on a crafting device would show the batch size from the last setting in the tooltip
+- [Bug] Fix an edge case where a ship combat device could get registered twice
+- [Bug] Fix beings getting stuck in a teleporter if the teleporter lost power
+- [Bug] Fix relocating a bed would unset the assignments
+- [Bug] Fix feedback form could be submitted before the feedback save file was fully created
+- [Bug] Fix feedback form would silently fail to create a feedback save file if autosave was running at the time
+- [Bug] Fix search input field wouldn't work in Codex Blueprints / Materials UI
+- [Bug] Fix electric grid producers tab would show devices from all grids
+- [Bug] Fix meteoroids could sometimes phase through a wall
+- [Bug] Fix renaming a being with former non-player faction could be disallowed until save / load
+- [Bug] Fix cancelling a refill task on a refillable device would never recreate it unless the device configuration was opened
+- [Bug] Fix refillable device configuration tooltip could get too big
+- [Bug] Fix having too many unhealthy beings would produce a group tooltip that is too big
+- [Bug] Fix removing helmets / space suits in hazardous environment would not trigger Asimov's Law violations
+- [Bug] Fix grounded beings would not build some larger devices attached to the ship
+- [Bug] Fix some objects could be visible through walls in unlit rooms when Fog of War was enabled
+- [Bug] Fix workers would often try to construct a wall while the floor wasn't yet built while performing bulk construction
+- [Bug] Fix research root card texts would be blurry if research tree was opened while zoomed out and then zoomed in
+- [Bug] Fix relocating a Tractor Beam would not transfer its configuration
+- [Bug] Fix Bot Docks would sometimes not stop charging / consuming electricity even if there was no bot docked
+- [Bug] Fix "Attack Turret" AI combat action could repeat without a cooldown if no turret was reachable
+- [Bug] Fix friendly robot mind in biological body would not force the AI Alignment to be 100%
+- [Bug] Fix rotating a section that had a hole in the center wouldn't do the rotation
+- [Bug] Fix swapping a beings brain would prevent sanity UI from updating correctly until save / load
+
+
+<b>v0.13.34</b> (2025.10.12)
+- [Translations] Update Russian translations to ~100%
+- [Tech] Update Unity to 6000.0.58f2
+
+
+<b>v0.13.33</b> (2025.07.14)
+- [Bug] Fix going through Dark Portal could get the game stuck since last build
+- [Bug] Fix faction relationships would not get reset after going through a Dark Portal
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix Warp Drives engines would affect hyperspace ship forward direction
+
+
 <b>v0.13.32</b> (2025.07.08)
 - [Balance] Forbid inventory equip/unequip actions for immobilized beings
 - [UI/UX] Disable auto-hauling for items that have been relocated by the player
