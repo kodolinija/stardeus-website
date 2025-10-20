@@ -1,3 +1,21 @@
+<b>v0.14.1</b> (2025.10.20)
+- [Balance] Add minimum repeat delay for Micrometeoroid and Meteoroid Shower story events
+- [Balance] Open Airlocks will always fill themselves with Oxygen and reheat to keep beings inside them alive
+- [Performance] Improve game performance when extreme amounts (thousands) of haulable objects are in the map
+- [UI/UX] Remove "Enter Sector" and "Enter Region" buttons from space object UI
+- [UI/UX] Show how to switch to previous version when trying to load an old save
+- [UI/UX] Automatically trim any tooltips that are too large to fit on screen
+- [UI/UX] Highlight main UI buttons for Nutrient Extractor, Disassembler, Connectors and Maneuvering Controllers
+- [Mods] Make Universe and Region size tunable via JSON
+- [Translations] Update Portuguese Brasil (Brasileiro) translation to 100%
+- [Bug] Fix an edge case error that could prevent a save file from loading
+- [Bug] Fix input rebind widget could get displayed behind input menu when rebinding controls mid-game
+- [Bug] Fix cursor would first show up as a white rectangle when using gamepad
+- [Bug] Fix beings who didn't have an ability to Mine (e.g. Mindjars) could still get sent on mining expeditions
+- [Bug] Fix Mindjar could become hostile during breakdowns
+- [Bug] Fix some highlighted UI buttons would get auto-compacted while having their text trimmed
+
+
 <b>v0.14.0</b> (2025.10.16)
 - [Major] Rewrite the Story Generation system
 - [Major] Add Colony Drama System
