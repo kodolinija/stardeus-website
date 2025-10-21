@@ -1,3 +1,15 @@
+<b>v0.14.2</b> (2025.10.21)
+- [Balance] Humans will be 10x less likely to start friendly fights against pets
+- [Balance] Many devices will no longer be considered as "Industrial Equipment"
+- [Balance] Reduce Soil energy output from 250 to 50
+- [Balance] Reduce Plant Fiber energy output from 280 to 120
+- [Balance] Limit the max number of capsules showing up in Multi Storage Capsule Raid story events
+- [Balance] Increase cost of Hullpiercer Mega Raid story event
+- [UI/UX] Move center error message higher up to not block the player's action area
+- [Performance] Improve AI performance, especially with high number of beings in the game map
+- [Performance] Allow pathfinding requests to run longer in the background (less stutter in some situations)
+
+
 <b>v0.14.1</b> (2025.10.20)
 - [Balance] Add minimum repeat delay for Micrometeoroid and Meteoroid Shower story events
 - [Balance] Open Airlocks will always fill themselves with Oxygen and reheat to keep beings inside them alive
