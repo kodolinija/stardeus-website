@@ -1,3 +1,10 @@
+<b>v0.14.3</b> (2025.10.24)
+- [Bug] Fix edge case where pending body part replacement could fail and partially freeze the simulation
+- [Bug] Fix telescope could fail to find a habitable planet with certain universe seeds
+- [Bug] Fix Non-researchable devices such as Particle Collector would show "Research Tree" section in codex
+- [Bug] Fix attempting to remove an implant from a colonist would trigger Asimov's law violation
+
+
 <b>v0.14.2</b> (2025.10.21)
 - [Balance] Humans will be 10x less likely to start friendly fights against pets
 - [Balance] Many devices will no longer be considered as "Industrial Equipment"
