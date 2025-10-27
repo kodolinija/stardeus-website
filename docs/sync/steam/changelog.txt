@@ -1,3 +1,21 @@
+<b>v0.14.4</b> (2025.10.27)
+- [Balance] Obey Chip sanity effect will depend on the amount of total CPU you have
+- [Balance] Colonists with sanity over 80% will never mutiny
+- [Balance] Break up friendly fights if one of the fighters gets into a device (i.e. AutoDoc)
+- [Balance] Raids will be lighter and less frequent when your colonists or workers are injured
+- [Balance] Improve raid delay adjustment to account for recent combat casualties
+- [Balance] Crude Oil can now be refined into Carbon in the Refinery (1->10)
+- [UI/UX] Display material energy output in kW per unit
+- [UI/UX] Display battery charge and capacity in kW
+- [Graphics] Ships, Shuttles and Cargo Copters will no longer be fixed size in Starmap
+- [Bug] Fix rare edge case where colony strength calculation could freeze the loading screen
+- [Bug] Fix loading a game with Asimov Override Upgrade installed would play a chime sound on every load
+- [Bug] Fix story events disabled via modifiers could still get triggered
+- [Bug] Fix body part could fail to get hauled if it was reserved for a surgery that was cancelled
+- [Bug] Fix modifier sliders with fractional values would produce the value lower by 0.001 than the slider would show
+- [Bug] Fix colonists with highest instead of lowest sanity would be chosen for mutiny
+
+
 <b>v0.14.3</b> (2025.10.24)
 - [Bug] Fix edge case where pending body part replacement could fail and partially freeze the simulation
 - [Bug] Fix telescope could fail to find a habitable planet with certain universe seeds
