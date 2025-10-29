@@ -1,3 +1,11 @@
+<b>v0.14.5</b> (2025.10.29)
+- [Balance] Crafting Biofuel will no longer require any Soil
+- [Bug] Fix sanity effects wouldn't update themselves in realtime in UI
+- [Bug] Fix rare edge case where wrong body parts could get installed during surgery
+- [Bug] Fix using mass selection in Trade UI could result in deselected items still getting sold
+- [Bug] Fix several auto-reported internal edge case errors
+
+
 <b>v0.14.4</b> (2025.10.27)
 - [Balance] Obey Chip sanity effect will depend on the amount of total CPU you have
 - [Balance] Colonists with sanity over 80% will never mutiny
