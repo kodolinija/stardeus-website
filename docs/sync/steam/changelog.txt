@@ -1,3 +1,14 @@
+<b>v0.14.6</b> (2025.11.03)
+- [Tech] Upgrade Unity to 6000.2.10f1
+- [Balance] Reduce Beam Drill mining depth increase rate by 5x
+- [UI/UX] Less important colony drama events will stop showing a big fanfare message in larger colonies (>25)
+- [Performance] Optimize several performance critical systems (pathfinding, flood fills, atmosphere sim, electricity, AI)
+- [Misc] Improve Space Travel tutorial to handle more edge cases
+- [Bug] Fix pathfinding could sometimes fail to find complex routes depending on the ship size and layout
+- [Bug] Fix grounded beings could fall off the edge of a flying ship while walking through tile corners
+- [Bug] Fix several auto-reported internal edge case errors
+
+
 <b>v0.14.5</b> (2025.10.29)
 - [Balance] Crafting Biofuel will no longer require any Soil
 - [Bug] Fix sanity effects wouldn't update themselves in realtime in UI
