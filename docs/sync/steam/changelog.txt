@@ -1,3 +1,21 @@
+<b>v0.14.7</b> (2025.11.10)
+- [Balance] Beam Drills will not mine resource deposits owned by another faction
+- [Balance] Reduce Sofa Leather cost from 25 to 5
+- [Balance] Reduce Large Planter Soil cost from 16 to 8
+- [Balance] Adjust energy output of several materials to match output of crafted items more closely
+- [UI/UX] Restore "Copy Config: Storage" button in the storage details panel
+- [UI/UX] Double-clicking middle mouse button will focus the camera on the mouse position
+- [UI/UX] Allow using digit keys (5,6,7,8,9,0) in addition to numpad keys to control camera memory (ctrl + key saves, key jumps)
+- [Misc] Enable Unlimited clock speed (shortcut: digit 4) in sandbox mode.
+- [QOL] Relocating a damaged object will order repairs after relocation is completed
+- [Bug] Fix Radars that were being relocated would add themselves twice to potential Radar Strength
+- [Bug] Fix Auto-Rebuild a destroyed Radar could show Radar Strength warning popup
+- [Bug] Fix emergency sound was playing when friendly crew from a Stasis Pod joined the colony
+- [Bug] Fix Beautiful and Ugly traits would not be mutually exclusive
+- [Bug] Fix Crawler mind could get picked for beings with non-standard mind
+- [Bug] Fix beings generated with non-standard mind would always have age / sex matching the body
+
+
 <b>v0.14.6</b> (2025.11.03)
 - [Tech] Upgrade Unity to 6000.2.10f1
 - [Balance] Reduce Beam Drill mining depth increase rate by 5x
