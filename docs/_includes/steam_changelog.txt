@@ -1,3 +1,16 @@
+<b>v0.14.8</b> (2025.11.17)
+- [Feature] Injured colonists that heal in beds will automatically get moved to AutoDocs if any are available
+- [Feature] Allow relocating an injured colonist into an AutoDoc (will eject previous patient)
+- [Balance] Raiders will not aggravate friendly units until line of sight is established or manual attack orders are given
+- [Balance] Adjust energy output of more materials to match output of crafted items more closely
+- [Balance] Reduce Armchair Leather cost from 10 to 2
+- [UI/UX] Show energy output next to materials when configuring multiple matter reactors at once
+- [Bug] Fix rotating a ship section wouldn't have proper validation and could end up wiping parts of other sections
+- [Bug] Fix approaching derelict ships with certain seeds could freeze in the loading screen
+- [Bug] Fix ordering building a System Scanner would show scan strength limit warning when it wasn't reasonable
+- [Bug] Fix building a missing floor tile underneath a multi-tile object would be not allowed
+
+
 <b>v0.14.7</b> (2025.11.10)
 - [Balance] Beam Drills will not mine resource deposits owned by another faction
 - [Balance] Reduce Sofa Leather cost from 25 to 5
