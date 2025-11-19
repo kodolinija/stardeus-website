@@ -1,3 +1,10 @@
+<b>v0.14.9</b> (2025.11.19)
+- [UI/UX] Stop showing large fanfare notifications about insignificant colony drama events
+- [Bug] Fix wrong sound effect used when shields were going down
+- [Bug] Fix a few bugs related to moving beings from beds to autodocs
+- [Bug] Fix interpersonal relationships would develop way too slowly
+
+
 <b>v0.14.8</b> (2025.11.17)
 - [Feature] Injured colonists that heal in beds will automatically get moved to AutoDocs if any are available
 - [Feature] Allow relocating an injured colonist into an AutoDoc (will eject previous patient)
