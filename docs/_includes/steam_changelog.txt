@@ -1,3 +1,22 @@
+<b>v0.14.10</b> (2025.11.24)
+- [Balance] Allow quality of equipment and body parts to exceed 100%
+- [Balance] Adjust quality of auto-crafted items (slight increase)
+- [Balance] Inspired colonists will produce higher quality items
+- [Balance] Adjust skill / sanity level effect on crafted item quality (significant increase)
+- [Balance] Disallow abandoning ship sections mid combat
+- [Balance] Disallow abandoning ship sections with active Breach Capsules and Stasis Pods
+- [Balance] Void Rippers will not spawn Dark Matter anymore to reduce confusion about how Dark Matter is supposed to be acquired
+- [UI/UX] Show a hint about scanning for Dark Matter once the player runs into a deficit
+- [UI/UX] Don't show large fanfare messages when being bonds get created
+- [Bug] Fix cats and other animals could stab others with scissors, knives, etc without having a human mind and manipulator body part
+- [Bug] Fix beings with Pacifist trait could still stab someone
+- [Bug] Fix several auto-reported internal edge case errors
+- [Bug] Fix Hyperjump Warp -> Abort button wouldn't rebuild the UI
+- [Bug] Fix Return Beacon jumps wouldn't work without having a Warp Drive
+- [Bug] Fix treaded Robots with Mini Jets installed could start showing tread trails after a while
+- [Bug] Fix beings with low torso quality would have abnormal min/max temperature stats
+
+
 <b>v0.14.9</b> (2025.11.19)
 - [UI/UX] Stop showing large fanfare notifications about insignificant colony drama events
 - [Bug] Fix wrong sound effect used when shields were going down
