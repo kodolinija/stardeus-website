@@ -1,3 +1,10 @@
+<b>v0.14.11</b> (2025.11.25)
+- [Mods] Make the error message about unused component properties more clear
+- [Mods] Enable strict validation for Core mod component property usage
+- [Bug] Fix large Planter would only have 1 toilet slot instead of 4
+- [Bug] Fix several minor Core mod JSON configuration issues
+
+
 <b>v0.14.10</b> (2025.11.24)
 - [Balance] Allow quality of equipment and body parts to exceed 100%
 - [Balance] Adjust quality of auto-crafted items (slight increase)
