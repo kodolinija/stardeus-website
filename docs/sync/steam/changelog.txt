@@ -1,3 +1,7 @@
+<b>v0.14.12</b> (2025.11.26)
+- [Bug] Fix core validation errors happening when building a few types of objects
+
+
 <b>v0.14.11</b> (2025.11.25)
 - [Mods] Make the error message about unused component properties more clear
 - [Mods] Enable strict validation for Core mod component property usage
