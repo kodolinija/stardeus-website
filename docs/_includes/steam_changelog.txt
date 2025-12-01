@@ -1,3 +1,12 @@
+<b>v0.14.13</b> (2025.12.01)
+- [Feature] Add a "Hooker" trait (female version of "Gigolo")
+- [Balance] Reduce chance of promiscuous dates and love confessions
+- [Balance] Reduce Captain's Chair Leather cost from 12 to 2
+- [Balance] Slightly reduce love / hate / friendship development rates
+- [UI/UX] Don't show popups for love confession events
+- [Bug] Fix crafting devices showing wrong being counts after colonizing a planet
+
+
 <b>v0.14.12</b> (2025.11.26)
 - [Bug] Fix core validation errors happening when building a few types of objects
 
