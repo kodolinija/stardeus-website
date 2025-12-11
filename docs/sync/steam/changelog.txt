@@ -1,3 +1,7 @@
+<b>v0.14.14</b> (2025.12.11)
+- [Bug] Fix improperly modded species breaking saved game loading
+
+
 <b>v0.14.13</b> (2025.12.01)
 - [Feature] Add a "Hooker" trait (female version of "Gigolo")
 - [Balance] Reduce chance of promiscuous dates and love confessions
