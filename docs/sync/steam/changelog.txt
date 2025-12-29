@@ -1,3 +1,9 @@
+<b>v0.14.16</b> (2025.12.29)
+- [Translations] Update Ukrainian translation to 100%
+- [Bug] Prevent "Police Officer" role from appearing in Childhood experience slot
+- [Bug] Fix several auto reported internal errors
+
+
 <b>v0.14.15</b> (2025.12.12)
 - [Bug] Fix incorrectly configured ship device mod breaking saved game loading
 
