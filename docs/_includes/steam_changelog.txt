@@ -1,3 +1,16 @@
+<b>v0.14.20</b> (2026.02.02)
+- [Translations] Update German translation to 100%
+- [Balance] Colonists with high sanity (> 85%) won't stab others. (Some traits negate this check)
+- [Bug] Fix "Visit another region" quest could get stuck if ship wasn't in one piece
+- [Bug] Fix modded Android species could cause stasis wake-up event to go into infinite error loop
+- [Bug] Fix a few rare internal edge-case errors from bug reports
+
+
+<b>v0.14.19</b> (2026.01.25)
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix in-game bug report system not working (switch to a new service)
+
+
 <b>v0.14.18</b> (2026.01.17)
 - [Bug] Fix Uniform crafting recipes (one was a duplicate, another one was missing)
 

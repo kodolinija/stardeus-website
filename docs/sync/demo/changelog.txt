@@ -1,3 +1,33 @@
+<b>v0.14.19</b> (2026.01.25)
+- [Bug] Fix several auto-reported internal errors
+- [Bug] Fix in-game bug report system not working (switch to a new service)
+
+
+<b>v0.14.18</b> (2026.01.17)
+- [Bug] Fix Uniform crafting recipes (one was a duplicate, another one was missing)
+
+
+<b>v0.14.17</b> (2026.01.04)
+- [Balance] Adjust Mutiny story event (reduce frequency, require larger colony size, skip at easier difficulties)
+- [Balance] Reduce frequency of story events that grow the colony size (Stasis Pods with Friendly Crew, etc)
+- [Balance] Increase delay between organic stasis wake-ups at higher colony sizes
+- [Bug] Fix removal of Obey Chip from a friendly colonist would violate Asimov's rules
+
+
+<b>v0.14.16</b> (2025.12.29)
+- [Translations] Update Ukrainian translation to 100%
+- [Bug] Prevent "Police Officer" role from appearing in Childhood experience slot
+- [Bug] Fix several auto reported internal errors
+
+
+<b>v0.14.15</b> (2025.12.12)
+- [Bug] Fix incorrectly configured ship device mod breaking saved game loading
+
+
+<b>v0.14.14</b> (2025.12.11)
+- [Bug] Fix improperly modded species breaking saved game loading
+
+
 <b>v0.14.13</b> (2025.12.01)
 - [Feature] Add a "Hooker" trait (female version of "Gigolo")
 - [Balance] Reduce chance of promiscuous dates and love confessions
