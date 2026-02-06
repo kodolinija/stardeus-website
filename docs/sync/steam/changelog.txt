@@ -1,3 +1,11 @@
+<b>v0.14.22</b> (2026.02.06)
+- [Feature] Workers are now able to collect and carry multiple materials at the same time
+
+
+<b>v0.14.21</b> (2026.02.03)
+- [Tech] Add "Disable Virtual Keyboard" toggle to the Input settings
+
+
 <b>v0.14.20</b> (2026.02.02)
 - [Translations] Update German translation to 100%
 - [Balance] Colonists with high sanity (> 85%) won't stab others. (Some traits negate this check)
