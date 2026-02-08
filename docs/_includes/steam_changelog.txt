@@ -1,3 +1,10 @@
+<b>v0.14.24</b> (2026.02.08)
+- [Performance] Implement a couple of optimizations for improving atmosphere / temperature simulation performance in large maps
+- [UI/UX] Muting non-critical notifications will also mute mental breakdown alert sound
+- [Bug] Fix plan mode would ignore mirroring settings when deleting parts of the plan
+- [Bug] Hotfix optimized path calculation could fail to find an alternative route if there was a locked door along the way
+
+
 <b>v0.14.23</b> (2026.02.08)
 - [Feature] Add sanity boost for colonists when a fallen friend / lover / pet / etc gets resurrected
 - [Feature] Add Energy Efficiency Upgrade / Speed Upgrade support for several additional devices (Heaters, Disassembler, Nanobot Hive, etc)
