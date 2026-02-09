@@ -1,3 +1,14 @@
+<b>v0.14.26</b> (2026.02.09)
+- [Graphics] Optimize some of the visual effects to make them lighter on the GPU (to reduce chance of occasional crashes caused by GPU memory allocation in late game on large ships)
+- [Bug] Fix destroying an inbound Breach Capsule with ship weapons could cause an internal error when spawning the survivors
+
+
+<b>v0.14.25</b> (2026.02.09)
+- [Performance] Add one additional optimization to the new pathfinding algorithm to make it much faster when the path target is inside a wall or object
+- [Bug] Hotfix optimized pathfinding would fail to find a path if the shortest way would lead through a room with devices blocking the path
+- [Bug] Fix rare edge-case crash when loading old save files
+
+
 <b>v0.14.24</b> (2026.02.08)
 - [Performance] Implement a couple of optimizations for improving atmosphere / temperature simulation performance in large maps
 - [UI/UX] Muting non-critical notifications will also mute mental breakdown alert sound
