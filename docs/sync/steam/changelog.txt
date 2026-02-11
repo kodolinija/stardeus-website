@@ -1,3 +1,15 @@
+<b>v0.14.28</b> (2026.02.11)
+- [Translations] Update Russian translation to 100%
+- [Bug] Fix potential light system desync after local maneuvering
+- [Bug] Fix paused state and production counter preservation when relocating crafting devices
+- [Bug] Fix Prevent Wake-Ups setting would get reset after relocating a Stasis Array
+- [Bug] Fix Pirate Ship Approaching event could spawn the ship near the player, resulting in instant combat
+
+
+<b>v0.14.27</b> (2026.02.10)
+- [Bug] Fix updating door lock state or permissions wouldn't be reflected on pathfinding immediately
+
+
 <b>v0.14.26</b> (2026.02.09)
 - [Graphics] Optimize some of the visual effects to make them lighter on the GPU (to reduce chance of occasional crashes caused by GPU memory allocation in late game on large ships)
 - [Bug] Fix destroying an inbound Breach Capsule with ship weapons could cause an internal error when spawning the survivors
