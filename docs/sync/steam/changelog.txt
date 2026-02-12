@@ -1,3 +1,13 @@
+<b>v0.14.29</b> (2026.02.12)
+- [Feature] NPC ships will now be affected by magnetic storms
+- [Balance] Limit the amount of being ejected from a shot down Breach Capsule to 8
+- [Graphics] Reduce max ship weapon visual effects from 256 to 64 to reduce potential crashes
+- [Bug] Fix some tasks would never get taken by workers if there were too many unassignable tasks in the queue
+- [Bug] Fix tasks in completely unreachable spots would get skipped without marking them as unreachable
+- [Bug] Fix shooting down an incoming Breach Capsule could kill random beings from same faction who weren't onboard the capsule
+- [Bug] Fix C42 explosive armed by the player could get triggered by friendly units
+
+
 <b>v0.14.28</b> (2026.02.11)
 - [Translations] Update Russian translation to 100%
 - [Bug] Fix potential light system desync after local maneuvering
