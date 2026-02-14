@@ -1,3 +1,10 @@
+<b>v0.14.31</b> (2026.02.14)
+- [Bug] Fix multi-tile objects could have false reachability failures if their bottom-right corner was blocked
+- [Bug] Fix relocating multi-tile objects wouldn't update the internal pathfinding data structures correctly, causing ghost blockages
+- [Bug] Fix devices destroyed mid ship to ship combat could spawn ship class warning popups when auto-rebuild was enabled
+- [Bug] Fix being motion would glitch for a bit after the clock was force-stopped and resumed during certain events
+
+
 <b>v0.14.30</b> (2026.02.14)
 - [UI/UX] When both "Limit clock speed during disasters" and "Auto-pause when in danger" options are unchecked, the clock speed will never change on its own
 - [Bug] Fix pathfinding map wouldn't instantly update when large devices were built / relocated
