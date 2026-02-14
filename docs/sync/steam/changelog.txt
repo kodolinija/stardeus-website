@@ -1,6 +1,14 @@
+<b>v0.14.30</b> (2026.02.14)
+- [UI/UX] When both "Limit clock speed during disasters" and "Auto-pause when in danger" options are unchecked, the clock speed will never change on its own
+- [Bug] Fix pathfinding map wouldn't instantly update when large devices were built / relocated
+- [Bug] Fix armed C42 explosive would go off if a friendly unit would be carrying an enemy over it
+- [Bug] Fix threat detection system could still pause the game on some emergencies even if "Auto-pause when in danger" was unchecked
+- [Bug] Fix several auto reported internal errors
+
+
 <b>v0.14.29</b> (2026.02.12)
 - [Feature] NPC ships will now be affected by magnetic storms
-- [Balance] Limit the amount of being ejected from a shot down Breach Capsule to 8
+- [Balance] Limit the amount of beings ejected from a shot down Breach Capsule to 8
 - [Graphics] Reduce max ship weapon visual effects from 256 to 64 to reduce potential crashes
 - [Bug] Fix some tasks would never get taken by workers if there were too many unassignable tasks in the queue
 - [Bug] Fix tasks in completely unreachable spots would get skipped without marking them as unreachable
