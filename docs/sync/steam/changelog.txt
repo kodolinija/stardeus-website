@@ -1,3 +1,7 @@
+<b>v0.14.32</b> (2026.02.16)
+- [Translations] Update Italian translation to 99%
+
+
 <b>v0.14.31</b> (2026.02.14)
 - [Bug] Fix multi-tile objects could have false reachability failures if their bottom-right corner was blocked
 - [Bug] Fix relocating multi-tile objects wouldn't update the internal pathfinding data structures correctly, causing ghost blockages
