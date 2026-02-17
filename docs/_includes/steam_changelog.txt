@@ -1,3 +1,9 @@
+<b>v0.14.33</b> (2026.02.17)
+- [Translations] Update Italian translation to 100%
+- [Bug] Fix stasis pods would crash into objects more often than they were allowed to
+- [Bug] Fix rare internal error that could break local maneuvering or ship rotation
+
+
 <b>v0.14.32</b> (2026.02.16)
 - [Translations] Update Italian translation to 99%
 
