@@ -1,3 +1,9 @@
+<b>v0.14.34</b> (2026.02.18)
+- [Balance] Prevent Meteoroid Shower from appearing in easy regions
+- [Bug] Fix pathfinding algorithm would not search for an alternative route if the shortest path was unsafe
+- [Bug] Fix ship engine failure story event could pick the same thruster every time
+
+
 <b>v0.14.33</b> (2026.02.17)
 - [Translations] Update Italian translation to 100%
 - [Bug] Fix stasis pods would crash into objects more often than they were allowed to
