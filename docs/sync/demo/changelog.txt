@@ -1,3 +1,101 @@
+<b>v0.14.35</b> (2026.02.21)
+- [Translations] Update French translation to 100%
+
+
+<b>v0.14.34</b> (2026.02.18)
+- [Balance] Prevent Meteoroid Shower from appearing in easy regions
+- [Bug] Fix pathfinding algorithm would not search for an alternative route if the shortest path was unsafe
+- [Bug] Fix ship engine failure story event could pick the same thruster every time
+
+
+<b>v0.14.33</b> (2026.02.17)
+- [Translations] Update Italian translation to 100%
+- [Bug] Fix stasis pods would crash into objects more often than they were allowed to
+- [Bug] Fix rare internal error that could break local maneuvering or ship rotation
+
+
+<b>v0.14.32</b> (2026.02.16)
+- [Translations] Update Italian translation to 99%
+
+
+<b>v0.14.31</b> (2026.02.14)
+- [Bug] Fix multi-tile objects could have false reachability failures if their bottom-right corner was blocked
+- [Bug] Fix relocating multi-tile objects wouldn't update the internal pathfinding data structures correctly, causing ghost blockages
+- [Bug] Fix devices destroyed mid ship to ship combat could spawn ship class warning popups when auto-rebuild was enabled
+- [Bug] Fix being motion would glitch for a bit after the clock was force-stopped and resumed during certain events
+
+
+<b>v0.14.30</b> (2026.02.14)
+- [UI/UX] When both "Limit clock speed during disasters" and "Auto-pause when in danger" options are unchecked, the clock speed will never change on its own
+- [Bug] Fix pathfinding map wouldn't instantly update when large devices were built / relocated
+- [Bug] Fix armed C42 explosive would go off if a friendly unit would be carrying an enemy over it
+- [Bug] Fix threat detection system could still pause the game on some emergencies even if "Auto-pause when in danger" was unchecked
+- [Bug] Fix several auto reported internal errors
+
+
+<b>v0.14.29</b> (2026.02.12)
+- [Feature] NPC ships will now be affected by magnetic storms
+- [Balance] Limit the amount of beings ejected from a shot down Breach Capsule to 8
+- [Graphics] Reduce max ship weapon visual effects from 256 to 64 to reduce potential crashes
+- [Bug] Fix some tasks would never get taken by workers if there were too many unassignable tasks in the queue
+- [Bug] Fix tasks in completely unreachable spots would get skipped without marking them as unreachable
+- [Bug] Fix shooting down an incoming Breach Capsule could kill random beings from same faction who weren't onboard the capsule
+- [Bug] Fix C42 explosive armed by the player could get triggered by friendly units
+
+
+<b>v0.14.28</b> (2026.02.11)
+- [Translations] Update Russian translation to 100%
+- [Bug] Fix potential light system desync after local maneuvering
+- [Bug] Fix paused state and production counter preservation when relocating crafting devices
+- [Bug] Fix Prevent Wake-Ups setting would get reset after relocating a Stasis Array
+- [Bug] Fix Pirate Ship Approaching event could spawn the ship near the player, resulting in instant combat
+
+
+<b>v0.14.27</b> (2026.02.10)
+- [Bug] Fix updating door lock state or permissions wouldn't be reflected on pathfinding immediately
+
+
+<b>v0.14.26</b> (2026.02.09)
+- [Graphics] Optimize some of the visual effects to make them lighter on the GPU (to reduce chance of occasional crashes caused by GPU memory allocation in late game on large ships)
+- [Bug] Fix destroying an inbound Breach Capsule with ship weapons could cause an internal error when spawning the survivors
+
+
+<b>v0.14.25</b> (2026.02.09)
+- [Performance] Add one additional optimization to the new pathfinding algorithm to make it much faster when the path target is inside a wall or object
+- [Bug] Hotfix optimized pathfinding would fail to find a path if the shortest way would lead through a room with devices blocking the path
+- [Bug] Fix rare edge-case crash when loading old save files
+
+
+<b>v0.14.24</b> (2026.02.08)
+- [Performance] Implement a couple of optimizations for improving atmosphere / temperature simulation performance in large maps
+- [UI/UX] Muting non-critical notifications will also mute mental breakdown alert sound
+- [Bug] Fix plan mode would ignore mirroring settings when deleting parts of the plan
+- [Bug] Hotfix optimized path calculation could fail to find an alternative route if there was a locked door along the way
+
+
+<b>v0.14.23</b> (2026.02.08)
+- [Feature] Add sanity boost for colonists when a fallen friend / lover / pet / etc gets resurrected
+- [Feature] Add Energy Efficiency Upgrade / Speed Upgrade support for several additional devices (Heaters, Disassembler, Nanobot Hive, etc)
+- [Performance] Switch to hierarchical A* to significantly enhance pathfinding performance in large ships and large amounts of beings
+- [Performance] Optimize area recalculation to reduce stutter during mass construction / deconstruction tasks on large ships / derelicts
+
+
+<b>v0.14.22</b> (2026.02.06)
+- [Feature] Workers are now able to collect and carry multiple materials at the same time
+
+
+<b>v0.14.21</b> (2026.02.03)
+- [Tech] Add "Disable Virtual Keyboard" toggle to the Input settings
+
+
+<b>v0.14.20</b> (2026.02.02)
+- [Translations] Update German translation to 100%
+- [Balance] Colonists with high sanity (> 85%) won't stab others. (Some traits negate this check)
+- [Bug] Fix "Visit another region" quest could get stuck if ship wasn't in one piece
+- [Bug] Fix modded Android species could cause stasis wake-up event to go into infinite error loop
+- [Bug] Fix a few rare internal edge-case errors from bug reports
+
+
 <b>v0.14.19</b> (2026.01.25)
 - [Bug] Fix several auto-reported internal errors
 - [Bug] Fix in-game bug report system not working (switch to a new service)
