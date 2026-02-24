@@ -1,3 +1,16 @@
+<b>v0.14.37</b> (2026.02.24)
+- [Performance] Address some cases where visual effect budget would still reserve GPU resources even though effect wasn't created
+- [Performance] Add Mods/Core/Config/Tunable/VFX.json to allow adjusting particle budgets and turning off individual effects
+
+
+<b>v0.14.36</b> (2026.02.22)
+- [Performance] Introduce global visual effect budget to prevent GPU lockups leading to crashes when spawning too many visual effects at once
+- [Translations] Improve French translation
+- [Bug] Fix too many beings could take the same social opportunity at once
+- [Bug] Fix beings would take social opportunities even if they were very far away
+- [Bug] Fix relocating a nutrient extractor or a disassembler would wipe out its queue
+
+
 <b>v0.14.35</b> (2026.02.21)
 - [Translations] Update French translation to 100%
 
