@@ -1,3 +1,16 @@
+<b>v0.14.39</b> (2026.03.01)
+- [Bug] Fix Sleeping Pods wouldn't get auto-assigned since recent pathfinding optimization
+- [Bug] Fix colonists with Pacifist trait would participate in fist fights
+- [Bug] Fix immunity progress would drop to 10% after reaching 100% of the maximum level (will now cap out at 99%)
+
+
+<b>v0.14.38</b> (2026.02.28)
+- [Performance] Enable DirectX12 support on Windows to improve GPU stability with massive ships
+- [Performance] Address a couple of performance issues surfacing during combat on large ships with hundreds of units
+- [Bug] Fix beings would get a "slept outside" sanity debuff for sleeping in a doorway
+- [Bug] Fix body part delivery tasks could get retried and repeated endlessly if the body part was gone
+
+
 <b>v0.14.37</b> (2026.02.24)
 - [Performance] Address some cases where visual effect budget would still reserve GPU resources even though effect wasn't created
 - [Performance] Add Mods/Core/Config/Tunable/VFX.json to allow adjusting particle budgets and turning off individual effects
