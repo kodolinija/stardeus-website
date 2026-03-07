@@ -1,3 +1,10 @@
+<b>v0.14.40</b> (2026.03.07)
+- [Translations] Update Japanese translation to 100%
+- [Bug] Fix right clicking the center of a 3x3 or larger object would show "Can't reach position" in the assign task line
+- [Bug] Fix an internal error that could lock up the generation of a new ship
+- [Bug] Fix a couple of auto-reported minor internal errors
+
+
 <b>v0.14.39</b> (2026.03.01)
 - [Bug] Fix Sleeping Pods wouldn't get auto-assigned since recent pathfinding optimization
 - [Bug] Fix colonists with Pacifist trait would participate in fist fights
