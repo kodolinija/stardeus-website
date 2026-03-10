@@ -1,3 +1,8 @@
+<b>v0.14.41</b> (2026.03.10)
+- [Bug] Fix several high priority tasks in an unreachable location could lockup all workers
+- [Bug] Fix forgetting ashes of a resurrected colonist would cause a debuff for close relationships
+
+
 <b>v0.14.40</b> (2026.03.07)
 - [Translations] Update Japanese translation to 100%
 - [Bug] Fix right clicking the center of a 3x3 or larger object would show "Can't reach position" in the assign task line
