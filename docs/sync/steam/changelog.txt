@@ -1,3 +1,7 @@
+<b>v0.14.42</b> (2026.03.13)
+- [Bug] Fix game would fail to render any lights at all if number of light sources exceeded 10240
+
+
 <b>v0.14.41</b> (2026.03.10)
 - [Bug] Fix several high priority tasks in an unreachable location could lockup all workers
 - [Bug] Fix forgetting ashes of a resurrected colonist would cause a debuff for close relationships
