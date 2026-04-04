@@ -1,3 +1,8 @@
+<b>v0.14.43</b> (2026.04.04)
+- [Balance] Prevent NPC ships from ganging up on you if you are already in combat with strong enough opponent(s)
+- [Bug] Fix beings dying while inside an AutoDoc would not be auto-ejected until save/load
+
+
 <b>v0.14.42</b> (2026.03.13)
 - [Bug] Fix game would fail to render any lights at all if number of light sources exceeded 10240
 
