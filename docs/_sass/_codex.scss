@@ -1,0 +1,85 @@
+// Styles for the generated /codex/ sub-site (see Docs/Architecture/Plans/CodexWikiExport.md)
+
+$codex-accent: #DFBB29; // matches the game's default UI theme "Accent" color
+$codex-muted: #888888;
+
+.codex {
+  article {
+    .codex-home-section {
+      float: none;
+    }
+
+    .accent {
+      color: $codex-accent;
+    }
+
+    .muted {
+      color: $codex-muted;
+    }
+
+    .nobr {
+      white-space: nowrap;
+    }
+
+    .tip {
+      border-bottom: 1px dotted $codex-muted;
+      cursor: help;
+    }
+
+    kbd {
+      display: inline-block;
+      padding: 0.05em 0.45em;
+      margin: 0 0.1em;
+      font-family: Consolas, Menlo, monospace;
+      font-size: 0.85em;
+      line-height: 1.5;
+      color: #eee;
+      background: #2a2a35;
+      border: 1px solid #555;
+      border-bottom-width: 2px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    h3.codex-subtitle {
+      margin-top: 1.4em;
+      margin-bottom: 0.4em;
+    }
+
+    .codex-image,
+    .codex-video {
+      margin: 1.2em 0;
+
+      img,
+      video {
+        max-width: 100%;
+        height: auto;
+        border-radius: 4px;
+      }
+    }
+
+    .inline-icon {
+      height: 1.2em;
+      width: auto;
+      vertical-align: text-bottom;
+    }
+
+    details.spoiler {
+      margin: 1em 0;
+
+      summary {
+        cursor: pointer;
+        color: $codex-accent;
+      }
+    }
+
+    ul.codex-index {
+      list-style: none;
+      padding-left: 0;
+
+      li {
+        margin: 0.25em 0;
+      }
+    }
+  }
+}

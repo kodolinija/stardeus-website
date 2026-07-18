@@ -1,0 +1,17 @@
+---
+layout: codex
+title: "Breach Capsule Port - Item Database"
+h1: "Breach Capsule Port"
+description: "Uh oh. Looks like someone is about to get raided!"
+image: /img/codex/sprites/database/objects/devices/breach-capsule.png
+section: "Database"
+---
+
+<p>Uh oh. Looks like someone is about to get raided!</p>
+<h3 class="codex-subtitle">Contains Materials</h3>
+<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x15<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/lead-plate/">Lead Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x15<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x5</p>
+<h3 class="codex-subtitle">Properties</h3>
+<p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
+<p><span style="font-size:70%"><span class="muted">This item cannot be built. It can only be acquired through other means, such as finding it on derelict ships.</span></span></p>
+
+<figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/breach-capsule.png" alt="Breach Capsule Port preview" loading="lazy"></figure>

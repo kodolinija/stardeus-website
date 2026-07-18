@@ -1,0 +1,41 @@
+---
+layout: codex
+title: "Conversation Module - Item Database"
+h1: "Conversation Module"
+description: "Enables vocalization and hearing. Useless if the mind cannot form words."
+image: /img/codex/sprites/database/obj/parts/implant/conversation-module.png
+section: "Database"
+---
+
+<p>Enables vocalization and hearing. Useless if the mind cannot form words.</p>
+<h3 class="codex-subtitle">Body part <span class="muted">(Implant)</span></h3>
+<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">All</span></p>
+<h3 class="codex-subtitle">Provides Abilities</h3>
+<p> <span style="font-size:75%">→</span> <span class="accent">Hear</span>, <span class="accent">Vocalize</span></p>
+<h3 class="codex-subtitle">Craftable</h3>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/assembler/">Assembler</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/carbon-fiber/">Carbon Fiber</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> + <span style="color:#A0BBF7">25kW x 5d</span> = <span class="nobr"><span class="accent">Conversation Module</span></span></p>
+<h3 class="codex-subtitle">Compatible Storage</h3>
+<p><span class="nobr"><a href="/codex/database/objects/devices/part-storage/">Part Storage</a></span></p>
+
+<h2>Research Prerequisites</h2>
+<ul class="codex-index">
+<li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a>
+<ul>
+<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
+<ul>
+<li><a href="/codex/research/research/robotics/docking/">Docking</a>
+<ul>
+<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
+<ul>
+<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+<figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/implant/conversation-module.png" alt="Conversation Module preview" loading="lazy"></figure>

@@ -1,0 +1,66 @@
+---
+layout: codex
+title: "Quantum Ship Computer - Item Database"
+h1: "Quantum Ship Computer"
+description: "A more advanced version of the Ship Computer."
+image: /img/codex/sprites/database/objects/devices/quantum-ship-computer.png
+section: "Database"
+---
+
+<p>A more advanced version of the Ship Computer.</p>
+<h3 class="codex-subtitle">Construction Cost</h3>
+<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/silicon-wafer/">Silicon Wafer</a></span> x20<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x200<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x20<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x8<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x15<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/upgrades/disk-compression-upgrade/">Disk Compression Upgrade</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/upgrades/memory-compression-upgrade/">Memory Compression Upgrade</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/upgrades/auto-connect-upgrade/">Auto Connect Upgrade</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span> x4</p>
+<h3 class="codex-subtitle">Properties</h3>
+<p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Produces Heat</p>
+
+<h2>Research Prerequisites</h2>
+<ul class="codex-index">
+<li><a href="/codex/research/research/computing/ship-computer-quantum/">Quantum Ship Computer</a>
+<ul>
+<li><a href="/codex/research/research/computing/gpu-improved/">Improved GPU</a>
+<ul>
+<li><a href="/codex/research/research/computing/high-availability-improved/">Improved High Availability</a>
+<ul>
+<li><a href="/codex/research/research/computing/high-availability/">High Availability</a>
+<ul>
+<li><a href="/codex/research/research/computing/ship-computer/">Ship Computer</a>
+<ul>
+<li><a href="/codex/research/research/computing/gpu/">GPU</a>
+<ul>
+<li><a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a>
+<ul>
+<li><a href="/codex/research/research/computing/cpu/">CPU</a>
+<ul>
+<li><a href="/codex/research/research/computing/research/">Basic Research</a>
+<ul>
+<li><a href="/codex/research/research/computing/root/">Computing</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/codex/research/research/computing/disk-improved/">Improved Disk</a>
+<ul>
+<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
+<ul>
+<li><a href="/codex/research/research/computing/research/">Basic Research</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+<figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/quantum-ship-computer.png" alt="Quantum Ship Computer preview" loading="lazy"></figure>

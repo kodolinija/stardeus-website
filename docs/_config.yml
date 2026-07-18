@@ -10,11 +10,20 @@ twitter:
 logo: "/img/stardeus-logo.png"
 google_analytics_id: UA-203669382-2
 google_site_verification: google-site-verification=j6oAVRZpFG8wLabJ_KaDDyowkVXhgZ9WtlLLNL2NI-w
+collections:
+  codex:
+    output: true
+    permalink: "/codex/:path/"
 defaults:
 - scope:
     path: ''
   values:
     image: "/img/stardeus-cover-og.jpg"
+- scope:
+    path: ''
+    type: codex
+  values:
+    layout: codex
 future: true
 plugins:
 - jekyll-avatar
