@@ -5,6 +5,16 @@
 
   {{- content -}}
 
+  {%- if page.overview -%}
+  <dialog class="screenshot-lightbox" data-screenshot-dialog aria-label="Screenshot preview">
+    <div class="screenshot-lightbox__content">
+      <button class="screenshot-lightbox__close" type="button" data-screenshot-close aria-label="Close screenshot">&times;</button>
+      <img class="screenshot-lightbox__image" data-screenshot-image alt="">
+    </div>
+  </dialog>
+  <script src="{{ 'js/screenshot-lightbox.js' | relative_url }}" defer></script>
+  {%- endif -%}
+
   {%- include footer.html -%}
   {%- include analytics.html -%}
 </body>

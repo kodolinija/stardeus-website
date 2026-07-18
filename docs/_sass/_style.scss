@@ -315,6 +315,64 @@ footer {
  // margin: 30px 0 15px 0;
 }
 
+.screenshot-link {
+  cursor: zoom-in;
+}
+
+.screenshot-lightbox {
+  max-width: none;
+  max-height: none;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  overflow: visible;
+}
+
+.screenshot-lightbox:not([open]) {
+  display: none;
+}
+
+.screenshot-lightbox::backdrop {
+  background: rgba(0, 0, 0, .88);
+}
+
+.screenshot-lightbox__content {
+  position: relative;
+  background: #000;
+  @include box-shadow(0 4px 30px rgba(0, 0, 0, .8));
+}
+
+.screenshot-lightbox__image {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: calc(100vw - 40px);
+  max-height: calc(100vh - 40px);
+  object-fit: contain;
+}
+
+.screenshot-lightbox__close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 1;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, .7);
+  border-radius: 50%;
+  color: #fff;
+  background: rgba(0, 0, 0, .75);
+  font-size: 32px;
+  line-height: 38px;
+  cursor: pointer;
+}
+
+.screenshot-lightbox__close:hover,
+.screenshot-lightbox__close:focus {
+  background: #000;
+}
+
 .quickstart {
   background-color: rgb(59, 21, 65);
   color: #fff;

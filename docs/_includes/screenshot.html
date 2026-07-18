@@ -1,4 +1,6 @@
 {% assign u = 'img/screenshots/' | append: include.id %}
-<a href="{{ u | relative_url }}">
-    <img src="{{ u | relative_url }}" alt="{{ include.name }}">
+{% assign thumbnail_id = include.id | replace: '.png', '.jpg' %}
+{% assign thumbnail_u = 'img/screenshots/thumbnails/' | append: thumbnail_id %}
+<a class="screenshot-link" href="{{ u | relative_url }}" data-screenshot-lightbox>
+    <img src="{{ thumbnail_u | relative_url }}" alt="{{ include.name }}" loading="lazy" decoding="async">
 </a>
