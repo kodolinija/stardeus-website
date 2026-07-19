@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Human Head - Item Database"
+title: "Human Head - Stardeus Wiki and Game Guide"
 h1: "Human Head"
 description: "An organic head of a human."
 image: /img/codex/sprites/database/obj/parts/head/head-human.png

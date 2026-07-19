@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nuclear Enrichment - Research Tree"
+title: "Nuclear Enrichment - Research"
 h1: "Nuclear Enrichment"
 description: "Nuclear Enrichment is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/nuclear-enrichment.png
@@ -24,24 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/oil-processing/">Oil Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/material-processing/">Material Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; <a href="/codex/research/research/production/material-processing/">Material Processing</a> &rarr; <a href="/codex/research/research/production/oil-processing/">Oil Processing</a> &rarr; Nuclear Enrichment</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/nuclear-enrichment.png" alt="Nuclear Enrichment preview" loading="lazy"></figure>

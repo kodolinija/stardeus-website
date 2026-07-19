@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Paint - Research Tree"
+title: "Paint - Research"
 h1: "Paint"
 description: "Unlocks the Paint overlay"
 image: /img/codex/sprites/research/research/habitation/paint.png
@@ -27,16 +27,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; Paint</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/habitation/paint.png" alt="Paint preview" loading="lazy"></figure>

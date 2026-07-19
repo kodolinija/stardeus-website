@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Quantum Research - Research Tree"
+title: "Quantum Research - Research"
 h1: "Quantum Research"
 description: "Quantum Research is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/computing/research-quantum.png
@@ -21,20 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/research-advanced/">Advanced Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/research-advanced/">Advanced Research</a> &rarr; Quantum Research</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/computing/research-quantum.png" alt="Quantum Research preview" loading="lazy"></figure>

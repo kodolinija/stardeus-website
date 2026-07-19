@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Black Pawn - Item Database"
+title: "Black Pawn - Stardeus Wiki and Game Guide"
 h1: "Black Pawn"
 description: "Black Pawn is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-pawn-b.png

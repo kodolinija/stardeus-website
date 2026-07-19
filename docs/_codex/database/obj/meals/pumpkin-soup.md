@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Pumpkin Soup - Item Database"
+title: "Pumpkin Soup - Stardeus Wiki and Game Guide"
 h1: "Pumpkin Soup"
 description: "A creamy, warm blend of pumpkin, spices, and broth."
 image: /img/codex/sprites/database/obj/meals/pumpkin-soup.png
@@ -17,16 +17,6 @@ section: "Database"
 <p>Vegan Food</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a> &rarr; Pumpkin Soup</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/meals/pumpkin-soup.png" alt="Pumpkin Soup preview" loading="lazy"></figure>

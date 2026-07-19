@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Airlock - Item Database"
+title: "Airlock - Stardeus Wiki and Game Guide"
 h1: "Airlock"
 description: "Maintains atmosphere separation while allowing passage."
 image: /img/codex/sprites/database/structure/doors/door-airlock01.png
@@ -16,20 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0-100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/construction/habitation/">Habitation</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a> &rarr; Airlock</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/doors/door-airlock01.png" alt="Airlock preview" loading="lazy"></figure>

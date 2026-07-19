@@ -81,5 +81,125 @@ $codex-muted: #888888;
         margin: 0.25em 0;
       }
     }
+
+    .codex-prereq-path {
+      margin: 0.4em 0;
+      line-height: 1.6;
+    }
+  }
+
+  .codex-topbar {
+    // Full-bleed background (this section sits outside .wrap .grid's own
+    // max-width), with its content re-centered to that same content width.
+    padding: 18px 24px;
+    margin: 0 -20px 20px;
+    background: rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .codex-topbar-inner {
+    max-width: 978px;
+    margin: 0 auto;
+  }
+
+  .codex-search-item {
+    // Grows to fill whatever room is left on the tab row it lands on, rather
+    // than sitting at a fixed width with empty space next to it.
+    flex: 1 1 240px;
+  }
+
+  .codex-search-input {
+    width: 100%;
+    padding: 9px 12px;
+    font-size: 14px;
+    color: #eee;
+    background: rgba(0, 0, 0, 0.35);
+    border: 1px solid #555;
+    border-radius: 4px;
+
+    &:focus {
+      outline: none;
+      border-color: $codex-accent;
+    }
+  }
+
+  .codex-search-results {
+    // position/left/top/width are set in codex-search.js (getBoundingClientRect)
+    // - position:fixed escapes the tab bar's overflow-x:auto clipping, which a
+    // CSS-only position:absolute anchor can't do from inside that ancestor.
+    position: fixed;
+    z-index: 1000;
+    max-height: 340px;
+    overflow-y: auto;
+    background: #201c28;
+    border: 1px solid #555;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+
+    &[hidden] {
+      display: none;
+    }
+
+    a {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 6px 10px;
+      font-size: 14px;
+      color: #eee;
+
+      &:hover {
+        color: $codex-accent;
+        background: rgba(255, 255, 255, 0.08);
+      }
+    }
+  }
+
+  .codex-search-group {
+    flex-shrink: 0;
+    font-size: 0.85em;
+    color: $codex-muted;
+  }
+
+  .codex-tabs {
+    overflow-x: auto;
+
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: left;
+      gap: 10px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      list-style: none;
+    }
+
+    // Scoped to direct li > a tab links only (not "a" descendant-wide) - the
+    // search box's result links also live inside .codex-tabs (as the last li)
+    // but several levels deeper, so this must not match them too.
+    > ul > li > a {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 14px;
+      text-transform: uppercase;
+      color: #ccc;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 4px;
+      white-space: nowrap;
+
+      &:hover {
+        color: #fff;
+        background: rgba(255, 255, 255, 0.12);
+      }
+    }
+
+    > ul > li.current > a {
+      color: #1a1620;
+      background: $codex-accent;
+    }
   }
 }

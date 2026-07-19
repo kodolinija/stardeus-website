@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Assembler - Item Database"
+title: "Assembler - Stardeus Wiki and Game Guide"
 h1: "Assembler"
 description: "General-purpose automated assembler for crafting items from raw materials."
 image: /img/codex/sprites/database/objects/devices/assembler.png
@@ -14,29 +14,7 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/electronics/">Electronics</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/production/metal-purification/">Metal Purification</a>
-<ul>
-<li><a href="/codex/research/research/production/smelting/">Smelting</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a> &rarr; Assembler</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/metal-purification/">Metal Purification</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a> &rarr; Assembler</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/assembler.png" alt="Assembler preview" loading="lazy"></figure>

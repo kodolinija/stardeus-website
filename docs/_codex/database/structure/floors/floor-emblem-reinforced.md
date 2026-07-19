@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Reinforced Emblem Floor - Item Database"
+title: "Reinforced Emblem Floor - Stardeus Wiki and Game Guide"
 h1: "Reinforced Emblem Floor"
 description: "A custom reinforced floor with the graphic of your choice."
 image: /img/codex/sprites/database/structure/floors/floor-emblem-reinforced.png
@@ -16,33 +16,7 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/emblem-floors-reinforced/">Reinforced Emblem Floors</a>
-<ul>
-<li><a href="/codex/research/research/construction/emblem-floors/">Emblem Floors</a>
-<ul>
-<li><a href="/codex/research/research/construction/habitation/">Habitation</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/construction/structure-reinforced/">Reinforced Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/construction/habitation/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/emblem-floors/">Emblem Floors</a> &rarr; <a href="/codex/research/research/construction/emblem-floors-reinforced/">Reinforced Emblem Floors</a> &rarr; Reinforced Emblem Floor</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/construction/structure-reinforced/">Reinforced Structure</a> &rarr; <a href="/codex/research/research/construction/emblem-floors-reinforced/">Reinforced Emblem Floors</a> &rarr; Reinforced Emblem Floor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/floors/floor-emblem-reinforced.png" alt="Reinforced Emblem Floor preview" loading="lazy"></figure>

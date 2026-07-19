@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Fluid Cannon - Item Database"
+title: "Fluid Cannon - Stardeus Wiki and Game Guide"
 h1: "Fluid Cannon"
 description: "Fires liquid materials. Water extinguishes fires, while petroleum turns it into a flamethrower."
 image: /img/codex/sprites/database/objects/devices/fluid-cannon.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>75%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/security/fire-suppression/">Fire Suppression</a>
-<ul>
-<li><a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a>
-<ul>
-<li><a href="/codex/research/research/security/door-permissions/">Door Permissions</a>
-<ul>
-<li><a href="/codex/research/research/security/root/">Security</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a> &rarr; <a href="/codex/research/research/security/fire-suppression/">Fire Suppression</a> &rarr; Fluid Cannon</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/fluid-cannon.png" alt="Fluid Cannon preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Terranite - Item Database"
+title: "Terranite - Stardeus Wiki and Game Guide"
 h1: "Terranite"
 description: "An rare amber-like crystal that reshapes the terrain around itself by manipulating geological forces."
 image: /img/codex/sprites/database/obj/materials/terranite.png

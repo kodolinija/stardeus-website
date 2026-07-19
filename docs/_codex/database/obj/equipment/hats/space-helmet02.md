@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Armored Helmet - Item Database"
+title: "Armored Helmet - Stardeus Wiki and Game Guide"
 h1: "Armored Helmet"
 description: "An airtight helmet to go with a space suit. Adds extra protection."
 image: /img/codex/sprites/database/obj/equipment/hats/space-helmet02.png
@@ -18,20 +18,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a>
-<ul>
-<li><a href="/codex/research/research/production/space-suit/">Space Suit</a>
-<ul>
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; <a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a> &rarr; Armored Helmet</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/hats/space-helmet02.png" alt="Armored Helmet preview" loading="lazy"></figure>

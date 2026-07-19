@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Hullpiercer - Item Database"
+title: "Hullpiercer - Stardeus Wiki and Game Guide"
 h1: "Hullpiercer"
 description: "A high-velocity boarding pod designed to punch through a ship's hull for rapid entry."
 image: /img/codex/sprites/database/obj/containers/hullpiercer.png

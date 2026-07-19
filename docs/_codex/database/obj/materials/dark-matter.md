@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Dark Matter - Item Database"
+title: "Dark Matter - Stardeus Wiki and Game Guide"
 h1: "Dark Matter"
 description: "A mysterious substance that is abundant yet extremely difficult to obtain."
 image: /img/codex/sprites/database/obj/materials/dark-matter.png

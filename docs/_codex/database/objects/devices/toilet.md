@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Toilet - Item Database"
+title: "Toilet - Stardeus Wiki and Game Guide"
 h1: "Toilet"
 description: "A place to relieve yourself with some dignity."
 image: /img/codex/sprites/database/objects/devices/toilet.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/hygiene/">Hygiene</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/hygiene/">Hygiene</a> &rarr; Toilet</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/toilet.png" alt="Toilet preview" loading="lazy"></figure>

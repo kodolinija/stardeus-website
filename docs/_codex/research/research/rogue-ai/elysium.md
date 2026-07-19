@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Elysium - Research Tree"
+title: "Elysium - Research"
 h1: "Elysium"
 description: "Enables conversion of the Stasis Array into the Elysium."
 image: /img/codex/sprites/research/research/rogue-ai/elysium.png
@@ -23,8 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; Elysium</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/rogue-ai/elysium.png" alt="Elysium preview" loading="lazy"></figure>

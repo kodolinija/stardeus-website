@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Ashes - Item Database"
+title: "Ashes - Stardeus Wiki and Game Guide"
 h1: "Ashes"
 description: "Fine, grayish powder left after burning organic matter."
 image: /img/codex/sprites/database/obj/materials/ashes.png

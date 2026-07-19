@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Human Brain - Item Database"
+title: "Human Brain - Stardeus Wiki and Game Guide"
 h1: "Human Brain"
 description: "An organic brain of a human."
 image: /img/codex/sprites/database/obj/parts/brain/brain-human.png

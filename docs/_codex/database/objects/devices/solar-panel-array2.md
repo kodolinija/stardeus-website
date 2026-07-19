@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Solar Panel Array (50kW) - Item Database"
+title: "Solar Panel Array (50kW) - Stardeus Wiki and Game Guide"
 h1: "Solar Panel Array (50kW)"
 description: "Solar Panel Array (50kW) is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/devices/solar-panel-array2.png
@@ -13,24 +13,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a>
-<ul>
-<li><a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a>
-<ul>
-<li><a href="/codex/research/research/energy/solar/">Solar Panels</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a> &rarr; Solar Panel Array (50kW)</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/solar-panel-array2.png" alt="Solar Panel Array (50kW) preview" loading="lazy"></figure>

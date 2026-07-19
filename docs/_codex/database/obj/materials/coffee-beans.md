@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Coffee Beans - Item Database"
+title: "Coffee Beans - Stardeus Wiki and Game Guide"
 h1: "Coffee Beans"
 description: "Can be brewed into coffee."
 image: /img/codex/sprites/database/obj/materials/coffee-beans.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Basic Reactor - Research Tree"
+title: "Basic Reactor - Research"
 h1: "Basic Reactor"
 description: "Basic Reactor is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/reactor.png
@@ -20,8 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; Basic Reactor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/reactor.png" alt="Basic Reactor preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Switch - Research Tree"
+title: "Switch - Research"
 h1: "Switch"
 description: "Switch is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/switch.png
@@ -20,16 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/connector-improved/">Improved Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; Switch</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/switch.png" alt="Switch preview" loading="lazy"></figure>

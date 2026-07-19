@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Dog Head - Item Database"
+title: "Dog Head - Stardeus Wiki and Game Guide"
 h1: "Dog Head"
 description: "An organic head of a dog."
 image: /img/codex/sprites/database/obj/parts/head/head-dog.png

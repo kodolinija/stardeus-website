@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Space Suit - Research Tree"
+title: "Space Suit - Research"
 h1: "Space Suit"
 description: "Space Suit is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/space-suit.png
@@ -22,12 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; Space Suit</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/space-suit.png" alt="Space Suit preview" loading="lazy"></figure>

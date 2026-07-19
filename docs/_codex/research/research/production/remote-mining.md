@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Remote Mining - Research Tree"
+title: "Remote Mining - Research"
 h1: "Remote Mining"
 description: "Remote Mining is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/remote-mining.png
@@ -21,16 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/smelting/">Smelting</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; Remote Mining</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/remote-mining.png" alt="Remote Mining preview" loading="lazy"></figure>

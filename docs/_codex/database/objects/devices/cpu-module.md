@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "CPU Module (2Thz) - Item Database"
+title: "CPU Module (2Thz) - Stardeus Wiki and Game Guide"
 h1: "CPU Module (2Thz)"
 description: "The CPU Module will contribute computing power to your neural network."
 image: /img/codex/sprites/database/objects/devices/cpu-module.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu/">CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/cpu/">CPU</a> &rarr; <a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a> &rarr; CPU Module (2Thz)</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/cpu-module.png" alt="CPU Module (2Thz) preview" loading="lazy"></figure>

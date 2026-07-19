@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cleaning Bot - Research Tree"
+title: "Cleaning Bot - Research"
 h1: "Cleaning Bot"
 description: "Small robot designed to clean floors."
 image: /img/codex/sprites/research/research/robotics/cleaning-bot.png
@@ -18,28 +18,10 @@ section: "Research"
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">
-<li><a href="/codex/database/beings/cleaning-bot01/">Cleaning Bot</a></li>
+<li><a href="/codex/species/cleaning-bot/">Cleaning Bot</a></li>
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a> &rarr; Cleaning Bot</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/cleaning-bot.png" alt="Cleaning Bot preview" loading="lazy"></figure>

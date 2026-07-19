@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Asteroid - Item Database"
+title: "Asteroid - Stardeus Wiki and Game Guide"
 h1: "Asteroid"
 description: "A drifting chunk of rock. Best kept away from important things."
 image: /img/codex/sprites/database/obj/asteroids/asteroid05.png

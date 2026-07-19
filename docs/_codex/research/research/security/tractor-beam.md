@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Tractor Beam - Research Tree"
+title: "Tractor Beam - Research"
 h1: "Tractor Beam"
 description: "Tractor Beam is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/security/tractor-beam.png
@@ -22,29 +22,7 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/security/energy-weapons/">Energy Weapons</a>
-<ul>
-<li><a href="/codex/research/research/security/explosives/">Explosives</a>
-<ul>
-<li><a href="/codex/research/research/security/turrets/">Turrets</a>
-<ul>
-<li><a href="/codex/research/research/security/firearms/">Firearms</a>
-<ul>
-<li><a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/security/root/">Security</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/security/firearms/">Firearms</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a> &rarr; <a href="/codex/research/research/security/explosives/">Explosives</a> &rarr; <a href="/codex/research/research/security/energy-weapons/">Energy Weapons</a> &rarr; Tractor Beam</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/energy-weapons/">Energy Weapons</a> &rarr; Tractor Beam</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/tractor-beam.png" alt="Tractor Beam preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "GPU Module (2Thz) - Item Database"
+title: "GPU Module (2Thz) - Stardeus Wiki and Game Guide"
 h1: "GPU Module (2Thz)"
 description: "A more efficient dedicated graphics processing unit with high bandwidth memory throughput, perfect for mining digital currencies."
 image: /img/codex/sprites/database/objects/devices/gpu-module.png
@@ -14,49 +14,7 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/gpu-improved/">Improved GPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/high-availability-improved/">Improved High Availability</a>
-<ul>
-<li><a href="/codex/research/research/computing/high-availability/">High Availability</a>
-<ul>
-<li><a href="/codex/research/research/computing/ship-computer/">Ship Computer</a>
-<ul>
-<li><a href="/codex/research/research/computing/gpu/">GPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu/">CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/computing/disk-improved/">Improved Disk</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/cpu/">CPU</a> &rarr; <a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a> &rarr; <a href="/codex/research/research/computing/gpu/">GPU</a> &rarr; <a href="/codex/research/research/computing/ship-computer/">Ship Computer</a> &rarr; <a href="/codex/research/research/computing/high-availability/">High Availability</a> &rarr; <a href="/codex/research/research/computing/high-availability-improved/">Improved High Availability</a> &rarr; <a href="/codex/research/research/computing/gpu-improved/">Improved GPU</a> &rarr; GPU Module (2Thz)</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/disk-improved/">Improved Disk</a> &rarr; <a href="/codex/research/research/computing/gpu/">GPU</a> &rarr; <a href="/codex/research/research/computing/ship-computer/">Ship Computer</a> &rarr; <a href="/codex/research/research/computing/high-availability/">High Availability</a> &rarr; <a href="/codex/research/research/computing/high-availability-improved/">Improved High Availability</a> &rarr; <a href="/codex/research/research/computing/gpu-improved/">Improved GPU</a> &rarr; GPU Module (2Thz)</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/gpu-module.png" alt="GPU Module (2Thz) preview" loading="lazy"></figure>

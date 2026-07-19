@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Heat Sink - Item Database"
+title: "Heat Sink - Stardeus Wiki and Game Guide"
 h1: "Heat Sink"
 description: "Build it near your Ship Computer to improve operational efficiency. Adding more than a few has diminishing returns."
 image: /img/codex/sprites/database/objects/devices/heat-sink.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>85%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/cpu/">CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/cpu/">CPU</a> &rarr; Heat Sink</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/heat-sink.png" alt="Heat Sink preview" loading="lazy"></figure>

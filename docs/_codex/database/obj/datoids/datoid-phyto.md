@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Phyto Datoid - Item Database"
+title: "Phyto Datoid - Stardeus Wiki and Game Guide"
 h1: "Phyto Datoid"
 description: "Data extracted from plant-based organic matter."
 image: /img/codex/sprites/database/obj/datoids/datoid-phyto.png
@@ -14,12 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Phyto Datoid</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/datoids/datoid-phyto.png" alt="Phyto Datoid preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Food Production - Research Tree"
+title: "Food Production - Research"
 h1: "Food Production"
 description: "Food Production is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/food-production.png
@@ -23,8 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; Food Production</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/food-production.png" alt="Food Production preview" loading="lazy"></figure>

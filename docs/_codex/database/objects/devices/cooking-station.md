@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cooking Station - Item Database"
+title: "Cooking Station - Stardeus Wiki and Game Guide"
 h1: "Cooking Station"
 description: "Manually operated mini-kitchen with a stove."
 image: /img/codex/sprites/database/objects/devices/cooking-station.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Cooking Station</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/cooking-station.png" alt="Cooking Station preview" loading="lazy"></figure>

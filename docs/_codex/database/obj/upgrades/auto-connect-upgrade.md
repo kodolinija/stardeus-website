@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Auto Connect Upgrade - Item Database"
+title: "Auto Connect Upgrade - Stardeus Wiki and Game Guide"
 h1: "Auto Connect Upgrade"
 description: "When installed in your Ship Computer, this upgrade will automatically connect newly built or repaired devices to your electric grid."
 image: /img/codex/sprites/database/obj/upgrades/auto-connect-upgrade.png
@@ -16,20 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/connector-auto/">Connector Automation</a>
-<ul>
-<li><a href="/codex/research/research/energy/connector-improved/">Improved Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; <a href="/codex/research/research/energy/connector-auto/">Connector Automation</a> &rarr; Auto Connect Upgrade</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/auto-connect-upgrade.png" alt="Auto Connect Upgrade preview" loading="lazy"></figure>

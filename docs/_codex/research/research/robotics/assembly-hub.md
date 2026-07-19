@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Assembly Hub - Research Tree"
+title: "Assembly Hub - Research"
 h1: "Assembly Hub"
 description: "Assembly Hub is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/robotics/assembly-hub.png
@@ -21,16 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; Assembly Hub</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/assembly-hub.png" alt="Assembly Hub preview" loading="lazy"></figure>

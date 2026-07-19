@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Coal - Item Database"
+title: "Coal - Stardeus Wiki and Game Guide"
 h1: "Coal"
 description: "A fossil that can be processed into Carbon or burned as fuel."
 image: /img/codex/sprites/database/obj/materials/coal.png

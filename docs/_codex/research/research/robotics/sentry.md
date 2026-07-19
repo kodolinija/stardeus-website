@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Sentry Drone - Research Tree"
+title: "Sentry Drone - Research"
 h1: "Sentry Drone"
 description: "Durable security drone designed for combat and emergency response."
 image: /img/codex/sprites/research/research/robotics/sentry.png
@@ -19,45 +19,11 @@ section: "Research"
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">
-<li><a href="/codex/database/beings/sentry01/">Sentry Drone</a></li>
+<li><a href="/codex/species/sentry/">Sentry Drone</a></li>
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/parts-advanced/">Advanced Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/nanobots/">Nanobots</a>
-<ul>
-<li><a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/robotics/parts-improved/">Improved Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a> &rarr; <a href="/codex/research/research/robotics/nanobots/">Nanobots</a> &rarr; <a href="/codex/research/research/robotics/parts-advanced/">Advanced Bot Parts</a> &rarr; Sentry Drone</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a> &rarr; <a href="/codex/research/research/robotics/parts-improved/">Improved Bot Parts</a> &rarr; <a href="/codex/research/research/robotics/parts-advanced/">Advanced Bot Parts</a> &rarr; Sentry Drone</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/sentry.png" alt="Sentry Drone preview" loading="lazy"></figure>

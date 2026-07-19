@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Black King - Item Database"
+title: "Black King - Stardeus Wiki and Game Guide"
 h1: "Black King"
 description: "Black King is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-king-b.png

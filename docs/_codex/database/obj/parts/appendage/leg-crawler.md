@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Crawler Leg - Item Database"
+title: "Crawler Leg - Stardeus Wiki and Game Guide"
 h1: "Crawler Leg"
 description: "An organic crawler leg."
 image: /img/codex/sprites/database/obj/parts/appendage/leg-crawler.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Entertainment - Research Tree"
+title: "Entertainment - Research"
 h1: "Entertainment"
 description: "Entertainment is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/entertainment/root.png

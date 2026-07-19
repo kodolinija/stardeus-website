@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Interior Window - Item Database"
+title: "Interior Window - Stardeus Wiki and Game Guide"
 h1: "Interior Window"
 description: "Interior Window is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/structure/walls/window02.png
@@ -15,16 +15,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/habitation/">Habitation</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; Interior Window</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/walls/window02.png" alt="Interior Window preview" loading="lazy"></figure>

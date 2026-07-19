@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mind Control - Research Tree"
+title: "Mind Control - Research"
 h1: "Mind Control"
 description: "Mind Control is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/rogue-ai/mind-control.png
@@ -21,16 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/rogue-ai/elysium/">Elysium</a>
-<ul>
-<li><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a> &rarr; Mind Control</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/rogue-ai/mind-control.png" alt="Mind Control preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Particle Collector - Item Database"
+title: "Particle Collector - Stardeus Wiki and Game Guide"
 h1: "Particle Collector"
 description: "Collects space particles over time and converts them into raw materials."
 image: /img/codex/sprites/database/objects/devices/particle-collector.png

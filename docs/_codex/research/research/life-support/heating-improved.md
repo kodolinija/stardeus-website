@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Improved Heating - Research Tree"
+title: "Improved Heating - Research"
 h1: "Improved Heating"
 description: "Improved Heating is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/heating-improved.png
@@ -20,12 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; Improved Heating</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/heating-improved.png" alt="Improved Heating preview" loading="lazy"></figure>

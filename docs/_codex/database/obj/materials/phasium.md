@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Phasium - Item Database"
+title: "Phasium - Stardeus Wiki and Game Guide"
 h1: "Phasium"
 description: "A rare, semi-metallic crystal that emits a pulsating purple glow, blending solid strength with ethereal energy."
 image: /img/codex/sprites/database/obj/materials/phasium.png

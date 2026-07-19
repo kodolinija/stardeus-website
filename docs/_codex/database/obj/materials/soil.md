@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Soil - Item Database"
+title: "Soil - Stardeus Wiki and Game Guide"
 h1: "Soil"
 description: "Fine-grained pieces of ground and rock, suitable for planting."
 image: /img/codex/sprites/database/obj/materials/soil.png

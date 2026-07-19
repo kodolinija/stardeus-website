@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Log - Item Database"
+title: "Log - Stardeus Wiki and Game Guide"
 h1: "Log"
 description: "Use it for fuel, or process it into Wood that can be used for building furniture."
 image: /img/codex/sprites/database/obj/materials/log.png

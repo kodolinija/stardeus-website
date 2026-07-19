@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mindjar Frame - Item Database"
+title: "Mindjar Frame - Stardeus Wiki and Game Guide"
 h1: "Mindjar Frame"
 description: "A mobile bot frame that can accomodate a biological brain."
 image: /img/codex/sprites/database/obj/parts/body/body-mindjar.png

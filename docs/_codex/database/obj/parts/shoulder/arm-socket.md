@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Arm Socket - Item Database"
+title: "Arm Socket - Stardeus Wiki and Game Guide"
 h1: "Arm Socket"
 description: "A socket where the robotic arm gets attached to."
 image: /img/codex/sprites/database/obj/parts/shoulder/arm-socket.png
@@ -16,24 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/part-storage/">Part Storage</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a> &rarr; Arm Socket</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/shoulder/arm-socket.png" alt="Arm Socket preview" loading="lazy"></figure>

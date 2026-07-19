@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Grain - Item Database"
+title: "Grain - Stardeus Wiki and Game Guide"
 h1: "Grain"
 description: "Can be ground into Flour."
 image: /img/codex/sprites/database/obj/materials/grain.png
@@ -14,12 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/large-pantry/">Large Pantry</a></span>, <span class="nobr"><a href="/codex/database/objects/furniture/pantry/">Pantry</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; Grain</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/grain.png" alt="Grain preview" loading="lazy"></figure>

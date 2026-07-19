@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Black Bishop - Item Database"
+title: "Black Bishop - Stardeus Wiki and Game Guide"
 h1: "Black Bishop"
 description: "Black Bishop is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-bishop-b.png

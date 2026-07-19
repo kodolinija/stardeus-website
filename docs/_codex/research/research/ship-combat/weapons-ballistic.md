@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Ballistic Weapons - Research Tree"
+title: "Ballistic Weapons - Research"
 h1: "Ballistic Weapons"
 description: "Ballistic Weapons is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/ship-combat/weapons-ballistic.png
@@ -21,8 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; Ballistic Weapons</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/ship-combat/weapons-ballistic.png" alt="Ballistic Weapons preview" loading="lazy"></figure>

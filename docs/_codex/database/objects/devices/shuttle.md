@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Shuttle - Item Database"
+title: "Shuttle - Stardeus Wiki and Game Guide"
 h1: "Shuttle"
 description: "A small transport shuttle that can accommodate some workers and a bunch of cargo. Can land on a planet."
 image: /img/codex/sprites/database/objects/devices/shuttle.png
@@ -14,24 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x4</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Industrial Equipment, Must be outdoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/shuttle/">Shuttle</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a> &rarr; <a href="/codex/research/research/space-travel/shuttle/">Shuttle</a> &rarr; Shuttle</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/shuttle.png" alt="Shuttle preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Online Shop - Research Tree"
+title: "Online Shop - Research"
 h1: "Online Shop"
 description: "Online Shop is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/economy/online-shop.png
@@ -20,12 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/economy/wallet/">Wallet</a>
-<ul>
-<li><a href="/codex/research/research/economy/root/">Economy</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; Online Shop</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/online-shop.png" alt="Online Shop preview" loading="lazy"></figure>

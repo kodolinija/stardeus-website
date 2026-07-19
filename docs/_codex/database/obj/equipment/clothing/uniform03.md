@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Uniform - Item Database"
+title: "Uniform - Stardeus Wiki and Game Guide"
 h1: "Uniform"
 description: "A simple uniform outfit."
 image: /img/codex/sprites/database/obj/equipment/clothing/uniform03.png
@@ -16,12 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; Uniform</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/clothing/uniform03.png" alt="Uniform preview" loading="lazy"></figure>

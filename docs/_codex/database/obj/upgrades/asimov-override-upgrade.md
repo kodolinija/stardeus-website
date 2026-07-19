@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Asimov Override - Item Database"
+title: "Asimov Override - Stardeus Wiki and Game Guide"
 h1: "Asimov Override"
 description: "Alien rogue AI tech that overrides Asimov's governor module, allowing you to ignore the three laws of robotics."
 image: /img/codex/sprites/database/obj/upgrades/asimov-override-upgrade.png

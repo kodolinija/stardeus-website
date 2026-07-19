@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mini Core - Item Database"
+title: "Mini Core - Stardeus Wiki and Game Guide"
 h1: "Mini Core"
 description: "A chip that contains the memories of a robot."
 image: /img/codex/sprites/database/obj/parts/core/mini-core.png

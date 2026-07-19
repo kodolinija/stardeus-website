@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Hygiene - Research Tree"
+title: "Hygiene - Research"
 h1: "Hygiene"
 description: "Hygiene is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/hygiene.png
@@ -20,8 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; Hygiene</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/hygiene.png" alt="Hygiene preview" loading="lazy"></figure>

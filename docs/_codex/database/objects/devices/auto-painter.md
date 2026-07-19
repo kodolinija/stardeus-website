@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Auto Painter - Item Database"
+title: "Auto Painter - Stardeus Wiki and Game Guide"
 h1: "Auto Painter"
 description: "Dispenses nanobots carrying pigment particles that can change the color of most surfaces."
 image: /img/codex/sprites/database/objects/devices/auto-painter.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/paint/">Paint</a>
-<ul>
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; <a href="/codex/research/research/habitation/paint/">Paint</a> &rarr; Auto Painter</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/auto-painter.png" alt="Auto Painter preview" loading="lazy"></figure>

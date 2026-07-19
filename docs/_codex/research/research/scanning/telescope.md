@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Telescope - Research Tree"
+title: "Telescope - Research"
 h1: "Telescope"
 description: "Telescope is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/scanning/telescope.png
@@ -22,24 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/extended/">Extended Scanning</a>
-<ul>
-<li><a href="/codex/research/research/scanning/system/">System Scanning</a>
-<ul>
-<li><a href="/codex/research/research/scanning/radar/">Radar</a>
-<ul>
-<li><a href="/codex/research/research/scanning/communications/">Communications</a>
-<ul>
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; <a href="/codex/research/research/scanning/communications/">Communications</a> &rarr; <a href="/codex/research/research/scanning/radar/">Radar</a> &rarr; <a href="/codex/research/research/scanning/system/">System Scanning</a> &rarr; <a href="/codex/research/research/scanning/extended/">Extended Scanning</a> &rarr; Telescope</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/scanning/telescope.png" alt="Telescope preview" loading="lazy"></figure>

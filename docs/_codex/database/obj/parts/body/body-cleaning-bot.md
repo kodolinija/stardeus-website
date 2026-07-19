@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cleaning Bot Frame - Item Database"
+title: "Cleaning Bot Frame - Stardeus Wiki and Game Guide"
 h1: "Cleaning Bot Frame"
 description: "A body of a Cleaning Bot."
 image: /img/codex/sprites/database/obj/parts/body/body-cleaning-bot.png

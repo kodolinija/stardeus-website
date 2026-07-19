@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Energy Efficiency Upgrade - Item Database"
+title: "Energy Efficiency Upgrade - Stardeus Wiki and Game Guide"
 h1: "Energy Efficiency Upgrade"
 description: "Reduces electricity consumption in compatible devices."
 image: /img/codex/sprites/database/obj/upgrades/energy-efficiency-upgrade.png
@@ -14,33 +14,7 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/energy-efficiency/">Energy Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/electronics/">Electronics</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/production/metal-purification/">Metal Purification</a>
-<ul>
-<li><a href="/codex/research/research/production/smelting/">Smelting</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a> &rarr; <a href="/codex/research/research/production/energy-efficiency/">Energy Efficiency</a> &rarr; Energy Efficiency Upgrade</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/metal-purification/">Metal Purification</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a> &rarr; <a href="/codex/research/research/production/energy-efficiency/">Energy Efficiency</a> &rarr; Energy Efficiency Upgrade</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/energy-efficiency-upgrade.png" alt="Energy Efficiency Upgrade preview" loading="lazy"></figure>

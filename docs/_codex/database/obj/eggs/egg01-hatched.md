@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Alien Egg Shell - Item Database"
+title: "Alien Egg Shell - Stardeus Wiki and Game Guide"
 h1: "Alien Egg Shell"
 description: "Remains of an alien egg."
 image: /img/codex/sprites/database/obj/eggs/egg01-hatched.png

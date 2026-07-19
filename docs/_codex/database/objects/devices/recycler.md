@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Recycler - Item Database"
+title: "Recycler - Stardeus Wiki and Game Guide"
 h1: "Recycler"
 description: "Recycles organic materials into useful resources."
 image: /img/codex/sprites/database/objects/devices/recycler.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; Recycler</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/recycler.png" alt="Recycler preview" loading="lazy"></figure>

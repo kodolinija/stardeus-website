@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Coffee - Item Database"
+title: "Coffee - Stardeus Wiki and Game Guide"
 h1: "Coffee"
 description: "A warm, energizing drink. For some, it's more important than water."
 image: /img/codex/sprites/database/obj/materials/coffee.png
@@ -14,16 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/beverage-cooler/">Beverage Cooler</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/coffee/">Coffee</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/coffee/">Coffee</a> &rarr; Coffee</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/coffee.png" alt="Coffee preview" loading="lazy"></figure>

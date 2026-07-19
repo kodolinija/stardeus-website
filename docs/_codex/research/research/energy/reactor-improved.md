@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Improved Reactor - Research Tree"
+title: "Improved Reactor - Research"
 h1: "Improved Reactor"
 description: "Improved Reactor is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/reactor-improved.png
@@ -21,16 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a> &rarr; Improved Reactor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/reactor-improved.png" alt="Improved Reactor preview" loading="lazy"></figure>

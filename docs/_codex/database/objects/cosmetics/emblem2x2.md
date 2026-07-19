@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Medium Emblem - Item Database"
+title: "Medium Emblem - Stardeus Wiki and Game Guide"
 h1: "Medium Emblem"
 description: "You can decorate your ship with custom emblems."
 image: /img/codex/sprites/database/objects/cosmetics/emblem2x2.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/emblems/">Emblems</a>
-<ul>
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; <a href="/codex/research/research/habitation/emblems/">Emblems</a> &rarr; Medium Emblem</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/cosmetics/emblem2x2.png" alt="Medium Emblem preview" loading="lazy"></figure>

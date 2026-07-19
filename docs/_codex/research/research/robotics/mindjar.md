@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mindjar - Research Tree"
+title: "Mindjar - Research"
 h1: "Mindjar"
 description: "A bot carrying a preserved brain inside a glass jar that controls its mechanical body."
 image: /img/codex/sprites/research/research/robotics/mindjar.png
@@ -18,28 +18,10 @@ section: "Research"
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">
-<li><a href="/codex/database/beings/mindjar01/">Mindjar</a></li>
+<li><a href="/codex/species/mindjar/">Mindjar</a></li>
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a> &rarr; Mindjar</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/mindjar.png" alt="Mindjar preview" loading="lazy"></figure>

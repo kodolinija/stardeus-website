@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Flying Shuttle - Item Database"
+title: "Flying Shuttle - Stardeus Wiki and Game Guide"
 h1: "Flying Shuttle"
 description: "A shuttle in mid-flight."
 image: /img/codex/sprites/database/obj/shuttles/shuttle-flying.png

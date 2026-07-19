@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Clone Egg - Research Tree"
+title: "Clone Egg - Research"
 h1: "Clone Egg"
 description: "Clone Egg is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/clone-egg.png
@@ -21,28 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/clone-crawler/">Clone Crawler</a>
-<ul>
-<li><a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a>
-<ul>
-<li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; <a href="/codex/research/research/life-support/medical-care/">Medical Care</a> &rarr; <a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a> &rarr; <a href="/codex/research/research/life-support/clone-crawler/">Clone Crawler</a> &rarr; Clone Egg</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/clone-egg.png" alt="Clone Egg preview" loading="lazy"></figure>

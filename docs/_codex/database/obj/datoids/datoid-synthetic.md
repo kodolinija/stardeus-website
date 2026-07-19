@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Synthetic Datoid - Item Database"
+title: "Synthetic Datoid - Stardeus Wiki and Game Guide"
 h1: "Synthetic Datoid"
 description: "Data synthesized from highly refined substances."
 image: /img/codex/sprites/database/obj/datoids/datoid-synthetic.png
@@ -14,24 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/oil-processing/">Oil Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/material-processing/">Material Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; <a href="/codex/research/research/production/material-processing/">Material Processing</a> &rarr; <a href="/codex/research/research/production/oil-processing/">Oil Processing</a> &rarr; Synthetic Datoid</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/datoids/datoid-synthetic.png" alt="Synthetic Datoid preview" loading="lazy"></figure>

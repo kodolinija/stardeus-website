@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Metal Purification - Research Tree"
+title: "Metal Purification - Research"
 h1: "Metal Purification"
 description: "Metal Purification is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/metal-purification.png
@@ -23,16 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/smelting/">Smelting</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; Metal Purification</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/metal-purification.png" alt="Metal Purification preview" loading="lazy"></figure>

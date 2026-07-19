@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Jack-o'-lantern - Item Database"
+title: "Jack-o'-lantern - Stardeus Wiki and Game Guide"
 h1: "Jack-o'-lantern"
 description: "A carved lantern made from a pumpkin."
 image: /img/codex/sprites/database/objects/cosmetics/pumpkin-head02.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>15%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/halloween-decorations/">Halloween Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; <a href="/codex/research/research/habitation/halloween-decorations/">Halloween Decorations</a> &rarr; Jack-o'-lantern</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/cosmetics/pumpkin-head02.png" alt="Jack-o'-lantern preview" loading="lazy"></figure>

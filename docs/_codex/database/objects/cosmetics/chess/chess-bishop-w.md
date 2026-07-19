@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "White Bishop - Item Database"
+title: "White Bishop - Stardeus Wiki and Game Guide"
 h1: "White Bishop"
 description: "White Bishop is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-bishop-w.png

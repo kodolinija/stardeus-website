@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Point Defense Weapons - Research Tree"
+title: "Point Defense Weapons - Research"
 h1: "Point Defense Weapons"
 description: "Point Defense Weapons is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/ship-combat/point-defense.png
@@ -21,12 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/shields/">Shields</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/shields/">Shields</a> &rarr; Point Defense Weapons</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/ship-combat/point-defense.png" alt="Point Defense Weapons preview" loading="lazy"></figure>

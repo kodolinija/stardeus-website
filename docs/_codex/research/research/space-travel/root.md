@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Space Travel - Research Tree"
+title: "Space Travel - Research"
 h1: "Space Travel"
 description: "Space Travel is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/space-travel/root.png

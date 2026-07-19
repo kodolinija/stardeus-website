@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Meteoroid - Item Database"
+title: "Meteoroid - Stardeus Wiki and Game Guide"
 h1: "Meteoroid"
 description: "Not as bad as an asteroid, but a shower of these can do serious damage."
 image: /img/codex/sprites/database/obj/asteroids/meteor04.png

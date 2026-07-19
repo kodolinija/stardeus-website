@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Assembly - Research Tree"
+title: "Assembly - Research"
 h1: "Assembly"
 description: "Assembly is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/assembly.png
@@ -22,8 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; Assembly</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/assembly.png" alt="Assembly preview" loading="lazy"></figure>

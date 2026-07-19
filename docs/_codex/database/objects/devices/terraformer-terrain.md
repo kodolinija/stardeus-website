@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Terrain Generator - Item Database"
+title: "Terrain Generator - Stardeus Wiki and Game Guide"
 h1: "Terrain Generator"
 description: "A terraforming device that generates terrain. Run it while your ship is near a terraformable planet."
 image: /img/codex/sprites/database/objects/devices/terraformer-terrain.png
@@ -14,28 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>4x4</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/terrain-generation/">Terrain Generation</a>
-<ul>
-<li><a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a>
-<ul>
-<li><a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a>
-<ul>
-<li><a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a>
-<ul>
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a> &rarr; <a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a> &rarr; <a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a> &rarr; <a href="/codex/research/research/life-support/terrain-generation/">Terrain Generation</a> &rarr; Terrain Generator</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/terraformer-terrain.png" alt="Terrain Generator preview" loading="lazy"></figure>

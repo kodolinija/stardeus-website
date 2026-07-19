@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Advanced Space Suit - Research Tree"
+title: "Advanced Space Suit - Research"
 h1: "Advanced Space Suit"
 description: "Advanced Space Suit is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/space-suit-advanced.png
@@ -22,16 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/space-suit/">Space Suit</a>
-<ul>
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; Advanced Space Suit</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/space-suit-advanced.png" alt="Advanced Space Suit preview" loading="lazy"></figure>

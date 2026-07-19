@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Treadmill - Research Tree"
+title: "Treadmill - Research"
 h1: "Treadmill"
 description: "Treadmill is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/entertainment/treadmill.png
@@ -20,8 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/entertainment/root/">Entertainment</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; Treadmill</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/entertainment/treadmill.png" alt="Treadmill preview" loading="lazy"></figure>

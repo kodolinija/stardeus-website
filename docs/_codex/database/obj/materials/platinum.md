@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Platinum - Item Database"
+title: "Platinum - Stardeus Wiki and Game Guide"
 h1: "Platinum"
 description: "A precious silverish white metal ore."
 image: /img/codex/sprites/database/obj/materials/platinum.png

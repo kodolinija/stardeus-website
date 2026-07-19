@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Crawler Maw - Item Database"
+title: "Crawler Maw - Stardeus Wiki and Game Guide"
 h1: "Crawler Maw"
 description: "An organic crawler maw."
 image: /img/codex/sprites/database/obj/parts/maw/maw-crawler.png

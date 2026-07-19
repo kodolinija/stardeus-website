@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Space Helmet - Item Database"
+title: "Space Helmet - Stardeus Wiki and Game Guide"
 h1: "Space Helmet"
 description: "An airtight helmet to go with a space suit."
 image: /img/codex/sprites/database/obj/equipment/hats/space-helmet01.png
@@ -18,16 +18,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/space-suit/">Space Suit</a>
-<ul>
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; Space Helmet</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/hats/space-helmet01.png" alt="Space Helmet preview" loading="lazy"></figure>

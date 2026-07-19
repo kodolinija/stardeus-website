@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nanobots - Item Database"
+title: "Nanobots - Stardeus Wiki and Game Guide"
 h1: "Nanobots"
 description: "Microscopic robots designed to perform precise tasks at the molecular or cellular level."
 image: /img/codex/sprites/database/obj/materials/nanobots.png
@@ -14,20 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/nanobots/">Nanobots</a>
-<ul>
-<li><a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a> &rarr; <a href="/codex/research/research/robotics/nanobots/">Nanobots</a> &rarr; Nanobots</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/nanobots.png" alt="Nanobots preview" loading="lazy"></figure>

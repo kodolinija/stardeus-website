@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "OxyMatic Floor - Item Database"
+title: "OxyMatic Floor - Stardeus Wiki and Game Guide"
 h1: "OxyMatic Floor"
 description: "A sleek floor-based Oxygen Pump alternative with faster oxygen production rate."
 image: /img/codex/sprites/database/structure/floors/oxy-matic-floor.png
@@ -16,20 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Must be indoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/oxygen-advanced/">Advanced Oxygen Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/oxygen-improved/">Improved Oxygen Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/oxygen-improved/">Improved Oxygen Production</a> &rarr; <a href="/codex/research/research/life-support/oxygen-advanced/">Advanced Oxygen Production</a> &rarr; OxyMatic Floor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/floors/oxy-matic-floor.png" alt="OxyMatic Floor preview" loading="lazy"></figure>

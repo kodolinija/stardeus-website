@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Improved Furniture - Research Tree"
+title: "Improved Furniture - Research"
 h1: "Improved Furniture"
 description: "Improved Furniture is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/habitation/furniture-improved.png
@@ -24,16 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/storage/">Storage</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/storage/">Storage</a> &rarr; Improved Furniture</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/habitation/furniture-improved.png" alt="Improved Furniture preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Radar - Research Tree"
+title: "Radar - Research"
 h1: "Radar"
 description: "Radar is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/scanning/radar.png
@@ -22,12 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/communications/">Communications</a>
-<ul>
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; <a href="/codex/research/research/scanning/communications/">Communications</a> &rarr; Radar</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/scanning/radar.png" alt="Radar preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Docking - Research Tree"
+title: "Docking - Research"
 h1: "Docking"
 description: "Docking is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/robotics/docking.png
@@ -21,12 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; Docking</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/docking.png" alt="Docking preview" loading="lazy"></figure>

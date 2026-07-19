@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Coffee Machine - Item Database"
+title: "Coffee Machine - Stardeus Wiki and Game Guide"
 h1: "Coffee Machine"
 description: "Load some beans, and it will brew you a hot cup of coffee."
 image: /img/codex/sprites/database/objects/devices/coffee-maker.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>80%</b></span>, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/coffee/">Coffee</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/coffee/">Coffee</a> &rarr; Coffee Machine</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/coffee-maker.png" alt="Coffee Machine preview" loading="lazy"></figure>

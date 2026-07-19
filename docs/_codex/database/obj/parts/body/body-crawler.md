@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Crawler Torso - Item Database"
+title: "Crawler Torso - Stardeus Wiki and Game Guide"
 h1: "Crawler Torso"
 description: "An organic body of a crawler."
 image: /img/codex/sprites/database/obj/parts/body/body-crawler.png

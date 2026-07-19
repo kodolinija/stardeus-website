@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Alien Datoid - Item Database"
+title: "Alien Datoid - Stardeus Wiki and Game Guide"
 h1: "Alien Datoid"
 description: "Rare data of alien origin."
 image: /img/codex/sprites/database/obj/datoids/datoid-alien.png
@@ -14,20 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/xenodetection/">Xenodetection</a>
-<ul>
-<li><a href="/codex/research/research/scanning/radar/">Radar</a>
-<ul>
-<li><a href="/codex/research/research/scanning/communications/">Communications</a>
-<ul>
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; <a href="/codex/research/research/scanning/communications/">Communications</a> &rarr; <a href="/codex/research/research/scanning/radar/">Radar</a> &rarr; <a href="/codex/research/research/scanning/xenodetection/">Xenodetection</a> &rarr; Alien Datoid</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/datoids/datoid-alien.png" alt="Alien Datoid preview" loading="lazy"></figure>

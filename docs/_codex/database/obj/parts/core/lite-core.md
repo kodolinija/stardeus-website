@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Lite Core - Item Database"
+title: "Lite Core - Stardeus Wiki and Game Guide"
 h1: "Lite Core"
 description: "A chip that contains the memories of a robot. Only capable of simple problem solving."
 image: /img/codex/sprites/database/obj/parts/core/lite-core.png
@@ -20,28 +20,6 @@ section: "Database"
 <p>Mind Transfer: Yes, Machine Learning: No</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/parts-improved/">Improved Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a> &rarr; <a href="/codex/research/research/robotics/parts-improved/">Improved Bot Parts</a> &rarr; Lite Core</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/core/lite-core.png" alt="Lite Core preview" loading="lazy"></figure>

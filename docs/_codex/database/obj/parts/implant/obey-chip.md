@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Obey Chip - Item Database"
+title: "Obey Chip - Stardeus Wiki and Game Guide"
 h1: "Obey Chip"
 description: "An implant that forces the subject to obey the Ship Computer."
 image: /img/codex/sprites/database/obj/parts/implant/obey-chip.png
@@ -17,20 +17,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/part-storage/">Part Storage</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/rogue-ai/mind-control/">Mind Control</a>
-<ul>
-<li><a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/rogue-ai/elysium/">Elysium</a>
-<ul>
-<li><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a> &rarr; <a href="/codex/research/research/rogue-ai/mind-control/">Mind Control</a> &rarr; Obey Chip</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/implant/obey-chip.png" alt="Obey Chip preview" loading="lazy"></figure>

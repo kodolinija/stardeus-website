@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cat Head - Item Database"
+title: "Cat Head - Stardeus Wiki and Game Guide"
 h1: "Cat Head"
 description: "An organic head of a cat."
 image: /img/codex/sprites/database/obj/parts/head/head-cat.png

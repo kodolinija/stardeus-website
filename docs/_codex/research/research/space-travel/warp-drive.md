@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Warp Drive - Research Tree"
+title: "Warp Drive - Research"
 h1: "Warp Drive"
 description: "Warp Drive is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/space-travel/warp-drive.png
@@ -23,28 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/black-holes/">Black Holes</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a> &rarr; <a href="/codex/research/research/space-travel/black-holes/">Black Holes</a> &rarr; Warp Drive</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/space-travel/warp-drive.png" alt="Warp Drive preview" loading="lazy"></figure>

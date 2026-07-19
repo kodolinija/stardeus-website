@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Basic Synthetic Organs - Research Tree"
+title: "Basic Synthetic Organs - Research"
 h1: "Basic Synthetic Organs"
 description: "Basic Synthetic Organs is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/growing-parts-basic.png
@@ -48,20 +48,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a>
-<ul>
-<li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; <a href="/codex/research/research/life-support/medical-care/">Medical Care</a> &rarr; <a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a> &rarr; Basic Synthetic Organs</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/growing-parts-basic.png" alt="Basic Synthetic Organs preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Exit Booth - Item Database"
+title: "Exit Booth - Stardeus Wiki and Game Guide"
 h1: "Exit Booth"
 description: "The last device a colonist would want to use. Earns you $25 on each visit."
 image: /img/codex/sprites/database/objects/devices/suicide-booth.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; Exit Booth</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/suicide-booth.png" alt="Exit Booth preview" loading="lazy"></figure>

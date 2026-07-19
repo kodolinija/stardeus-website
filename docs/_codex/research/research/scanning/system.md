@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "System Scanning - Research Tree"
+title: "System Scanning - Research"
 h1: "System Scanning"
 description: "Adds more options to the Starmap Scan tool"
 image: /img/codex/sprites/research/research/scanning/system.png
@@ -24,16 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/radar/">Radar</a>
-<ul>
-<li><a href="/codex/research/research/scanning/communications/">Communications</a>
-<ul>
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; <a href="/codex/research/research/scanning/communications/">Communications</a> &rarr; <a href="/codex/research/research/scanning/radar/">Radar</a> &rarr; System Scanning</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/scanning/system.png" alt="System Scanning preview" loading="lazy"></figure>

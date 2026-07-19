@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Optical Fiber - Item Database"
+title: "Optical Fiber - Stardeus Wiki and Game Guide"
 h1: "Optical Fiber"
 description: "Fast data conduit used in robotics and advanced electronics."
 image: /img/codex/sprites/database/obj/materials/optical-fiber.png
@@ -16,16 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/electronics/">Electronics</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a> &rarr; Optical Fiber</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/optical-fiber.png" alt="Optical Fiber preview" loading="lazy"></figure>

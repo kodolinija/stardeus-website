@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Artillery Fungus - Item Database"
+title: "Artillery Fungus - Stardeus Wiki and Game Guide"
 h1: "Artillery Fungus"
 description: "Fungus that spreads by firing sticky spores. Contain immediately."
 image: /img/codex/sprites/database/obj/plants/artillery-fungus.png

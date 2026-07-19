@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Decorations - Research Tree"
+title: "Decorations - Research"
 h1: "Decorations"
 description: "Decorations is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/habitation/decorations.png
@@ -25,12 +25,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; Decorations</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/habitation/decorations.png" alt="Decorations preview" loading="lazy"></figure>

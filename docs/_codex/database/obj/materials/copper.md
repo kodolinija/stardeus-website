@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Copper - Item Database"
+title: "Copper - Stardeus Wiki and Game Guide"
 h1: "Copper"
 description: "A soft metal, slightly heavier than iron. Used to produce wiring and electronics."
 image: /img/codex/sprites/database/obj/materials/copper.png

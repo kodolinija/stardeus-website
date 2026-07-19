@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Weapon Capacity Upgrade - Item Database"
+title: "Weapon Capacity Upgrade - Stardeus Wiki and Game Guide"
 h1: "Weapon Capacity Upgrade"
 description: "Increases the weapon capacity of a Battle Station."
 image: /img/codex/sprites/database/obj/upgrades/weapon-capacity-upgrade.png
@@ -14,20 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/weapon-capacity-upgrade/">Weapon Capacity Upgrade</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapon-capacity-upgrade/">Weapon Capacity Upgrade</a> &rarr; Weapon Capacity Upgrade</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/weapon-capacity-upgrade.png" alt="Weapon Capacity Upgrade preview" loading="lazy"></figure>

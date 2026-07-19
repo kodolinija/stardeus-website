@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Loom - Item Database"
+title: "Loom - Stardeus Wiki and Game Guide"
 h1: "Loom"
 description: "A device that can weave various materials and produce clothing."
 image: /img/codex/sprites/database/objects/devices/loom.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; Loom</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/loom.png" alt="Loom preview" loading="lazy"></figure>

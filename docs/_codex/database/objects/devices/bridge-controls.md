@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Bridge Controls - Item Database"
+title: "Bridge Controls - Stardeus Wiki and Game Guide"
 h1: "Bridge Controls"
 description: "Controls the ship's movement and navigation. Required for all forms of space travel."
 image: /img/codex/sprites/database/objects/devices/bridge-controls.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x2</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; Bridge Controls</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/bridge-controls.png" alt="Bridge Controls preview" loading="lazy"></figure>

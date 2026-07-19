@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nuclear Energy Storage - Research Tree"
+title: "Nuclear Energy Storage - Research"
 h1: "Nuclear Energy Storage"
 description: "Nuclear Energy Storage is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/storage-nuclear.png
@@ -21,24 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a>
-<ul>
-<li><a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a>
-<ul>
-<li><a href="/codex/research/research/energy/solar/">Solar Panels</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a> &rarr; Nuclear Energy Storage</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/storage-nuclear.png" alt="Nuclear Energy Storage preview" loading="lazy"></figure>

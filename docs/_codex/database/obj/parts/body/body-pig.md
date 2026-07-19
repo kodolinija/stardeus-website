@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Pig Torso - Item Database"
+title: "Pig Torso - Stardeus Wiki and Game Guide"
 h1: "Pig Torso"
 description: "An organic pig body."
 image: /img/codex/sprites/database/obj/parts/body/body-pig.png

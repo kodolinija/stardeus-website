@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Bio Enriched Water - Item Database"
+title: "Bio Enriched Water - Stardeus Wiki and Game Guide"
 h1: "Bio Enriched Water"
 description: "A material used in terraforming oceans."
 image: /img/codex/sprites/database/obj/materials/bio-enriched-water.png
@@ -14,28 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/ocean-generation/">Ocean Generation</a>
-<ul>
-<li><a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a>
-<ul>
-<li><a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a>
-<ul>
-<li><a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a>
-<ul>
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a> &rarr; <a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a> &rarr; <a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a> &rarr; <a href="/codex/research/research/life-support/ocean-generation/">Ocean Generation</a> &rarr; Bio Enriched Water</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/bio-enriched-water.png" alt="Bio Enriched Water preview" loading="lazy"></figure>

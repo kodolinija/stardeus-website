@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Construction Robot Frame - Item Database"
+title: "Construction Robot Frame - Stardeus Wiki and Game Guide"
 h1: "Construction Robot Frame"
 description: "A body of a Construction Robot."
 image: /img/codex/sprites/database/obj/parts/body/body-robot.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Reactor Efficiency - Research Tree"
+title: "Reactor Efficiency - Research"
 h1: "Reactor Efficiency"
 description: "Reactor Efficiency is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/reactor-efficiency.png
@@ -21,12 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; Reactor Efficiency</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/reactor-efficiency.png" alt="Reactor Efficiency preview" loading="lazy"></figure>

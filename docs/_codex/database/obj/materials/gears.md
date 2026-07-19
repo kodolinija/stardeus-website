@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Gears - Item Database"
+title: "Gears - Stardeus Wiki and Game Guide"
 h1: "Gears"
 description: "Various gears for making moving parts."
 image: /img/codex/sprites/database/obj/materials/gears.png
@@ -16,12 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; Gears</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/gears.png" alt="Gears preview" loading="lazy"></figure>

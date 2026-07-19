@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Rock - Item Database"
+title: "Rock - Stardeus Wiki and Game Guide"
 h1: "Rock"
 description: "Common mineral material that can be ground into soil or refined for trace ores and metals."
 image: /img/codex/sprites/database/obj/materials/rock.png

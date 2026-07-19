@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Disk Module (24ZB) - Item Database"
+title: "Disk Module (24ZB) - Stardeus Wiki and Game Guide"
 h1: "Disk Module (24ZB)"
 description: "Stores up to 24 zettabytes of research data."
 image: /img/codex/sprites/database/objects/devices/disk-module.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/disk-improved/">Improved Disk</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/disk-improved/">Improved Disk</a> &rarr; Disk Module (24ZB)</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/disk-module.png" alt="Disk Module (24ZB) preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Jester's Hat - Item Database"
+title: "Jester's Hat - Stardeus Wiki and Game Guide"
 h1: "Jester's Hat"
 description: "Perfect for jesters, clowns, or bold fashion choices."
 image: /img/codex/sprites/database/obj/equipment/hats/jester-hat.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Maintenance - Research Tree"
+title: "Maintenance - Research"
 h1: "Maintenance"
 description: "Maintenance is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/robotics/maintenance.png
@@ -20,8 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; Maintenance</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/maintenance.png" alt="Maintenance preview" loading="lazy"></figure>

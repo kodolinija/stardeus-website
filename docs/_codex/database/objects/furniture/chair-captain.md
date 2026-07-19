@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Captain's Chair - Item Database"
+title: "Captain's Chair - Stardeus Wiki and Game Guide"
 h1: "Captain's Chair"
 description: "A high-tech chair that goes well with the Bridge Controls."
 image: /img/codex/sprites/database/objects/furniture/chair-captain.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; Captain's Chair</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/furniture/chair-captain.png" alt="Captain's Chair preview" loading="lazy"></figure>

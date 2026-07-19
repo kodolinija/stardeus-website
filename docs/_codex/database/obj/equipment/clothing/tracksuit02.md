@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Track Suit - Item Database"
+title: "Track Suit - Stardeus Wiki and Game Guide"
 h1: "Track Suit"
 description: "A comfortable casual outfit."
 image: /img/codex/sprites/database/obj/equipment/clothing/tracksuit02.png
@@ -16,12 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; Track Suit</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/clothing/tracksuit02.png" alt="Track Suit preview" loading="lazy"></figure>

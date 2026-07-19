@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Tombstone - Item Database"
+title: "Tombstone - Stardeus Wiki and Game Guide"
 h1: "Tombstone"
 description: "A decorative tombstone."
 image: /img/codex/sprites/database/objects/cosmetics/tomb-stone01.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/halloween-decorations/">Halloween Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; <a href="/codex/research/research/habitation/halloween-decorations/">Halloween Decorations</a> &rarr; Tombstone</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/cosmetics/tomb-stone01.png" alt="Tombstone preview" loading="lazy"></figure>

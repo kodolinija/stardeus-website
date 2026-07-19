@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Crafting Station - Item Database"
+title: "Crafting Station - Stardeus Wiki and Game Guide"
 h1: "Crafting Station"
 description: "Crafts items from raw materials. Requires an operator."
 image: /img/codex/sprites/database/objects/devices/crafting-station.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; Crafting Station</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/crafting-station.png" alt="Crafting Station preview" loading="lazy"></figure>

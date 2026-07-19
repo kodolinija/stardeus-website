@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Dog Torso - Item Database"
+title: "Dog Torso - Stardeus Wiki and Game Guide"
 h1: "Dog Torso"
 description: "An organic dog body."
 image: /img/codex/sprites/database/obj/parts/body/body-dog.png

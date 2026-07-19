@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Reactor Efficiency Upgrade - Item Database"
+title: "Reactor Efficiency Upgrade - Stardeus Wiki and Game Guide"
 h1: "Reactor Efficiency Upgrade"
 description: "Reduces material consumption in compatible reactors."
 image: /img/codex/sprites/database/obj/upgrades/reactor-efficiency-upgrade.png
@@ -14,16 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a> &rarr; Reactor Efficiency Upgrade</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/reactor-efficiency-upgrade.png" alt="Reactor Efficiency Upgrade preview" loading="lazy"></figure>

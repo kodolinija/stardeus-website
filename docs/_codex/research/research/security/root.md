@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Security - Research Tree"
+title: "Security - Research"
 h1: "Security"
 description: "Security is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/security/root.png

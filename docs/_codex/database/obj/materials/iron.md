@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Iron - Item Database"
+title: "Iron - Stardeus Wiki and Game Guide"
 h1: "Iron"
 description: "Iron ore is mostly used for producing Steel Plates."
 image: /img/codex/sprites/database/obj/materials/iron.png

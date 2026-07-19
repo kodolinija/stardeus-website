@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Material Processing - Research Tree"
+title: "Material Processing - Research"
 h1: "Material Processing"
 description: "Material Processing is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/material-processing.png
@@ -23,16 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; Material Processing</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/material-processing.png" alt="Material Processing preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Human Torso - Item Database"
+title: "Human Torso - Stardeus Wiki and Game Guide"
 h1: "Human Torso"
 description: "An organic human body."
 image: /img/codex/sprites/database/obj/parts/body/body-human.png

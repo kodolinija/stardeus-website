@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Floor Vent - Item Database"
+title: "Floor Vent - Stardeus Wiki and Game Guide"
 h1: "Floor Vent"
 description: "A shutter that can expose the room to open space. Great for fighting fire."
 image: /img/codex/sprites/database/structure/floors/floor-vent01.png
@@ -16,20 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/construction/habitation/">Habitation</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a> &rarr; Floor Vent</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/floors/floor-vent01.png" alt="Floor Vent preview" loading="lazy"></figure>

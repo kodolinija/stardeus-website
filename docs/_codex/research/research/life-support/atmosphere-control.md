@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Atmosphere Control - Research Tree"
+title: "Atmosphere Control - Research"
 h1: "Atmosphere Control"
 description: "Atmosphere Control is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/atmosphere-control.png
@@ -21,8 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; Atmosphere Control</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/atmosphere-control.png" alt="Atmosphere Control preview" loading="lazy"></figure>

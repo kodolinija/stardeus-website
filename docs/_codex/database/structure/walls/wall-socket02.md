@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Interior Wall Socket 32-8 - Item Database"
+title: "Interior Wall Socket 32-8 - Stardeus Wiki and Game Guide"
 h1: "Interior Wall Socket 32-8"
 description: "Interior Wall Socket 32-8 is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/structure/walls/wall-socket02.png
@@ -15,20 +15,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/connector-wall/">Wall Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/connector-improved/">Improved Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; <a href="/codex/research/research/energy/connector-wall/">Wall Connector</a> &rarr; Interior Wall Socket 32-8</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/walls/wall-socket02.png" alt="Interior Wall Socket 32-8 preview" loading="lazy"></figure>

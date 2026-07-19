@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Weaving - Research Tree"
+title: "Weaving - Research"
 h1: "Weaving"
 description: "Weaving is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/weaving.png
@@ -28,8 +28,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; Weaving</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/weaving.png" alt="Weaving preview" loading="lazy"></figure>

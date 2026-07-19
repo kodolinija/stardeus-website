@@ -1,10 +1,12 @@
 <div class="docs-nav-mobile unit whole show-on-mobiles">
   <select onchange="if (this.value) window.location.href=this.value">
     <option value="">Navigate the codex…</option>
-    {% for section in site.data.codex_nav -%}
-    <optgroup label="{{ section.title }}">
-    {%- for item in section.items -%}
+    {% for tab in site.data.codex_nav -%}
+    <optgroup label="{{ tab.tab }}">
+    {%- for group in tab.groups -%}
+      {%- for item in group.items -%}
       <option value="{{ item.link | relative_url }}">{{ item.title }}</option>
+      {%- endfor -%}
     {%- endfor %}
     </optgroup>
     {% endfor -%}

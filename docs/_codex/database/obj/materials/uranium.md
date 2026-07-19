@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Uranium - Item Database"
+title: "Uranium - Stardeus Wiki and Game Guide"
 h1: "Uranium"
 description: "Raw radioactive material used to produce nuclear fuel."
 image: /img/codex/sprites/database/obj/materials/uranium.png

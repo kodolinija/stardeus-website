@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Large Lung - Item Database"
+title: "Large Lung - Stardeus Wiki and Game Guide"
 h1: "Large Lung"
 description: "A large-sized organic lung."
 image: /img/codex/sprites/database/obj/parts/lung/lung-large.png
@@ -18,32 +18,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/organ-storage/">Organ Storage</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/growing-parts-advanced/">Advanced Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a>
-<ul>
-<li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; <a href="/codex/research/research/life-support/medical-care/">Medical Care</a> &rarr; <a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-advanced/">Advanced Synthetic Organs</a> &rarr; Large Lung</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/lung/lung-large.png" alt="Large Lung preview" loading="lazy"></figure>

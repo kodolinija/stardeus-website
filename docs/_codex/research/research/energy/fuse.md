@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Fuse - Research Tree"
+title: "Fuse - Research"
 h1: "Fuse"
 description: "A consumable fuse that prevents side effects from device malfunctions."
 image: /img/codex/sprites/research/research/energy/fuse.png
@@ -22,16 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a> &rarr; Fuse</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/fuse.png" alt="Fuse preview" loading="lazy"></figure>

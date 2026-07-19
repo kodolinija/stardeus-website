@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Shredder Cannon - Item Database"
+title: "Shredder Cannon - Stardeus Wiki and Game Guide"
 h1: "Shredder Cannon"
 description: "A ballistic weapon that fires high-velocity projectiles in rapid succession."
 image: /img/codex/sprites/database/objects/devices/shredder-cannon.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Must be outdoors, Class Points: <span class="accent"><b>2</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; Shredder Cannon</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/shredder-cannon.png" alt="Shredder Cannon preview" loading="lazy"></figure>

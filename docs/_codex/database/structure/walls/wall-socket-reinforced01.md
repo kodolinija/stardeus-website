@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Reinforced Wall Socket 32-8 - Item Database"
+title: "Reinforced Wall Socket 32-8 - Stardeus Wiki and Game Guide"
 h1: "Reinforced Wall Socket 32-8"
 description: "Reinforced version of the Wall Socket."
 image: /img/codex/sprites/database/structure/walls/wall-socket-reinforced01.png
@@ -16,24 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/structure-reinforced/">Reinforced Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/construction/habitation/">Habitation</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/construction/structure-reinforced/">Reinforced Structure</a> &rarr; Reinforced Wall Socket 32-8</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/walls/wall-socket-reinforced01.png" alt="Reinforced Wall Socket 32-8 preview" loading="lazy"></figure>

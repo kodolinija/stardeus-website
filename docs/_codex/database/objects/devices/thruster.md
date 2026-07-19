@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Thruster - Item Database"
+title: "Thruster - Stardeus Wiki and Game Guide"
 h1: "Thruster"
 description: "Enables local flight within the current sector."
 image: /img/codex/sprites/database/objects/devices/thruster.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment, Class Points: <span class="accent"><b>1</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; Thruster</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/thruster.png" alt="Thruster preview" loading="lazy"></figure>

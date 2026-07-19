@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Shuttle Storage Upgrade - Item Database"
+title: "Shuttle Storage Upgrade - Stardeus Wiki and Game Guide"
 h1: "Shuttle Storage Upgrade"
 description: "Increases shuttle storage capacity."
 image: /img/codex/sprites/database/obj/upgrades/shuttle-storage-upgrade.png
@@ -14,28 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/shuttle-storage/">Shuttle Storage Expansion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/shuttle/">Shuttle</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a> &rarr; <a href="/codex/research/research/space-travel/shuttle/">Shuttle</a> &rarr; <a href="/codex/research/research/space-travel/shuttle-storage/">Shuttle Storage Expansion</a> &rarr; Shuttle Storage Upgrade</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/shuttle-storage-upgrade.png" alt="Shuttle Storage Upgrade preview" loading="lazy"></figure>

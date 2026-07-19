@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Improved Oxygen Production - Research Tree"
+title: "Improved Oxygen Production - Research"
 h1: "Improved Oxygen Production"
 description: "Improved Oxygen Production is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/oxygen-improved.png
@@ -20,12 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; Improved Oxygen Production</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/oxygen-improved.png" alt="Improved Oxygen Production preview" loading="lazy"></figure>

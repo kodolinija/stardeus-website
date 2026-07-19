@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Shields - Research Tree"
+title: "Shields - Research"
 h1: "Shields"
 description: "Shields is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/ship-combat/shields.png
@@ -20,8 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; Shields</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/ship-combat/shields.png" alt="Shields preview" loading="lazy"></figure>

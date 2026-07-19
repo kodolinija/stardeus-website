@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Local Warp Drive - Item Database"
+title: "Local Warp Drive - Stardeus Wiki and Game Guide"
 h1: "Local Warp Drive"
 description: "Enables direct short-range jumps within the current region."
 image: /img/codex/sprites/database/objects/devices/warp-drive-mini.png
@@ -14,32 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment, Must be outdoors, Produces Heat, Class Points: <span class="accent"><b>1</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/warp-drive/">Warp Drive</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/black-holes/">Black Holes</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a> &rarr; <a href="/codex/research/research/space-travel/black-holes/">Black Holes</a> &rarr; <a href="/codex/research/research/space-travel/warp-drive/">Warp Drive</a> &rarr; Local Warp Drive</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/warp-drive-mini.png" alt="Local Warp Drive preview" loading="lazy"></figure>

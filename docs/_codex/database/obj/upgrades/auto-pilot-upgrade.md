@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Auto Pilot Upgrade - Item Database"
+title: "Auto Pilot Upgrade - Stardeus Wiki and Game Guide"
 h1: "Auto Pilot Upgrade"
 description: "Allows navigation and shuttle systems to operate without direct piloting."
 image: /img/codex/sprites/database/obj/upgrades/auto-pilot-upgrade.png
@@ -14,36 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/auto-pilot/">Auto Pilot</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/mining-automation/">Mining Automation</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/shuttle-mining/">Shuttle Mining Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/shuttle/">Shuttle</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a> &rarr; <a href="/codex/research/research/space-travel/shuttle/">Shuttle</a> &rarr; <a href="/codex/research/research/space-travel/shuttle-mining/">Shuttle Mining Efficiency</a> &rarr; <a href="/codex/research/research/space-travel/mining-automation/">Mining Automation</a> &rarr; <a href="/codex/research/research/space-travel/auto-pilot/">Auto Pilot</a> &rarr; Auto Pilot Upgrade</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/auto-pilot-upgrade.png" alt="Auto Pilot Upgrade preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Ocean Generator - Item Database"
+title: "Ocean Generator - Stardeus Wiki and Game Guide"
 h1: "Ocean Generator"
 description: "A terraforming device that generates oceans. Run it while your ship is near a terraformable planet."
 image: /img/codex/sprites/database/objects/devices/terraformer-aqua.png
@@ -14,28 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>4x4</b></span></span>, Cover: <span class="accent"><b>25%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/ocean-generation/">Ocean Generation</a>
-<ul>
-<li><a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a>
-<ul>
-<li><a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a>
-<ul>
-<li><a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a>
-<ul>
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a> &rarr; <a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a> &rarr; <a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a> &rarr; <a href="/codex/research/research/life-support/ocean-generation/">Ocean Generation</a> &rarr; Ocean Generator</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/terraformer-aqua.png" alt="Ocean Generator preview" loading="lazy"></figure>

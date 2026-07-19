@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Plant Fiber - Item Database"
+title: "Plant Fiber - Stardeus Wiki and Game Guide"
 h1: "Plant Fiber"
 description: "Organic material extracted from plants."
 image: /img/codex/sprites/database/obj/materials/plant-fiber.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Baseball Cap - Item Database"
+title: "Baseball Cap - Stardeus Wiki and Game Guide"
 h1: "Baseball Cap"
 description: "A simple baseball cap"
 image: /img/codex/sprites/database/obj/equipment/hats/baseball-cap01.png
@@ -16,12 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; Baseball Cap</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/hats/baseball-cap01.png" alt="Baseball Cap preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Aerolith - Item Database"
+title: "Aerolith - Stardeus Wiki and Game Guide"
 h1: "Aerolith"
 description: "A rare mineral that generates breathable atmosphere by catalyzing gas reactions."
 image: /img/codex/sprites/database/obj/materials/aerolith.png

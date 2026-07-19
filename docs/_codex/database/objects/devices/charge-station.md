@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Charge Station - Item Database"
+title: "Charge Station - Stardeus Wiki and Game Guide"
 h1: "Charge Station"
 description: "Allows robots and drones to recharge their batteries."
 image: /img/codex/sprites/database/objects/devices/charge-station.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; Charge Station</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/charge-station.png" alt="Charge Station preview" loading="lazy"></figure>

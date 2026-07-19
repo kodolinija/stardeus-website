@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "White Pawn - Item Database"
+title: "White Pawn - Stardeus Wiki and Game Guide"
 h1: "White Pawn"
 description: "White Pawn is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-pawn-w.png

@@ -1,9 +1,10 @@
+{% include codex_active_tab.html %}
 <div class="unit one-fifth hide-on-mobiles">
   <aside>
-    {% for section in site.data.codex_nav -%}
-      <h4>{{ section.title }}</h4>
+    {% for group in active_tab.groups -%}
+      {%- if group.title %}<h4>{{ group.title }}</h4>{% endif -%}
       <ul>
-      {%- for item in section.items -%}
+      {%- for item in group.items -%}
         <li {%- if page.url == item.link %} class="current" {%- endif -%}><a href="{{ item.link | relative_url }}">{{ item.title }}</a></li>
       {%- endfor %}
       </ul>

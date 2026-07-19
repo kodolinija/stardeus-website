@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Light Block - Item Database"
+title: "Light Block - Stardeus Wiki and Game Guide"
 h1: "Light Block"
 description: "A configurable RGB-enabled light source. Looks great and shines bright."
 image: /img/codex/sprites/database/objects/devices/light-block.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>15%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; Light Block</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/light-block.png" alt="Light Block preview" loading="lazy"></figure>

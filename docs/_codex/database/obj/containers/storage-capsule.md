@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Storage Capsule - Item Database"
+title: "Storage Capsule - Stardeus Wiki and Game Guide"
 h1: "Storage Capsule"
 description: "Reinforced capsule for transporting cargo across long distances."
 image: /img/codex/sprites/database/obj/containers/storage-capsule.png

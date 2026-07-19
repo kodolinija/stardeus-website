@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mechuary - Item Database"
+title: "Mechuary - Stardeus Wiki and Game Guide"
 h1: "Mechuary"
 description: "A storage for unused or damaged robots."
 image: /img/codex/sprites/database/objects/devices/mechuary.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; Mechuary</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/mechuary.png" alt="Mechuary preview" loading="lazy"></figure>

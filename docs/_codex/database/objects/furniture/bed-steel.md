@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Steel Bed - Item Database"
+title: "Steel Bed - Stardeus Wiki and Game Guide"
 h1: "Steel Bed"
 description: "A place for colonists to sleep."
 image: /img/codex/sprites/database/objects/furniture/bed-steel.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x2</b></span></span>, Cover: <span class="accent"><b>33%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; Steel Bed</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/furniture/bed-steel.png" alt="Steel Bed preview" loading="lazy"></figure>

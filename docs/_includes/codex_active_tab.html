@@ -1,0 +1,18 @@
+{%- comment -%}
+  Resolves the tab that owns the current page: an exact match on the tab's own
+  landing link (its index page), or the tab containing a group item that links
+  to this page. Falls back to the first tab. Sets `active_tab`.
+{%- endcomment -%}
+{%- assign active_tab = site.data.codex_nav.first -%}
+{%- for tab in site.data.codex_nav -%}
+  {%- if page.url == tab.link -%}
+    {%- assign active_tab = tab -%}
+  {%- endif -%}
+  {%- for group in tab.groups -%}
+    {%- for item in group.items -%}
+      {%- if page.url == item.link -%}
+        {%- assign active_tab = tab -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}

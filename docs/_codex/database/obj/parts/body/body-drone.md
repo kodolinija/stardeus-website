@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Construction Drone Frame - Item Database"
+title: "Construction Drone Frame - Stardeus Wiki and Game Guide"
 h1: "Construction Drone Frame"
 description: "A body of a Construction Drone."
 image: /img/codex/sprites/database/obj/parts/body/body-drone.png

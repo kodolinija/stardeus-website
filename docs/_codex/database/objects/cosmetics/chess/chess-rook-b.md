@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Black Rook - Item Database"
+title: "Black Rook - Stardeus Wiki and Game Guide"
 h1: "Black Rook"
 description: "Black Rook is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-rook-b.png

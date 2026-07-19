@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Ship Computer - Research Tree"
+title: "Ship Computer - Research"
 h1: "Ship Computer"
 description: "Allows having up to 2 Ship Computers"
 image: /img/codex/sprites/research/research/computing/ship-computer.png
@@ -25,33 +25,7 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/gpu/">GPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu/">CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/computing/disk-improved/">Improved Disk</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/cpu/">CPU</a> &rarr; <a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a> &rarr; <a href="/codex/research/research/computing/gpu/">GPU</a> &rarr; Ship Computer</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/disk-improved/">Improved Disk</a> &rarr; <a href="/codex/research/research/computing/gpu/">GPU</a> &rarr; Ship Computer</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/computing/ship-computer.png" alt="Ship Computer preview" loading="lazy"></figure>

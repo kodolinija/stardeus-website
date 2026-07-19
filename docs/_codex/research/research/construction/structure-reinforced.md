@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Reinforced Structure - Research Tree"
+title: "Reinforced Structure - Research"
 h1: "Reinforced Structure"
 description: "Reinforced Structure is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/construction/structure-reinforced.png
@@ -38,20 +38,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/construction/habitation/">Habitation</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a> &rarr; Reinforced Structure</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/construction/structure-reinforced.png" alt="Reinforced Structure preview" loading="lazy"></figure>

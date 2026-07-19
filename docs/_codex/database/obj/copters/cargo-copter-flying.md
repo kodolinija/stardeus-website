@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cargo Copter - Item Database"
+title: "Cargo Copter - Stardeus Wiki and Game Guide"
 h1: "Cargo Copter"
 description: "Automated cargo drone for deploying equipment and transporting raw materials."
 image: /img/codex/sprites/database/obj/copters/cargo-copter-flying.png

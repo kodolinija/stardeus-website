@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Rubber - Item Database"
+title: "Rubber - Stardeus Wiki and Game Guide"
 h1: "Rubber"
 description: "An elastic material widely used in various machinery and equipment."
 image: /img/codex/sprites/database/obj/materials/rubber.png
@@ -18,16 +18,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a> &rarr; Rubber</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/rubber.png" alt="Rubber preview" loading="lazy"></figure>

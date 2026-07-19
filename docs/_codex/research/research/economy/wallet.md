@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Wallet - Research Tree"
+title: "Wallet - Research"
 h1: "Wallet"
 description: "Wallet is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/economy/wallet.png
@@ -19,8 +19,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/economy/root/">Economy</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; Wallet</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/wallet.png" alt="Wallet preview" loading="lazy"></figure>

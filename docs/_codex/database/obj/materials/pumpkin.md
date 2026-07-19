@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Pumpkin - Item Database"
+title: "Pumpkin - Stardeus Wiki and Game Guide"
 h1: "Pumpkin"
 description: "A large, round, orange fruit with a thick rind and edible flesh."
 image: /img/codex/sprites/database/obj/materials/pumpkin.png

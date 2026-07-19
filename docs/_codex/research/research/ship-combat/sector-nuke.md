@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Sector Nuke - Research Tree"
+title: "Sector Nuke - Research"
 h1: "Sector Nuke"
 description: "A single-use nuclear weapon that obliterates the entire sector."
 image: /img/codex/sprites/research/research/ship-combat/sector-nuke.png
@@ -23,16 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; Sector Nuke</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/ship-combat/sector-nuke.png" alt="Sector Nuke preview" loading="lazy"></figure>

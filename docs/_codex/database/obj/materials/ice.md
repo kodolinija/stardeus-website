@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Ice - Item Database"
+title: "Ice - Stardeus Wiki and Game Guide"
 h1: "Ice"
 description: "Frozen water."
 image: /img/codex/sprites/database/obj/materials/ice.png

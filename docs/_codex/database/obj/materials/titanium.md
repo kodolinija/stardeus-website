@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Titanium - Item Database"
+title: "Titanium - Stardeus Wiki and Game Guide"
 h1: "Titanium"
 description: "A lightweight, sturdy metal ore."
 image: /img/codex/sprites/database/obj/materials/titanium.png

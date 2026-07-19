@@ -14,4 +14,7 @@ section: "Species"
 <h3 class="codex-subtitle">Properties</h3>
 <p>Robotic</p>
 
+<h2>Research Prerequisites</h2>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a> &rarr; <a href="/codex/research/research/robotics/parts-improved/">Improved Bot Parts</a> &rarr; <a href="/codex/research/research/robotics/robot/">Construction Robot</a> &rarr; Construction Robot</div>
+
 <figure class="codex-image"><img src="/img/codex/sprites/species/robot.png" alt="Construction Robot preview" loading="lazy"></figure>

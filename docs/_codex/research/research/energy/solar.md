@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Solar Panels - Research Tree"
+title: "Solar Panels - Research"
 h1: "Solar Panels"
 description: "Solar Panels is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/solar.png
@@ -21,12 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; Solar Panels</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/solar.png" alt="Solar Panels preview" loading="lazy"></figure>

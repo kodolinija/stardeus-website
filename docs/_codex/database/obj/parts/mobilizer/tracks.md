@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Tracks - Item Database"
+title: "Tracks - Stardeus Wiki and Game Guide"
 h1: "Tracks"
 description: "Tracks that can make robots drive around."
 image: /img/codex/sprites/database/obj/parts/mobilizer/tracks.png
@@ -20,28 +20,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/part-storage/">Part Storage</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/parts-improved/">Improved Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a>
-<ul>
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a> &rarr; <a href="/codex/research/research/robotics/parts-improved/">Improved Bot Parts</a> &rarr; Tracks</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/mobilizer/tracks.png" alt="Tracks preview" loading="lazy"></figure>

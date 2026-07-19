@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mini Heater - Item Database"
+title: "Mini Heater - Stardeus Wiki and Game Guide"
 h1: "Mini Heater"
 description: "A compact personal heater recommended for small areas."
 image: /img/codex/sprites/database/objects/devices/heater-mini.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>25%</b></span>, Must be indoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; Mini Heater</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/heater-mini.png" alt="Mini Heater preview" loading="lazy"></figure>

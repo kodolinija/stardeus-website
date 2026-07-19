@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Edenium - Item Database"
+title: "Edenium - Stardeus Wiki and Game Guide"
 h1: "Edenium"
 description: "A rare sparkling crystal that releases concentrated nutrients, dramatically accelerating plant growth when applied to soil."
 image: /img/codex/sprites/database/obj/materials/edenium.png

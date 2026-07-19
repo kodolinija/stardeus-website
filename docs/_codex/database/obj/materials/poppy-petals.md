@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Poppy Petals - Item Database"
+title: "Poppy Petals - Stardeus Wiki and Game Guide"
 h1: "Poppy Petals"
 description: "Colorful plant material harvested from poppy flowers."
 image: /img/codex/sprites/database/obj/materials/poppy-petals.png

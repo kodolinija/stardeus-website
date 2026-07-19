@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Assembly Hub - Item Database"
+title: "Assembly Hub - Stardeus Wiki and Game Guide"
 h1: "Assembly Hub"
 description: "A facility for installing and removing robotic body parts."
 image: /img/codex/sprites/database/objects/devices/assembly-hub.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; Assembly Hub</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/assembly-hub.png" alt="Assembly Hub preview" loading="lazy"></figure>

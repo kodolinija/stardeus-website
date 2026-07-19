@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Biochemical Extraction - Research Tree"
+title: "Biochemical Extraction - Research"
 h1: "Biochemical Extraction"
 description: "Biochemical Extraction is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/biochemical-extraction.png
@@ -24,8 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; Biochemical Extraction</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/biochemical-extraction.png" alt="Biochemical Extraction preview" loading="lazy"></figure>

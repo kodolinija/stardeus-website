@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Energy Rifle - Item Database"
+title: "Energy Rifle - Stardeus Wiki and Game Guide"
 h1: "Energy Rifle"
 description: "A standard-issue, space-grade, light energy weapon."
 image: /img/codex/sprites/database/obj/equipment/weapons/energy-rifle01.png
@@ -16,29 +16,7 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/weapons-locker/">Weapons Locker</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/security/energy-weapons/">Energy Weapons</a>
-<ul>
-<li><a href="/codex/research/research/security/explosives/">Explosives</a>
-<ul>
-<li><a href="/codex/research/research/security/turrets/">Turrets</a>
-<ul>
-<li><a href="/codex/research/research/security/firearms/">Firearms</a>
-<ul>
-<li><a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/security/root/">Security</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/security/firearms/">Firearms</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a> &rarr; <a href="/codex/research/research/security/explosives/">Explosives</a> &rarr; <a href="/codex/research/research/security/energy-weapons/">Energy Weapons</a> &rarr; Energy Rifle</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/energy-weapons/">Energy Weapons</a> &rarr; Energy Rifle</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/weapons/energy-rifle01.png" alt="Energy Rifle preview" loading="lazy"></figure>

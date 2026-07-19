@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Silver - Item Database"
+title: "Silver - Stardeus Wiki and Game Guide"
 h1: "Silver"
 description: "A shiny reflective metal ore."
 image: /img/codex/sprites/database/obj/materials/silver.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Auto Repair - Research Tree"
+title: "Auto Repair - Research"
 h1: "Auto Repair"
 description: "Repair tasks for devices and structures will be automatically created upon receiving damage."
 image: /img/codex/sprites/research/research/robotics/auto-repair.png
@@ -22,12 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; Auto Repair</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/auto-repair.png" alt="Auto Repair preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Crude Oil - Item Database"
+title: "Crude Oil - Stardeus Wiki and Game Guide"
 h1: "Crude Oil"
 description: "Raw unprocessed oil."
 image: /img/codex/sprites/database/obj/materials/crude-oil.png

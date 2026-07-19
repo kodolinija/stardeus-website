@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Basic Datoid - Item Database"
+title: "Basic Datoid - Stardeus Wiki and Game Guide"
 h1: "Basic Datoid"
 description: "A basic unit of structured data used for research."
 image: /img/codex/sprites/database/obj/datoids/datoid-basic.png
@@ -14,12 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; Basic Datoid</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/datoids/datoid-basic.png" alt="Basic Datoid preview" loading="lazy"></figure>

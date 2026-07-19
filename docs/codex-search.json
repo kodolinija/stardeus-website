@@ -1,0 +1,5 @@
+---
+permalink: /codex/search-index.json
+sitemap: false
+---
+[{% assign codex_search_first = true %}{% for tab in site.data.codex_nav %}{% for group in tab.groups %}{% for item in group.items %}{% unless codex_search_first %},{% endunless %}{% assign codex_search_first = false %}{"t":{{ item.title | jsonify }},"u":{{ item.link | relative_url | jsonify }},"g":{{ tab.tab | jsonify }}}{% endfor %}{% endfor %}{% endfor %}]

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Missile - Item Database"
+title: "Missile - Stardeus Wiki and Game Guide"
 h1: "Missile"
 description: "A highly explosive missile that deals massive damage and easily penetrates shields."
 image: /img/codex/sprites/database/obj/ammo/missile.png
@@ -14,16 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; Missile</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/ammo/missile.png" alt="Missile preview" loading="lazy"></figure>

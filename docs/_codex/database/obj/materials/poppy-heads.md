@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Poppy Heads - Item Database"
+title: "Poppy Heads - Stardeus Wiki and Game Guide"
 h1: "Poppy Heads"
 description: "Plant material with culinary and medical uses."
 image: /img/codex/sprites/database/obj/materials/poppy-heads.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Starcreds Miner - Item Database"
+title: "Starcreds Miner - Stardeus Wiki and Game Guide"
 h1: "Starcreds Miner"
 description: "Enables mining of Starcreds cryptocurrency on the Ship Computer."
 image: /img/codex/sprites/database/obj/upgrades/starcreds-mining-upgrade.png

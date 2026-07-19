@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Habitation - Research Tree"
+title: "Habitation - Research"
 h1: "Habitation"
 description: "Habitation is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/habitation/root.png

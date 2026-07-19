@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Life Support - Research Tree"
+title: "Life Support - Research"
 h1: "Life Support"
 description: "Life Support is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/root.png

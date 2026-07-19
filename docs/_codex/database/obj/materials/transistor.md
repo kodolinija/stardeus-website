@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Transistor - Item Database"
+title: "Transistor - Stardeus Wiki and Game Guide"
 h1: "Transistor"
 description: "A core component of electrical equipment."
 image: /img/codex/sprites/database/obj/materials/transistor.png
@@ -16,16 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/electronics/">Electronics</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a> &rarr; Transistor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/transistor.png" alt="Transistor preview" loading="lazy"></figure>

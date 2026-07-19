@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nanobots - Research Tree"
+title: "Nanobots - Research"
 h1: "Nanobots"
 description: "Microscopic robots designed to perform precise tasks at the molecular or cellular level."
 image: /img/codex/sprites/research/research/robotics/nanobots.png
@@ -25,16 +25,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a> &rarr; Nanobots</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/nanobots.png" alt="Nanobots preview" loading="lazy"></figure>

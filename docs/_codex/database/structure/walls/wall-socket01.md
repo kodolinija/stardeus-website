@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Wall Socket 32-8 - Item Database"
+title: "Wall Socket 32-8 - Stardeus Wiki and Game Guide"
 h1: "Wall Socket 32-8"
 description: "Wall with a built-in power connector. 32 slots, range 8."
 image: /img/codex/sprites/database/structure/walls/wall-socket01.png
@@ -16,20 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/connector-wall/">Wall Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/connector-improved/">Improved Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; <a href="/codex/research/research/energy/connector-wall/">Wall Connector</a> &rarr; Wall Socket 32-8</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/walls/wall-socket01.png" alt="Wall Socket 32-8 preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Breach Capsule - Item Database"
+title: "Breach Capsule - Stardeus Wiki and Game Guide"
 h1: "Breach Capsule"
 description: "That doesn't look friendly!"
 image: /img/codex/sprites/database/obj/containers/breach-capsule-flying.png

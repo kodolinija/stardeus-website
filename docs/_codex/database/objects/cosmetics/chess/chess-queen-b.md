@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Black Queen - Item Database"
+title: "Black Queen - Stardeus Wiki and Game Guide"
 h1: "Black Queen"
 description: "Black Queen is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-queen-b.png

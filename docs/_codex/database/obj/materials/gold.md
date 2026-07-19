@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Gold - Item Database"
+title: "Gold - Stardeus Wiki and Game Guide"
 h1: "Gold"
 description: "A soft yellow metal ore."
 image: /img/codex/sprites/database/obj/materials/gold.png

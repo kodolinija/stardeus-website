@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Silicon - Item Database"
+title: "Silicon - Stardeus Wiki and Game Guide"
 h1: "Silicon"
 description: "Used in producing circuit boards and microchips."
 image: /img/codex/sprites/database/obj/materials/silicon.png

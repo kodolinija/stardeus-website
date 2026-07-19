@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Lead Plate - Item Database"
+title: "Lead Plate - Stardeus Wiki and Game Guide"
 h1: "Lead Plate"
 description: "A thick heavy plate made from lead."
 image: /img/codex/sprites/database/obj/materials/lead-plate.png
@@ -16,20 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/metal-purification/">Metal Purification</a>
-<ul>
-<li><a href="/codex/research/research/production/smelting/">Smelting</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/metal-purification/">Metal Purification</a> &rarr; Lead Plate</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/lead-plate.png" alt="Lead Plate preview" loading="lazy"></figure>

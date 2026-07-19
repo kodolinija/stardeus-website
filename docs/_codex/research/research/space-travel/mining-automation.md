@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mining Automation - Research Tree"
+title: "Mining Automation - Research"
 h1: "Mining Automation"
 description: "Mining Automation is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/space-travel/mining-automation.png
@@ -23,28 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/shuttle-mining/">Shuttle Mining Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/shuttle/">Shuttle</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a> &rarr; <a href="/codex/research/research/space-travel/shuttle/">Shuttle</a> &rarr; <a href="/codex/research/research/space-travel/shuttle-mining/">Shuttle Mining Efficiency</a> &rarr; Mining Automation</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/space-travel/mining-automation.png" alt="Mining Automation preview" loading="lazy"></figure>

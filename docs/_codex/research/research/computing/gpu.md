@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "GPU - Research Tree"
+title: "GPU - Research"
 h1: "GPU"
 description: "GPU is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/computing/gpu.png
@@ -22,29 +22,7 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu/">CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/computing/disk-improved/">Improved Disk</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/cpu/">CPU</a> &rarr; <a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a> &rarr; GPU</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/disk-improved/">Improved Disk</a> &rarr; GPU</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/computing/gpu.png" alt="GPU preview" loading="lazy"></figure>

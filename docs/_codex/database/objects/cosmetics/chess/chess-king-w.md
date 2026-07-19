@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "White King - Item Database"
+title: "White King - Stardeus Wiki and Game Guide"
 h1: "White King"
 description: "White King is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-king-w.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Lead - Item Database"
+title: "Lead - Stardeus Wiki and Game Guide"
 h1: "Lead"
 description: "A dull grey mineral with cubic or octahedral crystalline structures often found within sedimentary rocks."
 image: /img/codex/sprites/database/obj/materials/lead.png

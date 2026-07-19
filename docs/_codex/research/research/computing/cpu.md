@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "CPU - Research Tree"
+title: "CPU - Research"
 h1: "CPU"
 description: "CPU is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/computing/cpu.png
@@ -21,12 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; CPU</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/computing/cpu.png" alt="CPU preview" loading="lazy"></figure>

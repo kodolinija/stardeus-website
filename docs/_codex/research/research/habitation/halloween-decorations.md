@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Halloween Decorations - Research Tree"
+title: "Halloween Decorations - Research"
 h1: "Halloween Decorations"
 description: "Halloween Decorations is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/habitation/halloween-decorations.png
@@ -32,16 +32,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; Halloween Decorations</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/habitation/halloween-decorations.png" alt="Halloween Decorations preview" loading="lazy"></figure>

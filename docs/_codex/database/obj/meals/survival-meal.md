@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Survival Meal - Item Database"
+title: "Survival Meal - Stardeus Wiki and Game Guide"
 h1: "Survival Meal"
 description: "Compact ration with animal protein and balanced nutrition."
 image: /img/codex/sprites/database/obj/meals/survival-meal.png
@@ -17,12 +17,6 @@ section: "Database"
 <p>Carnivore Food</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Survival Meal</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/meals/survival-meal.png" alt="Survival Meal preview" loading="lazy"></figure>

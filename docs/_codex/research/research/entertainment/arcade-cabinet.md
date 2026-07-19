@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Arcade Cabinet - Research Tree"
+title: "Arcade Cabinet - Research"
 h1: "Arcade Cabinet"
 description: "A coin-operated gaming machine with a screen, controls, and built-in games."
 image: /img/codex/sprites/research/research/entertainment/arcade-cabinet.png
@@ -22,8 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/entertainment/root/">Entertainment</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; Arcade Cabinet</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/entertainment/arcade-cabinet.png" alt="Arcade Cabinet preview" loading="lazy"></figure>

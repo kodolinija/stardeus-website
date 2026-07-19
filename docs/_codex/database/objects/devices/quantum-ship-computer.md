@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Quantum Ship Computer - Item Database"
+title: "Quantum Ship Computer - Stardeus Wiki and Game Guide"
 h1: "Quantum Ship Computer"
 description: "A more advanced version of the Ship Computer."
 image: /img/codex/sprites/database/objects/devices/quantum-ship-computer.png
@@ -14,53 +14,7 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/ship-computer-quantum/">Quantum Ship Computer</a>
-<ul>
-<li><a href="/codex/research/research/computing/gpu-improved/">Improved GPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/high-availability-improved/">Improved High Availability</a>
-<ul>
-<li><a href="/codex/research/research/computing/high-availability/">High Availability</a>
-<ul>
-<li><a href="/codex/research/research/computing/ship-computer/">Ship Computer</a>
-<ul>
-<li><a href="/codex/research/research/computing/gpu/">GPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/cpu/">CPU</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/computing/disk-improved/">Improved Disk</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/cpu/">CPU</a> &rarr; <a href="/codex/research/research/computing/cpu-improved/">Improved CPU</a> &rarr; <a href="/codex/research/research/computing/gpu/">GPU</a> &rarr; <a href="/codex/research/research/computing/ship-computer/">Ship Computer</a> &rarr; <a href="/codex/research/research/computing/high-availability/">High Availability</a> &rarr; <a href="/codex/research/research/computing/high-availability-improved/">Improved High Availability</a> &rarr; <a href="/codex/research/research/computing/gpu-improved/">Improved GPU</a> &rarr; <a href="/codex/research/research/computing/ship-computer-quantum/">Quantum Ship Computer</a> &rarr; Quantum Ship Computer</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/disk-improved/">Improved Disk</a> &rarr; <a href="/codex/research/research/computing/gpu/">GPU</a> &rarr; <a href="/codex/research/research/computing/ship-computer/">Ship Computer</a> &rarr; <a href="/codex/research/research/computing/high-availability/">High Availability</a> &rarr; <a href="/codex/research/research/computing/high-availability-improved/">Improved High Availability</a> &rarr; <a href="/codex/research/research/computing/gpu-improved/">Improved GPU</a> &rarr; <a href="/codex/research/research/computing/ship-computer-quantum/">Quantum Ship Computer</a> &rarr; Quantum Ship Computer</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/quantum-ship-computer.png" alt="Quantum Ship Computer preview" loading="lazy"></figure>

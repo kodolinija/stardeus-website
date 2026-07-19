@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Furnace - Item Database"
+title: "Furnace - Stardeus Wiki and Game Guide"
 h1: "Furnace"
 description: "Blast furnace that's typically used for smelting metal ores into usable materials."
 image: /img/codex/sprites/database/objects/devices/furnace.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/smelting/">Smelting</a>
-<ul>
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; Furnace</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/furnace.png" alt="Furnace preview" loading="lazy"></figure>

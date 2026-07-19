@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Large Planter - Item Database"
+title: "Large Planter - Stardeus Wiki and Game Guide"
 h1: "Large Planter"
 description: "Fits one large plant or 4 smaller ones."
 image: /img/codex/sprites/database/objects/devices/planter.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a> &rarr; Large Planter</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/planter.png" alt="Large Planter preview" loading="lazy"></figure>

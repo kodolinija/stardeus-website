@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Flux Capacitor - Research Tree"
+title: "Flux Capacitor - Research"
 h1: "Flux Capacitor"
 description: "Increases the ship's Flux Capacity."
 image: /img/codex/sprites/research/research/ship-combat/flux-capacitor.png
@@ -23,12 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/shields/">Shields</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/shields/">Shields</a> &rarr; Flux Capacitor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/ship-combat/flux-capacitor.png" alt="Flux Capacitor preview" loading="lazy"></figure>

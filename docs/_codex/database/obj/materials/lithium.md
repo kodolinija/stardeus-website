@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Lithium - Item Database"
+title: "Lithium - Stardeus Wiki and Game Guide"
 h1: "Lithium"
 description: "Essential ingredient for batteries."
 image: /img/codex/sprites/database/obj/materials/lithium.png

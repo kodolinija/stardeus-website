@@ -3,6 +3,11 @@ layout: default
 ---
 
 <section class="docs codex">
+  <div class="codex-topbar">
+    <div class="codex-topbar-inner">
+      {% include codex_tabs.html -%}
+    </div>
+  </div>
   <div class="grid">
     {% include codex_contents_mobile.html -%}
     <div class="unit four-fifths">
@@ -15,4 +20,5 @@ layout: default
     <div class="clear"></div>
   </div>
 </section>
+<script src="{{ 'js/codex-search.js' | relative_url }}" defer></script>
 {% include codex_breadcrumbs.html %}

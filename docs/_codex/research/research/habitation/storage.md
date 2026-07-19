@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Storage - Research Tree"
+title: "Storage - Research"
 h1: "Storage"
 description: "Storage is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/habitation/storage.png
@@ -23,12 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; Storage</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/habitation/storage.png" alt="Storage preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Freezer - Item Database"
+title: "Freezer - Stardeus Wiki and Game Guide"
 h1: "Freezer"
 description: "A high capacity storage unit for food and raw ingredients."
 image: /img/codex/sprites/database/objects/devices/freezer.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/storage-kitchen-improved/">Improved Kitchen Storage</a>
-<ul>
-<li><a href="/codex/research/research/habitation/storage/">Storage</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/storage/">Storage</a> &rarr; <a href="/codex/research/research/habitation/storage-kitchen-improved/">Improved Kitchen Storage</a> &rarr; Freezer</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/freezer.png" alt="Freezer preview" loading="lazy"></figure>

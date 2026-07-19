@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Stock Market Prediction - Research Tree"
+title: "Stock Market Prediction - Research"
 h1: "Stock Market Prediction"
 description: "Unlocks information about market forces and trends."
 image: /img/codex/sprites/research/research/economy/market-prediction.png
@@ -23,28 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/economy/market-insights/">Stock Market Insights</a>
-<ul>
-<li><a href="/codex/research/research/economy/stock-trading/">Stock Trading</a>
-<ul>
-<li><a href="/codex/research/research/economy/stock-market/">Stock Market</a>
-<ul>
-<li><a href="/codex/research/research/economy/trade-portal/">Trade Portal</a>
-<ul>
-<li><a href="/codex/research/research/economy/wallet/">Wallet</a>
-<ul>
-<li><a href="/codex/research/research/economy/root/">Economy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; <a href="/codex/research/research/economy/trade-portal/">Trade Portal</a> &rarr; <a href="/codex/research/research/economy/stock-market/">Stock Market</a> &rarr; <a href="/codex/research/research/economy/stock-trading/">Stock Trading</a> &rarr; <a href="/codex/research/research/economy/market-insights/">Stock Market Insights</a> &rarr; Stock Market Prediction</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/market-prediction.png" alt="Stock Market Prediction preview" loading="lazy"></figure>

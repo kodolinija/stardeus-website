@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Vase - Item Database"
+title: "Vase - Stardeus Wiki and Game Guide"
 h1: "Vase"
 description: "A stylish metallic pot for growing small plants."
 image: /img/codex/sprites/database/objects/furniture/vase01.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>25%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/decorations/">Decorations</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; Vase</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/furniture/vase01.png" alt="Vase preview" loading="lazy"></figure>

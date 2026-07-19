@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Wall Connector - Research Tree"
+title: "Wall Connector - Research"
 h1: "Wall Connector"
 description: "Wall Connector is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/connector-wall.png
@@ -21,16 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/connector-improved/">Improved Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; Wall Connector</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/connector-wall.png" alt="Wall Connector preview" loading="lazy"></figure>

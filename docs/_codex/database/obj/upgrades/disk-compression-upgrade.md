@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Disk Compression Upgrade - Item Database"
+title: "Disk Compression Upgrade - Stardeus Wiki and Game Guide"
 h1: "Disk Compression Upgrade"
 description: "Increases the storage capacity of compatible disk devices."
 image: /img/codex/sprites/database/obj/upgrades/disk-compression-upgrade.png
@@ -16,16 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; Disk Compression Upgrade</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/disk-compression-upgrade.png" alt="Disk Compression Upgrade preview" loading="lazy"></figure>

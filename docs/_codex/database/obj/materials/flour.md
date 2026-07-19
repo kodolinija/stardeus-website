@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Flour - Item Database"
+title: "Flour - Stardeus Wiki and Game Guide"
 h1: "Flour"
 description: "Great for baking bread."
 image: /img/codex/sprites/database/obj/materials/flour.png
@@ -14,12 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/large-pantry/">Large Pantry</a></span>, <span class="nobr"><a href="/codex/database/objects/furniture/pantry/">Pantry</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; Flour</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/flour.png" alt="Flour preview" loading="lazy"></figure>

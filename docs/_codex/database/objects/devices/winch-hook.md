@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Winch Hook - Item Database"
+title: "Winch Hook - Stardeus Wiki and Game Guide"
 h1: "Winch Hook"
 description: "Works with a Winch Anchor to pull separated ship sections together."
 image: /img/codex/sprites/database/objects/devices/winch-hook.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Must be outdoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/winch/">Winch</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/winch/">Winch</a> &rarr; Winch Hook</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/winch-hook.png" alt="Winch Hook preview" loading="lazy"></figure>

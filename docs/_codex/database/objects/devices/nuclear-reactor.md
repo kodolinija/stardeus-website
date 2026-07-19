@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nuclear Reactor (1MW) - Item Database"
+title: "Nuclear Reactor (1MW) - Stardeus Wiki and Game Guide"
 h1: "Nuclear Reactor (1MW)"
 description: "A powerful reactor that requires nuclear fuel."
 image: /img/codex/sprites/database/objects/devices/nuclear-reactor.png
@@ -14,24 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor-nuclear/">Nuclear Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor-improved/">Improved Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a> &rarr; <a href="/codex/research/research/energy/reactor-improved/">Improved Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-nuclear/">Nuclear Reactor</a> &rarr; Nuclear Reactor (1MW)</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/nuclear-reactor.png" alt="Nuclear Reactor (1MW) preview" loading="lazy"></figure>

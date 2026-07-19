@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Construction - Research Tree"
+title: "Construction - Research"
 h1: "Construction"
 description: "Construction is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/construction/root.png

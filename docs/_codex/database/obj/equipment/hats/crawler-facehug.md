@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Crawler - Item Database"
+title: "Crawler - Stardeus Wiki and Game Guide"
 h1: "Crawler"
 description: "This crawler is attached to the colonist's face."
 image: /img/codex/sprites/database/obj/equipment/hats/crawler-facehug.png

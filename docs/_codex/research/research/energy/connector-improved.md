@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Improved Connector - Research Tree"
+title: "Improved Connector - Research"
 h1: "Improved Connector"
 description: "Improved Connector is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/connector-improved.png
@@ -20,12 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; Improved Connector</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/connector-improved.png" alt="Improved Connector preview" loading="lazy"></figure>

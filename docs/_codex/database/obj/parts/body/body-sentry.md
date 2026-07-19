@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Sentry Frame - Item Database"
+title: "Sentry Frame - Stardeus Wiki and Game Guide"
 h1: "Sentry Frame"
 description: "A body of a Sentry Drone."
 image: /img/codex/sprites/database/obj/parts/body/body-sentry.png

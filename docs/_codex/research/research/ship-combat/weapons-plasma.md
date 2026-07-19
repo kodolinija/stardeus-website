@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Plasma Weapons - Research Tree"
+title: "Plasma Weapons - Research"
 h1: "Plasma Weapons"
 description: "Plasma Weapons is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/ship-combat/weapons-plasma.png
@@ -21,16 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; Plasma Weapons</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/ship-combat/weapons-plasma.png" alt="Plasma Weapons preview" loading="lazy"></figure>

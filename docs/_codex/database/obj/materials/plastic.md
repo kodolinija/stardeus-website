@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Plastic - Item Database"
+title: "Plastic - Stardeus Wiki and Game Guide"
 h1: "Plastic"
 description: "A hard synthetic material, commonly used in producing electronics and small devices."
 image: /img/codex/sprites/database/obj/materials/plastic.png
@@ -17,24 +17,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/oil-processing/">Oil Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/material-processing/">Material Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; <a href="/codex/research/research/production/material-processing/">Material Processing</a> &rarr; <a href="/codex/research/research/production/oil-processing/">Oil Processing</a> &rarr; Plastic</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/plastic.png" alt="Plastic preview" loading="lazy"></figure>

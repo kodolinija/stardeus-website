@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Glass Floor (Lit) - Item Database"
+title: "Glass Floor (Lit) - Stardeus Wiki and Game Guide"
 h1: "Glass Floor (Lit)"
 description: "A floor with a lovely view and embedded lights."
 image: /img/codex/sprites/database/structure/floors/floor-glass01-lit.png
@@ -16,16 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/lighting/">Structural Lighting</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/lighting/">Structural Lighting</a> &rarr; Glass Floor (Lit)</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/floors/floor-glass01-lit.png" alt="Glass Floor (Lit) preview" loading="lazy"></figure>

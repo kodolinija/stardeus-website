@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Beverage Cooler - Item Database"
+title: "Beverage Cooler - Stardeus Wiki and Game Guide"
 h1: "Beverage Cooler"
 description: "A storage for beverages."
 image: /img/codex/sprites/database/objects/devices/beverage-cooler.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>25%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/habitation/storage-kitchen-improved/">Improved Kitchen Storage</a>
-<ul>
-<li><a href="/codex/research/research/habitation/storage/">Storage</a>
-<ul>
-<li><a href="/codex/research/research/habitation/furniture/">Furniture</a>
-<ul>
-<li><a href="/codex/research/research/habitation/root/">Habitation</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/storage/">Storage</a> &rarr; <a href="/codex/research/research/habitation/storage-kitchen-improved/">Improved Kitchen Storage</a> &rarr; Beverage Cooler</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/beverage-cooler.png" alt="Beverage Cooler preview" loading="lazy"></figure>

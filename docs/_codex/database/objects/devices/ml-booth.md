@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "ML Booth - Item Database"
+title: "ML Booth - Stardeus Wiki and Game Guide"
 h1: "ML Booth"
 description: "Trains robotic cores to perform specific tasks more efficiently."
 image: /img/codex/sprites/database/objects/devices/ml-booth.png
@@ -14,28 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/machine-learning/">Machine Learning</a>
-<ul>
-<li><a href="/codex/research/research/robotics/mind-transfer/">Mind Transfer</a>
-<ul>
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; <a href="/codex/research/research/robotics/mind-transfer/">Mind Transfer</a> &rarr; <a href="/codex/research/research/robotics/machine-learning/">Machine Learning</a> &rarr; ML Booth</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/ml-booth.png" alt="ML Booth preview" loading="lazy"></figure>

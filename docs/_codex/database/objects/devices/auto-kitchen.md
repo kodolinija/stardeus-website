@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Auto Kitchen - Item Database"
+title: "Auto Kitchen - Stardeus Wiki and Game Guide"
 h1: "Auto Kitchen"
 description: "Prints food items for your colonists."
 image: /img/codex/sprites/database/objects/devices/auto-kitchen.png
@@ -14,25 +14,7 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/food-production-improved/">Improved Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a> &rarr; <a href="/codex/research/research/life-support/food-production-improved/">Improved Food Production</a> &rarr; Auto Kitchen</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a> &rarr; <a href="/codex/research/research/life-support/food-production-improved/">Improved Food Production</a> &rarr; Auto Kitchen</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/auto-kitchen.png" alt="Auto Kitchen preview" loading="lazy"></figure>

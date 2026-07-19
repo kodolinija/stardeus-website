@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Trade Portal - Research Tree"
+title: "Trade Portal - Research"
 h1: "Trade Portal"
 description: "A matter-transfer device designed for trading with ships and space stations."
 image: /img/codex/sprites/research/research/economy/trade-portal.png
@@ -22,12 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/economy/wallet/">Wallet</a>
-<ul>
-<li><a href="/codex/research/research/economy/root/">Economy</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; Trade Portal</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/trade-portal.png" alt="Trade Portal preview" loading="lazy"></figure>

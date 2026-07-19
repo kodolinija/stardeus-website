@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Stock Market Insights - Research Tree"
+title: "Stock Market Insights - Research"
 h1: "Stock Market Insights"
 description: "Unlocks extra details about the Stock Market instruments."
 image: /img/codex/sprites/research/research/economy/market-insights.png
@@ -23,24 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/economy/stock-trading/">Stock Trading</a>
-<ul>
-<li><a href="/codex/research/research/economy/stock-market/">Stock Market</a>
-<ul>
-<li><a href="/codex/research/research/economy/trade-portal/">Trade Portal</a>
-<ul>
-<li><a href="/codex/research/research/economy/wallet/">Wallet</a>
-<ul>
-<li><a href="/codex/research/research/economy/root/">Economy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; <a href="/codex/research/research/economy/trade-portal/">Trade Portal</a> &rarr; <a href="/codex/research/research/economy/stock-market/">Stock Market</a> &rarr; <a href="/codex/research/research/economy/stock-trading/">Stock Trading</a> &rarr; Stock Market Insights</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/market-insights.png" alt="Stock Market Insights preview" loading="lazy"></figure>

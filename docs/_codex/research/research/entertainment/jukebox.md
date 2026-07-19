@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Jukebox - Research Tree"
+title: "Jukebox - Research"
 h1: "Jukebox"
 description: "A machine that automatically plays a selected musical recording when a coin is inserted. You will earn some money when your colonists use it."
 image: /img/codex/sprites/research/research/entertainment/jukebox.png
@@ -23,12 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a>
-<ul>
-<li><a href="/codex/research/research/entertainment/root/">Entertainment</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; <a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a> &rarr; Jukebox</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/entertainment/jukebox.png" alt="Jukebox preview" loading="lazy"></figure>

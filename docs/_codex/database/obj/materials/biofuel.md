@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Biofuel - Item Database"
+title: "Biofuel - Stardeus Wiki and Game Guide"
 h1: "Biofuel"
 description: "Organic fuel made from recycled materials."
 image: /img/codex/sprites/database/obj/materials/biofuel.png
@@ -15,16 +15,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; Biofuel</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/biofuel.png" alt="Biofuel preview" loading="lazy"></figure>

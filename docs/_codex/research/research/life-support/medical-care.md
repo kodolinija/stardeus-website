@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Medical Care - Research Tree"
+title: "Medical Care - Research"
 h1: "Medical Care"
 description: "Medical Care is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/medical-care.png
@@ -21,12 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; Medical Care</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/medical-care.png" alt="Medical Care preview" loading="lazy"></figure>

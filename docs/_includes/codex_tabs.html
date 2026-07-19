@@ -1,0 +1,11 @@
+{% include codex_active_tab.html %}
+<nav class="codex-tabs">
+  <ul>
+    {%- for tab in site.data.codex_nav -%}
+    <li{% if tab == active_tab %} class="current"{% endif %}><a href="{{ tab.link | relative_url }}">{{ tab.tab }}</a></li>
+    {%- endfor %}
+    <li class="codex-search-item">
+      {% include codex_search.html -%}
+    </li>
+  </ul>
+</nav>

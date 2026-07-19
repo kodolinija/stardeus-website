@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Hat - Item Database"
+title: "Hat - Stardeus Wiki and Game Guide"
 h1: "Hat"
 description: "A fancy hat."
 image: /img/codex/sprites/database/obj/equipment/hats/hat01.png
@@ -16,12 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; Hat</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/hats/hat01.png" alt="Hat preview" loading="lazy"></figure>

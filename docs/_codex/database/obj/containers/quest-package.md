@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Safe Box - Item Database"
+title: "Safe Box - Stardeus Wiki and Game Guide"
 h1: "Safe Box"
 description: "Sturdy container for protecting items during transport."
 image: /img/codex/sprites/database/obj/containers/quest-package.png

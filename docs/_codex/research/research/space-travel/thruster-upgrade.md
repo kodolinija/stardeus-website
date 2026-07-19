@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Thruster Efficiency - Research Tree"
+title: "Thruster Efficiency - Research"
 h1: "Thruster Efficiency"
 description: "Thruster Efficiency is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/space-travel/thruster-upgrade.png
@@ -20,20 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a> &rarr; Thruster Efficiency</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/space-travel/thruster-upgrade.png" alt="Thruster Efficiency preview" loading="lazy"></figure>

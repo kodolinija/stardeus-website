@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Stasis Pod - Item Database"
+title: "Stasis Pod - Stardeus Wiki and Game Guide"
 h1: "Stasis Pod"
 description: "A transport pod for cargo, supplies, and beings in cryosleep."
 image: /img/codex/sprites/database/objects/devices/stasis-pod.png

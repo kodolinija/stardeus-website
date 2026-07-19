@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Breach Capsule Port - Item Database"
+title: "Breach Capsule Port - Stardeus Wiki and Game Guide"
 h1: "Breach Capsule Port"
 description: "Uh oh. Looks like someone is about to get raided!"
 image: /img/codex/sprites/database/objects/devices/breach-capsule.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Biowaste - Item Database"
+title: "Biowaste - Stardeus Wiki and Game Guide"
 h1: "Biowaste"
 description: "Nasty stuff that can be purified into clean water and valuable biomass using the Recycler."
 image: /img/codex/sprites/database/obj/materials/biowaste.png

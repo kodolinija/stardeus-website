@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Scanning - Research Tree"
+title: "Scanning - Research"
 h1: "Scanning"
 description: "Adds a Scan tool to Starmap"
 image: /img/codex/sprites/research/research/scanning/root.png

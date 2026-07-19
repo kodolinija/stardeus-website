@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Robotics - Research Tree"
+title: "Robotics - Research"
 h1: "Robotics"
 description: "Robotics is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/robotics/root.png

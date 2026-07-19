@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Maneuvering Controller - Item Database"
+title: "Maneuvering Controller - Stardeus Wiki and Game Guide"
 h1: "Maneuvering Controller"
 description: "Controls precise short-range maneuvers for repositioning ship sections."
 image: /img/codex/sprites/database/objects/devices/precision-thruster.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a> &rarr; Maneuvering Controller</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/precision-thruster.png" alt="Maneuvering Controller preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Quartz - Item Database"
+title: "Quartz - Stardeus Wiki and Game Guide"
 h1: "Quartz"
 description: "A common mineral used to produce glass."
 image: /img/codex/sprites/database/obj/materials/quartz.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "High Tech Datoid - Item Database"
+title: "High Tech Datoid - Stardeus Wiki and Game Guide"
 h1: "High Tech Datoid"
 description: "Data used to unlock advanced technology."
 image: /img/codex/sprites/database/obj/datoids/datoid-tech-high.png
@@ -14,20 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/research-advanced/">Advanced Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/research-advanced/">Advanced Research</a> &rarr; High Tech Datoid</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/datoids/datoid-tech-high.png" alt="High Tech Datoid preview" loading="lazy"></figure>

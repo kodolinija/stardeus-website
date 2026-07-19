@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Mysterious Statue - Item Database"
+title: "Mysterious Statue - Stardeus Wiki and Game Guide"
 h1: "Mysterious Statue"
 description: "A mysterious statue that seems to have some unnatural properties."
 image: /img/codex/sprites/database/objects/devices/pentagram-statue.png

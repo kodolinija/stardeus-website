@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Xenodetector - Item Database"
+title: "Xenodetector - Stardeus Wiki and Game Guide"
 h1: "Xenodetector"
 description: "Scans nearby areas for unknown lifeforms."
 image: /img/codex/sprites/database/objects/devices/xenodetector.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/xenodetection/">Xenodetection</a>
-<ul>
-<li><a href="/codex/research/research/scanning/radar/">Radar</a>
-<ul>
-<li><a href="/codex/research/research/scanning/communications/">Communications</a>
-<ul>
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; <a href="/codex/research/research/scanning/communications/">Communications</a> &rarr; <a href="/codex/research/research/scanning/radar/">Radar</a> &rarr; <a href="/codex/research/research/scanning/xenodetection/">Xenodetection</a> &rarr; Xenodetector</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/xenodetector.png" alt="Xenodetector preview" loading="lazy"></figure>

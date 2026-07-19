@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Stock Trading - Research Tree"
+title: "Stock Trading - Research"
 h1: "Stock Trading"
 description: "Unlocks the ability to trade in the Stock Market."
 image: /img/codex/sprites/research/research/economy/stock-trading.png
@@ -23,20 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/economy/stock-market/">Stock Market</a>
-<ul>
-<li><a href="/codex/research/research/economy/trade-portal/">Trade Portal</a>
-<ul>
-<li><a href="/codex/research/research/economy/wallet/">Wallet</a>
-<ul>
-<li><a href="/codex/research/research/economy/root/">Economy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; <a href="/codex/research/research/economy/trade-portal/">Trade Portal</a> &rarr; <a href="/codex/research/research/economy/stock-market/">Stock Market</a> &rarr; Stock Trading</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/stock-trading.png" alt="Stock Trading preview" loading="lazy"></figure>

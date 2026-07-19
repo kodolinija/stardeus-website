@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cargo Copter - Item Database"
+title: "Cargo Copter - Stardeus Wiki and Game Guide"
 h1: "Cargo Copter"
 description: "Automated cargo drone for deploying equipment and transporting raw materials."
 image: /img/codex/sprites/database/objects/devices/cargo-copter.png
@@ -14,32 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Must be outdoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/mining-automation/">Mining Automation</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/shuttle-mining/">Shuttle Mining Efficiency</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/shuttle/">Shuttle</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a> &rarr; <a href="/codex/research/research/space-travel/shuttle/">Shuttle</a> &rarr; <a href="/codex/research/research/space-travel/shuttle-mining/">Shuttle Mining Efficiency</a> &rarr; <a href="/codex/research/research/space-travel/mining-automation/">Mining Automation</a> &rarr; Cargo Copter</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/cargo-copter.png" alt="Cargo Copter preview" loading="lazy"></figure>

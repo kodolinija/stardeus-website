@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "AutoDoc - Item Database"
+title: "AutoDoc - Stardeus Wiki and Game Guide"
 h1: "AutoDoc"
 description: "An advanced medical pod that can perform microsurgery and treat various health conditions."
 image: /img/codex/sprites/database/objects/devices/auto-doc.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; <a href="/codex/research/research/life-support/medical-care/">Medical Care</a> &rarr; AutoDoc</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/auto-doc.png" alt="AutoDoc preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Organ Storage - Item Database"
+title: "Organ Storage - Stardeus Wiki and Game Guide"
 h1: "Organ Storage"
 description: "A cryo-storage for keeping body parts safe and well preserved."
 image: /img/codex/sprites/database/objects/devices/organ-storage.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>85%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; Organ Storage</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/organ-storage.png" alt="Organ Storage preview" loading="lazy"></figure>

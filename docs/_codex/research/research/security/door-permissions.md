@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Door Permissions - Research Tree"
+title: "Door Permissions - Research"
 h1: "Door Permissions"
 description: "Door Permissions is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/security/door-permissions.png
@@ -20,8 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/security/root/">Security</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; Door Permissions</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/door-permissions.png" alt="Door Permissions preview" loading="lazy"></figure>

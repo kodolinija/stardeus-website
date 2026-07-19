@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Scrap Metal - Item Database"
+title: "Scrap Metal - Stardeus Wiki and Game Guide"
 h1: "Scrap Metal"
 description: "Twisted fragments of metal salvaged from disassembled machinery and parts."
 image: /img/codex/sprites/database/obj/materials/scrap-metal.png

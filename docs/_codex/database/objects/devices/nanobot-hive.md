@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nanobot Hive - Item Database"
+title: "Nanobot Hive - Stardeus Wiki and Game Guide"
 h1: "Nanobot Hive"
 description: "A hub hosting swarms of nanobots that can perform simple tasks within their working radius."
 image: /img/codex/sprites/database/objects/devices/nanobot-hive.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/nanobots/">Nanobots</a>
-<ul>
-<li><a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a> &rarr; <a href="/codex/research/research/robotics/nanobots/">Nanobots</a> &rarr; Nanobot Hive</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/nanobot-hive.png" alt="Nanobot Hive preview" loading="lazy"></figure>

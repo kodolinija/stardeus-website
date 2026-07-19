@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Connector 8-20 - Item Database"
+title: "Connector 8-20 - Stardeus Wiki and Game Guide"
 h1: "Connector 8-20"
 description: "Wireless power connector for up to 8 devices within a 20-tile radius."
 image: /img/codex/sprites/database/objects/devices/energy-connector.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>75%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; Connector 8-20</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/energy-connector.png" alt="Connector 8-20 preview" loading="lazy"></figure>

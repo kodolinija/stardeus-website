@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "System Scanner - Item Database"
+title: "System Scanner - Stardeus Wiki and Game Guide"
 h1: "System Scanner"
 description: "A more powerful version of the Radar."
 image: /img/codex/sprites/database/objects/devices/system-scanner.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Scan Strength: <span class="accent"><b>3</b></span>, Must be outdoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/system/">System Scanning</a>
-<ul>
-<li><a href="/codex/research/research/scanning/radar/">Radar</a>
-<ul>
-<li><a href="/codex/research/research/scanning/communications/">Communications</a>
-<ul>
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; <a href="/codex/research/research/scanning/communications/">Communications</a> &rarr; <a href="/codex/research/research/scanning/radar/">Radar</a> &rarr; <a href="/codex/research/research/scanning/system/">System Scanning</a> &rarr; System Scanner</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/system-scanner.png" alt="System Scanner preview" loading="lazy"></figure>

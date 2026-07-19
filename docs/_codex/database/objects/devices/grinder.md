@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Grinder - Item Database"
+title: "Grinder - Stardeus Wiki and Game Guide"
 h1: "Grinder"
 description: "Grinds materials into finer forms."
 image: /img/codex/sprites/database/objects/devices/grinder.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/material-processing/">Material Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; <a href="/codex/research/research/production/material-processing/">Material Processing</a> &rarr; Grinder</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/grinder.png" alt="Grinder preview" loading="lazy"></figure>

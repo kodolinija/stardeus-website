@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Basic Bot Parts - Research Tree"
+title: "Basic Bot Parts - Research"
 h1: "Basic Bot Parts"
 description: "Basic Bot Parts is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/robotics/parts-basic.png
@@ -26,20 +26,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a>
-<ul>
-<li><a href="/codex/research/research/robotics/docking/">Docking</a>
-<ul>
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a> &rarr; Basic Bot Parts</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/parts-basic.png" alt="Basic Bot Parts preview" loading="lazy"></figure>

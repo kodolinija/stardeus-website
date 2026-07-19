@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Human Arm - Item Database"
+title: "Human Arm - Stardeus Wiki and Game Guide"
 h1: "Human Arm"
 description: "An organic human arm."
 image: /img/codex/sprites/database/obj/parts/arm/arm-human.png
@@ -18,28 +18,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/organ-storage/">Organ Storage</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a>
-<ul>
-<li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; <a href="/codex/research/research/life-support/medical-care/">Medical Care</a> &rarr; <a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a> &rarr; Human Arm</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/arm/arm-human.png" alt="Human Arm preview" loading="lazy"></figure>

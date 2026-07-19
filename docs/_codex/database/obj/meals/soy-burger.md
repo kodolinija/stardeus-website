@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Soy Burger - Item Database"
+title: "Soy Burger - Stardeus Wiki and Game Guide"
 h1: "Soy Burger"
 description: "Meat-free burger made from plant protein."
 image: /img/codex/sprites/database/obj/meals/soy-burger.png
@@ -17,16 +17,6 @@ section: "Database"
 <p>Vegan Food</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a>
-<ul>
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a> &rarr; Soy Burger</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/meals/soy-burger.png" alt="Soy Burger preview" loading="lazy"></figure>

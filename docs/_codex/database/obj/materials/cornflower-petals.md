@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cornflower Petals - Item Database"
+title: "Cornflower Petals - Stardeus Wiki and Game Guide"
 h1: "Cornflower Petals"
 description: "Blue petals useful for medicinal purposes and making colorful dyes."
 image: /img/codex/sprites/database/obj/materials/cornflower-petals.png

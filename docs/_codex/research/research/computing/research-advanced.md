@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Advanced Research - Research Tree"
+title: "Advanced Research - Research"
 h1: "Advanced Research"
 description: "Advanced Research is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/computing/research-advanced.png
@@ -23,16 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; Advanced Research</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/computing/research-advanced.png" alt="Advanced Research preview" loading="lazy"></figure>

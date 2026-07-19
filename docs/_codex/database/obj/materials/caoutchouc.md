@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Caoutchouc - Item Database"
+title: "Caoutchouc - Stardeus Wiki and Game Guide"
 h1: "Caoutchouc"
 description: "An unprocessed natural rubber that can be harvested from a Rubber Tree."
 image: /img/codex/sprites/database/obj/materials/caoutchouc.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "White Knight - Item Database"
+title: "White Knight - Stardeus Wiki and Game Guide"
 h1: "White Knight"
 description: "White Knight is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-knight-w.png

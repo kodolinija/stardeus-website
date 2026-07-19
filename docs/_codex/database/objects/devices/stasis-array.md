@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Stasis Array - Item Database"
+title: "Stasis Array - Stardeus Wiki and Game Guide"
 h1: "Stasis Array"
 description: "Holds colonists in long-term cryosleep."
 image: /img/codex/sprites/database/objects/devices/stasis-array.png

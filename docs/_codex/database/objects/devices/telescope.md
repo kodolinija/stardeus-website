@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Telescope - Item Database"
+title: "Telescope - Stardeus Wiki and Game Guide"
 h1: "Telescope"
 description: "A long-range observatory for finding habitable worlds."
 image: /img/codex/sprites/database/objects/devices/telescope.png
@@ -14,28 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Must be outdoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/telescope/">Telescope</a>
-<ul>
-<li><a href="/codex/research/research/scanning/extended/">Extended Scanning</a>
-<ul>
-<li><a href="/codex/research/research/scanning/system/">System Scanning</a>
-<ul>
-<li><a href="/codex/research/research/scanning/radar/">Radar</a>
-<ul>
-<li><a href="/codex/research/research/scanning/communications/">Communications</a>
-<ul>
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; <a href="/codex/research/research/scanning/communications/">Communications</a> &rarr; <a href="/codex/research/research/scanning/radar/">Radar</a> &rarr; <a href="/codex/research/research/scanning/system/">System Scanning</a> &rarr; <a href="/codex/research/research/scanning/extended/">Extended Scanning</a> &rarr; <a href="/codex/research/research/scanning/telescope/">Telescope</a> &rarr; Telescope</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/telescope.png" alt="Telescope preview" loading="lazy"></figure>

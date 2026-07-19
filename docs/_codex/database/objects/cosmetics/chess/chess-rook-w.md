@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "White Rook - Item Database"
+title: "White Rook - Stardeus Wiki and Game Guide"
 h1: "White Rook"
 description: "White Rook is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-rook-w.png

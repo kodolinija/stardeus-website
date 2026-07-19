@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Karaoke Machine - Item Database"
+title: "Karaoke Machine - Stardeus Wiki and Game Guide"
 h1: "Karaoke Machine"
 description: "Converts public embarrassment into entertainment."
 image: /img/codex/sprites/database/objects/devices/karaoke-machine.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>85%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/entertainment/jukebox/">Jukebox</a>
-<ul>
-<li><a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a>
-<ul>
-<li><a href="/codex/research/research/entertainment/root/">Entertainment</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; <a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a> &rarr; <a href="/codex/research/research/entertainment/jukebox/">Jukebox</a> &rarr; Karaoke Machine</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/karaoke-machine.png" alt="Karaoke Machine preview" loading="lazy"></figure>

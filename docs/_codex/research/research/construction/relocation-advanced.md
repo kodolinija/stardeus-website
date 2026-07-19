@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Advanced Relocation - Research Tree"
+title: "Advanced Relocation - Research"
 h1: "Advanced Relocation"
 description: "Enables the relocation of advanced devices, such as the Ship Computer and the Stasis Array."
 image: /img/codex/sprites/research/research/construction/relocation-advanced.png
@@ -22,16 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/construction/winch/">Winch</a>
-<ul>
-<li><a href="/codex/research/research/construction/structure/">Structure</a>
-<ul>
-<li><a href="/codex/research/research/construction/root/">Construction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/winch/">Winch</a> &rarr; Advanced Relocation</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/construction/relocation-advanced.png" alt="Advanced Relocation preview" loading="lazy"></figure>

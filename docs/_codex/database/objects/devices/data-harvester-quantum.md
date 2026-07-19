@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Quantum Data Harvester - Item Database"
+title: "Quantum Data Harvester - Stardeus Wiki and Game Guide"
 h1: "Quantum Data Harvester"
 description: "Employs highly advanced quantum processing to produce rare Datoids."
 image: /img/codex/sprites/database/objects/devices/data-harvester-quantum.png
@@ -14,24 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/research-quantum/">Quantum Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-advanced/">Advanced Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/research-station/">Research Station</a>
-<ul>
-<li><a href="/codex/research/research/computing/research/">Basic Research</a>
-<ul>
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a> &rarr; <a href="/codex/research/research/computing/research-advanced/">Advanced Research</a> &rarr; <a href="/codex/research/research/computing/research-quantum/">Quantum Research</a> &rarr; Quantum Data Harvester</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/data-harvester-quantum.png" alt="Quantum Data Harvester preview" loading="lazy"></figure>

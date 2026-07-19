@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Computing - Research Tree"
+title: "Computing - Research"
 h1: "Computing"
 description: "Computing is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/computing/root.png

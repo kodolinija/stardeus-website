@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Improved Planter - Research Tree"
+title: "Improved Planter - Research"
 h1: "Improved Planter"
 description: "Improved Planter is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/planter-improved.png
@@ -24,12 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/food-production/">Food Production</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Improved Planter</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/planter-improved.png" alt="Improved Planter preview" loading="lazy"></figure>

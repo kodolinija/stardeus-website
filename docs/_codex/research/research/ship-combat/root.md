@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Ship Combat - Research Tree"
+title: "Ship Combat - Research"
 h1: "Ship Combat"
 description: "Ship Combat is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/ship-combat/root.png

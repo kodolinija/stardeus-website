@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Rogue AI - Research Tree"
+title: "Rogue AI - Research"
 h1: "Rogue AI"
 description: "Rogue AI is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/rogue-ai/root.png

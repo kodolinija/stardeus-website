@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Orbotron Frame - Item Database"
+title: "Orbotron Frame - Stardeus Wiki and Game Guide"
 h1: "Orbotron Frame"
 description: "A body of an Orbotron."
 image: /img/codex/sprites/database/obj/parts/body/body-orbotron.png

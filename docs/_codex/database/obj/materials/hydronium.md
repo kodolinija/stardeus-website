@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Hydronium - Item Database"
+title: "Hydronium - Stardeus Wiki and Game Guide"
 h1: "Hydronium"
 description: "A rare mineral that catalyzes the conversion of oxygen into water, facilitating the synthesis of H₂O from atmospheric oxygen."
 image: /img/codex/sprites/database/obj/materials/hydronium.png

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Heater - Item Database"
+title: "Heater - Stardeus Wiki and Game Guide"
 h1: "Heater"
 description: "Maintains a comfortable temperature in enclosed areas."
 image: /img/codex/sprites/database/objects/devices/heater.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Must be indoors</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a>
-<ul>
-<li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a> &rarr; Heater</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/heater.png" alt="Heater preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Stock Market - Research Tree"
+title: "Stock Market - Research"
 h1: "Stock Market"
 description: "Unlocks the Stock Market view with real-time prices and charts."
 image: /img/codex/sprites/research/research/economy/stock-market.png
@@ -22,16 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/economy/trade-portal/">Trade Portal</a>
-<ul>
-<li><a href="/codex/research/research/economy/wallet/">Wallet</a>
-<ul>
-<li><a href="/codex/research/research/economy/root/">Economy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; <a href="/codex/research/research/economy/trade-portal/">Trade Portal</a> &rarr; Stock Market</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/stock-market.png" alt="Stock Market preview" loading="lazy"></figure>

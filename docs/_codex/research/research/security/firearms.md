@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Firearms - Research Tree"
+title: "Firearms - Research"
 h1: "Firearms"
 description: "Firearms is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/security/firearms.png
@@ -20,12 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a>
-<ul>
-<li><a href="/codex/research/research/security/root/">Security</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; Firearms</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/firearms.png" alt="Firearms preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "White Queen - Item Database"
+title: "White Queen - Stardeus Wiki and Game Guide"
 h1: "White Queen"
 description: "White Queen is a buildable device in Stardeus. View build costs, research requirements and stats."
 image: /img/codex/sprites/database/objects/cosmetics/chess/chess-queen-w.png

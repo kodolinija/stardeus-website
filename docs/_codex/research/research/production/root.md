@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Production - Research Tree"
+title: "Production - Research"
 h1: "Production"
 description: "Production is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/root.png

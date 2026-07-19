@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nuclear Datoid - Item Database"
+title: "Nuclear Datoid - Stardeus Wiki and Game Guide"
 h1: "Nuclear Datoid"
 description: "Data used to understand nuclear reactions."
 image: /img/codex/sprites/database/obj/datoids/datoid-nuclear.png
@@ -14,28 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/nuclear-enrichment/">Nuclear Enrichment</a>
-<ul>
-<li><a href="/codex/research/research/production/oil-processing/">Oil Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/material-processing/">Material Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; <a href="/codex/research/research/production/material-processing/">Material Processing</a> &rarr; <a href="/codex/research/research/production/oil-processing/">Oil Processing</a> &rarr; <a href="/codex/research/research/production/nuclear-enrichment/">Nuclear Enrichment</a> &rarr; Nuclear Datoid</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/datoids/datoid-nuclear.png" alt="Nuclear Datoid preview" loading="lazy"></figure>

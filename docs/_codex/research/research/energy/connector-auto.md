@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Connector Automation - Research Tree"
+title: "Connector Automation - Research"
 h1: "Connector Automation"
 description: "Connector Automation is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/connector-auto.png
@@ -20,16 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/energy/connector-improved/">Improved Connector</a>
-<ul>
-<li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a>
-<ul>
-<li><a href="/codex/research/research/energy/root/">Energy</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; Connector Automation</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/connector-auto.png" alt="Connector Automation preview" loading="lazy"></figure>

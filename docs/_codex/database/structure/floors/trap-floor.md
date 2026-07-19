@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Trap Floor - Item Database"
+title: "Trap Floor - Stardeus Wiki and Game Guide"
 h1: "Trap Floor"
 description: "A floor that penetrates a hostile being with spikes when stepped on."
 image: /img/codex/sprites/database/structure/floors/trap-floor.png
@@ -16,24 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/security/trap-floor/">Trap Floor</a>
-<ul>
-<li><a href="/codex/research/research/security/fire-suppression/">Fire Suppression</a>
-<ul>
-<li><a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a>
-<ul>
-<li><a href="/codex/research/research/security/door-permissions/">Door Permissions</a>
-<ul>
-<li><a href="/codex/research/research/security/root/">Security</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a> &rarr; <a href="/codex/research/research/security/fire-suppression/">Fire Suppression</a> &rarr; <a href="/codex/research/research/security/trap-floor/">Trap Floor</a> &rarr; Trap Floor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/floors/trap-floor.png" alt="Trap Floor preview" loading="lazy"></figure>

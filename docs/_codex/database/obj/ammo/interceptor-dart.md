@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Interceptor Darts - Item Database"
+title: "Interceptor Darts - Stardeus Wiki and Game Guide"
 h1: "Interceptor Darts"
 description: "A compact, self-guided missile designed for short-range defense, capable of intercepting moving targets with precision."
 image: /img/codex/sprites/database/obj/ammo/interceptor-dart.png
@@ -14,16 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/point-defense/">Point Defense Weapons</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/shields/">Shields</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/shields/">Shields</a> &rarr; <a href="/codex/research/research/ship-combat/point-defense/">Point Defense Weapons</a> &rarr; Interceptor Darts</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/ammo/interceptor-dart.png" alt="Interceptor Darts preview" loading="lazy"></figure>

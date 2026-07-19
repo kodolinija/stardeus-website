@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Pig Head - Item Database"
+title: "Pig Head - Stardeus Wiki and Game Guide"
 h1: "Pig Head"
 description: "An organic head of a pig."
 image: /img/codex/sprites/database/obj/parts/head/head-pig.png

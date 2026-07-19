@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Carrier Frame - Item Database"
+title: "Carrier Frame - Stardeus Wiki and Game Guide"
 h1: "Carrier Frame"
 description: "A body of a Carrier Drone."
 image: /img/codex/sprites/database/obj/parts/body/body-carrier.png

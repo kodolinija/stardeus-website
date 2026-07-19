@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Arcade Cabinet - Item Database"
+title: "Arcade Cabinet - Stardeus Wiki and Game Guide"
 h1: "Arcade Cabinet"
 description: "A coin-operated gaming machine with a screen, controls, and built-in games."
 image: /img/codex/sprites/database/objects/devices/arcade-cabinet.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>85%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a>
-<ul>
-<li><a href="/codex/research/research/entertainment/root/">Entertainment</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; <a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a> &rarr; Arcade Cabinet</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/arcade-cabinet.png" alt="Arcade Cabinet preview" loading="lazy"></figure>

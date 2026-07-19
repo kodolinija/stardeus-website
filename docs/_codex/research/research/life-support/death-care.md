@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Death Care - Research Tree"
+title: "Death Care - Research"
 h1: "Death Care"
 description: "Death Care is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/life-support/death-care.png
@@ -24,8 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; Death Care</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/death-care.png" alt="Death Care preview" loading="lazy"></figure>

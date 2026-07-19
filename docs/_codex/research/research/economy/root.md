@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Economy - Research Tree"
+title: "Economy - Research"
 h1: "Economy"
 description: "Economy is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/economy/root.png

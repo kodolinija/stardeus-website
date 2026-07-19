@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Basic Research - Research Tree"
+title: "Basic Research - Research"
 h1: "Basic Research"
 description: "Basic Research is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/computing/research.png
@@ -22,8 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/computing/root/">Computing</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; Basic Research</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/computing/research.png" alt="Basic Research preview" loading="lazy"></figure>

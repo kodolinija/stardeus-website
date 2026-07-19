@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cat Torso - Item Database"
+title: "Cat Torso - Stardeus Wiki and Game Guide"
 h1: "Cat Torso"
 description: "An organic cat body."
 image: /img/codex/sprites/database/obj/parts/body/body-cat.png

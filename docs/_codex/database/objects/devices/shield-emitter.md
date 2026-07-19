@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Shield Emitter - Item Database"
+title: "Shield Emitter - Stardeus Wiki and Game Guide"
 h1: "Shield Emitter"
 description: "Projects an energy barrier that absorbs or deflects energy and low caliber weapon attacks."
 image: /img/codex/sprites/database/objects/devices/shield-emitter.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Must be outdoors, Class Points: <span class="accent"><b>8</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/ship-combat/shields/">Shields</a>
-<ul>
-<li><a href="/codex/research/research/ship-combat/root/">Ship Combat</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/shields/">Shields</a> &rarr; Shield Emitter</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/shield-emitter.png" alt="Shield Emitter preview" loading="lazy"></figure>

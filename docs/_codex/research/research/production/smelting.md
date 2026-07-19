@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Smelting - Research Tree"
+title: "Smelting - Research"
 h1: "Smelting"
 description: "Smelting is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/production/smelting.png
@@ -24,12 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/assembly/">Assembly</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; Smelting</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/smelting.png" alt="Smelting preview" loading="lazy"></figure>

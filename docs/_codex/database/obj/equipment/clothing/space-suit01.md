@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Space Suit - Item Database"
+title: "Space Suit - Stardeus Wiki and Game Guide"
 h1: "Space Suit"
 description: "A regular space suit. Requires a helmet."
 image: /img/codex/sprites/database/obj/equipment/clothing/space-suit01.png
@@ -18,16 +18,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/space-suit/">Space Suit</a>
-<ul>
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; Space Suit</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/clothing/space-suit01.png" alt="Space Suit preview" loading="lazy"></figure>

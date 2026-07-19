@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Cat Brain - Item Database"
+title: "Cat Brain - Stardeus Wiki and Game Guide"
 h1: "Cat Brain"
 description: "An organic brain of a cat."
 image: /img/codex/sprites/database/obj/parts/brain/brain-cat.png
@@ -20,28 +20,6 @@ section: "Database"
 <p>Mind Transfer: Yes, Machine Learning: No</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a>
-<ul>
-<li><a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a>
-<ul>
-<li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; <a href="/codex/research/research/life-support/medical-care/">Medical Care</a> &rarr; <a href="/codex/research/research/life-support/genetic-engineering/">Genetic Engineering</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a> &rarr; <a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a> &rarr; Cat Brain</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/parts/brain/brain-cat.png" alt="Cat Brain preview" loading="lazy"></figure>

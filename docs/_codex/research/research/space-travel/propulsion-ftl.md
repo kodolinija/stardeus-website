@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "FTL Propulsion - Research Tree"
+title: "FTL Propulsion - Research"
 h1: "FTL Propulsion"
 description: "FTL Propulsion is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/space-travel/propulsion-ftl.png
@@ -23,32 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/warp-drive/">Warp Drive</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/black-holes/">Black Holes</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/bridge/">Bridge</a>
-<ul>
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a> &rarr; <a href="/codex/research/research/space-travel/black-holes/">Black Holes</a> &rarr; <a href="/codex/research/research/space-travel/warp-drive/">Warp Drive</a> &rarr; FTL Propulsion</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/space-travel/propulsion-ftl.png" alt="FTL Propulsion preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Communications - Research Tree"
+title: "Communications - Research"
 h1: "Communications"
 description: "Communications is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/scanning/communications.png
@@ -20,8 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/scanning/root/">Scanning</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; Communications</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/scanning/communications.png" alt="Communications preview" loading="lazy"></figure>

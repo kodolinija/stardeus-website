@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Surgery Hub - Item Database"
+title: "Surgery Hub - Stardeus Wiki and Game Guide"
 h1: "Surgery Hub"
 description: "A sterile zone for performing invasive medical procedures, amputations, organ transplants, and more."
 image: /img/codex/sprites/database/objects/devices/surgery-hub.png
@@ -14,16 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/death-care/">Death Care</a>
-<ul>
-<li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/death-care/">Death Care</a> &rarr; <a href="/codex/research/research/life-support/medical-care/">Medical Care</a> &rarr; Surgery Hub</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/surgery-hub.png" alt="Surgery Hub preview" loading="lazy"></figure>

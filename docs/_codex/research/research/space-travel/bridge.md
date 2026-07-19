@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Bridge - Research Tree"
+title: "Bridge - Research"
 h1: "Bridge"
 description: "Bridge is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/space-travel/bridge.png
@@ -21,8 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/space-travel/root/">Space Travel</a></li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; Bridge</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/space-travel/bridge.png" alt="Bridge preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Jet Suit - Item Database"
+title: "Jet Suit - Stardeus Wiki and Game Guide"
 h1: "Jet Suit"
 description: "An advanced space suit equipped with a mini-jet. Requires a helmet."
 image: /img/codex/sprites/database/obj/equipment/clothing/space-suit02.png
@@ -20,20 +20,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a>
-<ul>
-<li><a href="/codex/research/research/production/space-suit/">Space Suit</a>
-<ul>
-<li><a href="/codex/research/research/production/weaving/">Weaving</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; <a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a> &rarr; Jet Suit</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/clothing/space-suit02.png" alt="Jet Suit preview" loading="lazy"></figure>

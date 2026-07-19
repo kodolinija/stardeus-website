@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Repair Station - Item Database"
+title: "Repair Station - Stardeus Wiki and Game Guide"
 h1: "Repair Station"
 description: "Performs robot and drone maintenance and repairs any damage."
 image: /img/codex/sprites/database/objects/devices/repair-station.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a>
-<ul>
-<li><a href="/codex/research/research/robotics/root/">Robotics</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; Repair Station</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/repair-station.png" alt="Repair Station preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Nutrient Extractor - Item Database"
+title: "Nutrient Extractor - Stardeus Wiki and Game Guide"
 h1: "Nutrient Extractor"
 description: "Extracts nutrients and raw materials from organic matter."
 image: /img/codex/sprites/database/objects/devices/nutrient-extractor.png
@@ -14,12 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; Nutrient Extractor</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/nutrient-extractor.png" alt="Nutrient Extractor preview" loading="lazy"></figure>

@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Energy - Research Tree"
+title: "Energy - Research"
 h1: "Energy"
 description: "Energy is a research technology in Stardeus. View its complete prerequisite path."
 image: /img/codex/sprites/research/research/energy/root.png

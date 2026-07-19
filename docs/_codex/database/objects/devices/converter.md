@@ -1,6 +1,6 @@
 ---
 layout: codex
-title: "Converter - Item Database"
+title: "Converter - Stardeus Wiki and Game Guide"
 h1: "Converter"
 description: "Rearranges molecular structure of certain materials to convert resources from one type to another."
 image: /img/codex/sprites/database/objects/devices/converter.png
@@ -14,20 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<ul class="codex-index">
-<li><a href="/codex/research/research/production/material-processing/">Material Processing</a>
-<ul>
-<li><a href="/codex/research/research/production/recycling/">Recycling</a>
-<ul>
-<li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a>
-<ul>
-<li><a href="/codex/research/research/production/root/">Production</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a> &rarr; <a href="/codex/research/research/production/material-processing/">Material Processing</a> &rarr; Converter</div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/converter.png" alt="Converter preview" loading="lazy"></figure>
