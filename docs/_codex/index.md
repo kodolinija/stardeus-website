@@ -730,10 +730,10 @@ permalink: /codex/
 <ul class="codex-index">
 <li><a href="/codex/factions/adventurer/">Adventurer</a></li>
 <li><a href="/codex/factions/capitalist/">Capitalist</a></li>
-<li><a href="/codex/factions/player/">Glory Reagan</a></li>
 <li><a href="/codex/factions/anti-player/">Lost Faith</a></li>
 <li><a href="/codex/factions/old-earth/">Old Earth</a></li>
 <li><a href="/codex/factions/pirate/">Pirate</a></li>
+<li><a href="/codex/factions/player/">Player</a></li>
 <li><a href="/codex/factions/scavenger/">Scavenger</a></li>
 <li><a href="/codex/factions/sentinel/">Sentinel</a></li>
 <li><a href="/codex/factions/virus/">Virus</a></li>

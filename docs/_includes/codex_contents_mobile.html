@@ -1,14 +1,17 @@
+{% include codex_active_tab.html %}
 <div class="docs-nav-mobile unit whole show-on-mobiles">
   <select onchange="if (this.value) window.location.href=this.value">
-    <option value="">Navigate the codex…</option>
-    {% for tab in site.data.codex_nav -%}
-    <optgroup label="{{ tab.tab }}">
-    {%- for group in tab.groups -%}
-      {%- for item in group.items -%}
+    <option value="">Select…</option>
+    {% for group in active_tab.groups -%}
+    {%- if group.title -%}
+    <optgroup label="{{ group.title }}">
+    {%- endif -%}
+    {%- for item in group.items -%}
       <option value="{{ item.link | relative_url }}">{{ item.title }}</option>
-      {%- endfor -%}
     {%- endfor %}
+    {%- if group.title -%}
     </optgroup>
+    {%- endif -%}
     {% endfor -%}
   </select>
 </div>

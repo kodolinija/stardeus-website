@@ -1197,14 +1197,14 @@
           link: /codex/factions/adventurer/
         - title: "Capitalist"
           link: /codex/factions/capitalist/
-        - title: "Glory Reagan"
-          link: /codex/factions/player/
         - title: "Lost Faith"
           link: /codex/factions/anti-player/
         - title: "Old Earth"
           link: /codex/factions/old-earth/
         - title: "Pirate"
           link: /codex/factions/pirate/
+        - title: "Player"
+          link: /codex/factions/player/
         - title: "Scavenger"
           link: /codex/factions/scavenger/
         - title: "Sentinel"
