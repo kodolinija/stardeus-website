@@ -86,6 +86,7 @@ permalink: /codex/
 <li><a href="/codex/manual/resources/configure-crafter/">Configuring Crafting Devices</a></li>
 <li><a href="/codex/manual/resources/launching-expeditions/">Launching Expeditions</a></li>
 <li><a href="/codex/manual/resources/scanning-for-resources/">Scanning for Resources</a></li>
+<li><a href="/codex/manual/resources/trade/">Trade</a></li>
 </ul>
 </section>
 <section class="codex-home-section" id="ship-combat">

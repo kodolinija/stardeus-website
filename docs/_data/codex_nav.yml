@@ -98,6 +98,8 @@
           link: /codex/manual/resources/launching-expeditions/
         - title: "Scanning for Resources"
           link: /codex/manual/resources/scanning-for-resources/
+        - title: "Trade"
+          link: /codex/manual/resources/trade/
     - title: "Ship Combat"
       items:
         - title: "Battle Stations"
