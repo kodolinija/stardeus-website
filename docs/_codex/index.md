@@ -73,18 +73,19 @@ permalink: /codex/
 <li><a href="/codex/manual/electricity/unifying-grid/">Unifying the Electric Grid</a></li>
 </ul>
 </section>
-<section class="codex-home-section" id="resources">
-<h2>Production</h2>
-<ul class="codex-index">
-<li><a href="/codex/manual/resources/configure-crafter/">Configuring Crafting Devices</a></li>
-<li><a href="/codex/manual/resources/launching-expeditions/">Launching Expeditions</a></li>
-</ul>
-</section>
 <section class="codex-home-section" id="research">
 <h2>Research</h2>
 <ul class="codex-index">
 <li><a href="/codex/manual/research/datoids/">Datoids</a></li>
 <li><a href="/codex/manual/research/disk/">Research Disk Storage</a></li>
+</ul>
+</section>
+<section class="codex-home-section" id="resources">
+<h2>Resources and Production</h2>
+<ul class="codex-index">
+<li><a href="/codex/manual/resources/configure-crafter/">Configuring Crafting Devices</a></li>
+<li><a href="/codex/manual/resources/launching-expeditions/">Launching Expeditions</a></li>
+<li><a href="/codex/manual/resources/scanning-for-resources/">Scanning for Resources</a></li>
 </ul>
 </section>
 <section class="codex-home-section" id="ship-combat">

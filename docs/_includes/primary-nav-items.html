@@ -6,6 +6,6 @@
     {% else -%}
       {% if page.url contains p.link %} class="current" {%- endif -%}
     {% endif -%}
-  ><a href="{{ p.link | relative_url }}">{{ p.title }}</a></li>
+  ><a href="{{ p.link | relative_url }}"{% if p.icon %} title="{{ p.title }}"{% endif %}>{% if p.icon %}<span class="fa-brands fa-{{ p.icon }}" aria-hidden="true"></span><span class="sr-only">{{ p.title }}</span>{% else %}{{ p.title }}{% endif %}</a></li>
   {% endfor -%}
 </ul>

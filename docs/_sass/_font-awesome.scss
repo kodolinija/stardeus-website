@@ -10,6 +10,18 @@
        url('../fonts/FontAwesome.svg?9h6hxj#FontAwesome') format('svg');
 }
 
+/*
+ * Font Awesome Free 6.7.2 by Fonticons, Inc. - https://fontawesome.com
+ * License - https://fontawesome.com/license/free
+ */
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('../fonts/fa-brands-400.woff2') format('woff2');
+}
+
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -25,4 +37,28 @@
 
 .fa-pencil:before {
   content: "\f040";
+}
+
+.fa-brands {
+  display: inline-block;
+  font-family: 'Font Awesome 6 Brands';
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-discord:before {
+  content: "\f392";
+}
+
+.fa-reddit:before {
+  content: "\f1a1";
+}
+
+.fa-x-twitter:before {
+  content: "\e61b";
 }

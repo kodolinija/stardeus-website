@@ -16,21 +16,24 @@
 - title: Steam
   link: https://store.steampowered.com/app/1380910/Stardeus/
   show_on_mobile: true
-- title: Discord
-  link: https://discord.com/invite/89amEwP
-  show_on_mobile: false
-- title: Press Kit
-  link: https://presskit.kodolinija.com/stardeus/
-  show_on_mobile: false
-- title: Reddit
-  link: https://reddit.com/r/stardeus
-  show_on_mobile: true
-- title: X
-  link: https://x.com/StardeusGame
-  show_on_mobile: true
 - title: Codex
   link: /codex/
   show_on_mobile: true
 - title: Changelog
   link: /changelog/
+  show_on_mobile: true
+- title: Press Kit
+  link: https://presskit.kodolinija.com/stardeus/
   show_on_mobile: false
+- title: Discord
+  icon: discord
+  link: https://discord.com/invite/89amEwP
+  show_on_mobile: true
+- title: Reddit
+  icon: reddit
+  link: https://reddit.com/r/stardeus
+  show_on_mobile: true
+- title: X
+  icon: x-twitter
+  link: https://x.com/StardeusGame
+  show_on_mobile: true

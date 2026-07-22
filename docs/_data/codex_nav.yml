@@ -84,18 +84,20 @@
           link: /codex/manual/electricity/multiple-grids/
         - title: "Unifying the Electric Grid"
           link: /codex/manual/electricity/unifying-grid/
-    - title: "Production"
-      items:
-        - title: "Configuring Crafting Devices"
-          link: /codex/manual/resources/configure-crafter/
-        - title: "Launching Expeditions"
-          link: /codex/manual/resources/launching-expeditions/
     - title: "Research"
       items:
         - title: "Datoids"
           link: /codex/manual/research/datoids/
         - title: "Research Disk Storage"
           link: /codex/manual/research/disk/
+    - title: "Resources and Production"
+      items:
+        - title: "Configuring Crafting Devices"
+          link: /codex/manual/resources/configure-crafter/
+        - title: "Launching Expeditions"
+          link: /codex/manual/resources/launching-expeditions/
+        - title: "Scanning for Resources"
+          link: /codex/manual/resources/scanning-for-resources/
     - title: "Ship Combat"
       items:
         - title: "Battle Stations"

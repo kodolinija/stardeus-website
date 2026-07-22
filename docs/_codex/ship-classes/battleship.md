@@ -8,6 +8,6 @@ section: "Ship Classes"
 ---
 
 <p><span style="color:#A0BBF7">Requirements</span>:<br>License Fee: <span class="accent"><b>$300K</b></span><br>Must Own: <span class="accent"><b>Battlecruiser</b></span><br>Size: <span class="accent"><b>1500</b></span>+<br>Energy: <span class="accent"><b>6MW</b></span>+</p>
-<p><span style="color:#A0BBF7">Stats</span>:<br>Class Points: <span class="accent"><b>125</b></span><br>Hull Points (Class Bonus): <span class="accent"><b>+6000</b></span><br>Base Evasion: <span class="accent"><b>5%</b></span><br>Flux Bonus: <span class="accent"><b>850</b></span><br>Max Flux Capacity: <span class="accent"><b>4000</b></span><br>Base Vent Rate: <span class="accent"><b>+720/h</b></span><br>Flux Vents (Max): <span class="accent"><b>12</b></span><br></p>
+<p><span style="color:#A0BBF7">Stats</span>:<br>Class Points: <span class="accent"><b>125</b></span><br>Hull Points (Class Bonus): <span class="accent"><b>+6000</b></span><br>Base Evasion: <span class="accent"><b>5%</b></span><br>Flux Bonus: <span class="accent"><b>850</b></span><br>Max Flux Capacity: <span class="accent"><b>4000</b></span><br>Base Vent Rate: <span class="accent"><b>+720/h</b></span><br>Flux Vents (Max): <span class="accent"><b>12</b></span></p>
 
 <figure class="codex-image"><img src="/img/codex/sprites/ship-classes/battleship.png" alt="Battleship preview" loading="lazy"></figure>

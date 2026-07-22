@@ -1,10 +1,10 @@
 ---
 layout: codex
-title: "Launching Expeditions - Production Codex"
+title: "Launching Expeditions - Resources and Production Codex"
 h1: "Launching Expeditions"
 description: "Use the Shuttle to launch expeditions for mining resources and exploring points of interest."
 section: "Manual"
-group: "Production"
+group: "Resources and Production"
 group_url: /codex/#resources
 ---
 
