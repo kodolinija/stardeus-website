@@ -147,7 +147,7 @@
         - title: "UI Scaling"
           link: /codex/manual/ui/ui-scaling/
 - tab: "Materials"
-  link: /codex/materials/
+  link: /codex/database/obj/ammo/interceptor-dart/
   groups:
     - title: "Ammo"
       items:
@@ -630,7 +630,7 @@
         - title: "Knife"
           link: /codex/database/obj/equipment/weapons/knife01/
 - tab: "Blueprints"
-  link: /codex/blueprints/
+  link: /codex/database/objects/devices/data-harvester-advanced/
   groups:
     - items:
         - title: "Advanced Data Harvester"
