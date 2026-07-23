@@ -25,3 +25,6 @@ group_url: /codex/#beings
 <p>You can manage everyone's jobs in <span class="nobr"><span class="accent">Ship Computer → Apps → Jobs</span></span>.</p>
 
 <figure class="codex-image"><img src="/img/codex/UI/JobMatrix.png" alt="Tasks, Jobs, and Skills - JobMatrix" loading="lazy"></figure>
+<p>To force-assign a task, select a worker, then press <kbd>Mouse2</kbd> over the task location and use the popup menu to assign it. The being must be able to reach the location, perform the task, and must not be drafted.</p>
+
+<figure class="codex-video"><video src="/vid/codex/UI/ForceAssignTask.webm" controls loop muted playsinline preload="metadata"></video></figure>
