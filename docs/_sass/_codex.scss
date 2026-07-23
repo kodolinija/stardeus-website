@@ -88,6 +88,16 @@ $codex-muted: #888888;
     }
   }
 
+  .codex-comments {
+    margin-top: 2.5em;
+    padding-top: 1.5em;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+
+    .codex-comments-title {
+      margin-bottom: 0.8em;
+    }
+  }
+
   .codex-topbar {
     // Full-bleed background (this section sits outside .wrap .grid's own
     // max-width), with its content re-centered to that same content width.
