@@ -573,6 +573,8 @@
           link: /codex/database/obj/parts/eye/mini-optics/
         - title: "Mini Tracks"
           link: /codex/database/obj/parts/mobilizer/mini-tracks/
+        - title: "Mood Regulator"
+          link: /codex/database/obj/parts/implant/mood-regulator/
         - title: "Multi Tool"
           link: /codex/database/obj/parts/hand/multi-tool/
         - title: "Servo Arm"
