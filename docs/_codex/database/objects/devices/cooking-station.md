@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Operator Required</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Cooking Station</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/cooking-station.png" alt="Cooking Station preview" loading="lazy"></figure>

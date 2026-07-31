@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>75%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a> &rarr; <a href="/codex/research/research/security/fire-suppression/">Fire Suppression</a> &rarr; Fluid Cannon</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a> &rarr; <a href="/codex/research/research/security/fire-suppression/">Fire Suppression</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/fluid-cannon.png" alt="Fluid Cannon preview" loading="lazy"></figure>

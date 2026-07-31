@@ -21,6 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a> &rarr; Mind Control</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/rogue-ai/mind-control.png" alt="Mind Control preview" loading="lazy"></figure>

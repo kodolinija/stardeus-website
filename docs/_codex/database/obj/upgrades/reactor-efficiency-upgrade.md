@@ -14,6 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a> &rarr; Reactor Efficiency Upgrade</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/reactor-efficiency-upgrade.png" alt="Reactor Efficiency Upgrade preview" loading="lazy"></figure>

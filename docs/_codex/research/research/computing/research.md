@@ -22,6 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; Basic Research</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/computing/research.png" alt="Basic Research preview" loading="lazy"></figure>

@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/sector-nuke/">Sector Nuke</a> &rarr; Sector Nuke</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/sector-nuke/">Sector Nuke</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/sector-nuke.png" alt="Sector Nuke preview" loading="lazy"></figure>

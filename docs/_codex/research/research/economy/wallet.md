@@ -19,6 +19,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; Wallet</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/wallet.png" alt="Wallet preview" loading="lazy"></figure>

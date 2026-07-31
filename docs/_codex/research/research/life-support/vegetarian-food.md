@@ -23,6 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Vegetarian Food</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/vegetarian-food.png" alt="Vegetarian Food preview" loading="lazy"></figure>

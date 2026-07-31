@@ -21,6 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a> &rarr; Nuclear Energy Storage</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/storage-nuclear.png" alt="Nuclear Energy Storage preview" loading="lazy"></figure>

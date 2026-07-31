@@ -20,6 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; Basic Weapons</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/weapons-basic.png" alt="Basic Weapons preview" loading="lazy"></figure>

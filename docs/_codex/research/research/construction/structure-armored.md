@@ -24,6 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/construction/structure-reinforced/">Reinforced Structure</a> &rarr; Armored Structure</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a> &rarr; <a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/construction/structure-reinforced/">Reinforced Structure</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/construction/structure-armored.png" alt="Armored Structure preview" loading="lazy"></figure>

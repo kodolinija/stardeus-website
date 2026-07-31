@@ -20,6 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; Improved Oxygen Production</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/oxygen-improved.png" alt="Improved Oxygen Production preview" loading="lazy"></figure>

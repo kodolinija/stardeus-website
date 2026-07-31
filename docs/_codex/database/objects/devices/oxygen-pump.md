@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>85%</b></span>, Must be indoors</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/oxygen-improved/">Improved Oxygen Production</a> &rarr; Oxygen Pump</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/oxygen-improved/">Improved Oxygen Production</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/oxygen-pump.png" alt="Oxygen Pump preview" loading="lazy"></figure>

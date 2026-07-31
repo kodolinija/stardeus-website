@@ -20,6 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a> &rarr; Communications</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/scanning/root/">Scanning</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/scanning/communications.png" alt="Communications preview" loading="lazy"></figure>

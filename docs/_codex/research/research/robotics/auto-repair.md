@@ -22,6 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; Auto Repair</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/auto-repair.png" alt="Auto Repair preview" loading="lazy"></figure>

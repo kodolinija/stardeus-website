@@ -24,6 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; Electronics</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/electronics.png" alt="Electronics preview" loading="lazy"></figure>

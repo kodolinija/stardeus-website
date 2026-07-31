@@ -29,6 +29,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; Furniture</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/habitation/furniture.png" alt="Furniture preview" loading="lazy"></figure>

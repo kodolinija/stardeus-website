@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>4x4</b></span></span>, Cover: <span class="accent"><b>25%</b></span>, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a> &rarr; <a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a> &rarr; <a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a> &rarr; <a href="/codex/research/research/life-support/ocean-generation/">Ocean Generation</a> &rarr; Ocean Generator</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a> &rarr; <a href="/codex/research/research/life-support/heating-improved/">Improved Heating</a> &rarr; <a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a> &rarr; <a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a> &rarr; <a href="/codex/research/research/life-support/ocean-generation/">Ocean Generation</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/terraformer-aqua.png" alt="Ocean Generator preview" loading="lazy"></figure>

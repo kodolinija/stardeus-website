@@ -24,6 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; Biochemical Extraction</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/biochemical-extraction.png" alt="Biochemical Extraction preview" loading="lazy"></figure>

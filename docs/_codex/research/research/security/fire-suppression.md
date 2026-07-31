@@ -21,6 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a> &rarr; Fire Suppression</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/fire-suppression.png" alt="Fire Suppression preview" loading="lazy"></figure>

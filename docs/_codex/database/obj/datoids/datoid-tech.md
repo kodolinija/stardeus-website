@@ -14,6 +14,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a> &rarr; Tech Datoid</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/datoids/datoid-tech.png" alt="Tech Datoid preview" loading="lazy"></figure>

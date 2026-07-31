@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Must be outdoors, Class Points: <span class="accent"><b>2</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/shields/">Shields</a> &rarr; <a href="/codex/research/research/ship-combat/point-defense/">Point Defense Weapons</a> &rarr; Interceptor Turret</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/shields/">Shields</a> &rarr; <a href="/codex/research/research/ship-combat/point-defense/">Point Defense Weapons</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/interceptor-turret.png" alt="Interceptor Turret preview" loading="lazy"></figure>

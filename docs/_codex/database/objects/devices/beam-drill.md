@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Must be outdoors, Industrial Equipment, Produces Heat</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/remote-mining/">Remote Mining</a> &rarr; Beam Drill</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/remote-mining/">Remote Mining</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/beam-drill.png" alt="Beam Drill preview" loading="lazy"></figure>

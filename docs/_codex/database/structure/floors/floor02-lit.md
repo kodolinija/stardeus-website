@@ -16,6 +16,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/lighting/">Structural Lighting</a> &rarr; Floor (Lit)</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/lighting/">Structural Lighting</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/structure/floors/floor02-lit.png" alt="Floor (Lit) preview" loading="lazy"></figure>

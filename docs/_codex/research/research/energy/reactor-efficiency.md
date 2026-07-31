@@ -21,6 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; Reactor Efficiency</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/energy/reactor-efficiency.png" alt="Reactor Efficiency preview" loading="lazy"></figure>

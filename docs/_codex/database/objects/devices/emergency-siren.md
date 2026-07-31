@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Must be indoors</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a> &rarr; Emergency Siren</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/door-permissions/">Door Permissions</a> &rarr; <a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/emergency-siren.png" alt="Emergency Siren preview" loading="lazy"></figure>

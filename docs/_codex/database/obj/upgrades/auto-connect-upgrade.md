@@ -16,6 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; <a href="/codex/research/research/energy/connector-auto/">Connector Automation</a> &rarr; Auto Connect Upgrade</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/connector-improved/">Improved Connector</a> &rarr; <a href="/codex/research/research/energy/connector-auto/">Connector Automation</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/upgrades/auto-connect-upgrade.png" alt="Auto Connect Upgrade preview" loading="lazy"></figure>

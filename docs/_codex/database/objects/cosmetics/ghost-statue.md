@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>25%</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; <a href="/codex/research/research/habitation/halloween-decorations/">Halloween Decorations</a> &rarr; Ghost Statue</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/decorations/">Decorations</a> &rarr; <a href="/codex/research/research/habitation/halloween-decorations/">Halloween Decorations</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/cosmetics/ghost-statue.png" alt="Ghost Statue preview" loading="lazy"></figure>

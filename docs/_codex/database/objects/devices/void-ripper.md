@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a> &rarr; <a href="/codex/research/research/space-travel/black-holes/">Black Holes</a> &rarr; Void Ripper</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/return-beacon/">Return Beacon</a> &rarr; <a href="/codex/research/research/space-travel/black-holes/">Black Holes</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/void-ripper.png" alt="Void Ripper preview" loading="lazy"></figure>

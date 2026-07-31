@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>85%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a> &rarr; <a href="/codex/research/research/energy/reactor-improved/">Improved Reactor</a> &rarr; Matter Reactor (150kW)</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/reactor-efficiency/">Reactor Efficiency</a> &rarr; <a href="/codex/research/research/energy/reactor-improved/">Improved Reactor</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/matter-reactor.png" alt="Matter Reactor (150kW) preview" loading="lazy"></figure>

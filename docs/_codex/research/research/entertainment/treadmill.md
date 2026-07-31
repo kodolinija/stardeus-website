@@ -20,6 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; Treadmill</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/entertainment/treadmill.png" alt="Treadmill preview" loading="lazy"></figure>

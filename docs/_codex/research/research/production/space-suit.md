@@ -22,6 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; Space Suit</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/space-suit.png" alt="Space Suit preview" loading="lazy"></figure>

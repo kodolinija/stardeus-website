@@ -23,6 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; <a href="/codex/research/research/economy/trade-portal/">Trade Portal</a> &rarr; <a href="/codex/research/research/economy/stock-market/">Stock Market</a> &rarr; <a href="/codex/research/research/economy/stock-trading/">Stock Trading</a> &rarr; Stock Market Insights</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/economy/root/">Economy</a> &rarr; <a href="/codex/research/research/economy/wallet/">Wallet</a> &rarr; <a href="/codex/research/research/economy/trade-portal/">Trade Portal</a> &rarr; <a href="/codex/research/research/economy/stock-market/">Stock Market</a> &rarr; <a href="/codex/research/research/economy/stock-trading/">Stock Trading</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/economy/market-insights.png" alt="Stock Market Insights preview" loading="lazy"></figure>

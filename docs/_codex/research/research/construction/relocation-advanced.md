@@ -22,6 +22,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/winch/">Winch</a> &rarr; Advanced Relocation</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/winch/">Winch</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/construction/relocation-advanced.png" alt="Advanced Relocation preview" loading="lazy"></figure>

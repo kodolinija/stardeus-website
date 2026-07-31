@@ -20,6 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; Maintenance</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/robotics/maintenance.png" alt="Maintenance preview" loading="lazy"></figure>

@@ -17,6 +17,6 @@ section: "Database"
 <p>Vegan Food</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a> &rarr; Bread</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/vegetarian-food/">Vegetarian Food</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/meals/bread.png" alt="Bread preview" loading="lazy"></figure>

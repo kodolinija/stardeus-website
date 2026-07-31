@@ -24,6 +24,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Improved Planter</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/life-support/planter-improved.png" alt="Improved Planter preview" loading="lazy"></figure>

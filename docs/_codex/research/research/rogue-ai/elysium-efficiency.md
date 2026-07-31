@@ -23,6 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a> &rarr; Elysium Efficiency</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/rogue-ai/elysium-efficiency.png" alt="Elysium Efficiency preview" loading="lazy"></figure>

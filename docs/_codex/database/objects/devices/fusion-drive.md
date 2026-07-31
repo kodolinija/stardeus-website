@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment, Class Points: <span class="accent"><b>1</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a> &rarr; Fusion Drive</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/space-travel/root/">Space Travel</a> &rarr; <a href="/codex/research/research/space-travel/bridge/">Bridge</a> &rarr; <a href="/codex/research/research/space-travel/propulsion/">Propulsion</a> &rarr; <a href="/codex/research/research/space-travel/propulsion-fusion/">Fusion Propulsion</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/fusion-drive.png" alt="Fusion Drive preview" loading="lazy"></figure>

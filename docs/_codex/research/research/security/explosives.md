@@ -21,6 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a> &rarr; Explosives</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/explosives.png" alt="Explosives preview" loading="lazy"></figure>

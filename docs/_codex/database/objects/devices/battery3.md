@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a> &rarr; <a href="/codex/research/research/energy/storage-nuclear/">Nuclear Energy Storage</a> &rarr; Nuclear Battery (500kW)</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a> &rarr; <a href="/codex/research/research/energy/storage-nuclear/">Nuclear Energy Storage</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/battery3.png" alt="Nuclear Battery (500kW) preview" loading="lazy"></figure>

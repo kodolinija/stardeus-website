@@ -17,6 +17,6 @@ section: "Database"
 <p>Carnivore Food</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; Survival Meal</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/meals/survival-meal.png" alt="Survival Meal preview" loading="lazy"></figure>

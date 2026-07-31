@@ -23,6 +23,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; <a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a> &rarr; Jukebox</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/entertainment/root/">Entertainment</a> &rarr; <a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/entertainment/jukebox.png" alt="Jukebox preview" loading="lazy"></figure>

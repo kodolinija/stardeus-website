@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, Must be outdoors, Class Points: <span class="accent"><b>10</b></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-plasma/">Plasma Weapons</a> &rarr; Gauss Striker</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a> &rarr; <a href="/codex/research/research/ship-combat/weapons-plasma/">Plasma Weapons</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/gauss-striker.png" alt="Gauss Striker preview" loading="lazy"></figure>

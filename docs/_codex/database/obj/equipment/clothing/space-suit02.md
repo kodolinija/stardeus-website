@@ -20,6 +20,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/wardrobe-steel/">Steel Wardrobe</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; <a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a> &rarr; Jet Suit</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; <a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/clothing/space-suit02.png" alt="Jet Suit preview" loading="lazy"></figure>

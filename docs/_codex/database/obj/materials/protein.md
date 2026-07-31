@@ -19,6 +19,6 @@ section: "Database"
 <p>Carnivore Food</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; Raw Meat</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/protein.png" alt="Raw Meat preview" loading="lazy"></figure>

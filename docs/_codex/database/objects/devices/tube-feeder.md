@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><b>1x1</b></span>, Cover: <b>50%</b>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a> &rarr; Tube Feeder</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium/">Elysium</a> &rarr; <a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/tube-feeder.png" alt="Tube Feeder preview" loading="lazy"></figure>

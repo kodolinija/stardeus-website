@@ -21,7 +21,7 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a> &rarr; Advanced Assembly</div>
-<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/metal-purification/">Metal Purification</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a> &rarr; Advanced Assembly</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/electronics/">Electronics</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a></div>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/metal-purification/">Metal Purification</a> &rarr; <a href="/codex/research/research/production/assembly-improved/">Improved Assembly</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/assembly-advanced.png" alt="Advanced Assembly preview" loading="lazy"></figure>

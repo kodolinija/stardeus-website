@@ -21,7 +21,7 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a> &rarr; <a href="/codex/research/research/security/explosives/">Explosives</a> &rarr; Energy Weapons</div>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; Energy Weapons</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a> &rarr; <a href="/codex/research/research/security/explosives/">Explosives</a></div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/energy-weapons.png" alt="Energy Weapons preview" loading="lazy"></figure>

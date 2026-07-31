@@ -14,6 +14,6 @@ section: "Database"
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment</p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/storage/">Storage</a> &rarr; <a href="/codex/research/research/habitation/storage-kitchen-improved/">Improved Kitchen Storage</a> &rarr; Freezer</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/habitation/root/">Habitation</a> &rarr; <a href="/codex/research/research/habitation/furniture/">Furniture</a> &rarr; <a href="/codex/research/research/habitation/storage/">Storage</a> &rarr; <a href="/codex/research/research/habitation/storage-kitchen-improved/">Improved Kitchen Storage</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/objects/devices/freezer.png" alt="Freezer preview" loading="lazy"></figure>

@@ -20,6 +20,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; Door Permissions</div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/door-permissions.png" alt="Door Permissions preview" loading="lazy"></figure>
