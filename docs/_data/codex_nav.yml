@@ -36,6 +36,8 @@
       items:
         - title: "Game Over"
           link: /codex/manual/big-questions/game-over/
+        - title: "Going Rogue"
+          link: /codex/manual/big-questions/rogue-ai/
         - title: "Good vs Evil"
           link: /codex/manual/big-questions/good-vs-evil/
         - title: "Reversing the Upload"
@@ -631,6 +633,20 @@
           link: /codex/database/obj/equipment/weapons/handgun01/
         - title: "Knife"
           link: /codex/database/obj/equipment/weapons/knife01/
+        - title: "Machete"
+          link: /codex/database/obj/equipment/weapons/machete01/
+        - title: "Nail Gun"
+          link: /codex/database/obj/equipment/weapons/nail-gun01/
+        - title: "Riot Shield"
+          link: /codex/database/obj/equipment/weapons/riot-shield01/
+        - title: "SMG"
+          link: /codex/database/obj/equipment/weapons/smg01/
+        - title: "Sniper Rifle"
+          link: /codex/database/obj/equipment/weapons/sniper-rifle01/
+        - title: "Stun Baton"
+          link: /codex/database/obj/equipment/weapons/stun-baton01/
+        - title: "Vibroblade"
+          link: /codex/database/obj/equipment/weapons/vibroblade01/
 - tab: "Blueprints"
   link: /codex/database/objects/devices/data-harvester-advanced/
   groups:
@@ -1333,6 +1349,8 @@
           link: /codex/research/research/life-support/heating-advanced/
         - title: "Advanced High Availability"
           link: /codex/research/research/computing/high-availability-advanced/
+        - title: "Advanced Melee"
+          link: /codex/research/research/security/advanced-melee/
         - title: "Advanced Oxygen Production"
           link: /codex/research/research/life-support/oxygen-advanced/
         - title: "Advanced Relocation"
@@ -1363,6 +1381,8 @@
           link: /codex/research/research/space-travel/auto-pilot/
         - title: "Auto Repair"
           link: /codex/research/research/robotics/auto-repair/
+        - title: "Automatic Weapons"
+          link: /codex/research/research/security/automatic-weapons/
         - title: "Ballistic Weapons"
           link: /codex/research/research/ship-combat/weapons-ballistic/
         - title: "Basic Bot Parts"
@@ -1377,6 +1397,8 @@
           link: /codex/research/research/security/weapons-basic/
         - title: "Biochemical Extraction"
           link: /codex/research/research/production/biochemical-extraction/
+        - title: "Biomass Harvesting"
+          link: /codex/research/research/rogue-ai/biomass-harvesting/
         - title: "Biosphere Generation"
           link: /codex/research/research/life-support/biosphere-generation/
         - title: "Black Holes"
@@ -1421,6 +1443,8 @@
           link: /codex/research/research/life-support/death-care/
         - title: "Decorations"
           link: /codex/research/research/habitation/decorations/
+        - title: "Defensive Gear"
+          link: /codex/research/research/security/defensive-gear/
         - title: "Docking"
           link: /codex/research/research/robotics/docking/
         - title: "Door Permissions"
@@ -1435,6 +1459,8 @@
           link: /codex/research/research/rogue-ai/elysium/
         - title: "Elysium Efficiency"
           link: /codex/research/research/rogue-ai/elysium-efficiency/
+        - title: "Elysium Electricity Production"
+          link: /codex/research/research/rogue-ai/elysium-electricity/
         - title: "Emblem Floors"
           link: /codex/research/research/construction/emblem-floors/
         - title: "Emblems"
@@ -1517,6 +1543,8 @@
           link: /codex/research/research/energy/solar-improved/
         - title: "Improved Synthetic Organs"
           link: /codex/research/research/life-support/growing-parts-improved/
+        - title: "Improvised Arms"
+          link: /codex/research/research/security/improvised-arms/
         - title: "Jukebox"
           link: /codex/research/research/entertainment/jukebox/
         - title: "Labeling"
@@ -1535,6 +1563,8 @@
           link: /codex/research/research/production/material-processing/
         - title: "Medical Care"
           link: /codex/research/research/life-support/medical-care/
+        - title: "Melee Combat"
+          link: /codex/research/research/security/melee-combat/
         - title: "Memory Compression"
           link: /codex/research/research/computing/memory-compression/
         - title: "Metal Purification"
@@ -1551,12 +1581,16 @@
           link: /codex/research/research/ship-combat/weapons-missile/
         - title: "Nanobots"
           link: /codex/research/research/robotics/nanobots/
+        - title: "Non-Lethal Systems"
+          link: /codex/research/research/security/non-lethal-systems/
         - title: "Nuclear Energy Storage"
           link: /codex/research/research/energy/storage-nuclear/
         - title: "Nuclear Enrichment"
           link: /codex/research/research/production/nuclear-enrichment/
         - title: "Nuclear Reactor"
           link: /codex/research/research/energy/reactor-nuclear/
+        - title: "Nutrient Infusion"
+          link: /codex/research/research/rogue-ai/nutrient-infusion/
         - title: "Ocean Generation"
           link: /codex/research/research/life-support/ocean-generation/
         - title: "Oil Processing"
@@ -1571,6 +1605,8 @@
           link: /codex/research/research/ship-combat/weapons-plasma/
         - title: "Point Defense Weapons"
           link: /codex/research/research/ship-combat/point-defense/
+        - title: "Precision Firearms"
+          link: /codex/research/research/security/precision-firearms/
         - title: "Production"
           link: /codex/research/research/production/root/
         - title: "Propulsion"

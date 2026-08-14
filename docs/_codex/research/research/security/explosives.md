@@ -13,7 +13,7 @@ section: "Research"
 <li><a href="/codex/database/obj/datoids/datoid-tech/">Tech Datoid</a>: 9</li>
 <li><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a>: 2</li>
 <li><a href="/codex/database/obj/datoids/datoid-energy/">Energy Datoid</a>: 4</li>
-<li>Disk space: 5</li>
+<li>Disk space: 6</li>
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">
@@ -21,6 +21,6 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a></div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/improvised-arms/">Improvised Arms</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a> &rarr; <a href="/codex/research/research/security/turrets/">Turrets</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/security/explosives.png" alt="Explosives preview" loading="lazy"></figure>

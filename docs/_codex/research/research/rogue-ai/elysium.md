@@ -7,7 +7,7 @@ image: /img/codex/sprites/research/research/rogue-ai/elysium.png
 section: "Research"
 ---
 
-<p><b><span style="color:#F95858">Unfinished Feature</span></b><br>Enables conversion of the Stasis Array into the Elysium.</p>
+<p>Enables conversion of the Stasis Array into the Elysium.</p>
 
 <p><strong>Tier:</strong> 3</p>
 <h2>Unlock Cost</h2>

@@ -7,8 +7,6 @@ image: /img/codex/sprites/research/research/rogue-ai/root.png
 section: "Research"
 ---
 
-<p><b><span style="color:#F95858">Unfinished Feature</span></b></p>
-
 <p><strong>Tier:</strong> 0</p>
 <h2>Unlock Cost</h2>
 <ul class="codex-index">

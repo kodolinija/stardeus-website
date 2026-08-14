@@ -16,6 +16,6 @@ section: "Database"
 <p><span class="nobr"><a href="/codex/database/objects/furniture/weapons-locker/">Weapons Locker</a></span></p>
 
 <h2>Research Prerequisites</h2>
-<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a></div>
+<div class="codex-prereq-path"><a href="/codex/research/research/security/root/">Security</a> &rarr; <a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a> &rarr; <a href="/codex/research/research/security/improvised-arms/">Improvised Arms</a> &rarr; <a href="/codex/research/research/security/firearms/">Firearms</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/equipment/weapons/handgun01.png" alt="Handgun preview" loading="lazy"></figure>

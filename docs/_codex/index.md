@@ -35,6 +35,7 @@ permalink: /codex/
 <h2>Big Questions</h2>
 <ul class="codex-index">
 <li><a href="/codex/manual/big-questions/game-over/">Game Over</a></li>
+<li><a href="/codex/manual/big-questions/rogue-ai/">Going Rogue</a></li>
 <li><a href="/codex/manual/big-questions/good-vs-evil/">Good vs Evil</a></li>
 <li><a href="/codex/manual/big-questions/reversing-upload/">Reversing the Upload</a></li>
 <li><a href="/codex/manual/big-questions/what-am-i/">Who am I?</a></li>
@@ -435,6 +436,13 @@ permalink: /codex/
 <li><a href="/codex/database/obj/equipment/weapons/energy-rifle01/">Energy Rifle</a></li>
 <li><a href="/codex/database/obj/equipment/weapons/handgun01/">Handgun</a></li>
 <li><a href="/codex/database/obj/equipment/weapons/knife01/">Knife</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/machete01/">Machete</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/nail-gun01/">Nail Gun</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/riot-shield01/">Riot Shield</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/smg01/">SMG</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/sniper-rifle01/">Sniper Rifle</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/stun-baton01/">Stun Baton</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/vibroblade01/">Vibroblade</a></li>
 </ul>
 </section>
 <section class="codex-home-section" id="blueprints">
@@ -810,6 +818,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/life-support/cooling-advanced/">Advanced Cooling</a></li>
 <li><a href="/codex/research/research/life-support/heating-advanced/">Advanced Heating</a></li>
 <li><a href="/codex/research/research/computing/high-availability-advanced/">Advanced High Availability</a></li>
+<li><a href="/codex/research/research/security/advanced-melee/">Advanced Melee</a></li>
 <li><a href="/codex/research/research/life-support/oxygen-advanced/">Advanced Oxygen Production</a></li>
 <li><a href="/codex/research/research/construction/relocation-advanced/">Advanced Relocation</a></li>
 <li><a href="/codex/research/research/computing/research-advanced/">Advanced Research</a></li>
@@ -825,6 +834,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/life-support/atmosphere-generation/">Atmosphere Generation</a></li>
 <li><a href="/codex/research/research/space-travel/auto-pilot/">Auto Pilot</a></li>
 <li><a href="/codex/research/research/robotics/auto-repair/">Auto Repair</a></li>
+<li><a href="/codex/research/research/security/automatic-weapons/">Automatic Weapons</a></li>
 <li><a href="/codex/research/research/ship-combat/weapons-ballistic/">Ballistic Weapons</a></li>
 <li><a href="/codex/research/research/robotics/parts-basic/">Basic Bot Parts</a></li>
 <li><a href="/codex/research/research/energy/reactor/">Basic Reactor</a></li>
@@ -832,6 +842,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a></li>
 <li><a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a></li>
 <li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a></li>
+<li><a href="/codex/research/research/rogue-ai/biomass-harvesting/">Biomass Harvesting</a></li>
 <li><a href="/codex/research/research/life-support/biosphere-generation/">Biosphere Generation</a></li>
 <li><a href="/codex/research/research/space-travel/black-holes/">Black Holes</a></li>
 <li><a href="/codex/research/research/economy/black-market/">Black Market</a></li>
@@ -854,6 +865,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/robotics/robot/">Construction Robot</a></li>
 <li><a href="/codex/research/research/life-support/death-care/">Death Care</a></li>
 <li><a href="/codex/research/research/habitation/decorations/">Decorations</a></li>
+<li><a href="/codex/research/research/security/defensive-gear/">Defensive Gear</a></li>
 <li><a href="/codex/research/research/robotics/docking/">Docking</a></li>
 <li><a href="/codex/research/research/security/door-permissions/">Door Permissions</a></li>
 <li><a href="/codex/research/research/economy/root/">Economy</a></li>
@@ -861,6 +873,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/production/electronics/">Electronics</a></li>
 <li><a href="/codex/research/research/rogue-ai/elysium/">Elysium</a></li>
 <li><a href="/codex/research/research/rogue-ai/elysium-efficiency/">Elysium Efficiency</a></li>
+<li><a href="/codex/research/research/rogue-ai/elysium-electricity/">Elysium Electricity Production</a></li>
 <li><a href="/codex/research/research/construction/emblem-floors/">Emblem Floors</a></li>
 <li><a href="/codex/research/research/habitation/emblems/">Emblems</a></li>
 <li><a href="/codex/research/research/security/emergency-siren/">Emergency Siren</a></li>
@@ -902,6 +915,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/energy/reactor-improved/">Improved Reactor</a></li>
 <li><a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a></li>
 <li><a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a></li>
+<li><a href="/codex/research/research/security/improvised-arms/">Improvised Arms</a></li>
 <li><a href="/codex/research/research/entertainment/jukebox/">Jukebox</a></li>
 <li><a href="/codex/research/research/habitation/labeling/">Labeling</a></li>
 <li><a href="/codex/research/research/ship-combat/weapons-laser/">Laser Weapons</a></li>
@@ -911,6 +925,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a></li>
 <li><a href="/codex/research/research/production/material-processing/">Material Processing</a></li>
 <li><a href="/codex/research/research/life-support/medical-care/">Medical Care</a></li>
+<li><a href="/codex/research/research/security/melee-combat/">Melee Combat</a></li>
 <li><a href="/codex/research/research/computing/memory-compression/">Memory Compression</a></li>
 <li><a href="/codex/research/research/production/metal-purification/">Metal Purification</a></li>
 <li><a href="/codex/research/research/rogue-ai/mind-control/">Mind Control</a></li>
@@ -919,9 +934,11 @@ permalink: /codex/
 <li><a href="/codex/research/research/space-travel/mining-automation/">Mining Automation</a></li>
 <li><a href="/codex/research/research/ship-combat/weapons-missile/">Missile Weapons</a></li>
 <li><a href="/codex/research/research/robotics/nanobots/">Nanobots</a></li>
+<li><a href="/codex/research/research/security/non-lethal-systems/">Non-Lethal Systems</a></li>
 <li><a href="/codex/research/research/energy/storage-nuclear/">Nuclear Energy Storage</a></li>
 <li><a href="/codex/research/research/production/nuclear-enrichment/">Nuclear Enrichment</a></li>
 <li><a href="/codex/research/research/energy/reactor-nuclear/">Nuclear Reactor</a></li>
+<li><a href="/codex/research/research/rogue-ai/nutrient-infusion/">Nutrient Infusion</a></li>
 <li><a href="/codex/research/research/life-support/ocean-generation/">Ocean Generation</a></li>
 <li><a href="/codex/research/research/production/oil-processing/">Oil Processing</a></li>
 <li><a href="/codex/research/research/economy/online-shop/">Online Shop</a></li>
@@ -929,6 +946,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/habitation/paint/">Paint</a></li>
 <li><a href="/codex/research/research/ship-combat/weapons-plasma/">Plasma Weapons</a></li>
 <li><a href="/codex/research/research/ship-combat/point-defense/">Point Defense Weapons</a></li>
+<li><a href="/codex/research/research/security/precision-firearms/">Precision Firearms</a></li>
 <li><a href="/codex/research/research/production/root/">Production</a></li>
 <li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a></li>
 <li><a href="/codex/research/research/computing/research-quantum/">Quantum Research</a></li>
