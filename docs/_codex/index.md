@@ -423,6 +423,7 @@ permalink: /codex/
 <li><a href="/codex/database/obj/upgrades/reactor-efficiency-upgrade/">Reactor Efficiency Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/shuttle-drill-upgrade/">Shuttle Drill Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/shuttle-storage-upgrade/">Shuttle Storage Upgrade</a></li>
+<li><a href="/codex/database/obj/upgrades/signal-amplifier-upgrade/">Signal Amplifier</a></li>
 <li><a href="/codex/database/obj/upgrades/speed-upgrade/">Speed Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/starcreds-mining-upgrade/">Starcreds Miner</a></li>
 <li><a href="/codex/database/obj/upgrades/thruster-upgrade/">Thruster Upgrade</a></li>
@@ -468,6 +469,7 @@ permalink: /codex/
 <li><a href="/codex/database/objects/devices/battery/">Battery (50kW)</a></li>
 <li><a href="/codex/database/objects/devices/battle-station/">Battle Station</a></li>
 <li><a href="/codex/database/objects/devices/beam-drill/">Beam Drill</a></li>
+<li><a href="/codex/database/objects/devices/beta-wave-emitter/">Beta Wave Emitter</a></li>
 <li><a href="/codex/database/objects/devices/beverage-cooler/">Beverage Cooler</a></li>
 <li><a href="/codex/database/objects/devices/terraformer-bio/">Biosphere Generator</a></li>
 <li><a href="/codex/database/objects/cosmetics/chess/chess-bishop-b/">Black Bishop</a></li>
@@ -551,6 +553,7 @@ permalink: /codex/
 <li><a href="/codex/database/structure/walls/wall02/">Interior Wall</a></li>
 <li><a href="/codex/database/structure/walls/wall-socket02/">Interior Wall Socket 32-8</a></li>
 <li><a href="/codex/database/structure/walls/window02/">Interior Window</a></li>
+<li><a href="/codex/database/objects/devices/intrusion-suite/">Intrusion Suite</a></li>
 <li><a href="/codex/database/objects/cosmetics/pumpkin-head01/">Jack-o'-lantern</a></li>
 <li><a href="/codex/database/objects/cosmetics/pumpkin-head02/">Jack-o'-lantern</a></li>
 <li><a href="/codex/database/objects/cosmetics/pumpkin-head03/">Jack-o'-lantern</a></li>
@@ -841,6 +844,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/computing/research/">Basic Research</a></li>
 <li><a href="/codex/research/research/life-support/growing-parts-basic/">Basic Synthetic Organs</a></li>
 <li><a href="/codex/research/research/security/weapons-basic/">Basic Weapons</a></li>
+<li><a href="/codex/research/research/rogue-ai/beta-waves/">Beta Waves</a></li>
 <li><a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a></li>
 <li><a href="/codex/research/research/rogue-ai/biomass-harvesting/">Biomass Harvesting</a></li>
 <li><a href="/codex/research/research/life-support/biosphere-generation/">Biosphere Generation</a></li>
@@ -863,6 +867,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/construction/root/">Construction</a></li>
 <li><a href="/codex/research/research/robotics/drone/">Construction Drone</a></li>
 <li><a href="/codex/research/research/robotics/robot/">Construction Robot</a></li>
+<li><a href="/codex/research/research/rogue-ai/cortical-override/">Cortical Override</a></li>
 <li><a href="/codex/research/research/life-support/death-care/">Death Care</a></li>
 <li><a href="/codex/research/research/habitation/decorations/">Decorations</a></li>
 <li><a href="/codex/research/research/security/defensive-gear/">Defensive Gear</a></li>
@@ -916,6 +921,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a></li>
 <li><a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a></li>
 <li><a href="/codex/research/research/security/improvised-arms/">Improvised Arms</a></li>
+<li><a href="/codex/research/research/rogue-ai/intrusion-suite/">Intrusion Suite</a></li>
 <li><a href="/codex/research/research/entertainment/jukebox/">Jukebox</a></li>
 <li><a href="/codex/research/research/habitation/labeling/">Labeling</a></li>
 <li><a href="/codex/research/research/ship-combat/weapons-laser/">Laser Weapons</a></li>
@@ -973,6 +979,8 @@ permalink: /codex/
 <li><a href="/codex/research/research/space-travel/shuttle-mining/">Shuttle Mining Efficiency</a></li>
 <li><a href="/codex/research/research/space-travel/shuttle-storage/">Shuttle Storage Expansion</a></li>
 <li><a href="/codex/research/research/habitation/sign/">Sign</a></li>
+<li><a href="/codex/research/research/rogue-ai/signal-amplifier/">Signal Amplifier</a></li>
+<li><a href="/codex/research/research/rogue-ai/signal-intrusion/">Signal Intrusion</a></li>
 <li><a href="/codex/research/research/production/smelting/">Smelting</a></li>
 <li><a href="/codex/research/research/energy/solar/">Solar Panels</a></li>
 <li><a href="/codex/research/research/production/space-suit/">Space Suit</a></li>

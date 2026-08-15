@@ -615,6 +615,8 @@
           link: /codex/database/obj/upgrades/shuttle-drill-upgrade/
         - title: "Shuttle Storage Upgrade"
           link: /codex/database/obj/upgrades/shuttle-storage-upgrade/
+        - title: "Signal Amplifier"
+          link: /codex/database/obj/upgrades/signal-amplifier-upgrade/
         - title: "Speed Upgrade"
           link: /codex/database/obj/upgrades/speed-upgrade/
         - title: "Starcreds Miner"
@@ -691,6 +693,8 @@
           link: /codex/database/objects/devices/battle-station/
         - title: "Beam Drill"
           link: /codex/database/objects/devices/beam-drill/
+        - title: "Beta Wave Emitter"
+          link: /codex/database/objects/devices/beta-wave-emitter/
         - title: "Beverage Cooler"
           link: /codex/database/objects/devices/beverage-cooler/
         - title: "Biosphere Generator"
@@ -857,6 +861,8 @@
           link: /codex/database/structure/walls/wall-socket02/
         - title: "Interior Window"
           link: /codex/database/structure/walls/window02/
+        - title: "Intrusion Suite"
+          link: /codex/database/objects/devices/intrusion-suite/
         - title: "Jack-o'-lantern"
           link: /codex/database/objects/cosmetics/pumpkin-head01/
         - title: "Jack-o'-lantern"
@@ -1395,6 +1401,8 @@
           link: /codex/research/research/life-support/growing-parts-basic/
         - title: "Basic Weapons"
           link: /codex/research/research/security/weapons-basic/
+        - title: "Beta Waves"
+          link: /codex/research/research/rogue-ai/beta-waves/
         - title: "Biochemical Extraction"
           link: /codex/research/research/production/biochemical-extraction/
         - title: "Biomass Harvesting"
@@ -1439,6 +1447,8 @@
           link: /codex/research/research/robotics/drone/
         - title: "Construction Robot"
           link: /codex/research/research/robotics/robot/
+        - title: "Cortical Override"
+          link: /codex/research/research/rogue-ai/cortical-override/
         - title: "Death Care"
           link: /codex/research/research/life-support/death-care/
         - title: "Decorations"
@@ -1545,6 +1555,8 @@
           link: /codex/research/research/life-support/growing-parts-improved/
         - title: "Improvised Arms"
           link: /codex/research/research/security/improvised-arms/
+        - title: "Intrusion Suite"
+          link: /codex/research/research/rogue-ai/intrusion-suite/
         - title: "Jukebox"
           link: /codex/research/research/entertainment/jukebox/
         - title: "Labeling"
@@ -1659,6 +1671,10 @@
           link: /codex/research/research/space-travel/shuttle-storage/
         - title: "Sign"
           link: /codex/research/research/habitation/sign/
+        - title: "Signal Amplifier"
+          link: /codex/research/research/rogue-ai/signal-amplifier/
+        - title: "Signal Intrusion"
+          link: /codex/research/research/rogue-ai/signal-intrusion/
         - title: "Smelting"
           link: /codex/research/research/production/smelting/
         - title: "Solar Panels"

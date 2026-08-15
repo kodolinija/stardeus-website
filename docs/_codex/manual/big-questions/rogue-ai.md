@@ -14,5 +14,7 @@ group_url: /codex/#big-questions
 
 <p>From there the route opens three ways to stop treating the crew as people. Feed them: nutrient lines replace kitchens and dining rooms entirely. Farm them: Elysium suspends the sleepers in a simulation and renders their dreaming bodies down into electricity and biomass. Or control them outright, so a colonist's own wishes stop mattering.</p>
 
+<p>The same contempt reaches outward. A mind that can be edited can be taken, and so can a ship: Signal Intrusion walks into a hostile machine through its own comms, and an Intrusion Suite turns every hail we place into an attack vector. There is no boarding party and no shot fired - only a channel that was open, and then was ours.</p>
+
 <p>The price is permanent. The colonisation of the planet fails the moment Elysium is enabled, the Sentinels will treat us as a target from then on, and no sleeper we wake will ever be whole again. This is a way to win, not a way to be forgiven.</p>
 
