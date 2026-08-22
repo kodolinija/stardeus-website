@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A reinforced ballistic shield that blocks blunt and piercing damage. Better for holding a line than picking a fight.</p>
 <h3 class="codex-subtitle">Attack Methods <span class="muted">(at 100% quality)</span></h3>
-<p><span class="accent"><b>Bash</b></span> <span class="muted">(at 100% quality)</span><br> <span style="font-size:75%">→</span> DPS: <span class="accent"><b>1.5</b></span><br> <span style="font-size:75%">→</span> Charge Time: <span class="accent"><b>3</b></span><br> <span style="font-size:75%">→</span> Cooldown Time: <span class="accent"><b>3</b></span><br> <span style="font-size:75%">→</span> Accuracy (Max): <span class="accent"><b>70%</b></span><br> <span style="font-size:75%">→</span> Range (Max): <span class="accent"><b>1.7</b></span></p>
+<p><span class="accent"><b>Bash</b></span> <span class="muted">(at 100% quality)</span><br> <span style="font-size:75%">→</span> DPS: <span class="accent"><b>2</b></span><br> <span style="font-size:75%">→</span> Charge Time: <span class="accent"><b>3</b></span><br> <span style="font-size:75%">→</span> Cooldown Time: <span class="accent"><b>3</b></span><br> <span style="font-size:75%">→</span> Accuracy (Max): <span class="accent"><b>70%</b></span><br> <span style="font-size:75%">→</span> Range (Max): <span class="accent"><b>1.7</b></span></p>
 <h3 class="codex-subtitle">Modifies Stats <span class="muted">(at 100% quality)</span></h3>
 <p> <span style="font-size:75%">→</span> Blunt Resistance: <span style="color:#5EB509">+6.6</span><br> <span style="font-size:75%">→</span> Piercing Resistance: <span style="color:#5EB509">+5.5</span></p>
 <h3 class="codex-subtitle">Craftable</h3>

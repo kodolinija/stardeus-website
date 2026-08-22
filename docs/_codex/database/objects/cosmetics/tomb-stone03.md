@@ -8,6 +8,7 @@ section: "Database"
 ---
 
 <p>A decorative tombstone.</p>
+<p><span style="color:#E1CB73">This is seasonal content, only available during the following date range: October 1 - November 7.</span></p>
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rock/">Rock</a></span> x10</p>
 <h3 class="codex-subtitle">Properties</h3>

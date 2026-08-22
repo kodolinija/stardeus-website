@@ -8,6 +8,7 @@ section: "Database"
 ---
 
 <p>A realistic replica of a human skull used for spooky decor.</p>
+<p><span style="color:#E1CB73">This is seasonal content, only available during the following date range: October 1 - November 7.</span></p>
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/platinum-ingot/">Platinum Ingot</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>

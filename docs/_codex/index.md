@@ -46,7 +46,7 @@ permalink: /codex/
 <ul class="codex-index">
 <li><a href="/codex/manual/controls/camera-controls/">Camera Controls</a></li>
 <li><a href="/codex/manual/electricity/electricity-connect/">Connecting Devices</a></li>
-<li><a href="/codex/manual/electricity/electricity-connect-shift/">Connecting Devices with Left Shift</a></li>
+<li><a href="/codex/manual/electricity/electricity-connect-shift/">Connecting Devices with Left Shift / Right Shift</a></li>
 <li><a href="/codex/manual/controls/modifiers/">Modifier Keys</a></li>
 </ul>
 </section>
@@ -67,7 +67,7 @@ permalink: /codex/
 <li><a href="/codex/manual/electricity/computer-resources-bonus/">Computer Resources Bonus</a></li>
 <li><a href="/codex/manual/electricity/configure-reactor/">Configuring a Matter Reactor</a></li>
 <li><a href="/codex/manual/electricity/electricity-connect/">Connecting Devices</a></li>
-<li><a href="/codex/manual/electricity/electricity-connect-shift/">Connecting Devices with Left Shift</a></li>
+<li><a href="/codex/manual/electricity/electricity-connect-shift/">Connecting Devices with Left Shift / Right Shift</a></li>
 <li><a href="/codex/manual/electricity/temp-connection/">Establishing Temporary Connection</a></li>
 <li><a href="/codex/manual/electricity/grid-redundancy/">High Availability and Redundancy</a></li>
 <li><a href="/codex/manual/electricity/multiple-grids/">Multiple Grids</a></li>
@@ -281,6 +281,8 @@ permalink: /codex/
 <ul class="codex-index">
 <li><a href="/codex/database/obj/equipment/hats/space-helmet02/">Armored Helmet</a></li>
 <li><a href="/codex/database/obj/equipment/hats/baseball-cap01/">Baseball Cap</a></li>
+<li><a href="/codex/database/obj/equipment/hats/combat-helmet01/">Combat Helmet</a></li>
+<li><a href="/codex/database/obj/equipment/clothing/combat-suit01/">Combat Suit</a></li>
 <li><a href="/codex/database/obj/equipment/hats/crawler-facehug/">Crawler</a></li>
 <li><a href="/codex/database/obj/equipment/hats/hat01/">Hat</a></li>
 <li><a href="/codex/database/obj/equipment/hats/jester-hat/">Jester's Hat</a></li>
@@ -861,6 +863,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/life-support/clone-human/">Clone Human</a></li>
 <li><a href="/codex/research/research/life-support/clone-pig/">Clone Pig</a></li>
 <li><a href="/codex/research/research/life-support/coffee/">Coffee</a></li>
+<li><a href="/codex/research/research/production/combat-armor/">Combat Armor</a></li>
 <li><a href="/codex/research/research/scanning/communications/">Communications</a></li>
 <li><a href="/codex/research/research/computing/root/">Computing</a></li>
 <li><a href="/codex/research/research/energy/connector-auto/">Connector Automation</a></li>

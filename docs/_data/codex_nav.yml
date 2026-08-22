@@ -50,7 +50,7 @@
           link: /codex/manual/controls/camera-controls/
         - title: "Connecting Devices"
           link: /codex/manual/electricity/electricity-connect/
-        - title: "Connecting Devices with Left Shift"
+        - title: "Connecting Devices with Left Shift / Right Shift"
           link: /codex/manual/electricity/electricity-connect-shift/
         - title: "Modifier Keys"
           link: /codex/manual/controls/modifiers/
@@ -76,7 +76,7 @@
           link: /codex/manual/electricity/configure-reactor/
         - title: "Connecting Devices"
           link: /codex/manual/electricity/electricity-connect/
-        - title: "Connecting Devices with Left Shift"
+        - title: "Connecting Devices with Left Shift / Right Shift"
           link: /codex/manual/electricity/electricity-connect-shift/
         - title: "Establishing Temporary Connection"
           link: /codex/manual/electricity/temp-connection/
@@ -411,6 +411,10 @@
           link: /codex/database/obj/equipment/hats/space-helmet02/
         - title: "Baseball Cap"
           link: /codex/database/obj/equipment/hats/baseball-cap01/
+        - title: "Combat Helmet"
+          link: /codex/database/obj/equipment/hats/combat-helmet01/
+        - title: "Combat Suit"
+          link: /codex/database/obj/equipment/clothing/combat-suit01/
         - title: "Crawler"
           link: /codex/database/obj/equipment/hats/crawler-facehug/
         - title: "Hat"
@@ -1435,6 +1439,8 @@
           link: /codex/research/research/life-support/clone-pig/
         - title: "Coffee"
           link: /codex/research/research/life-support/coffee/
+        - title: "Combat Armor"
+          link: /codex/research/research/production/combat-armor/
         - title: "Communications"
           link: /codex/research/research/scanning/communications/
         - title: "Computing"

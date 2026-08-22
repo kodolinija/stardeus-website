@@ -8,6 +8,7 @@ section: "Database"
 ---
 
 <p>A decorative coffin, meant for display only.</p>
+<p><span style="color:#E1CB73">This is seasonal content, only available during the following date range: October 1 - November 7.</span></p>
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/wood/">Wood</a></span> x2</p>
 <h3 class="codex-subtitle">Properties</h3>

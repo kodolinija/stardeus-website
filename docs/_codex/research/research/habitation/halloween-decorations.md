@@ -7,6 +7,8 @@ image: /img/codex/sprites/research/research/habitation/halloween-decorations.png
 section: "Research"
 ---
 
+<p><span style="color:#E1CB73">This is seasonal content, only available during the following date range: October 1 - November 7.</span></p>
+
 <p><strong>Tier:</strong> 2</p>
 <h2>Unlock Cost</h2>
 <ul class="codex-index">
