@@ -611,6 +611,14 @@
           link: /codex/database/obj/upgrades/energy-efficiency-upgrade/
         - title: "Fuse"
           link: /codex/database/obj/upgrades/fuse-upgrade/
+        - title: "Game Cartridge: 2048"
+          link: /codex/database/obj/upgrades/game2048-cartridge-upgrade/
+        - title: "Game Cartridge: Breakout"
+          link: /codex/database/obj/upgrades/breakout-cartridge-upgrade/
+        - title: "Game Cartridge: Snake"
+          link: /codex/database/obj/upgrades/snake-cartridge-upgrade/
+        - title: "Game Cartridge: Stacker"
+          link: /codex/database/obj/upgrades/stacker-cartridge-upgrade/
         - title: "Memory Compression Upgrade"
           link: /codex/database/obj/upgrades/memory-compression-upgrade/
         - title: "Reactor Efficiency Upgrade"

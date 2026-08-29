@@ -79,6 +79,12 @@ section: "Achievements"
 
 <figure class="codex-image"><img src="/img/codex/sprites/achievements/beat-no-robots.png" alt="By Human Hands achievement" loading="lazy"></figure>
 </section>
+<section class="codex-achievement" id="achievement-breakdowns">
+<h2>Cabin Fever</h2>
+<p>Suffer 100 mental breakdowns in a single run.</p>
+
+<figure class="codex-image"><img src="/img/codex/sprites/achievements/breakdowns.png" alt="Cabin Fever achievement" loading="lazy"></figure>
+</section>
 <section class="codex-achievement" id="achievement-chess-set">
 <h2>Chess Club</h2>
 <p>Collect a full set of 32 chess pieces.</p>
@@ -151,6 +157,12 @@ section: "Achievements"
 <p>Get a Crawler attached to a human colonist.</p>
 
 <figure class="codex-image"><img src="/img/codex/sprites/achievements/crawler-attach.png" alt="Free Hugs achievement" loading="lazy"></figure>
+</section>
+<section class="codex-achievement" id="achievement-fungus">
+<h2>Fungal Bloom</h2>
+<p>Let Artillery Fungus spread to 300 plants aboard your ship.</p>
+
+<figure class="codex-image"><img src="/img/codex/sprites/achievements/fungus.png" alt="Fungal Bloom achievement" loading="lazy"></figure>
 </section>
 <section class="codex-achievement" id="achievement-terraform-complete">
 <h2>Genesis</h2>
@@ -455,17 +467,5 @@ section: "Achievements"
 <p>Win a ship battle with an allied ship fighting on your side.</p>
 
 <figure class="codex-image"><img src="/img/codex/sprites/achievements/ship-ally-win.png" alt="Wingman achievement" loading="lazy"></figure>
-</section>
-<section class="codex-achievement" id="achievement-breakdowns">
-<h2>achievement.Breakdowns</h2>
-<p>achievement.Breakdowns.desc</p>
-
-<figure class="codex-image"><img src="/img/codex/sprites/achievements/breakdowns.png" alt="achievement.Breakdowns achievement" loading="lazy"></figure>
-</section>
-<section class="codex-achievement" id="achievement-fungus">
-<h2>achievement.Fungus</h2>
-<p>achievement.Fungus.desc</p>
-
-<figure class="codex-image"><img src="/img/codex/sprites/achievements/fungus.png" alt="achievement.Fungus achievement" loading="lazy"></figure>
 </section>
 

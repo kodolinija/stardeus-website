@@ -421,6 +421,10 @@ permalink: /codex/
 <li><a href="/codex/database/obj/upgrades/disk-compression-upgrade/">Disk Compression Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/energy-efficiency-upgrade/">Energy Efficiency Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/fuse-upgrade/">Fuse</a></li>
+<li><a href="/codex/database/obj/upgrades/game2048-cartridge-upgrade/">Game Cartridge: 2048</a></li>
+<li><a href="/codex/database/obj/upgrades/breakout-cartridge-upgrade/">Game Cartridge: Breakout</a></li>
+<li><a href="/codex/database/obj/upgrades/snake-cartridge-upgrade/">Game Cartridge: Snake</a></li>
+<li><a href="/codex/database/obj/upgrades/stacker-cartridge-upgrade/">Game Cartridge: Stacker</a></li>
 <li><a href="/codex/database/obj/upgrades/memory-compression-upgrade/">Memory Compression Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/reactor-efficiency-upgrade/">Reactor Efficiency Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/shuttle-drill-upgrade/">Shuttle Drill Upgrade</a></li>
