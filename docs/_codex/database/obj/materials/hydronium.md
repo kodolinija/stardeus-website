@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>A rare mineral that catalyzes the conversion of oxygen into water, facilitating the synthesis of H₂O from atmospheric oxygen.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/bio-enriched-water/">Bio Enriched Water</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

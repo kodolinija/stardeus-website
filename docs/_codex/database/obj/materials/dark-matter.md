@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>A mysterious substance that is abundant yet extremely difficult to obtain.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/datoids/datoid-quantum/">Quantum Datoid</a></span>, <span class="nobr"><a href="/codex/database/obj/upgrades/signal-amplifier-upgrade/">Signal Amplifier</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Recyclable</h3>

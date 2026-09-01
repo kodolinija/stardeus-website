@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>Blue petals useful for medicinal purposes and making colorful dyes.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/pigment-blue/">Blue Pigment</a></span></p>
 <h3 class="codex-subtitle">Harvestable</h3>
 <p>Harvested from <span class="nobr"><a href="/codex/database/obj/plants/cornflower/">Cornflower</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

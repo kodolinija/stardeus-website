@@ -10,6 +10,8 @@ section: "Database"
 <p>Great for baking bread.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/grinder/">Grinder</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/grain/">Grain</a></span> + <span style="color:#A0BBF7">5kW x 2h</span> = <span class="nobr"><span class="accent">Flour</span></span></p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/meals/bread/">Bread</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/furniture/large-pantry/">Large Pantry</a></span>, <span class="nobr"><a href="/codex/database/objects/furniture/pantry/">Pantry</a></span></p>
 

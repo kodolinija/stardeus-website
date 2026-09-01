@@ -10,6 +10,8 @@ section: "Database"
 <p>A soft copper alloy, mostly used for producing various electronics.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/furnace/">Furnace</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper/">Copper</a></span> + <span style="color:#A0BBF7">15kW x 1h</span> = <span class="nobr"><span class="accent">Copper Plate</span></span> x3</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span></p>
 <h3 class="codex-subtitle">Recyclable</h3>
 <p>Recycled by deconstructing <span class="nobr"><a href="/codex/database/objects/devices/heat-sink/">Heat Sink</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/radiator/">Radiator</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

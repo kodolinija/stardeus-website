@@ -10,6 +10,8 @@ section: "Database"
 <p>A soft yellow metal ore.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/grinder/">Grinder</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rock/">Rock</a></span> x25 + <span style="color:#A0BBF7">30kW x 7h</span> = <span class="nobr"><span class="accent">Gold</span></span></p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/gold-ingot/">Gold Ingot</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

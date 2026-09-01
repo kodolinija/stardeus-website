@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>Common mineral material that can be ground into soil or refined for trace ores and metals.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/coal/">Coal</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/copper/">Copper</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/crude-oil/">Crude Oil</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/gold/">Gold</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/iron/">Iron</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/lead/">Lead</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/lithium/">Lithium</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/phasium/">Phasium</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/platinum/">Platinum</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/quartz/">Quartz</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/silicon/">Silicon</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/silver/">Silver</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/soil/">Soil</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/titanium/">Titanium</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/uranium/">Uranium</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Recyclable</h3>

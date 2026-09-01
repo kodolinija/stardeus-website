@@ -10,6 +10,8 @@ section: "Database"
 <p>Raw unprocessed oil.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/grinder/">Grinder</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rock/">Rock</a></span> x12 + <span style="color:#A0BBF7">25kW x 5h</span> = <span class="nobr"><span class="accent">Crude Oil</span></span></p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/petroleum/">Petroleum</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

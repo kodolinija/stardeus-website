@@ -10,6 +10,8 @@ section: "Database"
 <p>Refined uranium used as fuel for nuclear reactors.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/centrifuge/">Centrifuge</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/uranium/">Uranium</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> + <span style="color:#A0BBF7">50kW x 8h</span> = <span class="nobr"><span class="accent">Enriched Uranium</span></span></p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span>, <span class="nobr"><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a></span></p>
 <h3 class="codex-subtitle">Recyclable</h3>
 <p>Recycled by deconstructing <span class="nobr"><a href="/codex/database/objects/devices/sector-nuke/">Sector Nuke</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

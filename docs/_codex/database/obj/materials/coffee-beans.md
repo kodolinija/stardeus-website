@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>Can be brewed into coffee.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/coffee/">Coffee</a></span></p>
 <h3 class="codex-subtitle">Harvestable</h3>
 <p>Harvested from <span class="nobr"><a href="/codex/database/obj/plants/coffee-tree/">Coffee Tree</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

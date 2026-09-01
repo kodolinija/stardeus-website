@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>A rare mineral that generates breathable atmosphere by catalyzing gas reactions.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/atmosphere-mix/">Atmosphere Mix</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

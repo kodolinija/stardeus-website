@@ -10,6 +10,8 @@ section: "Database"
 <p>A common mineral used to produce glass.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/grinder/">Grinder</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rock/">Rock</a></span> x8 + <span style="color:#A0BBF7">15kW x 3h</span> = <span class="nobr"><span class="accent">Quartz</span></span></p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

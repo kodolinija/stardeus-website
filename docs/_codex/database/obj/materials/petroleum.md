@@ -10,6 +10,8 @@ section: "Database"
 <p>A product of crude oil, used in producing other resources like rubber or plastic.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/refinery/">Refinery</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/crude-oil/">Crude Oil</a></span> + <span style="color:#A0BBF7">30kW x 3h</span> = <span class="nobr"><span class="accent">Petroleum</span></span> x2</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/ammo/missile/">Missile</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span></p>
 <h3 class="codex-subtitle">Recyclable</h3>
 <p>Recycled by deconstructing <span class="nobr"><a href="/codex/database/objects/devices/shuttle/">Shuttle</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

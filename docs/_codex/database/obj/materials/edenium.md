@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>A rare sparkling crystal that releases concentrated nutrients, dramatically accelerating plant growth when applied to soil.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/multi-fertilizer/">Multi Fertilizer</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

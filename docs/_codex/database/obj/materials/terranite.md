@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>An rare amber-like crystal that reshapes the terrain around itself by manipulating geological forces.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/organic-turf/">Organic Turf</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
 <p>Found in natural deposits on asteroids, planets, and moons.</p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

@@ -10,6 +10,8 @@ section: "Database"
 <p>An ingot made of pure silver.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/furnace/">Furnace</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/silver/">Silver</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span> + <span style="color:#A0BBF7">25kW x 3h</span> = <span class="nobr"><span class="accent">Silver Ingot</span></span></p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/fusion-cell-heavy/">Heavy Fusion Cell</a></span>, <span class="nobr"><a href="/codex/database/obj/parts/core/lite-core/">Lite Core</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/nanobots/">Nanobots</a></span>, <span class="nobr"><a href="/codex/database/obj/parts/implant/rebreather/">Rebreather</a></span></p>
 <h3 class="codex-subtitle">Recyclable</h3>
 <p>Recycled by deconstructing <span class="nobr"><a href="/codex/database/objects/devices/nanobot-hive/">Nanobot Hive</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/rocket-pod/">Rocket Pod</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

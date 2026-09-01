@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>Remains of an alien egg.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/datoids/datoid-alien/">Alien Datoid</a></span></p>
 <h3 class="codex-subtitle">Recyclable</h3>
 <p>Recycled by disposing of <span class="nobr"><a href="/codex/database/obj/eggs/egg01/">Alien Egg</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

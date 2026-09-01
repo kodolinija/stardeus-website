@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>Colorful plant material harvested from poppy flowers.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/pigment-red/">Red Pigment</a></span></p>
 <h3 class="codex-subtitle">Harvestable</h3>
 <p>Harvested from <span class="nobr"><a href="/codex/database/obj/plants/poppy/">Poppy</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>Nasty stuff that can be purified into clean water and valuable biomass using the Recycler.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/biofuel/">Biofuel</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
 

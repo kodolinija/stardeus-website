@@ -8,6 +8,8 @@ section: "Database"
 ---
 
 <p>Use it for fuel, or process it into Wood that can be used for building furniture.</p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/wood/">Wood</a></span></p>
 <h3 class="codex-subtitle">Harvestable</h3>
 <p>Harvested from <span class="nobr"><a href="/codex/database/obj/plants/oak/">Oak</a></span>, <span class="nobr"><a href="/codex/database/obj/plants/rubber-tree/">Rubber Tree</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
