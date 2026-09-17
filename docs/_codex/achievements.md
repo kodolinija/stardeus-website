@@ -51,7 +51,7 @@ section: "Achievements"
 </section>
 <section class="codex-achievement" id="achievement-beat-wrecked-empty-ship">
 <h2>Against All Odds</h2>
-<p>Reach an ending in the Wrecked scenario.</p>
+<p>Reach an ending in the New Beginning or Wrecked scenario.</p>
 
 <figure class="codex-image"><img src="/img/codex/sprites/achievements/beat-wrecked-empty-ship.png" alt="Against All Odds achievement" loading="lazy"></figure>
 </section>

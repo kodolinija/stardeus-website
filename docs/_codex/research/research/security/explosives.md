@@ -18,6 +18,7 @@ section: "Research"
 <h2>Unlocks</h2>
 <ul class="codex-index">
 <li><a href="/codex/database/obj/misc/c42/">C42</a></li>
+<li><a href="/codex/database/obj/misc/resonance-charge/">Resonance Charge</a></li>
 </ul>
 
 <h2>Research Prerequisites</h2>

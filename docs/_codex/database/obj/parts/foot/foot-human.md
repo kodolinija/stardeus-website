@@ -9,7 +9,7 @@ section: "Database"
 
 <p>An organic foot of a human.</p>
 <h3 class="codex-subtitle">Body part <span class="muted">(Foot)</span></h3>
-<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Human</span></p>
+<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Biological</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>
 <p> <span style="font-size:75%">→</span> Move Speed: <span class="accent"><b>0.144/m</b></span></p>
 <h3 class="codex-subtitle">Craftable</h3>

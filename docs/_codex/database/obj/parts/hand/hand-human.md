@@ -9,7 +9,7 @@ section: "Database"
 
 <p>An organic hand of a human.</p>
 <h3 class="codex-subtitle">Body part <span class="muted">(Hand)</span></h3>
-<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Human</span></p>
+<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Biological</span></p>
 <h3 class="codex-subtitle">Provides Abilities</h3>
 <p> <span style="font-size:75%">→</span> <span class="accent">Build</span>, <span class="accent">Carry</span>, <span class="accent">Clean Device</span>, <span class="accent">Clean Floor</span>, <span class="accent">Manipulate</span>, <span class="accent">Mine</span>, <span class="accent">Use Item</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>

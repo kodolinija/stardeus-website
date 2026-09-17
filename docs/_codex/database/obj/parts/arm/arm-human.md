@@ -9,7 +9,7 @@ section: "Database"
 
 <p>An organic human arm.</p>
 <h3 class="codex-subtitle">Body part <span class="muted">(Arm)</span></h3>
-<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Human</span></p>
+<p>Compatible body sizes: <span class="accent">Medium</span>, <span class="accent">Large</span><br>Fits on: <span class="accent">Humanoid</span><br>Compatible species: <span class="accent">Biological</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>
 <p> <span style="font-size:75%">→</span> Dexterity: <span class="accent"><b>29%</b></span></p>
 <h3 class="codex-subtitle">Craftable</h3>

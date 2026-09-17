@@ -26,6 +26,7 @@ permalink: /codex/
 <li><a href="/codex/manual/beings/combat-reactions/">Combat Reactions</a></li>
 <li><a href="/codex/manual/beings/conditions/">Conditions</a></li>
 <li><a href="/codex/manual/beings/combat-drafting/">Drafting Beings for Combat</a></li>
+<li><a href="/codex/manual/beings/guests/">Guests</a></li>
 <li><a href="/codex/manual/beings/mind-transfer/">Mind Transfer</a></li>
 <li><a href="/codex/manual/beings/stasis-array/">Stasis Array</a></li>
 <li><a href="/codex/manual/beings/jobs/">Tasks, Jobs, and Skills</a></li>
@@ -176,8 +177,9 @@ permalink: /codex/
 <li><a href="/codex/database/obj/parts/body/body-cleaning-bot/">Cleaning Bot Frame</a></li>
 <li><a href="/codex/database/obj/parts/body/body-drone/">Construction Drone Frame</a></li>
 <li><a href="/codex/database/obj/parts/body/body-robot/">Construction Robot Frame</a></li>
-<li><a href="/codex/database/obj/parts/appendage/leg-crawler/">Crawler Leg</a></li>
-<li><a href="/codex/database/obj/parts/maw/maw-crawler/">Crawler Maw</a></li>
+<li><a href="/codex/database/obj/parts/brain/brain-crawler/">Crawler Brain</a></li>
+<li><a href="/codex/database/obj/parts/leg/leg-crawler/">Crawler Leg</a></li>
+<li><a href="/codex/database/obj/parts/jaw/jaw-crawler/">Crawler Maw</a></li>
 <li><a href="/codex/database/obj/parts/body/body-crawler/">Crawler Torso</a></li>
 <li><a href="/codex/database/obj/parts/brain/brain-dog/">Dog Brain</a></li>
 <li><a href="/codex/database/obj/parts/ear/ear-dog/">Dog Ear</a></li>
@@ -281,6 +283,7 @@ permalink: /codex/
 <ul class="codex-index">
 <li><a href="/codex/database/obj/equipment/hats/space-helmet02/">Armored Helmet</a></li>
 <li><a href="/codex/database/obj/equipment/hats/baseball-cap01/">Baseball Cap</a></li>
+<li><a href="/codex/database/obj/equipment/clothing/clown-costume01/">Clown Costume</a></li>
 <li><a href="/codex/database/obj/equipment/hats/combat-helmet01/">Combat Helmet</a></li>
 <li><a href="/codex/database/obj/equipment/clothing/combat-suit01/">Combat Suit</a></li>
 <li><a href="/codex/database/obj/equipment/hats/crawler-facehug/">Crawler</a></li>
@@ -732,6 +735,7 @@ permalink: /codex/
 <li><a href="/codex/database/obj/plants/oak/">Oak</a></li>
 <li><a href="/codex/database/obj/plants/poppy/">Poppy</a></li>
 <li><a href="/codex/database/obj/plants/pumpkin/">Pumpkin</a></li>
+<li><a href="/codex/database/obj/misc/resonance-charge/">Resonance Charge</a></li>
 <li><a href="/codex/database/obj/plants/rubber-tree/">Rubber Tree</a></li>
 <li><a href="/codex/database/obj/containers/quest-package/">Safe Box</a></li>
 <li><a href="/codex/database/obj/containers/stasis-pod-flying/">Stasis Pod</a></li>

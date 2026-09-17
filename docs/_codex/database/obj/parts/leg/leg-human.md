@@ -9,7 +9,7 @@ section: "Database"
 
 <p>An organic human leg.</p>
 <h3 class="codex-subtitle">Body part <span class="muted">(Leg)</span></h3>
-<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Human</span></p>
+<p>Compatible body sizes: <span class="accent">Medium</span>, <span class="accent">Large</span><br>Fits on: <span class="accent">Humanoid</span><br>Compatible species: <span class="accent">Biological</span></p>
 <h3 class="codex-subtitle">Provides Abilities</h3>
 <p> <span style="font-size:75%">→</span> <span class="accent">Move</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>

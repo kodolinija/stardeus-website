@@ -26,6 +26,8 @@
           link: /codex/manual/beings/conditions/
         - title: "Drafting Beings for Combat"
           link: /codex/manual/beings/combat-drafting/
+        - title: "Guests"
+          link: /codex/manual/beings/guests/
         - title: "Mind Transfer"
           link: /codex/manual/beings/mind-transfer/
         - title: "Stasis Array"
@@ -233,10 +235,12 @@
           link: /codex/database/obj/parts/body/body-drone/
         - title: "Construction Robot Frame"
           link: /codex/database/obj/parts/body/body-robot/
+        - title: "Crawler Brain"
+          link: /codex/database/obj/parts/brain/brain-crawler/
         - title: "Crawler Leg"
-          link: /codex/database/obj/parts/appendage/leg-crawler/
+          link: /codex/database/obj/parts/leg/leg-crawler/
         - title: "Crawler Maw"
-          link: /codex/database/obj/parts/maw/maw-crawler/
+          link: /codex/database/obj/parts/jaw/jaw-crawler/
         - title: "Crawler Torso"
           link: /codex/database/obj/parts/body/body-crawler/
         - title: "Dog Brain"
@@ -411,6 +415,8 @@
           link: /codex/database/obj/equipment/hats/space-helmet02/
         - title: "Baseball Cap"
           link: /codex/database/obj/equipment/hats/baseball-cap01/
+        - title: "Clown Costume"
+          link: /codex/database/obj/equipment/clothing/clown-costume01/
         - title: "Combat Helmet"
           link: /codex/database/obj/equipment/hats/combat-helmet01/
         - title: "Combat Suit"
@@ -1213,6 +1219,8 @@
           link: /codex/database/obj/plants/poppy/
         - title: "Pumpkin"
           link: /codex/database/obj/plants/pumpkin/
+        - title: "Resonance Charge"
+          link: /codex/database/obj/misc/resonance-charge/
         - title: "Rubber Tree"
           link: /codex/database/obj/plants/rubber-tree/
         - title: "Safe Box"

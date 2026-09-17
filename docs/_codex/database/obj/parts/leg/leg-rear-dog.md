@@ -9,7 +9,7 @@ section: "Database"
 
 <p>An organic dog leg.</p>
 <h3 class="codex-subtitle">Body part <span class="muted">(Leg)</span></h3>
-<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Dog</span></p>
+<p>Compatible body sizes: <span class="accent">Small</span>, <span class="accent">Medium</span><br>Fits on: <span class="accent">Animal</span><br>Compatible species: <span class="accent">Biological</span></p>
 <h3 class="codex-subtitle">Provides Abilities</h3>
 <p> <span style="font-size:75%">→</span> <span class="accent">Move</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>

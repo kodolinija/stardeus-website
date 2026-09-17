@@ -9,7 +9,7 @@ section: "Database"
 
 <p>An organic hip of a dog.</p>
 <h3 class="codex-subtitle">Body part <span class="muted">(Hip)</span></h3>
-<p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Dog</span></p>
+<p>Compatible body sizes: <span class="accent">Small</span>, <span class="accent">Medium</span><br>Fits on: <span class="accent">Animal</span><br>Compatible species: <span class="accent">Biological</span></p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/cloning-pod/">Cloning Pod</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/protein/">Raw Meat</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/stem-cells/">Stem Cells</a></span> + <span style="color:#A0BBF7">10kW x 7d</span> = <span class="nobr"><span class="accent">Dog Hip</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

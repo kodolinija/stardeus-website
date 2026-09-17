@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A precious silverish white metal ore.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/grinder/">Grinder</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rock/">Rock</a></span> x28 + <span style="color:#A0BBF7">35kW x 8h</span> = <span class="nobr"><span class="accent">Platinum</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/grinder/">Grinder</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rock/">Rock</a></span> x85 + <span style="color:#A0BBF7">35kW x 8h</span> = <span class="nobr"><span class="accent">Platinum</span></span></p>
 <h3 class="codex-subtitle">Ingredient</h3>
 <p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/platinum-ingot/">Platinum Ingot</a></span></p>
 <h3 class="codex-subtitle">Extractable</h3>
