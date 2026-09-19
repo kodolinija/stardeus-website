@@ -88,20 +88,6 @@ $codex-muted: #888888;
     }
   }
 
-  article.codex-comments {
-    min-height: 0; // defeat .docs article { min-height: 800px }
-    margin-top: 20px; // gap below the content panel (articles are margin: 0 10px)
-
-    .codex-comments-title {
-      margin-bottom: 0.8em;
-    }
-
-    #cusdis_thread iframe {
-      width: 100%;
-      min-height: 320px; // floor for the empty reply form before JS sizes it
-    }
-  }
-
   .codex-topbar {
     // Full-bleed background (this section sits outside .wrap .grid's own
     // max-width), with its content re-centered to that same content width.
