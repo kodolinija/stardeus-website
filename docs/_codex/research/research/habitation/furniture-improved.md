@@ -17,6 +17,8 @@ section: "Research"
 <h2>Unlocks</h2>
 <ul class="codex-index">
 <li><a href="/codex/database/objects/furniture/armchair/">Armchair</a></li>
+<li><a href="/codex/database/structure/floors/floor-marble01/">Marble Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-marble02/">Marble Floor</a></li>
 <li><a href="/codex/database/objects/devices/sleeping-pod/">Sleeping Pod</a></li>
 <li><a href="/codex/database/objects/furniture/sofa/">Sofa</a></li>
 <li><a href="/codex/database/objects/furniture/bed-steel-double/">Steel Double Bed</a></li>

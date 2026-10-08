@@ -10,7 +10,7 @@ section: "Database"
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x8<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x8<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x12<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/platinum-ingot/">Platinum Ingot</a></span> x6</p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Must be indoors</p>
+<p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Must be indoors, <span class="nobr">Energy Consumption: <span class="accent"><b>400kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/rogue-ai/root/">Rogue AI</a> &rarr; <a href="/codex/research/research/rogue-ai/nutrient-infusion/">Nutrient Infusion</a> &rarr; <a href="/codex/research/research/rogue-ai/mind-control/">Mind Control</a> &rarr; <a href="/codex/research/research/rogue-ai/beta-waves/">Beta Waves</a></div>

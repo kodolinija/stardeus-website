@@ -12,7 +12,7 @@ section: "Database"
 <h3 class="codex-subtitle">Hull Integrity</h3>
 <p>Airtightness: <span class="accent"><span class="accent"><b>100%</b></span></span><br>Insulation: <span class="accent"><span class="accent"><b>25%</b></span></span></p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span></p>
+<p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, <span class="nobr">Energy Consumption: <span class="accent"><b>0.1kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/construction/root/">Construction</a> &rarr; <a href="/codex/research/research/construction/structure/">Structure</a> &rarr; <a href="/codex/research/research/construction/habitation/">Habitation</a></div>

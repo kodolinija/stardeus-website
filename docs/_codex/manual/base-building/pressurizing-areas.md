@@ -10,11 +10,11 @@ group_url: /codex/#base-building
 
 <p><span class="nobr"><a href="/codex/manual/base-building/enclosing-areas/">Enclose the area first.</a></span></p>
 
-<p>Use the <span class="nobr"><kbd title="Keyboard: R">R</kbd></span> Repair tool to order repairs for any damaged structures inside or around the perimeter.</p>
+<p>Use the <span class="nobr"><kbd title="Keyboard: R">R</kbd></span> <span class="accent"><span class="accent"><b>Repair</b></span></span> tool to order repairs for any damaged structures inside or around the perimeter.</p>
 
-<p>Use the <span class="nobr"><kbd title="Keyboard: E">E</kbd></span> Connect tool to connect all doors, airlocks, and vents to your electric grid.</p>
+<p>Use the <span class="nobr"><kbd title="Keyboard: E">E</kbd></span> <span class="accent"><span class="accent"><b>Connect</b></span></span> tool to connect all doors, airlocks, and vents to your electric grid.</p>
 
-<p>Close any <span class="nobr"><a href="/codex/database/structure/walls/vent01/">Vent</a></span> that are exposed to open space.</p>
+<p>Close any <span class="nobr"><a href="/codex/database/structure/walls/vent01/">Vent</a></span> that is exposed to open space.</p>
 
 <p>Consult the <span class="nobr"><span class="accent">Airtightness</span></span> and <span class="nobr"><span class="accent">Insulation</span></span> overlays to find gaps and leaks.</p>
 

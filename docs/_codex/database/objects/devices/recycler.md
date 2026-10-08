@@ -10,8 +10,10 @@ section: "Database"
 <p>Recycles organic materials into useful resources.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x1</p>
+<h3 class="codex-subtitle">Produces</h3>
+<p><span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/biofuel/">Biofuel</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Industrial Equipment, Produces Heat</p>
+<p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Industrial Equipment, Produces Heat, <span class="nobr">Energy Consumption: <span class="accent"><b>5-30kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/biochemical-extraction/">Biochemical Extraction</a> &rarr; <a href="/codex/research/research/production/recycling/">Recycling</a></div>

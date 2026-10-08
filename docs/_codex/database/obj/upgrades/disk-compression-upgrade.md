@@ -10,8 +10,8 @@ section: "Database"
 <p>Increases the storage capacity of compatible disk devices.</p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x5 + <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> + <span style="color:#A0BBF7">50kW x 4h</span> = <span class="nobr"><span class="accent">Disk Compression Upgrade</span></span></p>
-<h3 class="codex-subtitle">Recyclable</h3>
-<p>Recycled by deconstructing <span class="nobr"><a href="/codex/database/objects/devices/quantum-ship-computer/">Quantum Ship Computer</a></span></p>
+<h3 class="codex-subtitle">Ingredient</h3>
+<p>Required for building: <span class="nobr"><a href="/codex/database/objects/devices/quantum-ship-computer/">Quantum Ship Computer</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 

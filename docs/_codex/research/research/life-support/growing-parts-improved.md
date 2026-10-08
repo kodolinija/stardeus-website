@@ -13,7 +13,7 @@ section: "Research"
 <li><a href="/codex/database/obj/datoids/datoid-phyto/">Phyto Datoid</a>: 12</li>
 <li><a href="/codex/database/obj/datoids/datoid-biotic/">Biotic Datoid</a>: 19</li>
 <li><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a>: 20</li>
-<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 3</li>
+<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 2</li>
 <li>Disk space: 10</li>
 </ul>
 <h2>Unlocks</h2>

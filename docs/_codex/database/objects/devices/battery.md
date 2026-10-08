@@ -11,7 +11,7 @@ section: "Database"
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/battery-cell/">Battery Cell</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>10%</b></span>, Industrial Equipment</p>
+<p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>10%</b></span>, Industrial Equipment, <span class="nobr">Battery: <span class="accent"><b>1.67MWh</b></span></span>, <span class="nobr">Discharge Rate: <span class="accent"><b>50kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a></div>

@@ -10,7 +10,7 @@ section: "Database"
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/silicon-wafer/">Silicon Wafer</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x4<br><span style="font-size:70%"><span class="muted">Can only be placed in space, attached to the outside of the ship.<br>You can chain these items together.</span></span></p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment</p>
+<p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment, <span class="nobr">Energy Production: <span class="accent"><b>15kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/energy/root/">Energy</a> &rarr; <a href="/codex/research/research/energy/reactor/">Basic Reactor</a> &rarr; <a href="/codex/research/research/energy/solar/">Solar Panels</a> &rarr; <a href="/codex/research/research/energy/solar-improved/">Improved Solar Panels</a></div>

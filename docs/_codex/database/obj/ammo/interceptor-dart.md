@@ -11,7 +11,7 @@ section: "Database"
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x5 + <span class="nobr"><a href="/codex/database/obj/materials/battery-cell/">Battery Cell</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> + <span style="color:#A0BBF7">20kW x 4h</span> = <span class="nobr"><span class="accent">Interceptor Darts</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
-<p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
+<p><span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/ship-combat/root/">Ship Combat</a> &rarr; <a href="/codex/research/research/ship-combat/shields/">Shields</a> &rarr; <a href="/codex/research/research/ship-combat/point-defense/">Point Defense Weapons</a></div>

@@ -13,7 +13,7 @@ section: "Research"
 <li><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a>: 22</li>
 <li><a href="/codex/database/obj/datoids/datoid-energy/">Energy Datoid</a>: 14</li>
 <li><a href="/codex/database/obj/datoids/datoid-tech-high/">High Tech Datoid</a>: 11</li>
-<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 7</li>
+<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 5</li>
 <li>Disk space: 11</li>
 </ul>
 <h2>Unlocks</h2>

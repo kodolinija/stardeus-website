@@ -12,7 +12,7 @@ section: "Research"
 <ul class="codex-index">
 <li><a href="/codex/database/obj/datoids/datoid-phyto/">Phyto Datoid</a>: 13</li>
 <li><a href="/codex/database/obj/datoids/datoid-biotic/">Biotic Datoid</a>: 15</li>
-<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 4</li>
+<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 2</li>
 <li>Disk space: 6</li>
 </ul>
 <h2>Unlocks</h2>

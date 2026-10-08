@@ -422,6 +422,7 @@ permalink: /codex/
 <li><a href="/codex/database/obj/upgrades/auto-connect-upgrade/">Auto Connect Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/auto-pilot-upgrade/">Auto Pilot Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/disk-compression-upgrade/">Disk Compression Upgrade</a></li>
+<li><a href="/codex/database/obj/upgrades/emp-shield-upgrade/">EMP Shield Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/energy-efficiency-upgrade/">Energy Efficiency Upgrade</a></li>
 <li><a href="/codex/database/obj/upgrades/fuse-upgrade/">Fuse</a></li>
 <li><a href="/codex/database/obj/upgrades/game2048-cartridge-upgrade/">Game Cartridge: 2048</a></li>
@@ -501,7 +502,8 @@ permalink: /codex/
 <li><a href="/codex/database/objects/devices/coffee-maker/">Coffee Machine</a></li>
 <li><a href="/codex/database/objects/devices/communicator/">Communicator</a></li>
 <li><a href="/codex/database/objects/devices/energy-connector-big/">Connector 16-12</a></li>
-<li><a href="/codex/database/objects/devices/energy-connector/">Connector 8-20</a></li>
+<li><a href="/codex/database/objects/devices/energy-connector-long/">Connector 4-20</a></li>
+<li><a href="/codex/database/objects/devices/energy-connector/">Connector 8-12</a></li>
 <li><a href="/codex/database/objects/devices/converter/">Converter</a></li>
 <li><a href="/codex/database/objects/devices/cooking-station/">Cooking Station</a></li>
 <li><a href="/codex/database/structure/floors/cool-matic-floor/">CoolMatic Floor</a></li>
@@ -717,6 +719,9 @@ permalink: /codex/
 <li><a href="/codex/database/obj/asteroids/asteroid03/">Asteroid</a></li>
 <li><a href="/codex/database/obj/asteroids/asteroid04/">Asteroid</a></li>
 <li><a href="/codex/database/obj/asteroids/asteroid05/">Asteroid</a></li>
+<li><a href="/codex/database/obj/asteroids/asteroid-fragment01/">Asteroid</a></li>
+<li><a href="/codex/database/obj/asteroids/asteroid-fragment02/">Asteroid</a></li>
+<li><a href="/codex/database/obj/asteroids/asteroid-fragment03/">Asteroid</a></li>
 <li><a href="/codex/database/obj/containers/breach-capsule-flying/">Breach Capsule</a></li>
 <li><a href="/codex/database/obj/misc/c42/">C42</a></li>
 <li><a href="/codex/database/obj/copters/cargo-copter-flying/">Cargo Copter</a></li>
@@ -884,6 +889,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/security/defensive-gear/">Defensive Gear</a></li>
 <li><a href="/codex/research/research/robotics/docking/">Docking</a></li>
 <li><a href="/codex/research/research/security/door-permissions/">Door Permissions</a></li>
+<li><a href="/codex/research/research/ship-combat/emp-shield/">EMP Shield Upgrade</a></li>
 <li><a href="/codex/research/research/economy/root/">Economy</a></li>
 <li><a href="/codex/research/research/energy/solar-efficient/">Efficient Solar Panels</a></li>
 <li><a href="/codex/research/research/production/electronics/">Electronics</a></li>
@@ -938,6 +944,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/ship-combat/weapons-laser/">Laser Weapons</a></li>
 <li><a href="/codex/research/research/life-support/root/">Life Support</a></li>
 <li><a href="/codex/research/research/space-travel/local-maneuvering/">Local Maneuvering</a></li>
+<li><a href="/codex/research/research/energy/connector-long-range/">Long Range Connector</a></li>
 <li><a href="/codex/research/research/robotics/machine-learning/">Machine Learning</a></li>
 <li><a href="/codex/research/research/robotics/maintenance/">Maintenance</a></li>
 <li><a href="/codex/research/research/production/material-processing/">Material Processing</a></li>
@@ -1012,6 +1019,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/life-support/terraform-controls/">Terraform Controls</a></li>
 <li><a href="/codex/research/research/life-support/terrain-generation/">Terrain Generation</a></li>
 <li><a href="/codex/research/research/space-travel/thruster-upgrade/">Thruster Efficiency</a></li>
+<li><a href="/codex/research/research/life-support/tissue-engineering/">Tissue Engineering</a></li>
 <li><a href="/codex/research/research/security/tractor-beam/">Tractor Beam</a></li>
 <li><a href="/codex/research/research/economy/trade-portal/">Trade Portal</a></li>
 <li><a href="/codex/research/research/security/trap-floor/">Trap Floor</a></li>

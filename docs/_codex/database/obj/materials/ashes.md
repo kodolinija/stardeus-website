@@ -13,6 +13,6 @@ section: "Database"
 <h3 class="codex-subtitle">Ingredient</h3>
 <p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/multi-fertilizer/">Multi Fertilizer</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
-<p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span>, <span class="nobr"><a href="/codex/database/objects/furniture/urn/">Urn</a></span></p>
+<p><span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span>, <span class="nobr"><a href="/codex/database/objects/furniture/urn/">Urn</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span></p>
 
 <figure class="codex-image"><img src="/img/codex/sprites/database/obj/materials/ashes.png" alt="Ashes preview" loading="lazy"></figure>

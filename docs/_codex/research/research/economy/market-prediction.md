@@ -13,7 +13,7 @@ section: "Research"
 <h2>Unlock Cost</h2>
 <ul class="codex-index">
 <li><a href="/codex/database/obj/datoids/datoid-energy/">Energy Datoid</a>: 6</li>
-<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 6</li>
+<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 5</li>
 <li><a href="/codex/database/obj/datoids/datoid-quantum/">Quantum Datoid</a>: 10</li>
 <li>Disk space: 11</li>
 </ul>

@@ -613,6 +613,8 @@
           link: /codex/database/obj/upgrades/auto-pilot-upgrade/
         - title: "Disk Compression Upgrade"
           link: /codex/database/obj/upgrades/disk-compression-upgrade/
+        - title: "EMP Shield Upgrade"
+          link: /codex/database/obj/upgrades/emp-shield-upgrade/
         - title: "Energy Efficiency Upgrade"
           link: /codex/database/obj/upgrades/energy-efficiency-upgrade/
         - title: "Fuse"
@@ -757,7 +759,9 @@
           link: /codex/database/objects/devices/communicator/
         - title: "Connector 16-12"
           link: /codex/database/objects/devices/energy-connector-big/
-        - title: "Connector 8-20"
+        - title: "Connector 4-20"
+          link: /codex/database/objects/devices/energy-connector-long/
+        - title: "Connector 8-12"
           link: /codex/database/objects/devices/energy-connector/
         - title: "Converter"
           link: /codex/database/objects/devices/converter/
@@ -1183,6 +1187,12 @@
           link: /codex/database/obj/asteroids/asteroid04/
         - title: "Asteroid"
           link: /codex/database/obj/asteroids/asteroid05/
+        - title: "Asteroid"
+          link: /codex/database/obj/asteroids/asteroid-fragment01/
+        - title: "Asteroid"
+          link: /codex/database/obj/asteroids/asteroid-fragment02/
+        - title: "Asteroid"
+          link: /codex/database/obj/asteroids/asteroid-fragment03/
         - title: "Breach Capsule"
           link: /codex/database/obj/containers/breach-capsule-flying/
         - title: "C42"
@@ -1481,6 +1491,8 @@
           link: /codex/research/research/robotics/docking/
         - title: "Door Permissions"
           link: /codex/research/research/security/door-permissions/
+        - title: "EMP Shield Upgrade"
+          link: /codex/research/research/ship-combat/emp-shield/
         - title: "Economy"
           link: /codex/research/research/economy/root/
         - title: "Efficient Solar Panels"
@@ -1589,6 +1601,8 @@
           link: /codex/research/research/life-support/root/
         - title: "Local Maneuvering"
           link: /codex/research/research/space-travel/local-maneuvering/
+        - title: "Long Range Connector"
+          link: /codex/research/research/energy/connector-long-range/
         - title: "Machine Learning"
           link: /codex/research/research/robotics/machine-learning/
         - title: "Maintenance"
@@ -1737,6 +1751,8 @@
           link: /codex/research/research/life-support/terrain-generation/
         - title: "Thruster Efficiency"
           link: /codex/research/research/space-travel/thruster-upgrade/
+        - title: "Tissue Engineering"
+          link: /codex/research/research/life-support/tissue-engineering/
         - title: "Tractor Beam"
           link: /codex/research/research/security/tractor-beam/
         - title: "Trade Portal"

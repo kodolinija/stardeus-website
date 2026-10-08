@@ -10,8 +10,10 @@ section: "Database"
 <p>Enables researchers to study and analyze organic matter.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x1</p>
+<h3 class="codex-subtitle">Produces</h3>
+<p><span class="nobr"><a href="/codex/database/obj/datoids/datoid-biotic/">Biotic Datoid</a></span>, <span class="nobr"><a href="/codex/database/obj/datoids/datoid-phyto/">Phyto Datoid</a></span>, <span class="nobr"><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a></span>, <span class="nobr"><a href="/codex/database/obj/datoids/datoid-alien/">Alien Datoid</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Operator Required</p>
+<p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Operator Required, <span class="nobr">Energy Consumption: <span class="accent"><b>20-150kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/computing/root/">Computing</a> &rarr; <a href="/codex/research/research/computing/research/">Basic Research</a> &rarr; <a href="/codex/research/research/computing/research-station/">Research Station</a></div>

@@ -12,7 +12,7 @@ section: "Research"
 <ul class="codex-index">
 <li><a href="/codex/database/obj/datoids/datoid-energy/">Energy Datoid</a>: 17</li>
 <li><a href="/codex/database/obj/datoids/datoid-tech-high/">High Tech Datoid</a>: 16</li>
-<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 8</li>
+<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 6</li>
 <li>Disk space: 9</li>
 </ul>
 <h2>Unlocks</h2>

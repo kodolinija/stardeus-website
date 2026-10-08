@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A consumable fuse that prevents side effects from device malfunctions.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/assembler/">Assembler</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> + <span style="color:#A0BBF7">25kW x 2h</span> = <span class="nobr"><span class="accent">Fuse</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/assembler/">Assembler</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> + <span style="color:#A0BBF7">25kW x 2h</span> = <span class="nobr"><span class="accent">Fuse</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 

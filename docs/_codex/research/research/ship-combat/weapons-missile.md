@@ -11,7 +11,7 @@ section: "Research"
 <h2>Unlock Cost</h2>
 <ul class="codex-index">
 <li><a href="/codex/database/obj/datoids/datoid-tech-high/">High Tech Datoid</a>: 12</li>
-<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 15</li>
+<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 11</li>
 <li>Disk space: 7</li>
 </ul>
 <h2>Unlocks</h2>

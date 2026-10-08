@@ -11,7 +11,7 @@ section: "Database"
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x6<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5</p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Operator Required</p>
+<p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, Operator Required, <span class="nobr">Energy Consumption: <span class="accent"><b>3-25kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/robotics/root/">Robotics</a> &rarr; <a href="/codex/research/research/robotics/maintenance/">Maintenance</a> &rarr; <a href="/codex/research/research/robotics/docking/">Docking</a> &rarr; <a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a></div>

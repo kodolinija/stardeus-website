@@ -15,7 +15,7 @@ section: "Research"
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">
-<li><a href="/codex/database/objects/devices/energy-connector/">Connector 8-20</a></li>
+<li><a href="/codex/database/objects/devices/energy-connector/">Connector 8-12</a></li>
 <li><a href="/codex/database/objects/devices/matter-reactor-mini/">Matter Reactor (20kW)</a></li>
 </ul>
 

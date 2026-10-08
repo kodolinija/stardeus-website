@@ -10,8 +10,10 @@ section: "Database"
 <p>Prints food items for your colonists.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x2</p>
+<h3 class="codex-subtitle">Produces</h3>
+<p><span class="nobr"><a href="/codex/database/obj/meals/survival-meal/">Survival Meal</a></span>, <span class="nobr"><a href="/codex/database/obj/meals/bread/">Bread</a></span>, <span class="nobr"><a href="/codex/database/obj/meals/pumpkin-soup/">Pumpkin Soup</a></span>, <span class="nobr"><a href="/codex/database/obj/meals/soy-burger/">Soy Burger</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>
-<p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment</p>
+<p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, <span class="nobr">Energy Consumption: <span class="accent"><b>5kW</b></span></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a> &rarr; <a href="/codex/research/research/life-support/food-production-improved/">Improved Food Production</a></div>

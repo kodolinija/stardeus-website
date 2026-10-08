@@ -9,13 +9,11 @@ section: "Database"
 
 <p>A large, round, orange fruit with a thick rind and edible flesh.</p>
 <h3 class="codex-subtitle">Ingredient</h3>
-<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/meals/pumpkin-soup/">Pumpkin Soup</a></span></p>
-<h3 class="codex-subtitle">Recyclable</h3>
-<p>Recycled by deconstructing <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head01/">Jack-o'-lantern</a></span>, <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head02/">Jack-o'-lantern</a></span>, <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head03/">Jack-o'-lantern</a></span>, <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head04/">Jack-o'-lantern</a></span></p>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/meals/pumpkin-soup/">Pumpkin Soup</a></span><br>Required for building: <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head01/">Jack-o'-lantern</a></span>, <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head02/">Jack-o'-lantern</a></span>, <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head03/">Jack-o'-lantern</a></span>, <span class="nobr"><a href="/codex/database/objects/cosmetics/pumpkin-head04/">Jack-o'-lantern</a></span></p>
 <h3 class="codex-subtitle">Harvestable</h3>
 <p>Harvested from <span class="nobr"><a href="/codex/database/obj/plants/pumpkin/">Pumpkin</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
-<p><span class="nobr"><a href="/codex/database/objects/devices/freezer/">Freezer</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/fridge/">Refrigerator</a></span></p>
+<p><span class="nobr"><a href="/codex/database/objects/devices/fridge/">Refrigerator</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/freezer/">Freezer</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Vegan Food, Nutrition Amount: <span style="color:#E1CB73">50</span></p>
 

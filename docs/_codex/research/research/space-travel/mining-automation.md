@@ -10,9 +10,9 @@ section: "Research"
 <p><strong>Tier:</strong> 3</p>
 <h2>Unlock Cost</h2>
 <ul class="codex-index">
-<li><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a>: 12</li>
+<li><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a>: 16</li>
 <li><a href="/codex/database/obj/datoids/datoid-energy/">Energy Datoid</a>: 10</li>
-<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 6</li>
+<li><a href="/codex/database/obj/datoids/datoid-nuclear/">Nuclear Datoid</a>: 3</li>
 <li>Disk space: 9</li>
 </ul>
 <h2>Unlocks</h2>

@@ -19,8 +19,6 @@ section: "Research"
 <li><a href="/codex/database/structure/walls/vent02/">Interior Vent</a></li>
 <li><a href="/codex/database/structure/walls/wall02/">Interior Wall</a></li>
 <li><a href="/codex/database/structure/walls/window02/">Interior Window</a></li>
-<li><a href="/codex/database/structure/floors/floor-marble01/">Marble Floor</a></li>
-<li><a href="/codex/database/structure/floors/floor-marble02/">Marble Floor</a></li>
 <li><a href="/codex/database/structure/floors/floor-wood01/">Wooden Floor</a></li>
 <li><a href="/codex/database/structure/floors/floor-wood02/">Wooden Floor</a></li>
 </ul>

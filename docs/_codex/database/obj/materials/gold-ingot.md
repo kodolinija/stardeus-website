@@ -11,11 +11,9 @@ section: "Database"
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/furnace/">Furnace</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold/">Gold</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span> + <span style="color:#A0BBF7">30kW x 3h</span> = <span class="nobr"><span class="accent">Gold Ingot</span></span></p>
 <h3 class="codex-subtitle">Ingredient</h3>
-<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span></p>
-<h3 class="codex-subtitle">Recyclable</h3>
-<p>Recycled by deconstructing <span class="nobr"><a href="/codex/database/objects/cosmetics/skull02/">Decorative Skull</a></span></p>
+<p>Required for crafting: <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span><br>Required for building: <span class="nobr"><a href="/codex/database/objects/cosmetics/skull02/">Decorative Skull</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
-<p><span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span></p>
+<p><span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span></p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/metal-purification/">Metal Purification</a></div>

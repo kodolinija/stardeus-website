@@ -15,4 +15,4 @@ group_url: /codex/#research
 <p>Datoids cannot be bought or sold.</p>
 
 <figure class="codex-image"><img src="/img/codex/Research/Datoids.png" alt="Datoids - Datoids" loading="lazy"></figure>
-<figure class="codex-video"><video src="/vid/codex/Production/ConfiguringCrafter.webm" controls loop muted playsinline preload="metadata"></video></figure>
+<figure class="codex-video"><video src="/vid/codex/Research/Datoids.webm" controls loop muted playsinline preload="metadata"></video></figure>
