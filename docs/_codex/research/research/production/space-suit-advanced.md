@@ -7,13 +7,14 @@ image: /img/codex/sprites/research/research/production/space-suit-advanced.png
 section: "Research"
 ---
 
-<p><strong>Tier:</strong> 3</p>
+<p><strong>Tier:</strong> 2</p>
 <h2>Unlock Cost</h2>
 <ul class="codex-index">
-<li><a href="/codex/database/obj/datoids/datoid-basic/">Basic Datoid</a>: 15</li>
-<li><a href="/codex/database/obj/datoids/datoid-phyto/">Phyto Datoid</a>: 9</li>
-<li><a href="/codex/database/obj/datoids/datoid-biotic/">Biotic Datoid</a>: 9</li>
-<li>Disk space: 6</li>
+<li><a href="/codex/database/obj/datoids/datoid-basic/">Basic Datoid</a>: 14</li>
+<li><a href="/codex/database/obj/datoids/datoid-tech/">Tech Datoid</a>: 2</li>
+<li><a href="/codex/database/obj/datoids/datoid-phyto/">Phyto Datoid</a>: 5</li>
+<li><a href="/codex/database/obj/datoids/datoid-biotic/">Biotic Datoid</a>: 4</li>
+<li>Disk space: 4</li>
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">

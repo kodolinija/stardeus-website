@@ -17,6 +17,21 @@ section: "Research"
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">
+<li><a href="/codex/database/structure/floors/floor-armored01/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored02/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored03/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored04/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored05/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored01-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored02-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored03-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored04-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored05-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored01-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored02-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored03-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored04-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored05-lit/">Armored Floor (Lit)</a></li>
 <li><a href="/codex/database/structure/walls/vent-armored01/">Armored Vent</a></li>
 <li><a href="/codex/database/structure/walls/wall-armored01/">Armored Wall</a></li>
 <li><a href="/codex/database/structure/walls/wall-socket-armored01/">Armored Wall Socket 32-8</a></li>

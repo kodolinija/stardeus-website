@@ -7,13 +7,13 @@ image: /img/codex/sprites/research/research/production/combat-armor.png
 section: "Research"
 ---
 
-<p><strong>Tier:</strong> 4</p>
+<p><strong>Tier:</strong> 3</p>
 <h2>Unlock Cost</h2>
 <ul class="codex-index">
-<li><a href="/codex/database/obj/datoids/datoid-basic/">Basic Datoid</a>: 30</li>
-<li><a href="/codex/database/obj/datoids/datoid-tech/">Tech Datoid</a>: 18</li>
-<li><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a>: 20</li>
-<li>Disk space: 9</li>
+<li><a href="/codex/database/obj/datoids/datoid-basic/">Basic Datoid</a>: 20</li>
+<li><a href="/codex/database/obj/datoids/datoid-tech/">Tech Datoid</a>: 12</li>
+<li><a href="/codex/database/obj/datoids/datoid-synthetic/">Synthetic Datoid</a>: 10</li>
+<li>Disk space: 7</li>
 </ul>
 <h2>Unlocks</h2>
 <ul class="codex-index">
@@ -22,6 +22,7 @@ section: "Research"
 </ul>
 
 <h2>Research Prerequisites</h2>
+<div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/assembly/">Assembly</a> &rarr; <a href="/codex/research/research/production/smelting/">Smelting</a> &rarr; <a href="/codex/research/research/production/metal-purification/">Metal Purification</a></div>
 <div class="codex-prereq-path"><a href="/codex/research/research/production/root/">Production</a> &rarr; <a href="/codex/research/research/production/weaving/">Weaving</a> &rarr; <a href="/codex/research/research/production/space-suit/">Space Suit</a> &rarr; <a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a></div>
 
 <figure class="codex-image"><img src="/img/codex/sprites/research/research/production/combat-armor.png" alt="Combat Armor preview" loading="lazy"></figure>

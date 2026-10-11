@@ -282,6 +282,8 @@ permalink: /codex/
 <h2>Equipment</h2>
 <ul class="codex-index">
 <li><a href="/codex/database/obj/equipment/hats/space-helmet02/">Armored Helmet</a></li>
+<li><a href="/codex/database/obj/equipment/clothing/assault-armor01/">Assault Armor</a></li>
+<li><a href="/codex/database/obj/equipment/hats/assault-helmet01/">Assault Helmet</a></li>
 <li><a href="/codex/database/obj/equipment/hats/baseball-cap01/">Baseball Cap</a></li>
 <li><a href="/codex/database/obj/equipment/clothing/clown-costume01/">Clown Costume</a></li>
 <li><a href="/codex/database/obj/equipment/hats/combat-helmet01/">Combat Helmet</a></li>
@@ -290,6 +292,8 @@ permalink: /codex/
 <li><a href="/codex/database/obj/equipment/hats/hat01/">Hat</a></li>
 <li><a href="/codex/database/obj/equipment/hats/jester-hat/">Jester's Hat</a></li>
 <li><a href="/codex/database/obj/equipment/clothing/space-suit02/">Jet Suit</a></li>
+<li><a href="/codex/database/obj/equipment/clothing/power-armor01/">Power Armor</a></li>
+<li><a href="/codex/database/obj/equipment/hats/power-helmet01/">Power Helmet</a></li>
 <li><a href="/codex/database/obj/equipment/hats/space-helmet01/">Space Helmet</a></li>
 <li><a href="/codex/database/obj/equipment/clothing/space-suit01/">Space Suit</a></li>
 <li><a href="/codex/database/obj/equipment/clothing/tracksuit01/">Track Suit</a></li>
@@ -446,6 +450,7 @@ permalink: /codex/
 <ul class="codex-index">
 <li><a href="/codex/database/obj/equipment/weapons/energy-rifle01/">Energy Rifle</a></li>
 <li><a href="/codex/database/obj/equipment/weapons/handgun01/">Handgun</a></li>
+<li><a href="/codex/database/obj/equipment/weapons/ion-disruptor01/">Ion Disruptor</a></li>
 <li><a href="/codex/database/obj/equipment/weapons/knife01/">Knife</a></li>
 <li><a href="/codex/database/obj/equipment/weapons/machete01/">Machete</a></li>
 <li><a href="/codex/database/obj/equipment/weapons/nail-gun01/">Nail Gun</a></li>
@@ -463,6 +468,21 @@ permalink: /codex/
 <li><a href="/codex/database/structure/doors/door-airlock01/">Airlock</a></li>
 <li><a href="/codex/database/objects/devices/arcade-cabinet/">Arcade Cabinet</a></li>
 <li><a href="/codex/database/objects/furniture/armchair/">Armchair</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored01/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored02/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored03/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored04/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored05/">Armored Floor</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored01-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored02-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored03-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored04-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored05-angle/">Armored Floor (Angle)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored01-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored02-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored03-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored04-lit/">Armored Floor (Lit)</a></li>
+<li><a href="/codex/database/structure/floors/floor-armored05-lit/">Armored Floor (Lit)</a></li>
 <li><a href="/codex/database/structure/walls/vent-armored01/">Armored Vent</a></li>
 <li><a href="/codex/database/structure/walls/wall-armored01/">Armored Wall</a></li>
 <li><a href="/codex/database/structure/walls/wall-socket-armored01/">Armored Wall Socket 32-8</a></li>
@@ -845,6 +865,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/space-travel/warp-drive-alien/">Alien Warp Drive</a></li>
 <li><a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a></li>
 <li><a href="/codex/research/research/construction/structure-armored/">Armored Structure</a></li>
+<li><a href="/codex/research/research/production/assault-armor/">Assault Armor</a></li>
 <li><a href="/codex/research/research/production/assembly/">Assembly</a></li>
 <li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a></li>
 <li><a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a></li>
@@ -939,6 +960,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/life-support/growing-parts-improved/">Improved Synthetic Organs</a></li>
 <li><a href="/codex/research/research/security/improvised-arms/">Improvised Arms</a></li>
 <li><a href="/codex/research/research/rogue-ai/intrusion-suite/">Intrusion Suite</a></li>
+<li><a href="/codex/research/research/security/ion-weapons/">Ion Weapons</a></li>
 <li><a href="/codex/research/research/entertainment/jukebox/">Jukebox</a></li>
 <li><a href="/codex/research/research/habitation/labeling/">Labeling</a></li>
 <li><a href="/codex/research/research/ship-combat/weapons-laser/">Laser Weapons</a></li>
@@ -970,6 +992,7 @@ permalink: /codex/
 <li><a href="/codex/research/research/habitation/paint/">Paint</a></li>
 <li><a href="/codex/research/research/ship-combat/weapons-plasma/">Plasma Weapons</a></li>
 <li><a href="/codex/research/research/ship-combat/point-defense/">Point Defense Weapons</a></li>
+<li><a href="/codex/research/research/production/power-armor/">Power Armor</a></li>
 <li><a href="/codex/research/research/security/precision-firearms/">Precision Firearms</a></li>
 <li><a href="/codex/research/research/production/root/">Production</a></li>
 <li><a href="/codex/research/research/space-travel/propulsion/">Propulsion</a></li>

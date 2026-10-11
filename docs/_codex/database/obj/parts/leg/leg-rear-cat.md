@@ -13,7 +13,7 @@ section: "Database"
 <h3 class="codex-subtitle">Provides Abilities</h3>
 <p> <span style="font-size:75%">→</span> <span class="accent">Move</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>
-<p> <span style="font-size:75%">→</span> Move Speed: <span class="accent"><b>0.23/m</b></span></p>
+<p> <span style="font-size:75%">→</span> Move Speed: <span class="accent"><b>0.253/m</b></span></p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/cloning-pod/">Cloning Pod</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/protein/">Raw Meat</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/stem-cells/">Stem Cells</a></span> + <span style="color:#A0BBF7">10kW x 7d</span> = <span class="nobr"><span class="accent">Cat Leg (Rear)</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

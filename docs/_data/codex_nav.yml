@@ -413,6 +413,10 @@
       items:
         - title: "Armored Helmet"
           link: /codex/database/obj/equipment/hats/space-helmet02/
+        - title: "Assault Armor"
+          link: /codex/database/obj/equipment/clothing/assault-armor01/
+        - title: "Assault Helmet"
+          link: /codex/database/obj/equipment/hats/assault-helmet01/
         - title: "Baseball Cap"
           link: /codex/database/obj/equipment/hats/baseball-cap01/
         - title: "Clown Costume"
@@ -429,6 +433,10 @@
           link: /codex/database/obj/equipment/hats/jester-hat/
         - title: "Jet Suit"
           link: /codex/database/obj/equipment/clothing/space-suit02/
+        - title: "Power Armor"
+          link: /codex/database/obj/equipment/clothing/power-armor01/
+        - title: "Power Helmet"
+          link: /codex/database/obj/equipment/hats/power-helmet01/
         - title: "Space Helmet"
           link: /codex/database/obj/equipment/hats/space-helmet01/
         - title: "Space Suit"
@@ -653,6 +661,8 @@
           link: /codex/database/obj/equipment/weapons/energy-rifle01/
         - title: "Handgun"
           link: /codex/database/obj/equipment/weapons/handgun01/
+        - title: "Ion Disruptor"
+          link: /codex/database/obj/equipment/weapons/ion-disruptor01/
         - title: "Knife"
           link: /codex/database/obj/equipment/weapons/knife01/
         - title: "Machete"
@@ -681,6 +691,36 @@
           link: /codex/database/objects/devices/arcade-cabinet/
         - title: "Armchair"
           link: /codex/database/objects/furniture/armchair/
+        - title: "Armored Floor"
+          link: /codex/database/structure/floors/floor-armored01/
+        - title: "Armored Floor"
+          link: /codex/database/structure/floors/floor-armored02/
+        - title: "Armored Floor"
+          link: /codex/database/structure/floors/floor-armored03/
+        - title: "Armored Floor"
+          link: /codex/database/structure/floors/floor-armored04/
+        - title: "Armored Floor"
+          link: /codex/database/structure/floors/floor-armored05/
+        - title: "Armored Floor (Angle)"
+          link: /codex/database/structure/floors/floor-armored01-angle/
+        - title: "Armored Floor (Angle)"
+          link: /codex/database/structure/floors/floor-armored02-angle/
+        - title: "Armored Floor (Angle)"
+          link: /codex/database/structure/floors/floor-armored03-angle/
+        - title: "Armored Floor (Angle)"
+          link: /codex/database/structure/floors/floor-armored04-angle/
+        - title: "Armored Floor (Angle)"
+          link: /codex/database/structure/floors/floor-armored05-angle/
+        - title: "Armored Floor (Lit)"
+          link: /codex/database/structure/floors/floor-armored01-lit/
+        - title: "Armored Floor (Lit)"
+          link: /codex/database/structure/floors/floor-armored02-lit/
+        - title: "Armored Floor (Lit)"
+          link: /codex/database/structure/floors/floor-armored03-lit/
+        - title: "Armored Floor (Lit)"
+          link: /codex/database/structure/floors/floor-armored04-lit/
+        - title: "Armored Floor (Lit)"
+          link: /codex/database/structure/floors/floor-armored05-lit/
         - title: "Armored Vent"
           link: /codex/database/structure/walls/vent-armored01/
         - title: "Armored Wall"
@@ -1403,6 +1443,8 @@
           link: /codex/research/research/entertainment/arcade-cabinet/
         - title: "Armored Structure"
           link: /codex/research/research/construction/structure-armored/
+        - title: "Assault Armor"
+          link: /codex/research/research/production/assault-armor/
         - title: "Assembly"
           link: /codex/research/research/production/assembly/
         - title: "Assembly Hub"
@@ -1591,6 +1633,8 @@
           link: /codex/research/research/security/improvised-arms/
         - title: "Intrusion Suite"
           link: /codex/research/research/rogue-ai/intrusion-suite/
+        - title: "Ion Weapons"
+          link: /codex/research/research/security/ion-weapons/
         - title: "Jukebox"
           link: /codex/research/research/entertainment/jukebox/
         - title: "Labeling"
@@ -1653,6 +1697,8 @@
           link: /codex/research/research/ship-combat/weapons-plasma/
         - title: "Point Defense Weapons"
           link: /codex/research/research/ship-combat/point-defense/
+        - title: "Power Armor"
+          link: /codex/research/research/production/power-armor/
         - title: "Precision Firearms"
           link: /codex/research/research/security/precision-firearms/
         - title: "Production"

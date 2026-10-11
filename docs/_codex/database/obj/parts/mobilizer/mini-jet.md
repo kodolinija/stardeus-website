@@ -13,7 +13,7 @@ section: "Database"
 <h3 class="codex-subtitle">Provides Abilities</h3>
 <p> <span style="font-size:75%">→</span> <span class="accent">Fly</span>, <span class="accent">Move</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>
-<p> <span style="font-size:75%">→</span> Move Speed: <span class="accent"><b>0.69/m</b></span></p>
+<p> <span style="font-size:75%">→</span> Move Speed: <span class="accent"><b>0.759/m</b></span></p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x5 + <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span> + <span style="color:#A0BBF7">50kW x 10d</span> = <span class="nobr"><span class="accent">Mini Jet</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

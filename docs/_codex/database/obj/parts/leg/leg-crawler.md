@@ -13,7 +13,7 @@ section: "Database"
 <h3 class="codex-subtitle">Provides Abilities</h3>
 <p> <span style="font-size:75%">→</span> <span class="accent">Move</span></p>
 <h3 class="codex-subtitle">Provides Stats <span style="font-size:70%"><span class="muted">(at 100% quality)</span></span></h3>
-<p> <span style="font-size:75%">→</span> Move Speed: <span class="accent"><b>0.058/m</b></span></p>
+<p> <span style="font-size:75%">→</span> Move Speed: <span class="accent"><b>0.063/m</b></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/organ-storage/">Organ Storage</a></span></p>
 
