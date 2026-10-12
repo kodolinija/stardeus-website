@@ -1,3 +1,7 @@
+<b>v0.14.46</b> (2026.10.12)
+- [Misc] Add a main menu notice about the upcoming major update and the experimental branch on Steam
+
+
 <b>v0.14.45</b> (2026.05.12)
 - [Graphics] Replace Tractor Beam pull visual effect with much more efficient version to reduce GPU load
 
