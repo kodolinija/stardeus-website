@@ -22,6 +22,7 @@ section: "Research"
 <li><a href="/codex/database/obj/parts/eye/mini-optics/">Mini Optics</a></li>
 <li><a href="/codex/database/obj/parts/implant/mood-regulator/">Mood Regulator</a></li>
 <li><a href="/codex/database/obj/parts/hand/multi-tool/">Multi Tool</a></li>
+<li><a href="/codex/database/obj/parts/implant/pain-inhibitor/">Pain Inhibitor</a></li>
 <li><a href="/codex/database/obj/parts/mobilizer/tracks/">Tracks</a></li>
 </ul>
 

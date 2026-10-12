@@ -295,6 +295,8 @@
           link: /codex/database/obj/parts/body/body-mindjar/
         - title: "Orbotron Frame"
           link: /codex/database/obj/parts/body/body-orbotron/
+        - title: "Pain Inhibitor"
+          link: /codex/database/obj/parts/implant/pain-inhibitor/
         - title: "Pig Brain"
           link: /codex/database/obj/parts/brain/brain-pig/
         - title: "Pig Ear"
@@ -1079,6 +1081,8 @@
           link: /codex/database/objects/devices/rocket-pod/
         - title: "Rubber Duck"
           link: /codex/database/objects/cosmetics/rubber-duck/
+        - title: "Sandbag"
+          link: /codex/database/objects/defenses/sandbags01/
         - title: "Sector Nuke"
           link: /codex/database/objects/devices/sector-nuke/
         - title: "Shield Emitter"

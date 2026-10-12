@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A long, heavy blade - slower and less precise than a knife, but it hits much harder.</p>
 <h3 class="codex-subtitle">Attack Methods <span class="muted">(at 100% quality)</span></h3>
-<p><span class="accent"><b>Cut</b></span> <span class="muted">(at 100% quality)</span><br> <span style="font-size:75%">→</span> DPS: <span class="accent"><b>4.5</b></span><br> <span style="font-size:75%">→</span> Charge Time: <span class="accent"><b>4</b></span><br> <span style="font-size:75%">→</span> Cooldown Time: <span class="accent"><b>4</b></span><br> <span style="font-size:75%">→</span> Accuracy (Max): <span class="accent"><b>65%</b></span><br> <span style="font-size:75%">→</span> Range (Max): <span class="accent"><b>1.7</b></span></p>
+<p><span class="accent"><b>Cut</b></span> <span class="muted">(at 100% quality)</span><br> <span style="font-size:75%">→</span> DPS: <span class="accent"><b>4.5</b></span><br> <span style="font-size:75%">→</span> Charge Time: <span class="accent"><b>4</b></span><br> <span style="font-size:75%">→</span> Cooldown Time: <span class="accent"><b>4</b></span><br> <span style="font-size:75%">→</span> Range (Max): <span class="accent"><b>1.7</b></span></p>
 <h3 class="codex-subtitle">Craftable</h3>
 <p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> + <span style="color:#A0BBF7">25kW x 4h</span> = <span class="nobr"><span class="accent">Machete</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

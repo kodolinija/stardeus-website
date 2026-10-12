@@ -12,6 +12,8 @@ group_url: /codex/#beings
 
 <p>Use <span class="nobr"><kbd title="Mouse: Right Button">Right Button</kbd></span> to order drafted beings to move to a specific location or attack a specific enemy.</p>
 
+<p>A drafted shooter fires at enemies it can hit from where it stands. An attack order on an enemy out of its reach is refused. Hold <span class="nobr"><kbd title="Keyboard: Left Shift / Keyboard: Right Shift">Left Shift / Right Shift</kbd></span> while giving the order to make it move closer first. Beings ordered as a group move closer on their own.</p>
+
 <p>Remember to <span class="accent"><span class="accent"><b>Undraft</b></span></span> them after the combat is over.</p>
 
 <figure class="codex-video"><video src="/vid/codex/UI/CombatDrafting.webm" controls loop muted playsinline preload="metadata"></video></figure>

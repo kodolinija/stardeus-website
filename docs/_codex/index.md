@@ -207,6 +207,7 @@ permalink: /codex/
 <li><a href="/codex/database/obj/parts/intestines/intestines-medium/">Medium Intestines</a></li>
 <li><a href="/codex/database/obj/parts/body/body-mindjar/">Mindjar Frame</a></li>
 <li><a href="/codex/database/obj/parts/body/body-orbotron/">Orbotron Frame</a></li>
+<li><a href="/codex/database/obj/parts/implant/pain-inhibitor/">Pain Inhibitor</a></li>
 <li><a href="/codex/database/obj/parts/brain/brain-pig/">Pig Brain</a></li>
 <li><a href="/codex/database/obj/parts/ear/ear-pig/">Pig Ear</a></li>
 <li><a href="/codex/database/obj/parts/eye/eye-pig/">Pig Eye</a></li>
@@ -662,6 +663,7 @@ permalink: /codex/
 <li><a href="/codex/database/objects/devices/return-beacon/">Return Beacon</a></li>
 <li><a href="/codex/database/objects/devices/rocket-pod/">Rocket Pod</a></li>
 <li><a href="/codex/database/objects/cosmetics/rubber-duck/">Rubber Duck</a></li>
+<li><a href="/codex/database/objects/defenses/sandbags01/">Sandbag</a></li>
 <li><a href="/codex/database/objects/devices/sector-nuke/">Sector Nuke</a></li>
 <li><a href="/codex/database/objects/devices/shield-emitter/">Shield Emitter</a></li>
 <li><a href="/codex/database/objects/devices/ship-computer/">Ship Computer</a></li>
