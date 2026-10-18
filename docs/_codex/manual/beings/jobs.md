@@ -15,6 +15,8 @@ group_url: /codex/#beings
 <p>You can configure which job types each being is allowed to perform.</p>
 
 <figure class="codex-image"><img src="/img/codex/UI/Jobs.png" alt="Tasks, Jobs, and Skills - Jobs" loading="lazy"></figure>
+<p>Each job has a priority from 1 to 5, or 0 to turn it off. Workers take tasks of their highest priority jobs first, and when several workers want the same task, the one with the higher priority for that job gets it. Left click a priority to raise it and right click to lower it.</p>
+
 <p>Job capability is not the only requirement for performing a task. Most tasks also require specific abilities. For example, cleaning solar panels requires the ability to fly, so a being without a <span class="nobr"><a href="/codex/database/obj/parts/mobilizer/mini-jet/">Mini Jet</a></span> or <span class="nobr"><a href="/codex/database/obj/equipment/clothing/space-suit02/">Jet Suit</a></span> cannot do it, even with high cleaning skill.</p>
 
 <figure class="codex-image"><img src="/img/codex/UI/Abilities.png" alt="Tasks, Jobs, and Skills - Abilities" loading="lazy"></figure>
