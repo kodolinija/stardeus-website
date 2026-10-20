@@ -356,6 +356,16 @@ footer {
     display: block;
     margin-bottom: 12px;
   }
+
+  @media (min-width: 569px) {
+    .media-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+
+      .screenshot-link { margin-bottom: 0; }
+    }
+  }
 }
 
 .feature-video {
