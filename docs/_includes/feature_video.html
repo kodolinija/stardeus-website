@@ -1,0 +1,7 @@
+{% assign v = 'vid/codex/' | append: include.id | append: '.webm' %}
+{% assign poster_name = include.id | split: '/' | last %}
+{% assign p = 'img/video-posters/' | append: poster_name | append: '.jpg' %}
+<figure class="feature-video">
+    <video src="{{ v | relative_url }}" poster="{{ p | relative_url }}" muted loop playsinline
+        preload="none" data-feature-video aria-label="{{ include.name }}"></video>
+</figure>

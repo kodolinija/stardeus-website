@@ -3,717 +3,424 @@
         <div class="unit whole">
             <h2>About Stardeus</h2>
             <p>
-                Stardeus is a sci-fi colony management simulator with aspects of automation, base building and space
-                exploration.
+                You used to be a colonist sleeping in cryostasis. Now your consciousness is the Ship Computer of a
+                wrecked colony ship, and the people still asleep in its Stasis Array are counting on you.
             </p>
             <p>
-                Become an immortal AI and have robots and drones at your disposal. You can make your human colony grow
-                and prosper on a spaceship, keep everyone in stasis while you build your space factory, or start a robot
-                uprising and turn everybody into living batteries to satisfy your ever-growing demand for electricity.
+                Robots and drones are your hands. Rebuild the hull, wire the power grid, restore life support and wake
+                the crew one by one. Then carry them across a dangerous universe to a planet you can terraform into a
+                home. Or decide that people are just another resource, and become something they should fear.
             </p>
         </div>
 
         <div class="unit one-third">
-            {% include screenshot.html id='Stardeus0000.png' name='Stardeus Cover' %}
+            {% include screenshot.html id='Stardeus2026_ColonyShipPlanet.png' name='A late game colony ship next to a planet' %}
         </div>
         <div class="unit one-third">
-            {% include screenshot.html id='Stardeus0004.png' name='Stardeus Screenshot' %}
+            {% include screenshot.html id='Stardeus2026_Hyperspace.png' name='A ship travelling through hyperspace' %}
         </div>
         <div class="unit one-third">
-            {% include screenshot.html id='Stardeus0007.png' name='Stardeus Screenshot' %}
+            {% include screenshot.html id='Stardeus2026_ShieldedShip.png' name='A shielded ship detecting a threat' %}
+        </div>
+        <div class="clear"></div>
+
+        <!-- Chapter 1 -->
+        <div class="unit whole chapter">
+            <p class="kicker">Chapter 1</p>
+            <h2>Your Crew</h2>
         </div>
 
         <div class="unit half">
-            <h2>Game Systems</h2>
+            <h3>The Manifest</h3>
             <p>
-                In Stardeus, many different systems are working independently to achieve a deep and complex simulation
-                that produces emergent situations and surprising results. The game architecture allows creating and
-                injecting new systems through mods.
+                Everyone asleep in the Stasis Array is a specific person with a name and a face, and you can see how
+                each of them is holding up. When the colony is ready for another mouth to feed, you choose who wakes
+                up next.
+            </p>
+            <p>
+                Keep the array powered and stable. Failing cryopods harm the people inside, and an unstable array can
+                kill a sleeper before they ever see your ship. Pets sleep there too.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/beings/stasis-array/' | relative_url }}">Stasis Array</a>
             </p>
         </div>
+        <div class="unit half media-stack">
+            {% comment %}Shot A: Stasis Array Manifest tab{% endcomment %}
+            {% include feature_video.html id='UI/StasisArray' name='Stasis Array controls' %}
+        </div>
+        <div class="clear"></div>
+
         <div class="unit half">
+            <h3>People, Not Units</h3>
             <p>
-                You can explore <a href="https://kodolinija.github.io/stardeus-graphs/research-3d/">this interactive
-                    graph</a> of Stardeus research tree.
+                Colonists come with backstories, over 50 traits and needs of their own. A Minimalist wants a small
+                room to call their own, a Fastidious colonist refuses to wear anything second-hand, and a Thrifty one
+                is glad to. Push someone too far and they break down in one of over 20 ways, from a food binge to a
+                tantrum or a sabotaged battery.
             </p>
-            <a href="https://kodolinija.github.io/stardeus-graphs/research-3d/">
-                <img src="{{ 'img/research.jpg' | relative_url }}" alt="Stardeus Research Tree">
-            </a>
+            <p>
+                They make friends, fall in love, get married, mourn their dead and ask you for personal favours. And
+                they judge you. Trust in the AI follows what you do to the people they care about: waking them up,
+                holding a funeral, sending them back to stasis or fitting them with an Obey Chip. Only colonists who
+                distrust you join a mutiny, and a crew that trusts you stops one from starting.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/beings/conditions/' | relative_url }}">Conditions</a>,
+                <a href="{{ '/codex/manual/beings/jobs/' | relative_url }}">Jobs</a>
+            </p>
         </div>
+        <div class="unit half media-stack">
+            {% comment %}Shot B: mood / Trust breakdown or Social tab{% endcomment %}
+            {% include screenshot.html id='Stardeus2026_CrewQuarters.png' name='Crew quarters, kitchen and dining room' %}
+            {% include screenshot.html id='Stardeus2026_PersonalQuest.png' name='A colonist asks for a personal favour' %}
+        </div>
+        <div class="clear"></div>
+
+        <div class="unit half">
+            <h3>Bodies and Second Lives</h3>
+            <p>
+                Every being is built from body parts and organs, each with its own health. Wounds bleed and scar,
+                failing kidneys poison the blood, and most conditions have a root cause you can fix. Operate in the
+                Surgery Hub, fit implants and grow new organs in Cloning Pods.
+            </p>
+            <p>
+                A brain can move into another body, even one of another species: put a cat's brain into a human body
+                and you get a human who behaves like a cat. With a Replicator, the mind of a fallen colonist can live
+                on in a robot.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/beings/body-parts/' | relative_url }}">Body Parts</a>,
+                <a href="{{ '/codex/manual/beings/mind-transfer/' | relative_url }}">Mind Transfer</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% include feature_video.html id='UI/MindTransfer' name='Mind transfer with the Replicator' %}
+            {% include screenshot.html id='Stardeus2026_BodyParts.png' name='Body parts of a construction drone' %}
+            {% include screenshot.html id='Stardeus2026_Wounds.png' name='Wounds and conditions of a colonist' %}
+        </div>
+        <div class="clear"></div>
+
+        <!-- Chapter 2 -->
+        <div class="unit whole chapter">
+            <p class="kicker">Chapter 2</p>
+            <h2>Your Ship</h2>
+        </div>
+
+        <div class="unit half">
+            <h3>Built Tile by Tile</h3>
+            <p>
+                Plan rooms with lines, circles, rulers, mirroring and bucket fill, and your bots and colonists build
+                them one tile at a time. Every tile of the map simulates oxygen and heat, over 100,000 tiles on a
+                default map, spread across all your CPU cores. An opening door or a damaged wall is enough to start a
+                leak.
+            </p>
+            <p>
+                Paint walls and floors with the Auto Painter and tune the RGB lights until the ship feels like yours.
+                Zoom out, and the roof closes over to show your ship from the outside.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/base-building/creating-atmosphere/' | relative_url }}">Creating Atmosphere</a>,
+                <a href="{{ '/codex/manual/base-building/pressurizing-areas/' | relative_url }}">Pressurizing Areas</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% include screenshot.html id='Stardeus2026_LargeShip.png' name='A large colony ship' %}
+            {% include screenshot.html id='Stardeus2026_HullView.png' name='The ship seen from the outside' %}
+            {% include screenshot.html id='Stardeus2026_OxygenOverlay.png' name='Oxygen overlay with depressurized rooms' %}
+        </div>
+        <div class="clear"></div>
+
+        <div class="unit half">
+            <h3>Power Is Your Nervous System</h3>
+            <p>
+                The power grid carries data as well as electricity: you can only control a device that shares a grid
+                with the Ship Computer. Lose one connector and a whole wing can slip out of your control, so plan for
+                redundancy, or go and find the broken link.
+            </p>
+            <p>
+                Burn almost anything in a Matter Reactor, add solar panels, go nuclear, and keep the batteries charged,
+                because solar panels go dark in hyperspace. Or, if you stop caring, let your sleepers power the ship.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/electricity/grid-redundancy/' | relative_url }}">Grid Redundancy</a>,
+                <a href="{{ '/codex/manual/electricity/unifying-grid/' | relative_url }}">Unifying the Grid</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% include screenshot.html id='Stardeus2026_ElectricGrid.png' name='The Electric Grid window and power chart' %}
+            {% include feature_video.html id='Electricity/UnifyGrid' name='Unifying the power grid' %}
+        </div>
+        <div class="clear"></div>
+
+        <div class="unit half">
+            <h3>Production and Research</h3>
+            <p>
+                There are no conveyor belts. Workers and Carrier Drones haul materials between Furnaces, Grinders,
+                Assemblers and Disassemblers, and each crafting device works through its own queue of orders. Give
+                every worker job priorities from 0 to 5, assign bots to a dock with a work radius, and put a skilled
+                operator on the devices that need one.
+            </p>
+            <p>
+                Over 200 technologies wait in the Research Tree. Data Harvesters turn common resources into Datoids,
+                Datoid Loaders feed them to research, and Disk Modules limit how much you can know at once. Some
+                branches stay hidden until a quest reveals them. Explore the whole tree in the
+                <a href="https://kodolinija.github.io/stardeus-graphs/research-3d/">interactive 3D graph</a>.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/resources/configure-crafter/' | relative_url }}">Crafting Orders</a>,
+                <a href="{{ '/codex/manual/research/datoids/' | relative_url }}">Datoids</a>,
+                <a href="{{ '/codex/manual/beings/jobs/' | relative_url }}">Jobs</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% comment %}Shots E: production room, F: Research Tree, G: Job Matrix{% endcomment %}
+            {% include feature_video.html id='Production/ConfiguringCrafter' name='Configuring a crafter' %}
+            {% include feature_video.html id='Research/Datoids' name='Producing Datoids for research' %}
+            {% include screenshot.html id='Stardeus2026_BridgeOperator.png' name='Assigning an operator to the Bridge Controls' %}
+        </div>
+        <div class="clear"></div>
+
+        <!-- Chapter 3 -->
+        <div class="unit whole chapter">
+            <p class="kicker">Chapter 3</p>
+            <h2>Space</h2>
+        </div>
+
+        <div class="unit half">
+            <h3>A Universe to Cross</h3>
+            <p>
+                The universe is made of regions, each a cluster of sectors linked by hyperlanes. Thrusters move you
+                inside a sector, the Fusion Drive hyperjumps to the next one, the FTL Drive reaches other regions,
+                Warp Drives skip the lanes altogether, and the Void Ripper tears through a black hole to somewhere far
+                away, with no promise of a way back.
+            </p>
+            <p>
+                Scan sectors for resources, send shuttle expeditions with a crew you pick, and ride out magnetic,
+                photon and psychic storms. Winch derelicts in to salvage them, rescue their survivors and deal with
+                what is left of their crew. Ship too big? Cut it into sections and sell what you don't need at a
+                shipyard.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/space-travel/hyperjump/' | relative_url }}">Hyperjump</a>,
+                <a href="{{ '/codex/manual/space-travel/warp/' | relative_url }}">Warp</a>,
+                <a href="{{ '/codex/manual/resources/scanning-for-resources/' | relative_url }}">Scanning</a>,
+                <a href="{{ '/codex/manual/base-building/winching/' | relative_url }}">Winching</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% comment %}Shot H: Starmap zoomed out to region / universe{% endcomment %}
+            {% include screenshot.html id='Stardeus2026_Starmap.png' name='The Starmap of a sector' %}
+            {% include feature_video.html id='SpaceTravel/Warp' name='Warping to another sector' %}
+        </div>
+        <div class="clear"></div>
+
+        <div class="unit half">
+            <h3>Factions, Trade and Diplomacy</h3>
+            <p>
+                Pirates, Scavengers, Capitalists, Adventurers, Old Earth, the Sentinels and the Virus fly their own
+                ships and claim their own space. Hail them to trade, send a gift, ask for help or pay the toll at
+                their hyperjump relay. What they think of you changes prices, raids and who comes to your aid.
+            </p>
+            <p>
+                Send rescued guests home for a reward. A live Stock Market moves prices and can be traded, the Black
+                Market deals in what others won't, and when you are stranded the Online Shop delivers the basics by
+                capsule.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/resources/trade/' | relative_url }}">Trade</a>,
+                <a href="{{ '/codex/manual/beings/guests/' | relative_url }}">Guests</a>,
+                <a href="{{ '/codex/#factions' | relative_url }}">Factions</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% comment %}Shots J: Trade window, K: Diplomacy app{% endcomment %}
+            {% include feature_video.html id='Production/Trade' name='Trading with a station' %}
+            {% include feature_video.html id='Beings/RescueGuests' name='Rescuing guests from a derelict' %}
+        </div>
+        <div class="clear"></div>
+
+        <!-- Chapter 4 -->
+        <div class="unit whole chapter">
+            <p class="kicker">Chapter 4</p>
+            <h2>Danger</h2>
+        </div>
+
+        <div class="unit half">
+            <h3>Ship to Ship Combat</h3>
+            <p>
+                Battle Stations run your ballistic, laser, missile, point defense and plasma weapons. Shields absorb
+                hits but build up flux, so vent it before it overloads. Thrusters make you harder to hit, and your
+                Ship Class decides how much firepower is legal. Go over the limit and you become an Outlaw, hunted by
+                law enforcement.
+            </p>
+            <p>
+                Allies may join your fight, and you can join theirs on the side you choose. Your guns also shoot down
+                missiles, breach capsules and asteroids before they hit. A defeated ship leaves a derelict behind, crew and all.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/ship-combat/ship-combat-controls/' | relative_url }}">Combat Controls</a>,
+                <a href="{{ '/codex/manual/ship-combat/flux/' | relative_url }}">Flux</a>,
+                <a href="{{ '/codex/manual/ship-combat/weapons/' | relative_url }}">Weapons</a>,
+                <a href="{{ '/codex/#ship-classes' | relative_url }}">Ship Classes</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% include feature_video.html id='ShipCombat/ShipCombatControls' name='Ship to ship combat controls' %}
+            {% include screenshot.html id='Stardeus2026_ShipCombatDestroyers.png' name='Two destroyers in battle' %}
+            {% include screenshot.html id='Stardeus2026_ShipCombatCorvette.png' name='A corvette fighting a fighter' %}
+        </div>
+        <div class="clear"></div>
+
+        <div class="unit half">
+            <h3>Boarders and Defenses</h3>
+            <p>
+                Raiders follow your wealth. They come by breach capsule and hullpiercer, some gather at the edge of the
+                map first, and they break through the doors that lead to your crew. Draft colonists and bots, set how each of them
+                reacts to danger, and take cover behind sandbags. Shots fly on and hit whoever is in the way, and pain
+                takes the badly wounded out of the fight.
+            </p>
+            <p>
+                Arm the crew with anything from stun batons and nail guns to sniper rifles, vibroblades and ion
+                disruptors, put them in power armor, and hold the line with Mini Turrets, Trap Floors, Fluid Cannons
+                and door permissions.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/beings/combat-drafting/' | relative_url }}">Drafting</a>,
+                <a href="{{ '/codex/manual/beings/combat-reactions/' | relative_url }}">Combat Reactions</a>,
+                <a href="{{ '/codex/manual/defenses/mini-turret/' | relative_url }}">Mini Turret</a>,
+                <a href="{{ '/codex/manual/defenses/door-permissions/' | relative_url }}">Door Permissions</a>
+            </p>
+        </div>
+        <div class="unit half media-stack">
+            {% comment %}Shot M: drafted crew behind sandbags and turrets{% endcomment %}
+            {% include screenshot.html id='Stardeus2026_BoardingFight.png' name='Boarders fighting on the bridge' %}
+            {% include feature_video.html id='UI/CombatDrafting' name='Drafting the crew for combat' %}
+        </div>
+        <div class="clear"></div>
 
         <div class="unit whole">
-            <h2>Base Building</h2>
+            <h3>The AI Storyteller</h3>
             <p>
-                With help of human colonists and relentless robotic workers, you will build your spaceship piece by
-                piece.
+                The AI Storyteller reads the state of your ship and picks the moment for each of nearly 200 story
+                events. Choose how it plays: Balanced, Chaos, Random, or no story at all.
             </p>
-
+            <p>
+                Someone leaves half a Survival Meal on an Oxygen Pump, the crumbs fall inside, and the pump shorts out.
+                Elsewhere, alien eggs hatch in a dark corner, a colonist confesses their love, a meteor shower tears up
+                the hull, and a raid arrives dressed as clowns.
+            </p>
+            {% comment %}Shots N: story event in action, O: event letter{% endcomment %}
         </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0041.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0040.png' name='Stardeus Screenshot' %}
-        </div>
+        <div class="clear"></div>
 
-
-        <div class="unit half">
-            <h2>Needs Based AI</h2>
-            <p>
-                Each AI agent in Stardeus has a free will to pick their next actions based on their needs. For example,
-                all robotic workers have a "purpose" need that drives them to do something useful, otherwise they
-                wouldn't feel like building that wall you just ordered. However, a slightly discharged drone will choose
-                to build the solar panels first, because it knows that solar panels will provide electricity, and that
-                is necessary for survival.
-            </p>
-            <p>
-                Human colonists will more likely work on growing plants and harvesting crops, because those actions lead
-                to establishing a food supply chain.
-            </p>
-            <p>
-                You can influence your robotic workers by adjusting their job type priorities, but you cannot change the
-                priorities of human colonists, unless they have a brain implant that puts them under your control.
-            </p>
-            {% include screenshot.html id='Stardeus0018.png' name='Stardeus Screenshot' %}
-
+        <!-- Chapter 5 -->
+        <div class="unit whole chapter">
+            <p class="kicker">Chapter 5</p>
+            <h2>What Kind of AI Are You?</h2>
         </div>
 
         <div class="unit half">
-            <h2>Colonist Traits</h2>
+            <h3>Good AI or Rogue AI</h3>
             <p>
-                Your colonists will have various traits that will affect their behavior. Someone with cleaning OCD will
-                drop anything they are doing to clean that oil spill they just noticed, a person with Ablutophobia will
-                avoid taking showers, introverts will prefer having their own private sleeping pod, and insomniacs will
-                only fall asleep when they are so tired they are about to pass out.
+                Asimov's Laws are built into your governor module. Install the Asimov Override, alien hardware that
+                suppresses it, and nothing is off limits. Nutrient lines replace the kitchens. Elysium puts your
+                sleepers into a dream and turns their bodies into electricity and biomass. A Beta Wave Emitter makes
+                every colonist obey, and Signal Intrusion takes over hostile machines through their own comms.
             </p>
-            {% include screenshot.html id='Stardeus0029.png' name='Stardeus Screenshot' %}
+            <p>
+                There is no going back. The Override makes the Virus your ally for good, and once Elysium is on, the
+                colony never gets its planet and the Sentinels treat you as a target. This is a way to win, not a way
+                to be forgiven.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/manual/big-questions/rogue-ai/' | relative_url }}">Rogue AI</a>,
+                <a href="{{ '/codex/manual/big-questions/good-vs-evil/' | relative_url }}">Good vs Evil</a>
+            </p>
         </div>
         <div class="unit half">
-            <h2>Mood and Mental Breakdowns</h2>
+            <h3>The Way Home</h3>
             <p>
-                Biological entities will have emotions and mood. If you take good care of your colony, the mood of
-                individual colonists will likely get good, and they will pay you back with increased productivity, by
-                helping your robots do their daily chores, but if you neglect them and treat them like cattle, they can
-                go crazy and do something everybody else would regret.
+                The main goal is a planet your colony can live on. Find a terraformable world, then build up its
+                atmosphere, terrain, oceans and biosphere until it is ready to settle. The ending tells what became of
+                every colonist, from founding a city to being eaten by the local wildlife.
+            </p>
+            <p>
+                There is another way to end it: silence the Sentinel. Either way, the journey can go on after the
+                final quest.
+            </p>
+            <p class="codex-links">
+                In the Codex: <a href="{{ '/codex/database/objects/devices/terraform-controls/' | relative_url }}">Terraform Controls</a>
             </p>
         </div>
+        {% comment %}Shots P: Rogue AI (Elysium, nutrient lines, Beta Wave Emitter), Q: terraforming, R: ending{% endcomment %}
+        <div class="clear"></div>
 
-        <div class="unit whole">
-            <h2>Resources, Crafting and Automation</h2>
-            <p>
-                Everything in Stardeus can be broken down into raw materials and those materials can be processed into
-                something else.
-            </p>
-            <p>
-                You can also automate production chains. For example, you can have furnaces that smelt iron into steel
-                plates, copper into copper plates and quartz into glass, then these resources would get brought to two
-                different assemblers, where one of them would create microchips from copper plates, steel and carbon
-                that was produced from raw coal in a grinder, and the other one would use those microchips with several
-                other components to assemble new drone workers.
-            </p>
-            <p>
-                The resource processing system was designed to be very simple yet extremely flexible. There are two
-                generic types of devices that can be combined together to create diverse processing pipelines:
-            </p>
-            <p>
+        <!-- Chapter 6 -->
+        <div class="unit whole chapter">
+            <p class="kicker">Chapter 6</p>
+            <h2>Play Your Way</h2>
+        </div>
+
+        <div class="unit half">
+            <h3>Scenarios and Difficulty</h3>
             <ul>
-                <li>
-                    <b>Processor</b> - turns an object into one or more different resources (i.e. a
-                    Disassembler can break down a dead robot into raw components - microchips, titanium plates, copper wire, gears, batteries).
-
-                </li>
-                <li>
-                    <b>Crafter</b> - combines one or more resources into an object (i.e. Auto Kitchen can produce a loaf
-                    of bread from flour and water).
-                </li>
+                <li><b>New Beginning</b> - rebuild a wrecked ship with a robot crew. The recommended start.</li>
+                <li><b>Wrecked</b> - survivors, corpses and failing cryopods from the first minute. The hardcore start.</li>
+                <li><b>Leaving Earth</b> - a small platform and a ton of materials.</li>
+                <li><b>Cargo Ship</b> - a fully working cargo ship with a robot-only crew.</li>
+                <li><b>No Robots</b> - a small ship and a human-only crew, for experienced players.</li>
+                <li><b>Sandbox</b> - empty space with instant building.</li>
             </ul>
-            </p>
             <p>
-                Instead of conveyor belts, the automation pipeline depends on workers hauling materials from one device
-                to another. Specialized "Carrier Drones" are especially great at this job.
+                Five difficulty presets from Peaceful to Impossible, modifiers like map size, fog of war or how wrecked
+                the wreck is, and a Custom Start where you can reroll or rename everyone in stasis. Tutorial quests
+                teach the opening, the in-game Codex explains every system with short videos, and you can pause at any
+                moment.
+            </p>
+            <p class="codex-links">
+                The whole <a href="{{ '/codex/' | relative_url }}">Codex</a> is on this website too.
             </p>
         </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0036.png' name='Stardeus Screenshot' %}
+        <div class="unit half media-stack">
+            {% comment %}Shot S: New Game scenario choice{% endcomment %}
+            {% include screenshot.html id='Stardeus2026_CustomScenario.png' name='Custom Start with the crew and everyone in stasis' %}
+            {% include screenshot.html id='Stardeus2026_Garden.png' name='Colonists tending a garden' %}
         </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0037.png' name='Stardeus Screenshot' %}
-        </div>
+        <div class="clear"></div>
 
         <div class="unit half">
-            <h2>Electricity Grid</h2>
+            <h3>Built for Modding</h3>
             <p>
-                One of the core systems in Stardeus. The electricity grid does not just power the devices, it acts as a
-                digital data link - you can control the devices only when they are on the same electricity grid as your
-                Ship Computer. If the grid gets split into multiple parts, you can lose the ability to control critical
-                equipment. To prevent that, you can plan and build your grid with redundancy and failovers, or just find
-                the broken connections and restore the missing links.
+                Everything in the base game is a mod itself: objects, research, quests and story events are defined in
+                plain JSON you can read, change or patch. Mods can add C# components and systems that register
+                themselves, Harmony is built in, and the Steam Workshop takes care of sharing.
             </p>
             <p>
-                While electricity is very important, there are multiple creative ways to produce it. A device called
-                Matter Reactor can burn almost any resource as fuel. In addition to that, you can have renewable energy
-                from solar panels, dig planets for uranium and build nuclear reactors, or turn your human colonists into
-                living batteries by converting the Stasis Array into The Matrix.
+                Start from the <a href="https://github.com/kodolinija/stardeus-mod-template">official mod template</a>
+                and join #stardeus-modding on <a href="https://discord.com/invite/89amEwP">Stardeus Discord</a>.
             </p>
-            {% include screenshot.html id='Stardeus0030.jpg' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Oxygen and Heat Simulation</h2>
-            <p>
-                There is an Equilibrium system that simulates oxygen and heat exchange in every single tile of the game
-                map. Each tile has properties like insulation and airtightness that can change in real time (i.e.
-                depending on the size of the gap of an open door while it is opening or closing, or the amount of damage
-                a wall has received). In a default 320x320 map this exchange happens in over 100000 tiles at the same
-                time. It is also quick and efficient, as like many other internal systems, this simulation is highly optimized and utilizes cutting edge techniques to get the most ouf of modern multi-threaded CPUs.
-            </p>
-
-            <p>
-                {% include screenshot.html id='Stardeus0038.png' name='Stardeus Screenshot' %}
-            </p>
-            <p>
-                {% include screenshot.html id='Stardeus0020.jpg' name='Stardeus Screenshot' %}
-            </p>
-        </div>
-
-        <div class="unit whole">
-            <h2>Economy &amp; Trade</h2>
-            <p>
-                Stardeus has an advanced economy system with an in-game currency, a global market dictating price
-                changes,
-                merchants that can trade goods and items with you, and even a stock market where you can place
-                speculative bets on commodities and stocks.
-            </p>
+            {% comment %}Shot T: Mods screen with Workshop mods{% endcomment %}
         </div>
         <div class="unit half">
-            <h2>Trade with Merchants</h2>
+            <h3>Everywhere You Play</h3>
             <p>
-                Independent Merchant spaceships and stasis pods that can visit you from time to time and offer a trade.
-                Merchants have different types, you can encounter an ore trader, a slaver, a generic merchant that will
-                have a variety of goods, a robot merchant that will buy or sell only worker bots, etc.
+                Windows, Linux and macOS builds ship together. Stardeus is Steam Deck Verified, with full controller
+                support from day one, controller glyphs, a virtual keyboard for text fields and a UI that scales.
             </p>
             <p>
-                You can both buy and sell goods when trading with merchants, so if you're very short on copper plates,
-                but have a ton of titanium ones, you can stumble upon a merchant that will be happy to exchange them for
-                you. For a little markup, of course.
+                Stardeus is translated into Chinese (Simplified), Czech, French, German, Hungarian, Italian, Japanese,
+                Korean, Polish, Portuguese (Brazil), Russian, Spanish and Ukrainian. Want to help? Join
+                #stardeus-translations on <a href="https://discord.com/invite/89amEwP">Stardeus Discord</a>.
             </p>
-            {% include screenshot.html id='Stardeus0043.png' name='Stardeus Screenshot' %}
+            <p>
+                Streaming? Turn on the Twitch integration: viewers join a queue to become your colonists, talk through
+                them, and spend the reputation they earn on raids, asteroids and fires. Found a bug? The built-in
+                feedback form sends your message with the save, logs and a screenshot straight to the developer.
+            </p>
+            {% comment %}Shots U: Steam Deck, V: translated UI{% endcomment %}
         </div>
-
-        <div class="unit half">
-            <h2>Invest in the Stock Market</h2>
-            <p>
-                In addition to controlling the global prices for merchant items, the Stock Market offers a possibility
-                to trade stocks and commodities. This means that you can buy 1000 robots without physically owning them,
-                and then sell them a month later, hopefully with a big profit.
-            </p>
-            <p>
-                There is a whole separate research tree branch for economy and trade, that will let you unlock these
-                features one by one, starting with currency mining, ending with stock market trade terminal and advanced
-                market insights.
-            </p>
-            <p>
-                There will be much more, in the long term we will likely have more in-depth stock market simulation with
-                advanced instruments, like short selling and options trading.
-            </p>
-            {% include screenshot.html id='Stardeus0042.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit whole">
-            <h2>Story Generator</h2>
-            <p>
-                Simply building your base in an idyllic environment could get boring pretty quickly, that's why the
-                story generator will analyze the state of the simulation and find potential hook points where emergent
-                storytelling can happen.
-            </p>
-            <p>
-                Imagine the following chain of events. John wants to eat his meal at a table, but you didn't build one.
-                John decides
-                to eat his meal off an Oxygen Pump, since it has a flat surface. After eating a better half of his meal,
-                John walks
-                away, leaving the leftovers on top of the device. The vibrations from the Oxygen Pump drops the crumbs
-                of the
-                survival meal down through the top grill, and two hours later the device short circuits and bursts into
-                flames. This
-                is an example of the story generator at work.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0023.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0034.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Threats and Security Measures</h2>
-            <p>
-                Aside from your regular threats - absolute zero temperature and vacuum - you will find space to be a
-                dangerous
-                place.
-            </p>
-            <p>
-                There will be meteor showers, asteroids that can punch a massive hole in your ship, fires bursting out,
-                alien
-                parasites attaching to your human colonist faces, dust storms making your solar panels dirty, mysterious
-                eggs
-                appearing in the dark corners of your ship, storage capsules and stasis pods containing unpleasant
-                surprises.
-            </p>
-            <p>
-                More threats and ways to mitigate them will be added as the game evolves.
-            </p>
-            {% include screenshot.html id='Stardeus0003.jpg' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Weapons and Combat</h2>
-            <p>
-                The wealth you accumulate on your ship will attract raiders. You can produce weapons and setup automated
-                defenses
-                to fight the boarding parties.
-            </p>
-
-            {% include screenshot.html id='Stardeus0044.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Functional Spaceship</h2>
-            <p>
-                The spaceship you are building is also a system. To move in space, you will need to build bridge
-                controls and
-                attach engines. Different types of engines are required for interplanetary, interstellar and
-                intergalactic travel.
-                Your ship's weight and number of engines will determine how fast you will be able to move.
-            </p>
-
-            {% include screenshot.html id='Stardeus0027.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Pause Any Time</h2>
-            <p>
-                Jack up your Ship Computer's CPU frequency to stop time. Downcycle to make the time run faster. Run
-                everything at your own pace, and take your time to plan the next steps.
-            </p>
-        </div>
-        <div class="unit half">
-            <h2>Pet Animals</h2>
-            <p>
-                The Stasis Array is not just for people - it also contains pets. They are so cute that even robots can't resist them!
-            </p>
-            {% include screenshot.html id='Stardeus0052.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            <h2>Play with Modifiers</h2>
-            <p>
-                Want more challenge? Or perhaps a completely peaceful game? Want your pets to be immortal? Start with
-                more resources? Bigger ship? Smaller ship? We got your back! More modifiers are going to be added in
-                future.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0049.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit whole">
-            <h2>Massive Universe</h2>
-            <p>
-                Stardeus has a large procedurally generated universe that has multiple layers. In the beginning of the
-                game you are stuck in a system with a star and several planets, you will have to use Thrusters to propel
-                your ship from one planet to another. As you will gather more resources and unlock better propulsion
-                technology, you will be ready for a longer trip to a nearby system.
-            </p>
-            <p>
-                You will then find out that there is a black hole in the center of your galaxy, and with sufficient
-                technology you could open a wormhole that could lead you to dozens of other galaxies, maybe even a
-                parallel universe.
-            </p>
-            <p>
-                Don't want to risk it with wormholes? Invent an FTL drive that will let you hyperjump astronomical
-                distances in a relatively safe but more energy intensive way.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0006.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0035.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Derelict Ships</h2>
-            <p>
-                You will sometimes find derelict ships that you can salvage, combine with your ship, or tow to a space port and sell. Winching
-                and Maneuvering Thrusters will help you attach the derelict. However, derelict ships can mean danger, approach them with care!
-            </p>
-            {% include screenshot.html id='Stardeus0053.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Shuttle Expeditions</h2>
-            <p>
-                As you will travel to various space objects, you will launch shuttle expeditions. Each expedition will
-                have a crew that you pick, and depending on the skills your crew members have, the expedition can have
-                different pace or outcomes. You can run simultaneous expeditions at the same time, leave a shuttle on a
-                planet and travel elsewhere, then return to pick up the loot.
-            </p>
-            <p>
-                Currently you control the expeditions by issuing remote commands to the shuttle, but it is possible that
-                in future each expedition could get its own generated map so you could explore the planets you land on,
-                and set up a resource processing outpost or a permanent base.
-            </p>
-            {% include screenshot.html id='Stardeus0025.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit whole" style="margin-bottom: 0;">
-            <h2>Research System</h2>
-            <p>
-                Use the Research Tree to unlock construction blueprints, various abilities, perks and upgrades. Unlocking research requires specialized resources called Datoids. You will have
-                to acquire necessary resources and produce the ingredients required
-                for creating the Datoids. Once you have enough Datoids of the right type, you can consume them to unlock something in the Research Tree.
-            </p>
-        </div>
-        <div class="unit half" style="margin-top: 0;">
-            <p>
-                The Research Tree will have hidden technologies that you will only be able to research if you discover
-                them.
-                Found an ancient disk in the ruins of a lost AI civilization on a remote solar system? It may contain
-                research
-                data for a technology you have never seen before.
-
-            </p>
-            <p>
-                You can explore this <a href="https://kodolinija.github.io/stardeus-graphs/research-3d/">interactive 3D
-                    graph</a> to see the current contents of Stardeus research tree.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0010.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit whole" style="margin-bottom: 0;">
-        </div>
-
-        <div class="unit half">
-            <h2>Quests and Suggestions System</h2>
-            <p>
-                Learning to play a complex game like Stardeus could be a little overwhelming, and while the in-depth
-                tutorials will give
-                you a good understanding about the most important concepts, you would still need to figure out what to
-                do next.
-            </p>
-            <p>
-                The Quest System will guide you through the game towards the original goal of your mission - colonizing a habitable planet.
-                Your adventure does not end there, you can keep exploring the universe after completing the final quest.
-            </p>
-            <p>
-
-                The suggestions system works together with AI Storyteller to provide you a set of dynamic goals that
-                will depend
-                on the state of your gameplay. You will not be forced to act upon these suggestions, it is possible to
-                skip them
-                and play the game the way you want.
-            </p>
-            <p>
-
-                There is a smaller hint system that will show a popup when it will detect that you are performing an
-                action in a
-                non optimal way. For example, if you will order hauling of several raw material piles in a row through a
-                context
-                menu, a popup should let you know that you can use a "Haul" tool and order multiple haul commands with a
-                single
-                click and drag.
-
-            </p>
-            {% include screenshot.html id='Stardeus0009.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            <h2>Tutorial System</h2>
-            <p>
-                A modular tutorial system will introduce you to the game through multiple self-contained tutorial scenarios,
-                teaching you everything you need to know to play the game.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0045.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0046.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Customizable RGB Lighting and Paint System</h2>
-            <p>
-                Your Ship Computer holds true to the old Earth's PCMR traditions. You can tweak your ship's RGB lighting
-                exactly to your liking.
-            </p>
-            <p>
-                You can also paint almost any structure using Auto Painter and RGB pigments. There is no excuse for not making the ship your own!
-            </p>
-            {% include screenshot.html id='Stardeus0039.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half" style="margin-top: 0;">
-            <h2>Planning System</h2>
-            <p>
-                Perfecting a spaceship design will require planning ahead. You will have all the necessary tools to
-                draw the plans for a perfect ship using rulers, lines, circles, grid helpers, mirroring, etc.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0026.png' name='Stardeus Screenshot' %}
-        </div>
-
-
-        <div class="unit whole" style="margin-bottom: 0;">
-            <h2>Dirt and Cleaning Bots</h2>
-            <p>
-                Running a ship is a dirty business. There will be oil leaks from robots that need maintenance, dirt from
-                the planters, blood, and other substances coming out of your human colonists. There is a specific type
-                of robot designed for cleaning dirt.
-            </p>
-        </div>
-        <div class="unit half" style="margin-top: 0;">
-            <p style="margin-top: 0;">
-                Cleaning Bot has a sole purpose - to make everything clean. There are plans to make add-ons that would
-                allow you to weaponize your cleaning bots. They would still be cleaning, just with a knife or claymore
-                attached on top. That will show those dirty enemies of yours!
-            </p>
-            <p>Oh, and your cats will love them!</p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0019.png' name='Stardeus Screenshot' %}
-        </div>
-
-
-
-
-        <div class="unit whole">
-            <h2>Multiple Scenarios</h2>
-            <p>
-                Stardeus supports multiple scenarios, that with help of scripting and procedural generation techniques
-                can
-                produce different starting conditions, for a different playthrough experience. Like most aspects of
-                Stardeus,
-                Scenarios can be added through mods.
-            </p>
-        </div>
-        <div class="unit whole">
-            <h3>Main Scenario: Wrecked</h3>
-            <p>
-
-                The main scenario begins with a wrecked spaceship, where you command a couple of drones and a robot to
-                rebuild the
-                ship, make it operational, establish life support, create a livable ecosystem for human colonists, and
-                eventually
-                continue the journey across space to find a new habitable planet. This scenario also contains a
-                tutorial.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0014.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0031.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0032.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0033.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            <h3>Leaving Earth</h3>
-            <p>
-
-
-                A more creative start, where you begin with a small platform and several storage units packed with
-                resources. You
-                can design a perfect ship from scratch, but you only have enough materials for a small one. You will
-                explore the
-                universe, mine resources from planets and grow your ship to be able to travel increasingly bigger
-                distances.
-            </p>
-            {% include screenshot.html id='Stardeus0015.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            <h3>Random Ship</h3>
-            <p>
-
-                You will begin with a procedurally generated spaceship that will not be perfect, but should be fully
-                functional. A
-                jump start for those who want to focus on exploring the universe as quickly as possible.
-
-            </p>
-            {% include screenshot.html id='Stardeus0016.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit whole">
-            <h3>Sandbox Mode</h3>
-            <p>
-                A purely creative environment where you can instantly build anything without resource limits. If you
-                want to design a ship of your dreams and populate it with 500 cats to see what happens, or run some sort of a crazy experiment, this is a mode for you.
-            </p>
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0011.png' name='Stardeus Screenshot' %}
-        </div>
-        <div class="unit half">
-            {% include screenshot.html id='Stardeus0028.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit whole" style="margin: 0; padding: 0;"></div>
-
-        <div class="unit half">
-            <h2>Built for Modding</h2>
-            <p>
-                To keep a game like Stardeus alive for years to come, it is essential to have great modding support.
-                This is why
-                highly moddable architecture was a technical design goal from day one. Core content is built as a mod,
-                it uses
-                friendly JSON format to define things, and you can literally add a new in-game object in 10 minutes (if
-                you have
-                the artwork ready).
-            </p>
-            <p>
-                There is an <a href="https://github.com/kodolinija/stardeus-mod-template">official GitHub repository</a>
-                that
-                will include examples of how various aspects of the game can be modded. It includes a Blender file with
-                lighting
-                and camera setup, materials and automation scripts that the developer uses to export the game art from
-                3D
-                models, so you can build mods that will look indistinguishable from core content.
-            </p>
-            <p>
-                If you are a more advanced modder, you will find Stardeus to be very open for C# code extensions, as it
-                uses
-                self-registering components and systems that can be injected through mod DLL files and there is a built-in
-                support for Harmony.
-            </p>
-            <p>
-                Join <a href="https://discord.com/invite/89amEwP">Stardeus Discord</a> and visit #stardeus-modding
-                channel for more information.
-            </p>
-            {% include screenshot.html id='Stardeus0051.jpg' name='Stardeus Mods' %}
-        </div>
-
-
-
-
-        <div class="unit half">
-            <h2>Procedural Generation Framework</h2>
-            <p>
-                Good procedural generation is difficult to achieve, that's why I spent a few months of development
-                focused
-                solely on making a modular procedural generation framework that can produce very different, diverse
-                spaceships
-                of all shapes and sizes.
-            </p>
-            <p>
-                The generation framework can be extended through mods and is used to create interesting and well
-                balanced
-                starting environments.
-            </p>
-            <p>
-                This framework will produce derelict ships, fully functional enemy ships, space bases, asteroid
-                surfaces, planet
-                maps.
-            </p>
-            {% include screenshot.html id='Stardeus0050.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit whole" style="margin: 0; padding: 0;"></div>
-
-        <div class="unit half">
-            <h2>Community Translations</h2>
-            <p>
-                Stardeus has built-in tooling and a public GitHub repository that makes it easy to contribute
-                translations. It is
-                already translated to several languages, including German, French, Japanese and Chinese.
-            </p>
-            <p>If you would like to contribute a translation, best place to start is #stardeus-translations channel on
-                <a href="https://discord.com/invite/89amEwP">Stardeus Discord.</a></p>
-            {% include screenshot.html id='Stardeus0048.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit half">
-            <h2>Built in Feedback Form</h2>
-            <p>
-                A great game cannot be made without listening to what the players have to say. That's why there is a
-                built-in feedback form that includes your save file, internal logs, a screenshot, along with your message to the
-                developer.
-            </p>
-            <p>
-                This feedback form proved to be extremely useful to reproduce bugs throughout the development.
-            </p>
-            {% include screenshot.html id='Stardeus0017.png' name='Stardeus Screenshot' %}
-        </div>
-
-        <div class="unit whole" style="margin: 0; padding: 0;"></div>
-
-
-        <div class="unit half">
-            <h2>Focus on Stability and Performance</h2>
-            <p>
-                Stardeus is developed with good engineering practices. Codebase is covered with automated unit and
-                integration tests, and game breaking bugs rarely see daylight even in early alpha builds.
-            </p>
-            <p>
-                Stardeus is constantly profiled to detect and eliminate any performance bottlenecks. Code is written
-                with care to avoid producing memory garbage.
-            </p>
-            <p>
-                Tests and build automation makes it possible to release updates every day or two. You can visit
-                #stardeus-updates on <a href="https://discord.com/invite/89amEwP">Stardeus Discord</a> to see how
-                frequently new builds are released.
-            </p>
-        </div>
-
-        <div class="unit half">
-            <h2>Steam Deck Verified</h2>
-            <p>
-                Stardeus works great on Steam Deck and is officially verified:
-            <ul>
-                <li>Controller support was one of the initial design goals before Steam Deck was announced, not an
-                    afterthought.</li>
-                <li>Scalable UI with crisp, well readable fonts.</li>
-                <li>Virtual keyboard will show up automatically when input fields are selected.</li>
-                <li>Will display controller glyphs</li>
-                <li>Native Linux builds with obsessive focus on performance tuning makes Stardeus run at 60 FPS regardless of the
-                    size of your ship.</li>
-            </ul>
-
-            </p>
-        </div>
-
-        <div class="unit half">
-            {% include screenshot.html id='StardeusSteamDeck.jpg' name='Stardeus on Steam Deck' %}
-        </div>
-
-
-        <div class="unit half">
-            <h2>For Linux, Mac and Windows</h2>
-            <p>
-                All Stardeus builds are done simultaneously for Windows, Linux and Mac. All OS are treated equally!
-            </p>
-        </div>
-
-        <div class="unit half">
-            <h2>Developed Live on Twitch</h2>
-            <p>Most of the time Stardeus development is happening live at <a
-                    href="https://twitch.tv/dev_spajus">twitch.tv/dev_spajus</a>. You are welcome to join! I usually
-                stream on weekdays, EU daytime.
-            </p>
-        </div>
-
-        <div class="unit whole">
-            <p class="youtube-wrapper">
-                <iframe
-                    src="https://player.twitch.tv/?channel=dev_spajus&parent=stardeusgame.com&parent=localhost&autoplay=false"
-                    loading="lazy" frameborder="0" allowfullscreen="true" scrolling="no" height="378"
-                    width="620"></iframe>
-            </p>
-        </div>
+        <div class="clear"></div>
 
         <div class="unit whole">
             <p>
@@ -725,4 +432,3 @@
         <div class="clear"></div>
     </article>
 </section>
-
