@@ -48,22 +48,14 @@ section: "Tips"
 
 </li>
 <li id="tip-11">
-<p>This game is being developed live on Twitch. See how it's made at <a href="https://twitch.tv/dev_spajus" target="_blank" rel="noopener">twitch.tv/dev_spajus</a></p>
-
-</li>
-<li id="tip-12">
 <p>The quickest way to build a new Connector is to click and drag a line from an existing Connector, then release it over an empty floor tile.</p>
 
 </li>
-<li id="tip-13">
+<li id="tip-12">
 <p>You can customize the color of floor lights.</p>
 
 </li>
-<li id="tip-14">
-<p>For a more immersive gameplay, try the &quot;Fog of War&quot; option in Settings &gt; Current Game Settings &gt; Extra Challenge. You will have to build light sources to break through the darkness of space.</p>
-
-</li>
-<li id="tip-15">
+<li id="tip-13">
 <p>You can use <kbd>Left Ctrl</kbd> + numpad digit to remember the current camera position. Then press the numpad digit to jump there quickly.</p>
 
 </li>

@@ -2,12 +2,12 @@
 layout: codex
 title: "Local Warp Drive - Stardeus Wiki and Game Guide"
 h1: "Local Warp Drive"
-description: "Enables direct short-range jumps within the current region."
+description: "Enables direct short-range warp jumps within the current region."
 image: /img/codex/sprites/database/objects/devices/warp-drive-mini.png
 section: "Database"
 ---
 
-<p>Enables direct short-range jumps within the current region.</p>
+<p>Enables direct short-range warp jumps within the current region.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
 <p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>
