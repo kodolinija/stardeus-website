@@ -1,3 +1,431 @@
+<b>v0.15.0</b> (2026.10.29)
+- [Major] New Quests System
+- [Major] New UI
+- [Major] Add new default scenario for a less stressful start: New Beginning
+- [Major] Rework Ship Combat around Battle Stations and Flux management
+- [Major] Rework ground combat (cover, suppression, stun, fleeing)
+- [Major] Rework surgeries, body part operations can now fail
+- [Major] Add Rogue AI path with its own research tree, devices and endings
+- [Major] Add Diplomacy system with faction alliances
+- [Feature] Add tutorial quest chain that guides through the early game
+- [Feature] Add personal quests given by colonists (pets, personal quarters, beds, devices, stashes, crushes, revenge hunts, experiments)
+- [Feature] Add passenger delivery quests
+- [Feature] Add bounty hunt quests for NPC ships
+- [Feature] Add scavenge, delivery and resource mining errands
+- [Feature] Add ship race quest to recover the loot from a point of interest
+- [Feature] Migrate trade signals from story events to the new quest system
+- [Feature] Add new alternative end game quest: Silence the Sentinel
+- [Feature] Add new upgrade: Signal Amplifier
+- [Feature] Add a Manifest to the Stasis Array, everyone asleep in it is now a specific person you wake up by choice
+- [Feature] Unstable stasis harms and can kill sleepers over time
+- [Feature] Stasis wake-ups are now announced in advance
+- [Feature] Custom Start lists everyone in stasis, each of them can be rerolled or renamed before the game starts
+- [Feature] Allow putting colonists back into stasis (if stability >= 90% or have Asimov's Override)
+- [Feature] Add "Cryo Sickness" condition for colonists who just woke up from stasis
+- [Feature] A distress beacon calls in a rescue pod when nobody in the colony is able to work any more
+- [Feature] Add Voice Alerts: spoken callouts for critical events, toggleable in Audio settings
+- [Feature] Add 46 new achievements
+- [Feature] Add Beta Waves research and Beta Wave Emitter, which forces every biological colonist aboard to obey
+- [Feature] Add new trait: Beta Wave Resistant, granting immunity to remote mind control
+- [Feature] Add new research: Cortical Override, making brain extraction from a living colonist far more likely to succeed
+- [Feature] Add new research: Signal Intrusion, allowing hostile robotic beings to be hacked into joining your faction
+- [Feature] Add Intrusion Suite research and device, which turns hailing an NPC ship into an attack
+- [Feature] Add Nutrient Infusion research, Tube Feeder now feeds colonists directly from a piped nutrient supply
+- [Feature] Add new research: Elysium Electricity Production and Biomass Harvesting
+- [Feature] Add new Security research branch for personal weapons and protective gear
+- [Feature] Add new weapons: SMG, Sniper Rifle, Nail Gun, Vibroblade, Machete, Stun Baton and Riot Shield
+- [Feature] Add Combat Armor research with Combat Helmet and Combat Suit
+- [Feature] Implement combat stun chances per weapon
+- [Feature] Enemies will flee towards the map edge once their army is broken
+- [Feature] Ships defeated in combat leave hostile crew remnants on their derelict (dead, wounded and unharmed)
+- [Feature] Add new device: Battle Station, which allows controlling several ship weapons of the same type from one workstation
+- [Feature] Add new device: Flux Vent that increases flux vent rate
+- [Feature] Add new research and device: Sector Nuke, a single use weapon that obliterates the entire sector
+- [Feature] Add new upgrade: Weapon Capacity Upgrade
+- [Feature] Ship weapons and shields will support Speed Upgrade
+- [Feature] Thruster Upgrade will increase the range of Maneuvering Controller
+- [Feature] NPC ships will be able to join player's ship combat as an ally (first use case - law enforcement officers will help you fight pirates)
+- [Feature] Player can now join an ongoing NPC ship to ship battle by picking a side
+- [Feature] NPC ships will pick their own flux and target selection strategies
+- [Feature] Add Resonance Charge: an explosive that instantly deconstructs a ship section
+- [Feature] Asteroids break up into smaller fragments when shot or when they hit the shield
+- [Feature] Add Surgical Fatigue that builds up with repeated operations on the same body and recovers over time
+- [Feature] Failed operations can wound, cripple, destroy or weld body parts, infect the body or kill the patient
+- [Feature] Crawlers now have a brain that can be extracted and transplanted
+- [Feature] Add Mood Regulator implant
+- [Feature] Every bot and animal species will have their own body part visuals
+- [Feature] Add 18 new mental breakdowns (sabotage, arson, lockdowns, tantrums, streaking and more)
+- [Feature] Add 3 new story events for the deserter to return back to the ship
+- [Feature] Add new story events for finding damaged bots on expeditions
+- [Feature] Add Clown Raid story event and a rare Clown Costume
+- [Feature] Colonists dislike wearing second-hand, tattered or dead people's gear
+- [Feature] Add Thrifty and Fastidious traits
+- [Feature] Add "Minimalist" trait (prefers compact personal quarters, 3-9 tiles large)
+- [Feature] Implement Vegan / Carnivore trait food preference and buffs / debuffs
+- [Feature] Repeating the same fun activity gives less fun, so beings seek variety
+- [Feature] Add Nowhere to eat / Nowhere to drink debuffs for failing to find a safe spot to eat or drink
+- [Feature] Some conditions (diseases, depression) will prevent colonists from taking colony tasks (unless forced)
+- [Feature] Crawlers will be able to feed themselves using regular food
+- [Feature] Rescued survivors of friendly factions stay as guests and can be sent home for payment and standing
+- [Feature] Add "Guest" door permission for non-hostile passengers of other factions
+- [Feature] Nanobots can haul materials (same room or outdoors), refuel devices and replace tiles
+- [Feature] Dead bodies will rot and corrode over time, degrading the body parts inside them
+- [Feature] Add Scrap Metal, produced by deconstructing metal structures (Demolition skill reduces the loss)
+- [Feature] Allow ordering multiple upgrades on the same device without waiting for the previous upgrade to be installed
+- [Feature] Add "Destruction Level" modifier for Wrecked scenario
+- [Feature] Add Game Cartridges, rare upgrades that unlock Ship Computer minigames (Snake, Breakout, Stacker, 2048)
+- [Feature] Allow naming the Ship Computer when setting up a new game
+- [Feature] Ship plans can now be saved to a file and loaded into another game
+- [Feature] Hovering a task for 3 seconds boosts it and retries it if it failed
+- [Feature] Add Ship Computer > Apps, a single place for all colony management screens
+- [Feature] Add Ship Computer > Apps > Diplomacy for managing relationships and alliances with factions
+- [Feature] Implement various diplomacy effects for ship combat reinforcements, raids, trade, mining owned deposits, etc
+- [Feature] Add Ship Computer > Apps > Production, tracking material and object production / consumption over time
+- [Feature] Add Ship Computer > Apps > Log with a searchable history of notifications and story events
+- [Feature] Add Ship Computer > Apps > Situation with a detailed breakdown of the colony state
+- [Feature] Add Ship Computer > Apps > Policies with Equipment Policies
+- [Feature] Add Ship Computer > Apps > Notes for leaving yourself notes
+- [Feature] Add Ship Computer > Apps > Paint for tinting objects and floors
+- [Feature] Add Ship Computer > Apps > Job Matrix for managing job priorities of the entire colony
+- [Feature] Add Ship Computer > Apps > Combat Controls for drafting units and setting their Combat Reaction from one list
+- [Feature] Add support for time-locked seasonal content
+- [Feature] Time-lock "Halloween Decorations" (October 1 - November 7)
+- [Feature] AI Alignment is now Trust, shaped by what the AI does to colonists and their friends instead of Sanity
+- [Feature] Trust decides mutinies: only distrustful colonists join, and a trusting crew stops one from starting
+- [Feature] Set job priorities from 1 to 5 for colonists too, workers take tasks of their highest priority jobs first
+- [Feature] Badly hurt beings go down from pain shock, robots from system shock
+- [Feature] Add the Pain Inhibitor implant and the Wimp and Stoic traits
+- [Feature] Missing or failing kidneys slowly poison the blood and damage organs instead of killing instantly
+- [Feature] Add Sandbags: cheap cover that is slow to climb over, buildable from the start
+- [Feature] Shots fly on and can hit whoever stands in the line of fire, friends included
+- [Feature] Some raids gather at the edge of the map and attack together
+- [Feature] Badly wounded colonists leave the fight to get treated, unless drafted
+- [Feature] Colonists near your robots direct their fire, making them more accurate
+- [Feature] Virus and Sentinel raids can bring humans controlled by robot minds
+- [Feature] Add the Ion Disruptor, a heavy energy weapon that hits robots extra hard
+- [Feature] Add Assault Armor and Power Armor with matching helmets, the toughest armor for humans
+- [Feature] Animals with an Obey Chip take direct orders and can be drafted
+- [Feature] Add Armored Floors in several designs (plain, angled and lit), unlocked by Armored Structure research
+- [Feature] Random ships get new hull shapes and interiors that mix large halls, rooms and closets along corridors
+- [Feature] Outlaw traders deal in people after Black Market research
+- [Feature] Deep Scan can focus on a chosen resource, with better odds after each miss
+- [Feature] Add Long Range Connector research with a new Connector 4-20
+- [Feature] With the Auto Connect Upgrade, a new connector also connects the unpowered devices around it
+- [Feature] Bot Docks get a Work Radius that keeps their bot's tasks close to the dock
+- [Balance] Attempting to install ObeyChip into human subjects now violates Asimov's 1st law
+- [Balance] Ship size will have an effect on ship evade % bonus given by thrusters
+- [Balance] Thruster evade bonus requires a Bridge Controls operator, whose piloting skill adds up to 15%
+- [Balance] Make ship combat faster (shorter weapon charge times, reworked flux venting)
+- [Balance] Destroyed devices will absorb some of the hull damage
+- [Balance] Flux overload will grant an armor bonus that reduces hull damage
+- [Balance] Rebalance NPC ships (less health, fewer engines, better flux balance, always armed, no hyperjump escapes)
+- [Balance] Game difficulty strongly affects NPC ship loadouts, late game encounters are easier
+- [Balance] Rebalance ship class points and make ship class unlocks more expensive
+- [Balance] Rework raid strength and composition around colony wealth
+- [Balance] Map edge raids can bring humans in jet suits and bots on mini jets
+- [Balance] Raids come less often and less on schedule, some get skipped in favor of a stronger one later
+- [Balance] Raids now grow stronger the deeper you commit to the Rogue AI research tree
+- [Balance] Story events start later and come less often, so the opening days are about building
+- [Balance] Rework Chaos story generator to be more brutal
+- [Balance] Slow down colony growth (less frequent stasis wake-ups and newcomer events)
+- [Balance] Reduce Stasis Array capacity to 30 (was 100), scenarios start with 15 sleepers plus a few pets
+- [Balance] Stasis Arrays use more power per sleeper
+- [Balance] A destroyed Stasis Array ejects fewer survivors, the rest are lost
+- [Balance] People in stasis no longer age
+- [Balance] Friendly fights are shorter (6 hours max, was 12) and hurt sanity less (-6, was -12)
+- [Balance] Friendly beings will no longer chase fleeing enemy raiders
+- [Balance] Sanity follows mood about 5x faster
+- [Balance] Rebalance mental breakdowns and allow retrying lower tier breakdowns
+- [Balance] Remove the mechanic that made beings ignore their own safety at very low sanity
+- [Balance] Softer mood shocks: dead bodies -5 each (was -10), Psychic Storm -5 (was -7), on fire -20 (was -50), grief halved
+- [Balance] Optimist and Pessimist give a mood of their own, +3 and -3 (was +1 and -1 on every other mood)
+- [Balance] Relationship statuses are soft-capped by affinity and attraction, which are now hidden outside sandbox
+- [Balance] Unlock more research upfront
+- [Balance] Increase expedition mining, shuttle and copter speed
+- [Balance] Double the hyperjump speed
+- [Balance] Allow hyperjumps when some of the engines are discharged
+- [Balance] Expeditions need a working Radar
+- [Balance] Deep scans are weaker and their number depends on the difficulty level
+- [Balance] Radar scanning finds resources closer to the current region first, but base scan speed is 4x slower
+- [Balance] Resource deposit mining output depends on difficulty (was always 100 per kilometer)
+- [Balance] Increase default Beam Drill max depth to 4km (was 500m)
+- [Balance] Make Crude Oil and Gold deposits slightly less difficult to find
+- [Balance] Adjust starting resources for all scenarios
+- [Balance] Transistors will now be part of Online Shop inventory
+- [Balance] Adjust merchant markups for upgrades and make trader cash reserves more varied
+- [Balance] Merchants pay less for second-hand and dead man's gear
+- [Balance] Rebalance Rock grinding outputs and Rock price
+- [Balance] Enriched Uranium now requires 10 Water to produce (was 1)
+- [Balance] Rebalance device costs so low tier devices don't require high tier materials
+- [Balance] Reduce material cost of 2x2 and 3x3 Solar Panels
+- [Balance] Scale quest rewards, mining amounts and bounty targets to sector difficulty and player strength
+- [Balance] Add global cooldown support for NPC ship reactions (mainly to stop NPCs asking for fuel too frequently)
+- [Balance] Adjust faction attitude changes for multiple events
+- [Balance] Reduce frequency of Stasis Pod and Storage Capsule events
+- [Balance] Stasis Pod events bring fewer dead travelers and rotten corpses
+- [Balance] Reduce the default amount of wreckage at easier difficulty levels
+- [Balance] Spawn more exciting derelict ships, with a much higher chance of finding a Particle Collector
+- [Balance] Don't spawn Cargo Copters / Autodrill Rigs on derelicts before they can be used
+- [Balance] Items on derelicts, asteroid loot and weapons dropped by incapacitated beings are automatically forbidden
+- [Balance] Change crafting device <-> recipe mappings to make items that have Quality handmade in Crafting Stations
+- [Balance] Balance production times and the energy cost of producing body parts
+- [Balance] Meteoroid showers hit in several waves, stronger on higher difficulties and in dangerous sectors
+- [Balance] Permanent Magnetic Storms appear in fewer sector types and deter NPC ships from combat
+- [Balance] Each kind of space event has its own chance to happen in a sector, so some sectors no longer go quiet
+- [Balance] Increase duration and strength of Comet Shower sanity buff
+- [Balance] Fire is more dangerous (depends on difficulty), burning devices can't be worked on until extinguished
+- [Balance] Extinguished fires no longer reignite until every fire has been put out
+- [Balance] Explosions now spread through open doors
+- [Balance] Fluid Cannons need to spin up and no longer instantly put out a fire in its early growth phase
+- [Balance] Oxygen and heat spread 4x faster
+- [Balance] Reduce chance of clashing expedition events such as romantic expedition + fist fight
+- [Balance] Make bots more likely to go for a recharge when the battery is low
+- [Balance] Increase operating speed of Radiator / CoolMatic Floor
+- [Balance] Heaters / Coolers now stop consuming power once their own tile is within 1C of target temperature
+- [Balance] ML Booth accepts and heals damaged brains / cores, but trains 5x slower by default
+- [Balance] Adjust Long Sleeper / Short Sleeper traits (sleep duration change 25%->15%)
+- [Balance] Bridge Controls, Battle Station, Surgery Hub and Assembly Hub default to job priority 4 (was 3)
+- [Balance] Make Asimov Override Upgrade impossible to remove
+- [Balance] "Rotate ship / section" will only consume the engine's charge if the maneuver succeeded
+- [Balance] Disallow local maneuvering into corner zones, allow it inside no-fly zones for sections already there
+- [Balance] Increase Maneuvering Controller range
+- [Balance] Remove winching restriction during fire, combat and incoming flying objects
+- [Balance] Close Stasis Pod merchant loopholes (disassembling the pod, raids on demand)
+- [Balance] Mutiny story event will require at least 3 mutineers
+- [Balance] Guns reach 1.5x farther and keep more of their accuracy at long range, Mini Turrets reach 16 tiles (was 10)
+- [Balance] Rework armor: better armor protects much more, softens hits from every weapon, and every weapon pierces part of it
+- [Balance] Armor only slows its wearer while it shows: outdoors, drafted or in combat
+- [Balance] Most fights end with beings downed rather than dead, giving time for a rescue
+- [Balance] Rebalance bleeding: small cuts clot on their own, and pets bleed like people
+- [Balance] Scars are much rarer, and each scar lowers body part quality
+- [Balance] Robots can't use heavy weapons like Sniper Rifles, Energy Rifles and Vibroblades unless the Asimov Override is installed
+- [Balance] Raiders always come armed, with better weapons and armor the bigger the raid
+- [Balance] Raids ease off for a while after crew deaths or downings, and grow slowly over a long run without losses
+- [Balance] Rework skills: colonists start with a few strong skills, skills grow slower unless the colonist loves the job, go up to 25 and fade above 10 without use
+- [Balance] Skill matters much more for work speed, shooting and melee, loving a job no longer speeds up the work
+- [Balance] Crafting skill decides item quality, a colonist's mood only nudges it
+- [Balance] Difficulty only changes colonists' resting mood, not the chance of mental breakdowns
+- [Balance] Rebalance build, deconstruction and repair times: basic floors and walls are faster, most devices take longer
+- [Balance] Damaged floors and walls left unrepaired collapse more often, collapses are not rebuilt automatically in the first 30 days
+- [Balance] Deconstruction leaves fewer, bigger piles: materials join a nearby pile of the same kind
+- [Balance] Expedition loot and signal offers follow sector difficulty instead of your wealth, rare items only show up in harder sectors
+- [Balance] Relaxing and Peaceful have as many story events as Balanced but smaller ones, Peaceful has no raids or heavy disasters
+- [Balance] Starting ships are smaller in every scenario
+- [Balance] New games start in one of the easiest (green) regions of the universe
+- [Balance] Reduce Energy Connector range to 12 (was 20)
+- [Balance] The Online Shop sells Uranium, Silver and Platinum
+- [Balance] Early and mid game research needs fewer Nuclear Datoids
+- [Tech] Upgrade Unity to 6.5
+- [Tech] Rewrite map rendering system to decouple it from Unity layers (unlocks possibilities for multi map / planet surface support in future updates)
+- [Tech] Change fastest clock speed from 10x to 6x (can be restored via mod)
+- [Tech] Improve display and vsync handling (laptops, switching displays, different refresh rates)
+- [Tech] Downscale save / feedback screenshots if they exceed Full HD resolution
+- [Tech] Clean up leftover backup files of deleted saves that kept taking disk and Steam Cloud space
+- [Tech] Move third party libraries into embedded packages
+- [Tech] Validate StreamingAssets integrity on startup and warn about a broken installation
+- [Tech] Fix Steam could keep showing the game as running after exit when a link or folder was opened from it
+- [AI] Build and deconstruct large orders in waves to avoid creating loose ship sections
+- [AI] Higher priority tasks get partial material deliveries first when materials are short
+- [AI] Mass-deconstructing derelicts in the no-fly zone is faster, with an option to keep objects
+- [AI] Allow critically low Fun need to interrupt work to prevent depression
+- [AI] Beings will automatically undraft once combat is over
+- [AI] Improve pathfinding accuracy
+- [AI] Undrafted colonists and robots keep working through raids, fighting only enemies within reach and fleeing only from those close by
+- [AI] Shooters keep their distance and pick firing spots behind cover instead of walking up to their targets
+- [AI] Enemies and the crew no longer walk through each other in a fight, and fighters spread out over firing spots and cover
+- [AI] Drafted units move at full speed on move orders, which also cancel their attack orders
+- [AI] When a raid threatens, colonists allowed to auto-equip weapons go get the best one right away
+- [AI] Raiders break through the door that leads to the crew, and stop when another way in opens
+- [AI] Forbidden items are left alone: the crew won't haul, build, craft or eat with them ("Forbid Storing" is now "Forbid")
+- [AI] Workers no longer pick tasks, storages, beds, docks or gear behind doors they may not pass
+- [AI] Workers pick nearer tasks and get to work faster after big orders
+- [AI] Haulers bring materials for many nearby floors and walls in one trip, and deliver to higher priority storages first
+- [AI] Storages only auto-haul things within 10 tiles of their ship section, order the rest with Store
+- [AI] Cleaners finish the room they are in before moving on to dirt in other rooms
+- [Performance] Optimize pathfinding, AI planner, AI auction, atmosphere simulation and flood fill jobs
+- [Performance] Optimize performance bottlenecks with large end-game ships
+- [Performance] Render long lists in the UI virtually instead of spawning every row
+- [Performance] Internalize core sounds for faster startup time
+- [Performance] Speed up the game start and reduce its memory use and loading freezes, most of all on Intel or smaller graphics cards
+- [Performance] Much faster large colonies with thousands of tasks, loose materials or material piles
+- [Performance] Remove log entries older than 7 days, keeping long-running saves smaller
+- [UI/UX] Add UI Themes with 6 built in themes and full modding support
+- [UI/UX] Add Quick Search for finding and jumping to anything in the game
+- [UI/UX] Add Notification Hub that groups notifications and warnings, with a detachable warning list
+- [UI/UX] Show a demo of the last save behind the main menu (can be disabled in Settings > System)
+- [UI/UX] Rebuild the Codex with video tutorials, charts, search and a Back button for internal links
+- [UI/UX] Add airtightness and insulation overlays for finding leaky and poorly insulated rooms
+- [UI/UX] Rework key bindings: many more actions can be bound, several defaults changed, AZERTY layouts supported
+- [UI/UX] Allow reeling in Winch Anchors by click-dragging a line from a Winch Hook
+- [UI/UX] Improve the virtual keyboard behavior on Steam Deck
+- [UI/UX] Add Share Save option for sending a save file to someone else
+- [UI/UX] Add "Leave note to self" when saving and exiting, and buttons to delete all saves / autosaves
+- [UI/UX] Make tooltip delay configurable in Settings > Gameplay
+- [UI/UX] Add Settings > Video > Post Processing for choosing different color grading options
+- [UI/UX] Disable automatic widescreen UI padding by default
+- [UI/UX] Failed tasks explain more clearly why (unreachable, walled in, material out of reach)
+- [UI/UX] Rotate ship section will show a preview instead of initiating the rotation immediately
+- [UI/UX] Add "Ship Forward Direction: Auto" to the ship config and allow to override it fully
+- [UI/UX] Improve Ship Config (Show Sections button, better Move Ship, class points and ship class details)
+- [UI/UX] Allow controlling ship battle stations via F1..F10 / vent via V in ship combat view
+- [UI/UX] Improve ship combat UI with a Hail button, device stats, flux overload warnings and detailed fire tooltips
+- [UI/UX] Warn about undelivered online orders and abandoned materials / objects before a Hyperjump
+- [UI/UX] Approaching a derelict is now an actual flight, available from any distance
+- [UI/UX] Improve Starmap (auto refocus, Auto Miners block, clustered object popups, Hyperjump Relay hints)
+- [UI/UX] The Copter Missions window lists your deployed auto miners, with a button to recall each one
+- [UI/UX] Improve Research Tree visibility (clearer lines, highlighted unlockable paths, zoomed out tooltips)
+- [UI/UX] Tidy up the research tree layout, with each research lined up under its tier line
+- [UI/UX] Put all body and surgery actions (including Euthanize) under one Surgery button in the bottom bar
+- [UI/UX] Consolidate task management into a single button in the bottom bar
+- [UI/UX] Improve body part status icons and condition lists (grouped wounds, "Not Removable" marker)
+- [UI/UX] Improve being tooltips in Morgue, Mechuary and gift packages
+- [UI/UX] Add a trade tab for Stasis Pods and show more details about cores and brains in trade
+- [UI/UX] Show equipment quality ranges in the equipment choice list
+- [UI/UX] Allow Click+Drag to reorder crafting recipes
+- [UI/UX] Improve storage filter UI with tooltips and number of filtered items in the filter button text
+- [UI/UX] Store tool now works on items and un-forbids what it is used on
+- [UI/UX] Show more stats (Health, CPU bonus, Beam Drill max mining depth)
+- [UI/UX] Installing the Asimov Override Upgrade now lists the actions it unblocks
+- [UI/UX] Expedition setup pauses the clock, skips crew who can't go right away and can be refreshed
+- [UI/UX] Improve the quest widget with step tooltips and adjustable width
+- [UI/UX] New games reveal the interface step by step, untick "Gradual UI Reveal" next to Embark to see it all from the start
+- [UI/UX] Add more tutorial popups after connecting devices that have a dedicated codex page
+- [UI/UX] Improve clicking and cycling through stacked objects, floors and walls
+- [UI/UX] Build menu snaps to the item grid and stacks tab buttons in rows when they don't fit
+- [UI/UX] Add confirmation to the "Erase Plan" button
+- [UI/UX] Sandbox mode can spawn beings and materials via Quick Search and install any body part instantly
+- [UI/UX] Remove legacy Ctrl + Left Click force commands for tasks and drafted beings
+- [UI/UX] Bug reports can be sent from a stuck loading screen and have a "Balance" category
+- [UI/UX] Warn when playing with mods and allow enabling / disabling all mods at once
+- [UI/UX] Add a Hold Fire toggle for drafted shooters, show a selected shooter's weapon range and the hit chance on a hovered enemy
+- [UI/UX] Show how far heaters, oxygen pumps, radiators, turrets and similar devices reach while placing or selecting them
+- [UI/UX] Group variants like floors, beds, chairs and tables under one build menu button
+- [UI/UX] Show colored dots on crew, guests and hostiles when zoomed far out
+- [Graphics] Display heat distortion in hot areas of the ship
+- [Graphics] Damaging the ship computer will apply a global interlace / color saturation visual effect
+- [Graphics] Show unconstructed tiles that aren't buildable right now as more transparent
+- [Graphics] Change Bridge Controls looks to prevent a common misconception that corners are walkable
+- [Graphics] Adjust ship visual sizes in starmap and starfield
+- [Graphics] Colonists will now blink if you watch them closely
+- [Graphics] Fix visible seams between floor tiles
+- [Graphics] Fix particles and texts could stay behind after winching / local maneuvering
+- [Graphics] Walls cast shadows and light shines through open doors and windows, corners hidden from a lamp are dark for plants and colonists too
+- [Graphics] Add a soft glow to bright lights and effects, and light flashes from explosions and gunfire (both toggleable in Video settings)
+- [Graphics] Lamps flicker during power shortages, damage and storms, ship lights pulse red while an Emergency Siren sounds
+- [Graphics] Show cracks, scratches and soot on damaged floors, walls and devices
+- [Graphics] Cover freezing rooms in frost and make very hot rooms glow red
+- [Graphics] Beings flash red and jolt away when hit, explosions get a shockwave ring
+- [Graphics] Improve ship combat effects (explosions on hits, missed shots fly past, shields ripple where hit)
+- [Graphics] Ships look solid: floors show their thick side, and zooming out shows the plated outer hull in a Default, Bulkhead or Armored style
+- [Graphics] Add thin ink outlines around devices, walls, colonists, items and plants
+- [Graphics] Add soft shadows where floors meet walls (Floor Shading setting)
+- [Graphics] Add Ambient Motion: plants sway, colonists and pets bob as they walk, downed beings squirm
+- [Graphics] Space nebula colors reflect sector danger and space storms
+- [Graphics] Redo lit floors and all derelict ship artwork
+- [Graphics] Add new color sets for casual clothing, suits and helmets
+- [Audio] Add new UI sounds
+- [Audio] Reduce low frequencies in Shredder Cannon SFX
+- [Audio] Change Fluid Cannon shot and impact sounds
+- [Audio] Incoming Stasis Pod will no longer trigger an annoying warning sound
+- [Mods] JSON files support all types of comments and trailing semicolons, typos and invalid fields cause errors
+- [Mods] Disallow overwriting core Def JSONs in full (JSON Patching is preferred)
+- [Mods] Add support for JSON patching other mods by providing "targetMod" id
+- [Mods] Consolidate mod loading errors into single popup when possible
+- [Mods] Mod JSON error popups highlight the line and position, open the file's folder and can restart
+- [Mods] Implement [SelfInit(order: 0)] static method attribute for more flexible self-registration
+- [Mods] Add UI Theme JSON files with a schema for building custom themes
+- [Mods] Body part looks are defined via JSON, any installed body part can change any look part of a being
+- [Mods] Add SortOrderDirectional and HideInBed for LookPartType defs
+- [Mods] Define gameplay curves as separate CurveDef JSON files
+- [Mods] Add tunables for atmosphere spread speed, auto-forbidding loot and worn gear mood effects
+- [Mods] Add Species FunRepetitionCurve and BodyPartSlotSizes, and Admirable FunSubject properties
+- [Mods] Ship weapon Accuracy and ShieldPenetrateChance are now flat numbers instead of curves
+- [Mods] Add "mod create <ModId> <Mod Name>" console command
+- [Mods] Add "script" console command for running C# snippets against a live game
+- [Mods] Simplify Steam Workshop uploads (in-game instructions, no playtest requirement, correct version tag)
+- [Mods] Newly added mods will be disabled by default
+- [Mods] Disable outdated mods that no longer load, such as Better Start, Fog of War, Mod Config Framework and Tritanium
+- [Mods] Fix non-standard bot species wouldn't get spawned in custom scenarios
+- [Mods] Add a JSON schema for every Core config file in Config/Schemas, generated from the game code
+- [Mods] JSON patches apply in mod dependency order, and a failing patch no longer drops other mods' patches to the same file
+- [Mods] Mods can override core game text in their Translations CSV files, per language
+- [Mods] Mods can set "Cheat": true in ModInfo.json to disable achievements and get a Cheat tag on Steam Workshop
+- [Mods] Add hull styles (HullStyle.json in Graphics/Structure/Hull/YourStyle) and floor Foundation strips
+- [Mods] Add "BuildGroup" to defs, so defs of one build menu tab can share a button
+- [Mods] Add "Walk" and "Wiggle" to species looks, and SpaceSky / SpaceSkyStorms configs for nebula palettes
+- [Mods] Add "RequiresBodyFlags" and "AddsStatModifiersWhenShown" to inventory items, "RoboticDamageMul" to attack methods
+- [Mods] Rename IsHaulingForbidden of UnstoredMatComp and StorableObjComp to IsForbidden (the old name still works but is obsolete)
+- [Mods] Replace DeconstructionSpeed tunable with DeconstructionSpeedStructure, DeconstructionSpeedObjects and DeconstructionMaxWork
+- [Translations] Add translation tooling to Settings > Language
+- [Translations] Update Russian and Ukrainian translations
+- [Translations] Update official Simplified Chinese and Spanish translations to 100%
+- [Translations] Update Italian and Japanese translations to 100%
+- [Misc] Rewrite and simplify all being and object descriptions
+- [Misc] Purge outdated codex entries and stale translations
+- [Misc] Add many new codex entries and video tutorials
+- [Misc] Quest targets will have unique names instead of generic "Quest Target"
+- [Misc] Add console command `dev debug_tasks` and Task Debug tab to allow troubleshooting AI bugs
+- [Misc] Update Discord SDK
+- [Misc] Remove the Invincible Pets setting, it left pets stuck with injuries or fatal conditions that never went away
+- [Bug] Fix clock precision drift potentially affecting game systems after many hours of play time
+- [Bug] Fix an avatar could be created with an incorrect visual offset if it was rebuilt while the colonist was punched in the face
+- [Bug] Fix when a raid would start in the middle of a friendly fight, the friendly fight would become lethal
+- [Bug] Fix game would fail to load if a tile without passability component would exist
+- [Bug] Fix many Local Maneuvering failures (refusing to move, leaving objects behind, false collisions)
+- [Bug] Fix Local Maneuvering could freeze the game, break pathfinding or wake up sleeping colonists
+- [Bug] Fix ship direction would change to West if there was the same count of engines in all directions
+- [Bug] Fix pausing the hyperjump queue or removing its last jump could get the ship stuck in hyperspace or bounce it out right away
+- [Bug] Fix ship could warp on its own after loading a save, and Local Warp Drive could reach other regions
+- [Bug] Fix beings could neglect critical needs (i.e. recharge battery) while working through chains of many fast tasks
+- [Bug] Fix starving sane colonists could start eating food in unsafe areas without bringing it to a safe location first
+- [Bug] Fix beings could die by walking into unsafe areas during some actions (e.g. zero oxygen when reaching a fire)
+- [Bug] Fix guests / passengers could be treated as enemies by some systems or couldn't use beds
+- [Bug] Fix several ways bots could stop recharging (docks after expeditions, discharged in devices, Assembly Hub)
+- [Bug] Fix construction could get stuck, leaving single unbuilt walls / floors (especially in room corners)
+- [Bug] Fix Nanobots could perform construction work on objects that didn't have floors built under them yet
+- [Bug] Fix Fusion Drives and other fueled engines would receive refuel orders while on a derelict ship
+- [Bug] Fix ejecting device fuel could result in ejected material getting stuck
+- [Bug] Fix paused crafting orders kept consuming electricity and were not copied as paused by Copy Config
+- [Bug] Fix ship weapons would not target the enemy ship while asteroids / meteoroids were around
+- [Bug] Fix saving and loading mid exploration expedition could get the expedition stuck forever
+- [Bug] Fix starting storage units could wall off passages, leaving starting materials unreachable
+- [Bug] Fix "Windowless room" debuff could be given in areas with windows
+- [Bug] Fix "A Romantic Expedition" story event could involve a dead being
+- [Bug] Fix beings could be generated with age 0
+- [Bug] Fix trader could get assigned to a Crawler faction in rare edge cases
+- [Bug] Fix trader stasis pods could get stuck if they tried to launch while in hyperspace
+- [Bug] Fix live enemy beings could be put into storage
+- [Bug] Fix stabbing could be performed from a distance
+- [Bug] Fix changing colonist and pet count to 0 in new game's Custom Rules would still spawn colonists and a pet
+- [Bug] Fix one failing device, need, condition or being could stop the others from updating
+- [Bug] Fix interrupted saves, failed loads and saves to a full disk could leave the game paused or stuck loading, or damage the save and its backup
+- [Bug] Fix all story events could stop for good when a colonist left the ship during a chase, date or other drama
+- [Bug] Fix space storms, meteoroid warnings, planet colonization and the teleporter clone event could stop working after loading a save or another game
+- [Bug] Fix beds and chairs could stay occupied after their user left, and workers could go for food or drink someone else had reserved
+- [Bug] Fix several ways haulers could stall for hours when storages were full or set to priority 0
+- [Bug] Fix material piles could get forbidden from hauling by mistake, or picked up while forbidden
+- [Bug] Fix shooters could ignore targets near the far end of their range or in plain sight along a wall
+- [Bug] Fix attack orders were forgotten after loading a save or when the enemy was in another room
+- [Bug] Fix melee attacks could hit through wall corners
+- [Bug] Fix beings with several bad wounds on one body part could die after loading a save or while healing
+- [Bug] Fix burning incapacitated enemies were never extinguished and kept setting the ship on fire
+- [Bug] Fix colonists who lost both legs were left on the floor to starve instead of being carried to bed and fed
+- [Bug] Fix several backstories and traits had no effect on the jobs colonists and bots love or can do
+- [Bug] Fix auto connect could pick far connectors, add needless links or need several tries
+- [Bug] Fix fuses did not protect devices from Short Circuit fires
+- [Bug] Fix a single Storage Capsule could carry a whole raid, and capsules with attackers inside never opened after loading a save
+- [Bug] Fix anomaly and planet expeditions could return empty without finding anything
+- [Bug] Fix Uranium and Enriched Uranium found on expeditions would always be just 1 unit
+- [Bug] Fix No Reload games could be saved and reloaded at will
+- [Bug] Fix Enlightened colonists could have mental breakdowns
+- [Bug] Fix a colonist could get stuck for good in an airlock between two freezing or airless rooms
+- [Bug] Fix pets could become nomads and found a faction when colonizing a planet
+- [Bug] Fix cancelling a construction could lose the materials already delivered to it
+- [Bug] Fix drones and crew could pass through a closed door when given a new order while opening it
+- [Bug] Attempt to fix some fire graphics could get visually desynchronized after a long play session
+- [Bug] Fix colonists could stop short of where they were going and act as if they had arrived
+
+
 <b>v0.14.46</b> (2026.10.12)
 - [Misc] Add a main menu notice about the upcoming major update and the experimental branch on Steam
 
