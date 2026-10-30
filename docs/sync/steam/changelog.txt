@@ -1,3 +1,19 @@
+<b>v0.15.1</b> (2026.10.30)
+- [Balance] Colonists only mind a windowless room after spending an hour in one, passing through no longer counts
+- [Tech] Discord rich presence reconnects after Discord restarts and works on Apple Silicon Macs
+- [Performance] Fix frame drops on some PCs while hovering buttons and links
+- [UI/UX] Fix construction drone's Body and Mobilizer cards were swapped in the surgery view
+- [UI/UX] Fix a planet could fill the whole Starmap after a quest made it habitable
+- [UI/UX] Fix enemy ship health and flux bars grew huge when zoomed in during ship combat
+- [UI/UX] Right-click a key, mouse or gamepad input in Input settings to unbind just that one
+- [UI/UX] Planters and crafters no longer warn they are unconfigured until you research something they can use
+- [UI/UX] Add "Ignore Unconfigured" toggle to planters and vases
+- [UI/UX] Show research-locked plants in the Planter tab
+- [UI/UX] Fix quest tracker objectives could get stuck on outdated text and disagree with their tooltip
+- [Bug] Fix a colonist who abandoned the ship could return right after leaving
+- [Bug] Fix potential freezes on some PCs with Discord installed
+
+
 <b>v0.15.0</b> (2026.10.29)
 - [Major] New Quests System
 - [Major] New UI
