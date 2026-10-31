@@ -1,3 +1,12 @@
+<b>v0.15.2</b> (2026.10.31)
+- [Translations] Update Russian translation to 100%
+- [Balance] Missed shots deal 25% of their damage to walls and doors
+- [UI/UX] Attacking a ship or station now asks for confirmation
+- [UI/UX] Prices of our items in trade turn yellow when the trader can't afford them, instead of red by our own wallet
+- [UI/UX] Fix Bot Dock's Assigned Bot list could flicker while the bot was docking
+- [Bug] Fix fleeing enemies could stop to use your Repair Station and medical devices
+
+
 <b>v0.15.1</b> (2026.10.30)
 - [Balance] Colonists only mind a windowless room after spending an hour in one, passing through no longer counts
 - [Tech] Discord rich presence reconnects after Discord restarts and works on Apple Silicon Macs
