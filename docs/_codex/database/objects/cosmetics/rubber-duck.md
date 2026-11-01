@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A large inflatable rubber duck.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x2</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x2</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>15%</b></span></p>
 

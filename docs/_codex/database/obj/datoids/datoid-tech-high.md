@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Data used to unlock advanced technology.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/data-harvester-advanced/">Advanced Data Harvester</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> + <span style="color:#A0BBF7">75kW x 2h</span> = <span class="nobr"><span class="accent">High Tech Datoid</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/data-harvester-advanced/">Advanced Data Harvester</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> + <span style="color:#A0BBF7">75kW x 2h</span> = <span class="nobr"><span class="accent">High Tech Datoid</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 

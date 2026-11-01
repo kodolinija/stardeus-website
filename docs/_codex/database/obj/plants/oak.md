@@ -8,7 +8,7 @@ section: "Database"
 ---
 
 <p>A strong tree that's a great source of wood.</p>
-<p>Harvest Output <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/log/">Log</a></span> x3<br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plant-fiber/">Plant Fiber</a></span> x2</p>
+<p>Harvest Output<span class="nobr"><a href="/codex/database/obj/materials/log/">Log</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/plant-fiber/">Plant Fiber</a></span> x2</p>
 
 <h2>Research Prerequisites</h2>
 <div class="codex-prereq-path"><a href="/codex/research/research/life-support/root/">Life Support</a> &rarr; <a href="/codex/research/research/life-support/food-production/">Food Production</a> &rarr; <a href="/codex/research/research/life-support/planter-improved/">Improved Planter</a></div>

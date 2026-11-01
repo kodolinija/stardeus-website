@@ -9,7 +9,7 @@ section: "Database"
 
 <p>An angular piece of floor. Rotate before placing.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x1<br><span style="font-size:70%"><span class="muted">Can only be placed in space.</span></span></p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x1<br><span style="font-size:70%"><span class="muted">Can only be placed in space.</span></span></p>
 <h3 class="codex-subtitle">Hull Integrity</h3>
 <p>Airtightness: <span class="accent"><span class="accent"><b>0%</b></span></span><br>Insulation: <span class="accent"><span class="accent"><b>0%</b></span></span></p>
 <h3 class="codex-subtitle">Properties</h3>

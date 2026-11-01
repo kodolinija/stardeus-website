@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Manually operated mini-kitchen with a stove.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x2</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x2</p>
 <h3 class="codex-subtitle">Produces</h3>
 <p><span class="nobr"><a href="/codex/database/obj/meals/survival-meal/">Survival Meal</a></span>, <span class="nobr"><a href="/codex/database/obj/meals/bread/">Bread</a></span>, <span class="nobr"><a href="/codex/database/obj/meals/pumpkin-soup/">Pumpkin Soup</a></span>, <span class="nobr"><a href="/codex/database/obj/meals/soy-burger/">Soy Burger</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>

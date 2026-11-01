@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Allows control of multiple ship weapons of the same type from a single ergonomic workstation.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x2</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x2</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Operator Required</p>
 

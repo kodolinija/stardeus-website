@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Enables local flight within the current sector.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x3<br><span style="font-size:70%"><span class="muted">Can only be placed in space, attached to the outside of the ship.</span></span></p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x3<br><span style="font-size:70%"><span class="muted">Can only be placed in space, attached to the outside of the ship.</span></span></p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment, Class Points: <span class="accent"><b>1</b></span>, <span class="nobr">Energy Consumption: <span class="accent"><b>10-15kW</b></span></span></p>
 

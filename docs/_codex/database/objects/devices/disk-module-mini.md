@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Stores up to 8 zettabytes of research data.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x3</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x3</p>
 <h3 class="codex-subtitle">Computer Resources</h3>
 <p><span style="font-size:75%">→</span> Disk Space: <span class="accent"><b>8 ZB</b></span></p>
 <h3 class="codex-subtitle">Properties</h3>

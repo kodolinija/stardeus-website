@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Creates oxygen by electrolyzing water.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>85%</b></span>, <span class="nobr">Effectiveness: <span class="accent"><b>Medium</b></span></span>, Must be indoors, <span class="nobr">Energy Consumption: <span class="accent"><b>5kW</b></span></span></p>
 

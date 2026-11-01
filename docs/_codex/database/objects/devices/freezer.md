@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A high capacity storage unit for food and raw ingredients.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x3</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x4<br><span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x3</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, <span class="nobr">Energy Consumption: <span class="accent"><b>5-10kW</b></span></span></p>
 

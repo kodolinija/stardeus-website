@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Data used to improve common technology.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/data-harvester-basic/">Basic Data Harvester</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> + <span style="color:#A0BBF7">15kW x 2h</span> = <span class="nobr"><span class="accent">Tech Datoid</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/data-harvester-basic/">Basic Data Harvester</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> + <span style="color:#A0BBF7">15kW x 2h</span> = <span class="nobr"><span class="accent">Tech Datoid</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 

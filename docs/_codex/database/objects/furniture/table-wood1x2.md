@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Small 1 by 2 table to put things on and eat at. Wood reminds everyone of home.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/wood/">Wood</a></span> x2</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/wood/">Wood</a></span> x2</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>2x1</b></span></span>, Cover: <span class="accent"><b>33%</b></span></p>
 

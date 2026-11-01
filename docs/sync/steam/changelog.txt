@@ -1,3 +1,16 @@
+<b>v0.15.3</b> (2026.11.01)
+- [Translations] Update French translation to 100%
+- [UI/UX] Rename duplicate Atmosphere Control research to Airlock
+- [UI/UX] Part Storage and Organ Storage can refuse crippled parts
+- [UI/UX] Sleep moods explain what makes good personal quarters in their tooltips
+- [UI/UX] Ask for confirmation before deconstructing a device you can't build yet
+- [UI/UX] Show icons next to links to items, devices and research
+- [UI/UX] Fix codex listed devices you can't build, like the Stasis Array, as uses of a material
+- [Graphics] Fix the top part of damaged devices didn't show cracks and soot
+- [Graphics] Fix a damaged derelict or unpowered Ship Computer could make the screen glitch
+- [Mods] Show any def's icon in a mod's texts with the "DefIcons" sprite tag and the def's id as its name
+
+
 <b>v0.15.2</b> (2026.10.31)
 - [Translations] Update Russian translation to 100%
 - [Balance] Missed shots deal 25% of their damage to walls and doors

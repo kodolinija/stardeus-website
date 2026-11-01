@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A hub hosting swarms of nanobots that can perform simple tasks within their working radius.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/silver-ingot/">Silver Ingot</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/silver-ingot/">Silver Ingot</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>50%</b></span>, Industrial Equipment, <span class="nobr">Energy Consumption: <span class="accent"><b>15kW</b></span></span></p>
 

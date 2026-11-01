@@ -864,13 +864,13 @@ permalink: /codex/
 <li><a href="/codex/research/research/computing/research-advanced/">Advanced Research</a></li>
 <li><a href="/codex/research/research/production/space-suit-advanced/">Advanced Space Suit</a></li>
 <li><a href="/codex/research/research/life-support/growing-parts-advanced/">Advanced Synthetic Organs</a></li>
+<li><a href="/codex/research/research/construction/atmosphere-control/">Airlock</a></li>
 <li><a href="/codex/research/research/space-travel/warp-drive-alien/">Alien Warp Drive</a></li>
 <li><a href="/codex/research/research/entertainment/arcade-cabinet/">Arcade Cabinet</a></li>
 <li><a href="/codex/research/research/construction/structure-armored/">Armored Structure</a></li>
 <li><a href="/codex/research/research/production/assault-armor/">Assault Armor</a></li>
 <li><a href="/codex/research/research/production/assembly/">Assembly</a></li>
 <li><a href="/codex/research/research/robotics/assembly-hub/">Assembly Hub</a></li>
-<li><a href="/codex/research/research/construction/atmosphere-control/">Atmosphere Control</a></li>
 <li><a href="/codex/research/research/life-support/atmosphere-control/">Atmosphere Control</a></li>
 <li><a href="/codex/research/research/life-support/atmosphere-generation/">Atmosphere Generation</a></li>
 <li><a href="/codex/research/research/space-travel/auto-pilot/">Auto Pilot</a></li>

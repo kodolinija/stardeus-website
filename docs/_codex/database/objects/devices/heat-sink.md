@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Build it near your Ship Computer to improve operational efficiency. Adding more than a few has diminishing returns.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-plate/">Copper Plate</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/copper-plate/">Copper Plate</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>85%</b></span></p>
 

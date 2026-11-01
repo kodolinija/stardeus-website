@@ -11,7 +11,7 @@ section: "Database"
 <h3 class="codex-subtitle">Body part <span class="muted">(Heart)</span></h3>
 <p>Compatible body sizes: <span class="accent">All</span><br>Compatible species: <span class="accent">Biological</span></p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/cloning-pod/">Cloning Pod</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/protein/">Raw Meat</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/stem-cells/">Stem Cells</a></span> x30 + <span style="color:#A0BBF7">30kW x 14d</span> = <span class="nobr"><span class="accent">Medium Heart</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/cloning-pod/">Cloning Pod</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/protein/">Raw Meat</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/stem-cells/">Stem Cells</a></span> x30 + <span style="color:#A0BBF7">30kW x 14d</span> = <span class="nobr"><span class="accent">Medium Heart</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/organ-storage/">Organ Storage</a></span></p>
 

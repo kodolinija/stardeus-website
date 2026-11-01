@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A blue colored pigment.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/cornflower-petals/">Cornflower Petals</a></span> x5 + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> + <span style="color:#A0BBF7">10kW x 1h</span> = <span class="nobr"><span class="accent">Blue Pigment</span></span> x5</p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/cornflower-petals/">Cornflower Petals</a></span> x5 + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> + <span style="color:#A0BBF7">10kW x 1h</span> = <span class="nobr"><span class="accent">Blue Pigment</span></span> x5</p>
 <h3 class="codex-subtitle">Ingredient</h3>
 <p>Required for building: <span class="nobr"><a href="/codex/database/objects/devices/auto-painter/">Auto Painter</a></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>

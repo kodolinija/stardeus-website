@@ -9,7 +9,7 @@ section: "Database"
 
 <p>The CPU Module will contribute computing power to your neural network.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x5</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x5</p>
 <h3 class="codex-subtitle">Computer Resources</h3>
 <p><span style="font-size:75%">→</span> CPU: <span class="accent"><b>2 THz</b></span></p>
 <h3 class="codex-subtitle">Properties</h3>

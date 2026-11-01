@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Turns water into ice.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5</p>
 <h3 class="codex-subtitle">Produces</h3>
 <p><span class="nobr"><a href="/codex/database/obj/materials/ice/">Ice</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>

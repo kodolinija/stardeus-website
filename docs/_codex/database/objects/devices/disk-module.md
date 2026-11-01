@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Stores up to 24 zettabytes of research data.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3</p>
 <h3 class="codex-subtitle">Computer Resources</h3>
 <p><span style="font-size:75%">→</span> Disk Space: <span class="accent"><b>24 ZB</b></span></p>
 <h3 class="codex-subtitle">Properties</h3>

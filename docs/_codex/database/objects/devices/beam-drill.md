@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Extracts nearby resource deposits directly from your ship.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x3</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x10<br><span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x3</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>2x2</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Must be outdoors, Industrial Equipment, Produces Heat, <span class="nobr">Energy Consumption: <span class="accent"><b>≥10kW</b></span></span></p>
 

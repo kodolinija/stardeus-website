@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Advanced data used to study the deepest rules of the universe.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/data-harvester-quantum/">Quantum Data Harvester</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/dark-matter/">Dark Matter</a></span> + <span style="color:#A0BBF7">300kW x 2h</span> = <span class="nobr"><span class="accent">Quantum Datoid</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/data-harvester-quantum/">Quantum Data Harvester</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/dark-matter/">Dark Matter</a></span> + <span style="color:#A0BBF7">300kW x 2h</span> = <span class="nobr"><span class="accent">Quantum Datoid</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/datoid-loader/">Datoid Loader</a></span></p>
 

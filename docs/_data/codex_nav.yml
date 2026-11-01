@@ -1441,6 +1441,8 @@
           link: /codex/research/research/production/space-suit-advanced/
         - title: "Advanced Synthetic Organs"
           link: /codex/research/research/life-support/growing-parts-advanced/
+        - title: "Airlock"
+          link: /codex/research/research/construction/atmosphere-control/
         - title: "Alien Warp Drive"
           link: /codex/research/research/space-travel/warp-drive-alien/
         - title: "Arcade Cabinet"
@@ -1453,8 +1455,6 @@
           link: /codex/research/research/production/assembly/
         - title: "Assembly Hub"
           link: /codex/research/research/robotics/assembly-hub/
-        - title: "Atmosphere Control"
-          link: /codex/research/research/construction/atmosphere-control/
         - title: "Atmosphere Control"
           link: /codex/research/research/life-support/atmosphere-control/
         - title: "Atmosphere Generation"

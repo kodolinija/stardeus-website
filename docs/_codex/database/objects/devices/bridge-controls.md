@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Controls the ship's movement and navigation. Required for all forms of space travel.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x10<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>3x2</b></span></span>, Cover: <span class="accent"><b>75%</b></span>, Operator Required, <span class="nobr">Energy Consumption: <span class="accent"><b>20kW</b></span></span></p>
 

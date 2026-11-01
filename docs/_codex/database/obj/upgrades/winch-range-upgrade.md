@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Extends the range of the winch hook, allowing you to reel in derelict ships from any distance.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x10 + <span class="nobr"><a href="/codex/database/obj/materials/carbon-fiber/">Carbon Fiber</a></span> x10 + <span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5 + <span style="color:#A0BBF7">50kW x 1d</span> = <span class="nobr"><span class="accent">Winch Range Upgrade</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x10 + <span class="nobr"><a href="/codex/database/obj/materials/carbon-fiber/">Carbon Fiber</a></span> x10 + <span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5 + <span style="color:#A0BBF7">50kW x 1d</span> = <span class="nobr"><span class="accent">Winch Range Upgrade</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 

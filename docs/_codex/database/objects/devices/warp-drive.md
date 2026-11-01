@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Enables direct long-range warp jumps to distant regions.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x4<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/platinum-ingot/">Platinum Ingot</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x4<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x4<br><span class="nobr"><a href="/codex/database/obj/materials/nuclear-cell/">Nuclear Cell</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/platinum-ingot/">Platinum Ingot</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>3x3</b></span></span>, Cover: <span class="accent"><b>0%</b></span>, Industrial Equipment, Produces Heat, Must be outdoors, Class Points: <span class="accent"><b>1</b></span>, <span class="nobr">Energy Consumption: <span class="accent"><b>250kW</b></span></span></p>
 

@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A more efficient dedicated graphics processing unit with high bandwidth memory throughput, perfect for mining digital currencies.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x8<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x50<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x10</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x8<br><span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x50<br><span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x10</p>
 <h3 class="codex-subtitle">Computer Resources</h3>
 <p><span style="font-size:75%">→</span> GPU: <span class="accent"><b>2 THz</b></span></p>
 <h3 class="codex-subtitle">Properties</h3>

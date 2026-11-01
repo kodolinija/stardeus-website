@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Enriches raw materials into advanced industrial substances.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x10<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x10<br><span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5</p>
 <h3 class="codex-subtitle">Produces</h3>
 <p><span class="nobr"><a href="/codex/database/obj/materials/enriched-uranium/">Enriched Uranium</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>

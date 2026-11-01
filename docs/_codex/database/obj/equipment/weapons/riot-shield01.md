@@ -13,7 +13,7 @@ section: "Database"
 <h3 class="codex-subtitle">Modifies Stats <span class="muted">(at 100% quality)</span></h3>
 <p> <span style="font-size:75%">→</span> Blunt Resistance: <span style="color:#5EB509">+6.6</span><br> <span style="font-size:75%">→</span> Piercing Resistance: <span style="color:#5EB509">+5.5</span><br> <span style="font-size:75%">→</span> Melee Dodge: <span style="color:#5EB509">+16%</span></p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x2 + <span style="color:#A0BBF7">20kW x 3h 30m</span> = <span class="nobr"><span class="accent">Riot Shield</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x2 + <span style="color:#A0BBF7">20kW x 3h 30m</span> = <span class="nobr"><span class="accent">Riot Shield</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/furniture/weapons-locker/">Weapons Locker</a></span></p>
 

@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A sleek floor-based Oxygen Pump alternative with faster oxygen production rate.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span style="font-size:70%"><span class="muted">Can only be placed in space.</span></span></p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span style="font-size:70%"><span class="muted">Can only be placed in space.</span></span></p>
 <h3 class="codex-subtitle">Hull Integrity</h3>
 <p>Airtightness: <span class="accent"><span class="accent"><b>100%</b></span></span><br>Insulation: <span class="accent"><span class="accent"><b>100%</b></span></span></p>
 <h3 class="codex-subtitle">Properties</h3>

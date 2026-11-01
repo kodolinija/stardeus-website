@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A high-power version of the Fusion Cell, suitable for long-range hyperjumps.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/phasium/">Phasium</a></span> x10 + <span class="nobr"><a href="/codex/database/obj/materials/silver-ingot/">Silver Ingot</a></span> + <span style="color:#A0BBF7">150kW x 12h</span> = <span class="nobr"><span class="accent">Heavy Fusion Cell</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/phasium/">Phasium</a></span> x10 + <span class="nobr"><a href="/codex/database/obj/materials/silver-ingot/">Silver Ingot</a></span> + <span style="color:#A0BBF7">150kW x 12h</span> = <span class="nobr"><span class="accent">Heavy Fusion Cell</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span></p>
 

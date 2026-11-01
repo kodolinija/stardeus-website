@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Helps control heat around industrial equipment in enclosed areas.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-plate/">Copper Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/copper-plate/">Copper Plate</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x1</p>
 <h3 class="codex-subtitle">Properties</h3>
 <p>Size <span class="accent"><span class="accent"><b>1x1</b></span></span>, Cover: <span class="accent"><b>100%</b></span>, Industrial Equipment, <span class="nobr">Effectiveness: <span class="accent"><b>Medium</b></span></span>, <span class="nobr">Energy Consumption: <span class="accent"><b>5kW</b></span></span></p>
 

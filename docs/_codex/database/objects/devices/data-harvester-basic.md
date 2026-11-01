@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Produces basic types of <span class="accent"><b>Datoids</b></span> that can be used for Research of low tier technologies.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/glass/">Glass</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1</p>
 <h3 class="codex-subtitle">Produces</h3>
 <p><span class="nobr"><a href="/codex/database/obj/datoids/datoid-basic/">Basic Datoid</a></span>, <span class="nobr"><a href="/codex/database/obj/datoids/datoid-tech/">Tech Datoid</a></span>, <span class="nobr"><a href="/codex/database/obj/datoids/datoid-energy/">Energy Datoid</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>

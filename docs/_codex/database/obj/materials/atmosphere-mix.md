@@ -9,7 +9,7 @@ section: "Database"
 
 <p>A material used in terraforming a planet's atmosphere.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/aerolith/">Aerolith</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/plant-fiber/">Plant Fiber</a></span> x5 + <span style="color:#A0BBF7">50kW x 4h</span> = <span class="nobr"><span class="accent">Atmosphere Mix</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/aerolith/">Aerolith</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/water/">Water</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span> x3 + <span class="nobr"><a href="/codex/database/obj/materials/plant-fiber/">Plant Fiber</a></span> x5 + <span style="color:#A0BBF7">50kW x 4h</span> = <span class="nobr"><span class="accent">Atmosphere Mix</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/devices/storage-mini/">Storage Unit (500)</a></span>, <span class="nobr"><a href="/codex/database/objects/devices/storage/">Storage Unit (2000)</a></span></p>
 

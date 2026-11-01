@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Increases the weapon capacity of a Battle Station.</p>
 <h3 class="codex-subtitle">Craftable</h3>
-<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br> <span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x5 + <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x15 + <span style="color:#A0BBF7">50kW x 3d</span> = <span class="nobr"><span class="accent">Weapon Capacity Upgrade</span></span></p>
+<p>Produced in <span class="nobr"><a href="/codex/database/objects/devices/crafting-station/">Crafting Station</a></span><br><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> + <span class="nobr"><a href="/codex/database/obj/materials/microchip2/">Improved Microchip</a></span> x2 + <span class="nobr"><a href="/codex/database/obj/materials/optical-fiber/">Optical Fiber</a></span> x5 + <span class="nobr"><a href="/codex/database/obj/materials/transistor/">Transistor</a></span> x15 + <span style="color:#A0BBF7">50kW x 3d</span> = <span class="nobr"><span class="accent">Weapon Capacity Upgrade</span></span></p>
 <h3 class="codex-subtitle">Compatible Storage</h3>
 <p><span class="nobr"><a href="/codex/database/objects/furniture/cabinet/">Cabinet</a></span></p>
 

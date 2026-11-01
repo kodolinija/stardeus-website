@@ -9,7 +9,7 @@ section: "Database"
 
 <p>Adds 2 Exabytes of Memory (RAM).</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x2<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5<br><span style="font-size:75%">→</span> <span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/microchip3/">Advanced Microchip</a></span> x2<br><span class="nobr"><a href="/codex/database/obj/materials/gold-wire/">Gold Wire</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/plastic/">Plastic</a></span> x1</p>
 <h3 class="codex-subtitle">Computer Resources</h3>
 <p><span style="font-size:75%">→</span> Memory: <span class="accent"><b>2 EB</b></span></p>
 <h3 class="codex-subtitle">Properties</h3>
