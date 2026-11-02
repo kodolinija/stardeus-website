@@ -1,3 +1,22 @@
+<b>v0.15.4</b> (2026.11.02)
+- [Feature] Add Firefoam Capsule, an early device that pops near a fire and covers the room in fireproof foam
+- [Balance] Personal quarters and cozy quarters moods now last until the next sleep (+2 and +3, were +3 and +5 for 4h)
+- [UI/UX] Part Storage and Organ Storage can refuse and dispose of scarred parts
+- [UI/UX] Fix closing the Steam overlay could unpause the game
+- [Translations] Update German translation to 100%
+- [Translations] Improve French translation
+- [Translations] Fix "Unlocked" and "Not Discovered" labels on research nodes stayed in English
+- [Translations] Fix locked research on upgrades, Basic Tech and Clone Game used the door's "Locked" wording
+- [Translations] Fix quests in existing saves stayed in the language they were created in
+- [Bug] Fix relocating or copying settings of a storage didn't keep its quality range
+- [Bug] Fix replacing a device, like a Disk Module with a bigger one, could finish without all its materials
+- [Bug] Fix the ship could fly backwards after Local Maneuvering turned it around
+- [Bug] Fix a hacked ship whose crew walked off still had hostile crew aboard
+- [Bug] Fix a downed crawler could start a fight that made the crew shoot at downed enemies
+- [Bug] Fix derelict ship and anomaly scans could keep pointing at a place that was already salvaged or explored
+- [Bug] Fix pranks almost always went badly, even between best friends
+
+
 <b>v0.15.3</b> (2026.11.01)
 - [Translations] Update French translation to 100%
 - [UI/UX] Rename duplicate Atmosphere Control research to Airlock

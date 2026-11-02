@@ -544,6 +544,7 @@ permalink: /codex/
 <li><a href="/codex/database/objects/devices/suicide-booth/">Exit Booth</a></li>
 <li><a href="/codex/database/objects/devices/ftl-drive/">FTL Drive</a></li>
 <li><a href="/codex/database/objects/devices/fabricator/">Fabricator</a></li>
+<li><a href="/codex/database/objects/devices/firefoam-capsule/">Firefoam Capsule</a></li>
 <li><a href="/codex/database/structure/floors/floor01/">Floor</a></li>
 <li><a href="/codex/database/structure/floors/floor02/">Floor</a></li>
 <li><a href="/codex/database/structure/floors/floor03/">Floor</a></li>

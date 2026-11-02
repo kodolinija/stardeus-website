@@ -843,6 +843,8 @@
           link: /codex/database/objects/devices/ftl-drive/
         - title: "Fabricator"
           link: /codex/database/objects/devices/fabricator/
+        - title: "Firefoam Capsule"
+          link: /codex/database/objects/devices/firefoam-capsule/
         - title: "Floor"
           link: /codex/database/structure/floors/floor01/
         - title: "Floor"
