@@ -1,3 +1,32 @@
+<b>v0.15.5</b> (2026.11.03)
+- [Feature] Rescued guests can be dropped off at a space port of their faction while your ship is next to it
+- [Feature] Calm guests can be attacked: they and their faction's guests turn hostile, and the faction holds it against you
+- [Balance] Second-hand gear upsets colonists much less: -1 per item, at most -3 (was -4 to -6), Thrifty bonus scaled down too
+- [Balance] Making a game setting harder, like higher Research Cost or fewer starting crew, no longer disables achievements
+- [Balance] Gauss Striker costs 7 class points (was 10), first shot in 1.5h (was 2.75h), refire every 2.2h (was 2.4h)
+- [Balance] Weapon Power no longer counts aim, so it matches the damage a ship weapon really deals
+- [Balance] NPC ships are now about as big as yours, instead of ten times bigger in the late game
+- [Balance] Ship size no longer adds Flux Capacity; every ship class has a higher Flux Bonus to make up for it
+- [Balance] NPC ships have slightly sturdier hulls to balance their lower Flux Capacity
+- [Balance] Every survivor rescued from a derelict is happy to be alive for 3 days
+- [UI/UX] The info panel of a crew member shows their current or last task under their name; hover it for details
+- [UI/UX] "Preview Bug Report" now saves only the zip file, without the loose files next to it
+- [UI/UX] Discharging batteries show as one notification instead of one per battery, and clicking it opens the Electricity panel
+- [UI/UX] Combat Controls show each weapon's own icon next to its damage
+- [UI/UX] Make the research tree compact: each research shows what it unlocks, and its card opens on hover
+- [UI/UX] Multi-selection and "Others Here" lists mark used, dead's and tattered clothing
+- [UI/UX] Multi-selected devices show their installed upgrades
+- [UI/UX] Guests, enemies and other non-crew beings show their faction icon and color in being lists
+- [UI/UX] A destroyed body part shows the same crutch icon when selected as it does in lists
+- [UI/UX] Fix a guest who joined a raid of their faction kept a green guest name
+- [Bug] Fix fire could burn without visible flames, or with oversized flames floating in space, until a restart
+- [Bug] Fix pets and colonists could stand still trying to reach things past rooms without air
+- [Bug] Fix a Hyperjump Relay could jump into a region with no relay, stranding the ship until it had an FTL Drive
+- [Bug] Fix a destroyed Void Ripper could fling the ship into a region with no relay before FTL Drives were researched
+- [Bug] Fix Mining Output and Story Pace in the game settings could show 0.5x and 5% while the game used the default
+- [Bug] Fix a nemesis could be upset that their rival was sent into stasis, as if they were close friends
+
+
 <b>v0.15.4</b> (2026.11.02)
 - [Feature] Add Firefoam Capsule, an early device that pops near a fire and covers the room in fireproof foam
 - [Balance] Personal quarters and cozy quarters moods now last until the next sleep (+2 and +3, were +3 and +5 for 4h)
