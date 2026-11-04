@@ -1,3 +1,22 @@
+<b>v0.15.6</b> (2026.11.04)
+- [Balance] Only Coffee Addicts get upset about missing coffee (-5, was -10), and they enjoy a cup more (+6)
+- [UI/UX] Fix bottom bar buttons wouldn't update when a selected being left a surgery or assembly hub
+- [UI/UX] Fix a being revived on a surgery table would get deselected
+- [UI/UX] Fix the task line in a crew member's info panel could overlap a long description above it
+- [UI/UX] When battle stations need manual control, a ring points at the button that opens the full ship combat view
+- [UI/UX] Fix the unmanned battle stations warning could be missing at the start of ship combat
+- [UI/UX] Starmap regions and sectors with an auto miner show a drill icon; hover it for each miner's storage and depth
+- [UI/UX] Fix the trade window kept asking for a Trade Portal after the portal was switched on
+- [UI/UX] Fix the ML Booth showed most skills of a core taken out of a robot as untrainable until a reload
+- [Bug] Fix quests could stay active after going through the Dark Portal and point to the wrong place
+- [Bug] Fix a mindjar without a Conversation Module could go on an insult spree
+- [Bug] Fix an injured raider who had already left could join the crew without ever coming aboard
+- [Bug] Fix the wreck of a ship you destroyed could be guarded by raiders of another faction
+- [Bug] Fix people could be generated with an animal or crawler brain, so a passenger could fail to board the shuttle
+- [Bug] Fix the "Trace the Signal" quest was never offered: late in the game a signal can now offer it, making the Signal Traced achievement obtainable
+- [Bug] Fix a starting robot could be generated inside the shuttle or another device
+
+
 <b>v0.15.5</b> (2026.11.03)
 - [Feature] Rescued guests can be dropped off at a space port of their faction while your ship is next to it
 - [Feature] Calm guests can be attacked: they and their faction's guests turn hostile, and the faction holds it against you
