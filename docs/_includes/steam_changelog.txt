@@ -1,3 +1,23 @@
+<b>v0.15.9</b> (2026.11.05)
+- [Balance] NPC ships no longer fly much faster than your ship in sector space, they follow the same speed rules
+- [Balance] Ships bigger than 6,000 tiles lose less sector flight speed to their size
+- [Balance] A battle station kept manned holds its weapons ready to fire outside of ship combat
+- [Balance] Lovers and their pets no longer disturb each other's sleep with noise
+- [Balance] Colonists who desert take their gear along and come back wearing it
+- [UI/UX] Raiders gathering at the edge of the map are now announced, and the game pauses when they arrive
+- [UI/UX] Fix the Save menu lost the list of earlier saves after renaming the ship
+- [UI/UX] Fix resizing a panel past its size limit made it drift away from the cursor
+- [Graphics] Fix the FTL Drive showed its flame while charging with the ship standing still
+- [Bug] Fix chess pieces still standing on a derelict counted toward the Chess Club achievement
+- [Bug] Fix Artillery Fungus growing on a derelict counted toward the Fungus Infestation achievement
+- [Bug] Fix ship combat could never end after attacking a ship that was fighting another ship
+- [Bug] Fix a ship hacked into a derelict could keep fighting in ship combat
+- [Bug] Fix a successful Intrusion Suite surrender asked you to pay the ransom
+- [Bug] Fix parts of a derelict could stay behind after a hyperjump or a black hole jump
+- [Bug] Fix "Restart Now" overwrote the loaded save
+- [Bug] Fix trap floors could miss raiders wearing suits with thrusters
+
+
 <b>v0.15.8</b> (2026.11.05)
 - [Balance] The starting crew holds the starting Handgun and Knife instead of finding them on the floor
 - [UI/UX] Improve the research tree card zoom and hover behavior
