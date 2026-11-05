@@ -1,3 +1,64 @@
+<b>v0.15.8</b> (2026.11.05)
+- [Balance] The starting crew holds the starting Handgun and Knife instead of finding them on the floor
+- [UI/UX] Improve the research tree card zoom and hover behavior
+- [UI/UX] Fix the map could keep floating in a random direction after dragging it or right clicking
+- [Bug] Fix the jet suit of the No Robots starting crew was lost after loading a save
+
+
+<b>v0.15.7</b> (2026.11.04)
+- [Translations] Update Portuguese Brasil (Brasileiro) translation to 100%
+- [UI/UX] Zoomed in, the research tree shows every research's full card again, so costs can be compared at a glance
+- [UI/UX] Zoomed out, a research's card opens above it on hover, leaving the research next to it in sight
+
+
+<b>v0.15.6</b> (2026.11.04)
+- [Balance] Only Coffee Addicts get upset about missing coffee (-5, was -10), and they enjoy a cup more (+6)
+- [UI/UX] Fix bottom bar buttons wouldn't update when a selected being left a surgery or assembly hub
+- [UI/UX] Fix a being revived on a surgery table would get deselected
+- [UI/UX] Fix the task line in a crew member's info panel could overlap a long description above it
+- [UI/UX] When battle stations need manual control, a ring points at the button that opens the full ship combat view
+- [UI/UX] Fix the unmanned battle stations warning could be missing at the start of ship combat
+- [UI/UX] Starmap regions and sectors with an auto miner show a drill icon; hover it for each miner's storage and depth
+- [UI/UX] Fix the trade window kept asking for a Trade Portal after the portal was switched on
+- [UI/UX] Fix the ML Booth showed most skills of a core taken out of a robot as untrainable until a reload
+- [Bug] Fix quests could stay active after going through the Dark Portal and point to the wrong place
+- [Bug] Fix a mindjar without a Conversation Module could go on an insult spree
+- [Bug] Fix an injured raider who had already left could join the crew without ever coming aboard
+- [Bug] Fix the wreck of a ship you destroyed could be guarded by raiders of another faction
+- [Bug] Fix people could be generated with an animal or crawler brain, so a passenger could fail to board the shuttle
+- [Bug] Fix the "Trace the Signal" quest was never offered: late in the game a signal can now offer it, making the Signal Traced achievement obtainable
+- [Bug] Fix a starting robot could be generated inside the shuttle or another device
+
+
+<b>v0.15.5</b> (2026.11.03)
+- [Feature] Rescued guests can be dropped off at a space port of their faction while your ship is next to it
+- [Feature] Calm guests can be attacked: they and their faction's guests turn hostile, and the faction holds it against you
+- [Balance] Second-hand gear upsets colonists much less: -1 per item, at most -3 (was -4 to -6), Thrifty bonus scaled down too
+- [Balance] Making a game setting harder, like higher Research Cost or fewer starting crew, no longer disables achievements
+- [Balance] Gauss Striker costs 7 class points (was 10), first shot in 1.5h (was 2.75h), refire every 2.2h (was 2.4h)
+- [Balance] Weapon Power no longer counts aim, so it matches the damage a ship weapon really deals
+- [Balance] NPC ships are now about as big as yours, instead of ten times bigger in the late game
+- [Balance] Ship size no longer adds Flux Capacity; every ship class has a higher Flux Bonus to make up for it
+- [Balance] NPC ships have slightly sturdier hulls to balance their lower Flux Capacity
+- [Balance] Every survivor rescued from a derelict is happy to be alive for 3 days
+- [UI/UX] The info panel of a crew member shows their current or last task under their name; hover it for details
+- [UI/UX] "Preview Bug Report" now saves only the zip file, without the loose files next to it
+- [UI/UX] Discharging batteries show as one notification instead of one per battery, and clicking it opens the Electricity panel
+- [UI/UX] Combat Controls show each weapon's own icon next to its damage
+- [UI/UX] Make the research tree compact: each research shows what it unlocks, and its card opens on hover
+- [UI/UX] Multi-selection and "Others Here" lists mark used, dead's and tattered clothing
+- [UI/UX] Multi-selected devices show their installed upgrades
+- [UI/UX] Guests, enemies and other non-crew beings show their faction icon and color in being lists
+- [UI/UX] A destroyed body part shows the same crutch icon when selected as it does in lists
+- [UI/UX] Fix a guest who joined a raid of their faction kept a green guest name
+- [Bug] Fix fire could burn without visible flames, or with oversized flames floating in space, until a restart
+- [Bug] Fix pets and colonists could stand still trying to reach things past rooms without air
+- [Bug] Fix a Hyperjump Relay could jump into a region with no relay, stranding the ship until it had an FTL Drive
+- [Bug] Fix a destroyed Void Ripper could fling the ship into a region with no relay before FTL Drives were researched
+- [Bug] Fix Mining Output and Story Pace in the game settings could show 0.5x and 5% while the game used the default
+- [Bug] Fix a nemesis could be upset that their rival was sent into stasis, as if they were close friends
+
+
 <b>v0.15.4</b> (2026.11.02)
 - [Feature] Add Firefoam Capsule, an early device that pops near a fire and covers the room in fireproof foam
 - [Balance] Personal quarters and cozy quarters moods now last until the next sleep (+2 and +3, were +3 and +5 for 4h)

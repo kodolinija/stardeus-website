@@ -1,3 +1,16 @@
+<b>v0.15.8</b> (2026.11.05)
+- [Balance] The starting crew holds the starting Handgun and Knife instead of finding them on the floor
+- [UI/UX] Improve the research tree card zoom and hover behavior
+- [UI/UX] Fix the map could keep floating in a random direction after dragging it or right clicking
+- [Bug] Fix the jet suit of the No Robots starting crew was lost after loading a save
+
+
+<b>v0.15.7</b> (2026.11.04)
+- [Translations] Update Portuguese Brasil (Brasileiro) translation to 100%
+- [UI/UX] Zoomed in, the research tree shows every research's full card again, so costs can be compared at a glance
+- [UI/UX] Zoomed out, a research's card opens above it on hover, leaving the research next to it in sight
+
+
 <b>v0.15.6</b> (2026.11.04)
 - [Balance] Only Coffee Addicts get upset about missing coffee (-5, was -10), and they enjoy a cup more (+6)
 - [UI/UX] Fix bottom bar buttons wouldn't update when a selected being left a surgery or assembly hub
