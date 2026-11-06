@@ -1,3 +1,11 @@
+<b>v0.15.11</b> (2026.11.06)
+- [UI/UX] Fix "Install Upgrade" could fail to open after the last upgrade in storage was used up
+- [UI/UX] Fix ships could look huge on the starmap after another ship flew up to yours
+- [Graphics] Fix NPC ships could be drawn at the wrong size for their class
+- [Bug] Fix a save could fail to load when someone was standing on a Trap Floor
+- [Bug] Fix Firefoam Capsule was rotatable when it shouldn't have been
+
+
 <b>v0.15.10</b> (2026.11.06)
 - [Translations] Update Czech translation to 99%
 - [Balance] Colonists use the toilet, shower or treadmill in someone's personal quarters only when there is no other
