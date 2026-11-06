@@ -1,3 +1,37 @@
+<b>v0.15.10</b> (2026.11.06)
+- [Translations] Update Czech translation to 99%
+- [Balance] Colonists use the toilet, shower or treadmill in someone's personal quarters only when there is no other
+- [Balance] Ship weapons hold fire at enemy ships while the flux vent is open, point defense keeps intercepting
+- [Balance] Losing Flux Capacity in ship combat overloads the ship when it holds more flux than the new capacity
+- [Balance] Ship combat starts with every weapon winding up, also weapons a manned battle station held ready
+- [Balance] A hacked Flux Surge hits in full when the enemy ship is venting
+- [Balance] Only robots can be hacked, an Obey Chip no longer makes a colonist a target
+- [AI] Half of an enemy ship's weapons stick to its targeting focus, such as your shields or weapons
+- [AI] Parties pick a room that fits their guests, and invite fewer people when no bigger room is free
+- [AI] Parties gather at a Jukebox or Karaoke Machine when they can, and it plays for the party
+- [AI] Party guests mingle in small groups and no longer crowd onto the same few tiles
+- [UI/UX] Moods that a trait changes name the trait, like "No Shower (Ablutophobic)"
+- [UI/UX] The log says why a fistfight started: a grudge, a bad mood, or two people who don't get along
+- [UI/UX] Drafted units ask for confirmation before attacking one of your own
+- [UI/UX] A light turned off while the game is paused goes dark right away
+- [UI/UX] Fix Wanted Amount could show 10 after switching an order back to Produce Custom Amount
+- [UI/UX] Fix a bed could keep showing the name of a guest who already left the ship
+- [UI/UX] Fix the count of negative interactions between two colonists could leave out stalking
+- [Graphics] Couples on a date and Jukebox dancers no longer stand on top of each other
+- [Bug] Fix a focused Deep Scan that found its focus material could report it as not found
+- [Bug] Fix crawlers had backstories of people and pets, like Seaman or Beloved Pet
+- [Bug] Fix pets could have backstories like Arms Dealer or Terrorist
+- [Bug] Fix a robot or animal mind in a human body had a human backstory
+- [Bug] Fix opening the flux vent while enemy shots were in flight made them almost harmless
+- [Bug] Fix loading a save during ship combat could remove the flux held by Flux Capacitors
+- [Bug] Fix the Hull auto target priority in Ship Config had no effect
+- [Bug] Fix turning a Stasis Array where it stands replaced its sleepers with strangers
+- [Bug] Fix an Elysium Stasis Array could keep losing stability after being moved or a hyperjump
+- [Bug] Fix part of a derelict could stick out of its corner and count toward your ship class
+- [Bug] Fix robots kept going to a turned off Battle Station with Keep Operator on
+- [Bug] Fix a rare crash when quitting the game
+
+
 <b>v0.15.9</b> (2026.11.05)
 - [Balance] NPC ships no longer fly much faster than your ship in sector space, they follow the same speed rules
 - [Balance] Ships bigger than 6,000 tiles lose less sector flight speed to their size
