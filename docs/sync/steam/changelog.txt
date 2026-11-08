@@ -1,3 +1,30 @@
+<b>v0.15.12</b> (2026.11.08)
+- [Balance] NPC ships fit Flux Capacitors and Vents to their weapons, lightly armed ships are no longer flux tanks
+- [Balance] Lightly armed NPC ships carry extra shields and point defense, or leave class points unused
+- [Balance] Pirate ships and ships sent against you by quests and events are never nearly unarmed
+- [Balance] Some police ships carry more class points than their class allows
+- [Balance] An overloaded ship can't fire any weapon until the overload ends, point defense included
+- [Balance] Flux overload is a short stun (20 minutes to an hour by ship class), then the ship keeps venting
+- [Balance] Opening the flux vent clears flux 50% faster
+- [Balance] Gauss Striker generates far less flux per shot (200 soft flux, was 500)
+- [Balance] Ships can vent up to 100% of their flux capacity per hour (was 50%), so Flux Vents always help
+- [Balance] Ship Strength now weighs flux, hull and shields, not only weapons
+- [UI/UX] Fix there was no way to back out once you chose to share fuel with a ship that asked for it
+- [Misc] Add "/dev remove_fog_of_war" console command that turns off Fog of War without disabling achievements
+- [Bug] Fix Hullbreaker achievement was unlocked when all hullpiercers missed the ship
+- [Bug] Fix new NPC ships of the same type were always armed alike, and Fighters never had shields
+- [Bug] Fix lawful NPC ships could count as outlaws and get hunted by police
+- [Bug] Fix NPC ships never got the full number of shields their class allows
+- [Bug] Fix crafting stations forgot who is allowed to operate them after being relocated
+- [Bug] Fix raiders could stop fighting to go use a toilet
+- [Bug] Fix depression stayed on a body after its core was replaced with one that can't get depressed
+- [Bug] Fix "Reach Space Station" quest step wouldn't complete if the ship was already at the station
+- [Bug] Fix an expedition could get stuck after choosing what to do with an object it found
+- [Bug] Fix an expedition could abort because a colonist who wasn't in its crew "failed to reach the shuttle"
+- [Bug] Fix haulers could put items into a storage that forbids them
+- [Bug] Fix NPC ships with point defense wouldn't vent when flux blocked all their weapons
+
+
 <b>v0.15.11</b> (2026.11.06)
 - [UI/UX] Fix "Install Upgrade" could fail to open after the last upgrade in storage was used up
 - [UI/UX] Fix ships could look huge on the starmap after another ship flew up to yours
