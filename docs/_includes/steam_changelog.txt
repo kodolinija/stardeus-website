@@ -1,3 +1,23 @@
+<b>v0.15.13</b> (2026.11.09)
+- [Balance] Replacing a body part is now one roll, the state of the old part no longer matters
+- [Balance] A failed body part replacement leaves the old part in place, unless the slot is destroyed
+- [Balance] Surgery success can reach 99% (was 95%), and surgeons keep improving at high skill
+- [Balance] Destroyed slots and welded parts are slightly rarer, and much rarer for skilled surgeons
+- [Balance] Eye, ear, jaw, hip, leg and tail surgeries can no longer kill the patient
+- [UI/UX] Fix Reel In button didn't say that the Winch Hook and Winch Anchor are too far apart
+- [UI/UX] Fix focusing a research at higher UI scales didn't zoom in enough to show its full card
+- [UI/UX] Show the real chance for your best available surgeon in surgery tooltips
+- [UI/UX] List failed surgeries in the notifications
+- [Mods] Add Surgery/SwapDeadEnd_DestroySlot and SwapDeadEnd_Weld curves and SurgerySwap* tunables for body part swaps
+- [Bug] Fix blueprints could stay "reserved" forever by a crafting order that was missing another material
+- [Bug] Fix crew couldn't put out a burning being standing in a doorway
+- [Bug] Fix colonists could sleep on a sofa despite having their own bed
+- [Bug] Fix your ship could turn into a derelict while reeling in a wreck
+- [Bug] Fix a colonist could stay stuck running from a pet that couldn't follow them
+- [Bug] Fix haulers kept picking up and dropping items when the only storage for them was blocked off
+- [Bug] Fix retrying or reloading a failed surgery would usually fail again
+
+
 <b>v0.15.12</b> (2026.11.08)
 - [Balance] NPC ships fit Flux Capacitors and Vents to their weapons, lightly armed ships are no longer flux tanks
 - [Balance] Lightly armed NPC ships carry extra shields and point defense, or leave class points unused
