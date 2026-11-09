@@ -1,3 +1,12 @@
+<b>v0.15.14</b> (2026.11.09)
+- [Tech] Upgrade Unity to 6000.6.8f1
+- [Graphics] Fix tall objects could stick out between the hull and the upper walls of the ship
+- [Graphics] Fix floor lights could flicker or disappear while zooming out
+- [Bug] Fix large floor deconstruction orders could stall for days or split the ship into sections
+- [Bug] Fix a colonist stranded on a floor tile next to a wall wouldn't get rescued
+- [Bug] Fix turrets could shoot through a wall at enemies standing right behind it
+
+
 <b>v0.15.13</b> (2026.11.09)
 - [Balance] Replacing a body part is now one roll, the state of the old part no longer matters
 - [Balance] A failed body part replacement leaves the old part in place, unless the slot is destroyed
