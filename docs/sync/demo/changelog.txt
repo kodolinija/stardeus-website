@@ -1,3 +1,121 @@
+<b>v0.15.14</b> (2026.11.09)
+- [Tech] Upgrade Unity to 6000.6.8f1
+- [Graphics] Fix tall objects could stick out between the hull and the upper walls of the ship
+- [Graphics] Fix floor lights could flicker or disappear while zooming out
+- [Bug] Fix large floor deconstruction orders could stall for days or split the ship into sections
+- [Bug] Fix a colonist stranded on a floor tile next to a wall wouldn't get rescued
+- [Bug] Fix turrets could shoot through a wall at enemies standing right behind it
+
+
+<b>v0.15.13</b> (2026.11.09)
+- [Balance] Replacing a body part is now one roll, the state of the old part no longer matters
+- [Balance] A failed body part replacement leaves the old part in place, unless the slot is destroyed
+- [Balance] Surgery success can reach 99% (was 95%), and surgeons keep improving at high skill
+- [Balance] Destroyed slots and welded parts are slightly rarer, and much rarer for skilled surgeons
+- [Balance] Eye, ear, jaw, hip, leg and tail surgeries can no longer kill the patient
+- [UI/UX] Fix Reel In button didn't say that the Winch Hook and Winch Anchor are too far apart
+- [UI/UX] Fix focusing a research at higher UI scales didn't zoom in enough to show its full card
+- [UI/UX] Show the real chance for your best available surgeon in surgery tooltips
+- [UI/UX] List failed surgeries in the notifications
+- [Mods] Add Surgery/SwapDeadEnd_DestroySlot and SwapDeadEnd_Weld curves and SurgerySwap* tunables for body part swaps
+- [Bug] Fix blueprints could stay "reserved" forever by a crafting order that was missing another material
+- [Bug] Fix crew couldn't put out a burning being standing in a doorway
+- [Bug] Fix colonists could sleep on a sofa despite having their own bed
+- [Bug] Fix your ship could turn into a derelict while reeling in a wreck
+- [Bug] Fix a colonist could stay stuck running from a pet that couldn't follow them
+- [Bug] Fix haulers kept picking up and dropping items when the only storage for them was blocked off
+- [Bug] Fix retrying or reloading a failed surgery would usually fail again
+
+
+<b>v0.15.12</b> (2026.11.08)
+- [Balance] NPC ships fit Flux Capacitors and Vents to their weapons, lightly armed ships are no longer flux tanks
+- [Balance] Lightly armed NPC ships carry extra shields and point defense, or leave class points unused
+- [Balance] Pirate ships and ships sent against you by quests and events are never nearly unarmed
+- [Balance] Some police ships carry more class points than their class allows
+- [Balance] An overloaded ship can't fire any weapon until the overload ends, point defense included
+- [Balance] Flux overload is a short stun (20 minutes to an hour by ship class), then the ship keeps venting
+- [Balance] Opening the flux vent clears flux 50% faster
+- [Balance] Gauss Striker generates far less flux per shot (200 soft flux, was 500)
+- [Balance] Ships can vent up to 100% of their flux capacity per hour (was 50%), so Flux Vents always help
+- [Balance] Ship Strength now weighs flux, hull and shields, not only weapons
+- [UI/UX] Fix there was no way to back out once you chose to share fuel with a ship that asked for it
+- [Misc] Add "/dev remove_fog_of_war" console command that turns off Fog of War without disabling achievements
+- [Bug] Fix Hullbreaker achievement was unlocked when all hullpiercers missed the ship
+- [Bug] Fix new NPC ships of the same type were always armed alike, and Fighters never had shields
+- [Bug] Fix lawful NPC ships could count as outlaws and get hunted by police
+- [Bug] Fix NPC ships never got the full number of shields their class allows
+- [Bug] Fix crafting stations forgot who is allowed to operate them after being relocated
+- [Bug] Fix raiders could stop fighting to go use a toilet
+- [Bug] Fix depression stayed on a body after its core was replaced with one that can't get depressed
+- [Bug] Fix "Reach Space Station" quest step wouldn't complete if the ship was already at the station
+- [Bug] Fix an expedition could get stuck after choosing what to do with an object it found
+- [Bug] Fix an expedition could abort because a colonist who wasn't in its crew "failed to reach the shuttle"
+- [Bug] Fix haulers could put items into a storage that forbids them
+- [Bug] Fix NPC ships with point defense wouldn't vent when flux blocked all their weapons
+
+
+<b>v0.15.11</b> (2026.11.06)
+- [UI/UX] Fix "Install Upgrade" could fail to open after the last upgrade in storage was used up
+- [UI/UX] Fix ships could look huge on the starmap after another ship flew up to yours
+- [Graphics] Fix NPC ships could be drawn at the wrong size for their class
+- [Bug] Fix a save could fail to load when someone was standing on a Trap Floor
+- [Bug] Fix Firefoam Capsule was rotatable when it shouldn't have been
+
+
+<b>v0.15.10</b> (2026.11.06)
+- [Translations] Update Czech translation to 99%
+- [Balance] Colonists use the toilet, shower or treadmill in someone's personal quarters only when there is no other
+- [Balance] Ship weapons hold fire at enemy ships while the flux vent is open, point defense keeps intercepting
+- [Balance] Losing Flux Capacity in ship combat overloads the ship when it holds more flux than the new capacity
+- [Balance] Ship combat starts with every weapon winding up, also weapons a manned battle station held ready
+- [Balance] A hacked Flux Surge hits in full when the enemy ship is venting
+- [Balance] Only robots can be hacked, an Obey Chip no longer makes a colonist a target
+- [AI] Half of an enemy ship's weapons stick to its targeting focus, such as your shields or weapons
+- [AI] Parties pick a room that fits their guests, and invite fewer people when no bigger room is free
+- [AI] Parties gather at a Jukebox or Karaoke Machine when they can, and it plays for the party
+- [AI] Party guests mingle in small groups and no longer crowd onto the same few tiles
+- [UI/UX] Moods that a trait changes name the trait, like "No Shower (Ablutophobic)"
+- [UI/UX] The log says why a fistfight started: a grudge, a bad mood, or two people who don't get along
+- [UI/UX] Drafted units ask for confirmation before attacking one of your own
+- [UI/UX] A light turned off while the game is paused goes dark right away
+- [UI/UX] Fix Wanted Amount could show 10 after switching an order back to Produce Custom Amount
+- [UI/UX] Fix a bed could keep showing the name of a guest who already left the ship
+- [UI/UX] Fix the count of negative interactions between two colonists could leave out stalking
+- [Graphics] Couples on a date and Jukebox dancers no longer stand on top of each other
+- [Bug] Fix a focused Deep Scan that found its focus material could report it as not found
+- [Bug] Fix crawlers had backstories of people and pets, like Seaman or Beloved Pet
+- [Bug] Fix pets could have backstories like Arms Dealer or Terrorist
+- [Bug] Fix a robot or animal mind in a human body had a human backstory
+- [Bug] Fix opening the flux vent while enemy shots were in flight made them almost harmless
+- [Bug] Fix loading a save during ship combat could remove the flux held by Flux Capacitors
+- [Bug] Fix the Hull auto target priority in Ship Config had no effect
+- [Bug] Fix turning a Stasis Array where it stands replaced its sleepers with strangers
+- [Bug] Fix an Elysium Stasis Array could keep losing stability after being moved or a hyperjump
+- [Bug] Fix part of a derelict could stick out of its corner and count toward your ship class
+- [Bug] Fix robots kept going to a turned off Battle Station with Keep Operator on
+- [Bug] Fix a rare crash when quitting the game
+
+
+<b>v0.15.9</b> (2026.11.05)
+- [Balance] NPC ships no longer fly much faster than your ship in sector space, they follow the same speed rules
+- [Balance] Ships bigger than 6,000 tiles lose less sector flight speed to their size
+- [Balance] A battle station kept manned holds its weapons ready to fire outside of ship combat
+- [Balance] Lovers and their pets no longer disturb each other's sleep with noise
+- [Balance] Colonists who desert take their gear along and come back wearing it
+- [UI/UX] Raiders gathering at the edge of the map are now announced, and the game pauses when they arrive
+- [UI/UX] Fix the Save menu lost the list of earlier saves after renaming the ship
+- [UI/UX] Fix resizing a panel past its size limit made it drift away from the cursor
+- [Graphics] Fix the FTL Drive showed its flame while charging with the ship standing still
+- [Bug] Fix chess pieces still standing on a derelict counted toward the Chess Club achievement
+- [Bug] Fix Artillery Fungus growing on a derelict counted toward the Fungus Infestation achievement
+- [Bug] Fix ship combat could never end after attacking a ship that was fighting another ship
+- [Bug] Fix a ship hacked into a derelict could keep fighting in ship combat
+- [Bug] Fix a successful Intrusion Suite surrender asked you to pay the ransom
+- [Bug] Fix parts of a derelict could stay behind after a hyperjump or a black hole jump
+- [Bug] Fix "Restart Now" overwrote the loaded save
+- [Bug] Fix trap floors could miss raiders wearing suits with thrusters
+
+
 <b>v0.15.8</b> (2026.11.05)
 - [Balance] The starting crew holds the starting Handgun and Knife instead of finding them on the floor
 - [UI/UX] Improve the research tree card zoom and hover behavior
