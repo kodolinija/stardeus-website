@@ -1,3 +1,20 @@
+<b>v0.15.15</b> (2026.11.10)
+- [Balance] Colonists who love the Expedition job enjoy mining trips too
+- [Balance] Surrender and gift offers count item quality and make up shortfalls with Starcreds
+- [AI] Doors held open no longer make workers take detours
+- [UI/UX] Copy Config can copy crafting orders between different crafters, like a Crafting Station and an Assembler
+- [UI/UX] Show a notification when an expedition shuttle returns
+- [UI/UX] Sort colonists by name in the bed assignment list
+- [UI/UX] Show level up progress in a colonist's Jobs list
+- [UI/UX] Fix colonists with traits but no backstory were also called "Unremarkable"
+- [UI/UX] Fix dead guests were still listed under Guests
+- [Graphics] Fix the ship's flight direction arrow could show under planets on the starmap
+- [Bug] Fix ejecting from a Morgue, Mechuary or Organ Storage during an autosave could delete what was ejected
+- [Bug] Fix items at the edge of a storage quality range could fit no storage at all
+- [Bug] Fix a device could stay half deconstructed after a mental breakdown and refuse to be relocated
+- [Bug] Fix a colonist on a freshly built floor could get a needless rescue
+
+
 <b>v0.15.14</b> (2026.11.09)
 - [Tech] Upgrade Unity to 6000.6.8f1
 - [Graphics] Fix tall objects could stick out between the hull and the upper walls of the ship
