@@ -1,3 +1,32 @@
+<b>v0.15.16</b> (2026.11.11)
+- [Feature] Tractor Beams have a filter for what they pull on their own, like Meteoroids, Asteroids or Storage Capsules, and Copy Config copies it
+- [Balance] Biofuel gives 2.5x more power in a Matter Reactor, Petroleum and Coal give more too
+- [Balance] Heavy metals and their ingots (Platinum, Gold, Uranium, Silver) give much more power in a Matter Reactor
+- [Balance] Ice, Water, Rock, Titanium, Lithium and Silicon give much less power in a Matter Reactor
+- [Balance] Refined materials like plates, ingots, wires and glass give a bit more power than what they're made from
+- [Balance] Patients on a Surgery Hub don't get hungry, tired or bored while waiting for their operations
+- [AI] Pets don't pet other animals, even with a robot hand installed
+- [UI/UX] Equipment list says when a weapon needs a higher job priority instead of calling the being incapable
+- [UI/UX] The first few times hovering the notifications pauses the game, a ring points from the list to the pause button
+- [UI/UX] Fix a key bound to a deactivated action, like the console, was still reported as taken
+- [UI/UX] Fix some labels in the Situation app were shown untranslated
+- [UI/UX] Fix floors waiting for the floors beyond them to be removed were called "Unreachable by Nanobots"
+- [UI/UX] Fix Production Overview rows with several crafters overlapped the rows below them
+- [UI/UX] Fix the X button of the Settings window could do nothing
+- [UI/UX] Names of beings close together make room for each other, crowds hide their names unless hovered or selected
+- [UI/UX] Dead bodies show their name only when hovered or selected
+- [Graphics] Fix a landed breach capsule could come apart when the ship rotated
+- [Bug] Fix robots could be ordered to equip weapons they can't use, then drop them later
+- [Bug] Fix Particle Collectors and Matter Reactors together could make power out of nothing
+- [Bug] Fix robots could stay idle for days when the cleaning they prefer was out of their reach
+- [Bug] Fix colonists could pick up a body or organ and drop it at their feet, over and over
+- [Bug] Fix storages could be reported as unreachable while they were not
+- [Bug] Fix a skill could lose and regain a level every hour, with a level up message each time
+- [Bug] Fix "A Romantic Expedition" could ask for a partner who can't go on the same expedition
+- [Bug] Fix "Remove all parts" surgery ended with an extra procedure that did nothing
+- [Bug] Fix a landing stasis pod or breach capsule deleted the items lying where it landed
+
+
 <b>v0.15.15</b> (2026.11.10)
 - [Balance] Colonists who love the Expedition job enjoy mining trips too
 - [Balance] Surrender and gift offers count item quality and make up shortfalls with Starcreds
