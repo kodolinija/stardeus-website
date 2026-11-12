@@ -1,3 +1,20 @@
+<b>v0.15.17</b> (2026.11.12)
+- [Balance] Refining Scrap Metal into Steel Plates is 5x faster (6 minutes per plate, was 30)
+- [Balance] Traders buy Scrap Metal for about a third of the Steel Plate price, but never sell it
+- [Balance] Missiles are cheaper to craft (1 Petroleum, 1 Microchip, 1 Lead Plate) and cost 1700 (was 4500)
+- [UI/UX] Bulk surgery buttons ask which body part group to work on, like only Organs or Components
+- [UI/UX] Hovering the build menu header shows an "Auto Close" toggle that closes the menu once something is picked
+- [UI/UX] Inventory has a Misc tab for items like C42, Resonance Charge and Ashes
+- [UI/UX] Fix colonists under the Beta Wave Emitter were shown as having an Obey Chip
+- [UI/UX] Fix hovering the trait of a mind that is not in a body could show an error
+- [Graphics] Chess bishops can be rotated, like knights
+- [Mods] A market item with MaxTraderQuantity -1 is bought by traders but never stocked
+- [Bug] Fix partly caught Space Diarrhea could stay at the same percentage forever
+- [Bug] Fix loading a game saved during a Hyperjump Relay jump could cancel the jump after the toll was paid
+- [Bug] Fix colonists could get "Slept in an area exposed to open space" without sleeping there
+- [Bug] Fix the Radar never worked in the demo, so expeditions said it was not available
+
+
 <b>v0.15.16</b> (2026.11.11)
 - [Feature] Tractor Beams have a filter for what they pull on their own, like Meteoroids, Asteroids or Storage Capsules, and Copy Config copies it
 - [Balance] Biofuel gives 2.5x more power in a Matter Reactor, Petroleum and Coal give more too
