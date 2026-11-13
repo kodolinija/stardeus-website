@@ -1,3 +1,26 @@
+<b>v0.15.18</b> (2026.11.13)
+- [Feature] Request Wake Up is back on the Stasis Array, and now lets you pick who wakes up
+- [Balance] A requested wake-up takes the place of the next scheduled one
+- [Balance] Gifts from other ships are much smaller and bring what your colony is running short of
+- [Balance] Gifts from other ships bring someone to join mostly while your colony is small
+- [Balance] Gifts you offer to other ships cost much less, but buy less standing the higher it already is
+- [Balance] The Refinery takes 3 Steel Plates instead of 3 Rubber, so running out of Rubber can't lock the oil chain
+- [AI] Mental breakdowns only go after people and devices the being can walk to
+- [AI] Raiders take cover that faces the crew, and stop pacing between walls where no cover helps
+- [UI/UX] A trade left open after closing its window no longer blocks hyperjumps, the jump ends it
+- [UI/UX] Freezers no longer warn that their area is too cold
+- [Mods] Beings no longer look for food and drink in StoreOnly storages
+- [Translations] Merge the two Portuguese (Brazil) translations into one complete Portugues Brasil (pick it again in Settings)
+- [Bug] Fix guests who fully trusted the AI could ask for colonist favours, like a hidden stash or a pet
+- [Bug] Fix one ending counted guests as crew (no spoilers)
+- [Bug] Fix moods could count twice after switching the game language
+- [Bug] Fix moving the ship while crew carried things could throw those things off the map or crash the game
+- [Bug] Fix relocation spots on the ship didn't move with it when moving the ship
+- [Bug] Fix a stasis pod hanging over the hull's edge could lose a part after moving the ship
+- [Bug] Fix relocating solar panels ejected their upgrades
+- [Bug] Fix a ship a quest asked to destroy could surrender, leaving the quest unfinished
+
+
 <b>v0.15.17</b> (2026.11.12)
 - [Balance] Refining Scrap Metal into Steel Plates is 5x faster (6 minutes per plate, was 30)
 - [Balance] Traders buy Scrap Metal for about a third of the Steel Plate price, but never sell it
