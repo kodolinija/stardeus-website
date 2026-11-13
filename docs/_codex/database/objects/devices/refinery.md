@@ -9,7 +9,7 @@ section: "Database"
 
 <p>For processing crude oil and other liquid raw materials.</p>
 <h3 class="codex-subtitle">Construction Cost</h3>
-<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x8<br><span class="nobr"><a href="/codex/database/obj/materials/rubber/">Rubber</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x1</p>
+<p><span class="nobr"><a href="/codex/database/obj/materials/titanium-plate/">Titanium Plate</a></span> x8<br><span class="nobr"><a href="/codex/database/obj/materials/steel-plate/">Steel Plate</a></span> x3<br><span class="nobr"><a href="/codex/database/obj/materials/gears/">Gears</a></span> x5<br><span class="nobr"><a href="/codex/database/obj/materials/microchip/">Microchip</a></span> x1<br><span class="nobr"><a href="/codex/database/obj/materials/copper-wire/">Copper Wire</a></span> x1</p>
 <h3 class="codex-subtitle">Produces</h3>
 <p><span class="nobr"><a href="/codex/database/obj/materials/biofuel/">Biofuel</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/carbon/">Carbon</a></span>, <span class="nobr"><a href="/codex/database/obj/materials/petroleum/">Petroleum</a></span></p>
 <h3 class="codex-subtitle">Properties</h3>
