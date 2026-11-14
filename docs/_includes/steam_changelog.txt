@@ -1,3 +1,15 @@
+<b>v0.15.19</b> (2026.11.14)
+- [UI/UX] Add an "All" toggle to each material group in storage filters
+- [UI/UX] Show the construction cost when hovering "Build a Copy"
+- [UI/UX] Recipe tooltips show the production time and power with the crafter's upgrades
+- [UI/UX] Fix tooltip links could show as raw text in colonist bios and some tooltips
+- [UI/UX] Fix storage filters could not be copied between Fridges and Freezers, or Pantries and Large Pantries
+- [Bug] Fix cancelling a surgery task did not cancel the surgery, and ordering it again stacked a second one
+- [Bug] Fix swapping the core of a robot that was being hacked could hand it over to the Virus
+- [Bug] Fix stasis pods and capsules could land on derelict wrecks
+- [Bug] Fix floor construction on a narrow strip next to walls could stall forever without a warning
+
+
 <b>v0.15.18</b> (2026.11.13)
 - [Feature] Request Wake Up is back on the Stasis Array, and now lets you pick who wakes up
 - [Balance] A requested wake-up takes the place of the next scheduled one
