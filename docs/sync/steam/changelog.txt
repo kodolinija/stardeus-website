@@ -1,3 +1,10 @@
+<b>v0.15.20</b> (2026.11.15)
+- [Balance] A ship a quest asks you to destroy can only be fought once you accept that quest
+- [Balance] Other ships no longer destroy a quest's target ship while you are away
+- [UI/UX] Fix loot burning in space after point defense hits a meteor could raise a fire alert
+- [Bug] Fix main quests to destroy a ship could get stuck with no derelict to approach (stuck saves get a new one)
+
+
 <b>v0.15.19</b> (2026.11.14)
 - [UI/UX] Add an "All" toggle to each material group in storage filters
 - [UI/UX] Show the construction cost when hovering "Build a Copy"
