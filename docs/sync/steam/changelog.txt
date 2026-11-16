@@ -1,3 +1,13 @@
+<b>v0.15.22</b> (2026.11.16)
+- [Balance] Armor crafted above 100% quality keeps getting stronger, so well-made Power Armor protects much more
+- [Balance] Good armor makes it more likely that its wearer goes down instead of dying
+- [Balance] Elite raiders wear better-made armor, so late raids send fewer of them
+- [UI/UX] Armor resistances show how much they protect as a percentage
+- [UI/UX] Guests can be ordered to wear gear from their Equipment tab or by right-clicking an item
+- [Graphics] Fix chat bubbles between talking colonists could show no speech icon
+- [Bug] Fix guests who lost a helmet or space suit would never put one back on, and could not reach a shuttle
+
+
 <b>v0.15.21</b> (2026.11.16)
 - [Feature] The SMG fires three-shot bursts, the Mini Turret two-shot bursts
 - [Balance] Colonizing the planet and the late game rogue ending now exclude each other (no spoilers)

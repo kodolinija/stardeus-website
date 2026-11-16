@@ -1,3 +1,89 @@
+<b>v0.15.22</b> (2026.11.16)
+- [Balance] Armor crafted above 100% quality keeps getting stronger, so well-made Power Armor protects much more
+- [Balance] Good armor makes it more likely that its wearer goes down instead of dying
+- [Balance] Elite raiders wear better-made armor, so late raids send fewer of them
+- [UI/UX] Armor resistances show how much they protect as a percentage
+- [UI/UX] Guests can be ordered to wear gear from their Equipment tab or by right-clicking an item
+- [Graphics] Fix chat bubbles between talking colonists could show no speech icon
+- [Bug] Fix guests who lost a helmet or space suit would never put one back on, and could not reach a shuttle
+
+
+<b>v0.15.21</b> (2026.11.16)
+- [Feature] The SMG fires three-shot bursts, the Mini Turret two-shot bursts
+- [Balance] Colonizing the planet and the late game rogue ending now exclude each other (no spoilers)
+- [Balance] Fights end much sooner: every weapon and natural attack strikes more often
+- [Balance] Armor stops much less, so armored fighters no longer take dozens of blows to bring down
+- [Balance] Damage per hit is retuned for every weapon: blades and rifles hit softer, fists and the SMG harder
+- [Balance] Shots miss more the farther the target, and Shooting skill matters more at range
+- [Balance] Moving targets are no longer harder to hit
+- [Balance] A miss no longer makes the next attack more likely to hit
+- [Balance] Suppression no longer slows melee attacks, only shooting
+- [Balance] The Machete chops slower but harder than the Knife
+- [Balance] The Sniper Rifle can no longer fire at anyone within 5 tiles
+- [Balance] The Stun Baton hits softly, but a stunned fighter now misses melee blows too
+- [Balance] The Ion Disruptor deals much more damage to robots
+- [Balance] Colonists pick weapons, and raids price them, by how quickly each one really takes someone down
+- [Balance] Melee fighters strike as soon as they reach their target, so a slower enemy can't walk away from every blow
+- [Balance] Well-equipped raiders are now skilled fighters, so big raids send fewer of them
+- [Balance] Breach Capsule raids are smaller: 60% of a normal raid's strength, 50% for stealth ones
+- [Balance] Once a raid has lost half its fighters, every raider who can get away flees (was half of them)
+- [Balance] A third of raids are now replaced by other negative events, on the ship or in space (not in Chaos)
+- [Balance] Raids no longer come more often as the colony gets richer, only bigger
+- [AI] Colonists in a spot with no air, or too cold or hot, now drop what they're doing and get to safety
+- [UI/UX] The Asimov Override now says that it makes the Virus faction your ally
+- [UI/UX] Fix a missing icon in a text could show as raw code
+- [UI/UX] Fix a colonist's log would never show hypoxia developing
+- [UI/UX] Fix the Cloning Pod showed a Batch Size slider that could not be moved
+- [Mods] Mod descriptions show Steam formatting such as [h2], [b], [list] and [url] in the game
+- [Bug] Fix colonists playing at an Arcade Cabinet facing left could suffocate in a room full of air
+- [Bug] Fix main quests that should fail once you take a different path could stay open
+- [Bug] Fix a Crawler given another animal's jaw would stop eating
+- [Bug] Fix patients on an operating table could be invited to parties and dates
+- [Bug] Fix Beam Drills could keep drawing power after the ship left a deposit
+
+
+<b>v0.15.20</b> (2026.11.15)
+- [Balance] A ship a quest asks you to destroy can only be fought once you accept that quest
+- [Balance] Other ships no longer destroy a quest's target ship while you are away
+- [UI/UX] Fix loot burning in space after point defense hits a meteor could raise a fire alert
+- [Bug] Fix main quests to destroy a ship could get stuck with no derelict to approach (stuck saves get a new one)
+
+
+<b>v0.15.19</b> (2026.11.14)
+- [UI/UX] Add an "All" toggle to each material group in storage filters
+- [UI/UX] Show the construction cost when hovering "Build a Copy"
+- [UI/UX] Recipe tooltips show the production time and power with the crafter's upgrades
+- [UI/UX] Fix tooltip links could show as raw text in colonist bios and some tooltips
+- [UI/UX] Fix storage filters could not be copied between Fridges and Freezers, or Pantries and Large Pantries
+- [Bug] Fix cancelling a surgery task did not cancel the surgery, and ordering it again stacked a second one
+- [Bug] Fix swapping the core of a robot that was being hacked could hand it over to the Virus
+- [Bug] Fix stasis pods and capsules could land on derelict wrecks
+- [Bug] Fix floor construction on a narrow strip next to walls could stall forever without a warning
+
+
+<b>v0.15.18</b> (2026.11.13)
+- [Feature] Request Wake Up is back on the Stasis Array, and now lets you pick who wakes up
+- [Balance] A requested wake-up takes the place of the next scheduled one
+- [Balance] Gifts from other ships are much smaller and bring what your colony is running short of
+- [Balance] Gifts from other ships bring someone to join mostly while your colony is small
+- [Balance] Gifts you offer to other ships cost much less, but buy less standing the higher it already is
+- [Balance] The Refinery takes 3 Steel Plates instead of 3 Rubber, so running out of Rubber can't lock the oil chain
+- [AI] Mental breakdowns only go after people and devices the being can walk to
+- [AI] Raiders take cover that faces the crew, and stop pacing between walls where no cover helps
+- [UI/UX] A trade left open after closing its window no longer blocks hyperjumps, the jump ends it
+- [UI/UX] Freezers no longer warn that their area is too cold
+- [Mods] Beings no longer look for food and drink in StoreOnly storages
+- [Translations] Merge the two Portuguese (Brazil) translations into one complete Portugues Brasil (pick it again in Settings)
+- [Bug] Fix guests who fully trusted the AI could ask for colonist favours, like a hidden stash or a pet
+- [Bug] Fix one ending counted guests as crew (no spoilers)
+- [Bug] Fix moods could count twice after switching the game language
+- [Bug] Fix moving the ship while crew carried things could throw those things off the map or crash the game
+- [Bug] Fix relocation spots on the ship didn't move with it when moving the ship
+- [Bug] Fix a stasis pod hanging over the hull's edge could lose a part after moving the ship
+- [Bug] Fix relocating solar panels ejected their upgrades
+- [Bug] Fix a ship a quest asked to destroy could surrender, leaving the quest unfinished
+
+
 <b>v0.15.17</b> (2026.11.12)
 - [Balance] Refining Scrap Metal into Steel Plates is 5x faster (6 minutes per plate, was 30)
 - [Balance] Traders buy Scrap Metal for about a third of the Steel Plate price, but never sell it
