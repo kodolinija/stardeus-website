@@ -1,3 +1,37 @@
+<b>v0.15.21</b> (2026.11.16)
+- [Feature] The SMG fires three-shot bursts, the Mini Turret two-shot bursts
+- [Balance] Colonizing the planet and the late game rogue ending now exclude each other (no spoilers)
+- [Balance] Fights end much sooner: every weapon and natural attack strikes more often
+- [Balance] Armor stops much less, so armored fighters no longer take dozens of blows to bring down
+- [Balance] Damage per hit is retuned for every weapon: blades and rifles hit softer, fists and the SMG harder
+- [Balance] Shots miss more the farther the target, and Shooting skill matters more at range
+- [Balance] Moving targets are no longer harder to hit
+- [Balance] A miss no longer makes the next attack more likely to hit
+- [Balance] Suppression no longer slows melee attacks, only shooting
+- [Balance] The Machete chops slower but harder than the Knife
+- [Balance] The Sniper Rifle can no longer fire at anyone within 5 tiles
+- [Balance] The Stun Baton hits softly, but a stunned fighter now misses melee blows too
+- [Balance] The Ion Disruptor deals much more damage to robots
+- [Balance] Colonists pick weapons, and raids price them, by how quickly each one really takes someone down
+- [Balance] Melee fighters strike as soon as they reach their target, so a slower enemy can't walk away from every blow
+- [Balance] Well-equipped raiders are now skilled fighters, so big raids send fewer of them
+- [Balance] Breach Capsule raids are smaller: 60% of a normal raid's strength, 50% for stealth ones
+- [Balance] Once a raid has lost half its fighters, every raider who can get away flees (was half of them)
+- [Balance] A third of raids are now replaced by other negative events, on the ship or in space (not in Chaos)
+- [Balance] Raids no longer come more often as the colony gets richer, only bigger
+- [AI] Colonists in a spot with no air, or too cold or hot, now drop what they're doing and get to safety
+- [UI/UX] The Asimov Override now says that it makes the Virus faction your ally
+- [UI/UX] Fix a missing icon in a text could show as raw code
+- [UI/UX] Fix a colonist's log would never show hypoxia developing
+- [UI/UX] Fix the Cloning Pod showed a Batch Size slider that could not be moved
+- [Mods] Mod descriptions show Steam formatting such as [h2], [b], [list] and [url] in the game
+- [Bug] Fix colonists playing at an Arcade Cabinet facing left could suffocate in a room full of air
+- [Bug] Fix main quests that should fail once you take a different path could stay open
+- [Bug] Fix a Crawler given another animal's jaw would stop eating
+- [Bug] Fix patients on an operating table could be invited to parties and dates
+- [Bug] Fix Beam Drills could keep drawing power after the ship left a deposit
+
+
 <b>v0.15.20</b> (2026.11.15)
 - [Balance] A ship a quest asks you to destroy can only be fought once you accept that quest
 - [Balance] Other ships no longer destroy a quest's target ship while you are away
