@@ -1,3 +1,14 @@
+<b>v0.15.23</b> (2026.11.18)
+- [Balance] Shredder Cannons build up less flux per shot (40, was 60)
+- [Balance] Shields on small ship classes take less flux per hit from ships their size, from half on a Fighter to 70% on a Destroyer
+- [Balance] Your ship's guns focus their fire on the most damaged enemy device they can target
+- [Graphics] Colonists in space suits hover over open space instead of walking
+- [Bug] Fix downed or carried beings could keep attacking
+- [Bug] Fix pets would lie down for petting while the petter was still far away
+- [Bug] Fix pets in a fight could be picked for petting
+- [Bug] Fix a switched-off Switch could show as unreachable and lose its Turn On button
+
+
 <b>v0.15.22</b> (2026.11.16)
 - [Balance] Armor crafted above 100% quality keeps getting stronger, so well-made Power Armor protects much more
 - [Balance] Good armor makes it more likely that its wearer goes down instead of dying
