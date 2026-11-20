@@ -1,3 +1,18 @@
+<b>v0.15.24</b> (2026.11.20)
+- [Balance] The ML Booth trains skills up to level 20 (was 25)
+- [Performance] Fix short hitches when a window showed letters it had not shown before
+- [UI/UX] Hide "Load" in the main menu once the last save is deleted
+- [UI/UX] Fix typing V into a text field during Battle Stations would start venting flux
+- [Graphics] Fix an identified resource deposit could keep the red pin of an unknown one
+- [Bug] Fix flying to a moving ship could end as arrived while that ship flew on
+- [Bug] Fix a rare crash while drawing text
+- [Bug] Fix "Eliminate the Virus HQ" and "Eliminate the Pirate Den" would not count a Sector Nuke built earlier
+- [Bug] Fix materials knocked loose by explosions on a derelict would be allowed instead of forbidden
+- [Bug] Fix allied Virus ships could still attack your ship
+- [Bug] Fix crew would carry water to showers on derelicts
+- [Bug] Fix a quest's target ship could not be attacked for a day after it paid you tribute
+
+
 <b>v0.15.23</b> (2026.11.18)
 - [Balance] Shredder Cannons build up less flux per shot (40, was 60)
 - [Balance] Shields on small ship classes take less flux per hit from ships their size, from half on a Fighter to 70% on a Destroyer
