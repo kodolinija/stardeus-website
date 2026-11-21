@@ -1,3 +1,10 @@
+<b>v0.15.25</b> (2026.11.21)
+- [UI/UX] Fix clicking a link in a popup could open an item from an earlier popup
+- [Bug] Fix starting colonists could appear on a corner floor outside the hull and get stuck there
+- [Bug] Fix a game breaking error after a passenger delivery failed while the shuttle was out
+- [Bug] Fix a failed passenger delivery could still bring back a reward, or the passenger
+
+
 <b>v0.15.24</b> (2026.11.20)
 - [Balance] The ML Booth trains skills up to level 20 (was 25)
 - [Performance] Fix short hitches when a window showed letters it had not shown before
